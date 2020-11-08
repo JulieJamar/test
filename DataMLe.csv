@@ -7,11 +7,11 @@ When the report is received  the respective SCT file is retrieved,Relevant
 Then  Back Office attaches the new SCT document  and stores the expanded SCT physical file,Relevant
 After that  some other MC internal staff receives the physical SCT file (out of scope),Relevant
 These are received by the Secretariat in the central inbox and forwarded after a short visual inspection to an accounting employee,Relevant
-In 'ACME Financial Accounting'  a software specially developed for the ACME AG  she identifies the charging suppliers and creates a new instance (invoice),Relevant
-She then checks the invoice items and notes the corresponding cost center at the ACME AG and the related cost center managers for each position on a separate form ('docket'),Relevant
+In ACME Financial Accounting  a software specially developed for the ACME AG  she identifies the charging suppliers and creates a new instance (invoice),Relevant
+She then checks the invoice items and notes the corresponding cost center at the ACME AG and the related cost center managers for each position on a separate form (docket),Relevant
 The docket and the copy of the invoice go to the internal mail together and are sent to the first cost center manager to the list,Relevant
 He reviews the content for accuracy after receiving the copy of the invoice,Relevant
-Should everything be in order  he notes his code one on the docket ('accurate position - AP') and returns the copy of the invoice to the internal mail,Relevant
+Should everything be in order  he notes his code one on the docket (accurate position - AP) and returns the copy of the invoice to the internal mail,Relevant
 From it  the copy of the invoice is passed on to the next cost center manager  based on the docket  or if all items are marked correct  sent back to accounting,Relevant
 Therefore  the copy of invoice and the docket gradually move through the hands of all cost center managers until all positions are marked as completely accurate,Relevant
 However  if inconsistencies exist  e.g. because the ordered product is not of the expected quantity or quality  the cost center manager rejects the AP with a note and explanatory statement on the docket  and the copy of the invoice is sent back to accounting directly,Relevant
@@ -22,7 +22,7 @@ He makes the commercial audit and issues the approval for payment,Relevant
 If the bill amount exceeds EUR 20 000  the Board wants to check it again (4-eyes-principle),Relevant
 The copy of the invoice including the docket moves back to the accounting employee in the appropriate signature file,Relevant
 Should there be a complaint during the commercial audit  it will be resolved by the accounting employee with the supplier,Relevant
-After the commercial audit is successfully completed  the accounting employee gives payment instructions and closes the instance in 'ACME financial accounting',Relevant
+After the commercial audit is successfully completed  the accounting employee gives payment instructions and closes the instance in ACME financial accounting,Relevant
 The loan approval process starts by receiving a customer request for a loan amount,Relevant
 The risk assessment Web service is invoked to assess the request,Relevant
 If the loan is small and the customer is low risk  the loan is approved,Relevant
@@ -104,7 +104,7 @@ The first intaker plans a meeting with the patient as soon as this is possible,R
 During the first meeting  the patient is examined using a standard checklist which is filled out,Relevant
 Additional observations are registered in a personal notebook,Relevant
 After a visit  the first intaker puts a copy of these notes in the file of a patient,Relevant
-The standard checklist is also added to the patient's file,Relevant
+The standard checklist is also added to the patients file,Relevant
 The second intaker plans the first meeting only after the medical information of the physician – if required – has been received,Relevant
 Physicians use dictaphones to record their observations made during meetings with patients,Relevant
 The secretarial office types out these tapes  after which the information is added to the patient file,Relevant
@@ -244,7 +244,7 @@ The reimbursement process within the ERICS company is started as soon as a reimb
 After receiving the request a reimbursement contact is created,Relevant
 Afterwards a beneficiary is chosen,Relevant
 Then  a refund period is contract duration is determined,Relevant
-Once this has been completed a check is done to see if a customer is part of a 'Verband' or only has normal subsidiaries,Relevant
+Once this has been completed a check is done to see if a customer is part of a Verband or only has normal subsidiaries,Relevant
 In the former case  the customer group association is selected,Relevant
 In the latter case  customers are selected manually,Relevant
 Once either of these two activities have been completed a threshold is set,Relevant
@@ -260,7 +260,7 @@ If everything is OK  then the staff recollects all products and prepare a packag
 The courier is then informed about the pre-processed package,Relevant
 The courier company informs the client about a potential delay until there are enough human resources to process the delivery,Relevant
 Then  the package is picked up by the designed driver,Relevant
-A centralized service decides the best route to deliver all driver's packages,Relevant
+A centralized service decides the best route to deliver all drivers packages,Relevant
 Once the driver delivers the package  she should update the system so all stakeholders are notified,Relevant
 The process starts with an informational meeting among the web design team,Relevant
 If this meeting is not successful  the process ends here,Relevant
@@ -340,13 +340,13 @@ If not the interim customer dataset record is created,Relevant
 After this two sub-processes starts in parallel  Device provision and Register customer account at ISP nodes,Relevant
 Once these sub-processes are finished a welcome package is created and sent to the customer,Relevant
 A PayPal client wants to pay with bank account and has selected this as payment option,Relevant
-For bank account addition  first  the PayPal client needs to enter all relevant bank details  i.e. first name  bank name  account type  BSB and account number  and click 'continue',Relevant
+For bank account addition  first  the PayPal client needs to enter all relevant bank details  i.e. first name  bank name  account type  BSB and account number  and click continue,Relevant
 This submits the bank details to the PayPal system,Relevant
 After the bank details are submitted to the PayPal system  it makes two random deposits in the bank account,Relevant
 The PayPal system sends a message with this information to the client bank account,Relevant
 By this  the two deposits to the bank account are made,Relevant
 Then  after 3-5 working days it notifies the PayPal client to check his bank account for received deposits,Relevant
-The client may now log into his PayPal account  enter the amounts from the two deposits and click 'verify',Relevant
+The client may now log into his PayPal account  enter the amounts from the two deposits and click verify,Relevant
 The PayPal system then checks its values against the values entered by the client,Relevant
 If the values match  the bank account is linked to the clients PayPal account and is considered as confirmed,Relevant
 If the values do not match  the bank account is removed from the PayPal system  i.e. it could not be confirmed,Relevant
@@ -376,7 +376,7 @@ After visiting the bank website  she fills in her personal data and generates a 
 After printing this PDF  the customer needs to visit a post office to send these documents,Relevant
 The post officer will check the identity of the customer and mail the account to the bank,Relevant
 At the bank  the person in charge of making a decision on account requests is the bank officer,Relevant
-Once he receives a new request  he'll check the customer data,Relevant
+Once he receives a new request  hell check the customer data,Relevant
 Depending on the available information and his own criteria  he may either accept or reject the request,Relevant
 In the former case  he will mail the account documents to the customer,Relevant
 In the latter  he will mail a letter of refusal,Relevant
@@ -497,7 +497,7 @@ A guest enters the restaurant when feeling hungry,Relevant
 He chooses a dish from the changing meal range and waits until it is his turn,Relevant
 Following this he places his order with the employee,Relevant
 The employee enters the order into the POS system and collects the money from the guest,Relevant
-After the payment  the employee sets up a buzzer and passes it on to the guest with the following information  'When the buzzer rings  your dinner is ready',Relevant
+After the payment  the employee sets up a buzzer and passes it on to the guest with the following information  When the buzzer rings  your dinner is ready,Relevant
 Afterwards the employee informs the chef of the new meal order,Relevant
 The chef prepares the meal and places it in the service hatch,Relevant
 He then informs the employee that he has placed the finished meal in the service hatch,Relevant
@@ -518,12 +518,12 @@ First of all  the customer must decide whether he wants an individual or family 
 If he wants an individual membership  he must prepare his personal information,Relevant
 If he wants a family membership instead  he should prepare the information for its spouse and spawn as well,Relevant
 The customer must then give this information to the ZooClub department,Relevant
-The ZooClub department introduces the visitor's personal data into the system and takes the payment request to the Billing department,Relevant
-The ZooClub department also forwards the visitor's information to the marketing department,Relevant
+The ZooClub department introduces the visitors personal data into the system and takes the payment request to the Billing department,Relevant
+The ZooClub department also forwards the visitors information to the marketing department,Relevant
 The billing department sends the payment request to the bank,Relevant
-The bank processes the payment information and  if everything is correct  charges the payment into user's account,Relevant
+The bank processes the payment information and  if everything is correct  charges the payment into users account,Relevant
 Once the payment is confirmed  the ZooClub department can print the card and deliver it to the visitor,Relevant
-In the meantime  the Marketing department makes a request to mail the Zoo Club's magazine to the visitor's home,Relevant
+In the meantime  the Marketing department makes a request to mail the Zoo Clubs magazine to the visitors home,Relevant
 Once the visitor receives the card  he can go home,Relevant
 The process starts when a client cannot find a product at a local shop of HomeDeco,Relevant
 Client requests to a clerk if the product is available at the local warehouse,Relevant
@@ -566,11 +566,11 @@ In the context of a claim handling process  it is sometimes necessary to send a 
 Underwriters act as financial midwives to a new issue,Irrelevant
 Usually they play a triple role  First they provide the company with procedural and financial advice  then they buy the issue  and finally they resell it to the public,Irrelevant
 Established underwriters are careful of their reputation and will not handle a new issue unless they believe the facts have been presented fairly,Irrelevant
-When a visitor wants to become a member of Barcelona's ZooClub  the following steps must be taken,Irrelevant
+When a visitor wants to become a member of Barcelonas ZooClub  the following steps must be taken,Irrelevant
 Such as e-mail address and desired password  personal details  such as name and date of birth  as well as his telephone number and address,Irrelevant
 The invoices can be sorted in two ways  by amount and by vendor,Irrelevant
 This process describes how purchases work at the ACME Inc company,Irrelevant
-The final step in the process is the approval of this order  which is granted by another role  called 'approver',Irrelevant
+The final step in the process is the approval of this order  which is granted by another role  called approver,Irrelevant
 The account creation process at this bank proceeds as follows,Irrelevant
 As a basic principle  ACME AG receives invoices on paper or fax,Irrelevant
 For instance  a sales person on a trip rents a car,Irrelevant
