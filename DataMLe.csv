@@ -1,3 +1,4 @@
+Sentense,Class
 The party sends a warrant possession request asking a warrant to be released,Relevant
 The Client Service Back Office as part of the Small Claims Registry Operations receives the request and retrieves the SCT file,Relevant
 Then: the SCT Warrant Possession is forwarded to Queensland Police,Relevant
@@ -6,11 +7,11 @@ When the report is received: the respective SCT file is retrieved,Relevant
 Then: Back Office attaches the new SCT document: and stores the expanded SCT physical file,Relevant
 After that: some other MC internal staff receives the physical SCT file (out of scope),Relevant
 These are received by the Secretariat in the central inbox and forwarded after a short visual inspection to an accounting employee,Relevant
-"In ""ACME Financial Accounting"": a software specially developed for the ACME AG: she identifies the charging suppliers and creates a new instance (invoice)",Relevant
-"She then checks the invoice items and notes the corresponding cost center at the ACME AG and the related cost center managers for each position on a separate form (""docket"")",Relevant
+"In ""ACME Financial Accounting"": a software specially developed for the ACME AG: she identifies the charging suppliers and creates a new instance (invoice),Relevant"
+"She then checks the invoice items and notes the corresponding cost center at the ACME AG and the related cost center managers for each position on a separate form (""docket""),Relevant"
 The docket and the copy of the invoice go to the internal mail together and are sent to the first cost center manager to the list,Relevant
 He reviews the content for accuracy after receiving the copy of the invoice,Relevant
-"Should everything be in order: he notes his code one on the docket (""accurate position - AP"") and returns the copy of the invoice to the internal mail",Relevant
+"Should everything be in order: he notes his code one on the docket (""accurate position - AP"") and returns the copy of the invoice to the internal mail,Relevant"
 From it: the copy of the invoice is passed on to the next cost center manager: based on the docket: or if all items are marked correct: sent back to accounting,Relevant
 Therefore: the copy of invoice and the docket gradually move through the hands of all cost center managers until all positions are marked as completely accurate,Relevant
 However: if inconsistencies exist: e.g. because the ordered product is not of the expected quantity or quality: the cost center manager rejects the AP with a note and explanatory statement on the docket: and the copy of the invoice is sent back to accounting directly,Relevant
@@ -21,7 +22,7 @@ He makes the commercial audit and issues the approval for payment,Relevant
 If the bill amount exceeds EUR 20:000: the Board wants to check it again (4-eyes-principle),Relevant
 The copy of the invoice including the docket moves back to the accounting employee in the appropriate signature file,Relevant
 Should there be a complaint during the commercial audit: it will be resolved by the accounting employee with the supplier,Relevant
-"After the commercial audit is successfully completed: the accounting employee gives payment instructions and closes the instance in ""ACME financial accounting""",Relevant
+"After the commercial audit is successfully completed: the accounting employee gives payment instructions and closes the instance in ""ACME financial accounting"",Relevant"
 The loan approval process starts by receiving a customer request for a loan amount,Relevant
 The risk assessment Web service is invoked to assess the request,Relevant
 If the loan is small and the customer is low risk: the loan is approved,Relevant
@@ -243,7 +244,7 @@ The reimbursement process within the ERICS company is started as soon as a reimb
 After receiving the request a reimbursement contact is created,Relevant
 Afterwards a beneficiary is chosen,Relevant
 Then: a refund period is contract duration is determined,Relevant
-"Once this has been completed a check is done to see if a customer is part of a ""Verband"" or only has normal subsidiaries",Relevant
+"Once this has been completed a check is done to see if a customer is part of a ""Verband"" or only has normal subsidiaries,Relevant"
 In the former case: the customer group association is selected,Relevant
 In the latter case: customers are selected manually,Relevant
 Once either of these two activities have been completed a threshold is set,Relevant
@@ -339,13 +340,13 @@ If not the interim customer dataset record is created,Relevant
 After this two sub-processes starts in parallel: Device provision and Register customer account at ISP nodes,Relevant
 Once these sub-processes are finished a welcome package is created and sent to the customer,Relevant
 A PayPal client wants to pay with bank account and has selected this as payment option,Relevant
-"For bank account addition: first: the PayPal client needs to enter all relevant bank details: i.e. first name: bank name: account type: BSB and account number: and click ""continue""",Relevant
+"For bank account addition: first: the PayPal client needs to enter all relevant bank details: i.e. first name: bank name: account type: BSB and account number: and click ""continue"",Relevant"
 This submits the bank details to the PayPal system,Relevant
 After the bank details are submitted to the PayPal system: it makes two random deposits in the bank account,Relevant
 The PayPal system sends a message with this information to the client bank account,Relevant
 By this: the two deposits to the bank account are made,Relevant
 Then: after 3-5 working days it notifies the PayPal client to check his bank account for received deposits,Relevant
-"The client may now log into his PayPal account: enter the amounts from the two deposits and click ""verify""",Relevant
+"The client may now log into his PayPal account: enter the amounts from the two deposits and click ""verify"",Relevant"
 The PayPal system then checks its values against the values entered by the client,Relevant
 If the values match: the bank account is linked to the clients PayPal account and is considered as confirmed,Relevant
 If the values do not match: the bank account is removed from the PayPal system: i.e. it could not be confirmed,Relevant
@@ -496,7 +497,7 @@ A guest enters the restaurant when feeling hungry,Relevant
 He chooses a dish from the changing meal range and waits until it is his turn,Relevant
 Following this he places his order with the employee,Relevant
 The employee enters the order into the POS system and collects the money from the guest,Relevant
-"After the payment: the employee sets up a buzzer and passes it on to the guest with the following information: ""When the buzzer rings: your dinner is ready""",Relevant
+"After the payment: the employee sets up a buzzer and passes it on to the guest with the following information: ""When the buzzer rings: your dinner is ready"",Relevant"
 Afterwards the employee informs the chef of the new meal order,Relevant
 The chef prepares the meal and places it in the service hatch,Relevant
 He then informs the employee that he has placed the finished meal in the service hatch,Relevant
@@ -569,7 +570,7 @@ When a visitor wants to become a member of Barcelona's ZooClub: the following st
 Such as e-mail address and desired password: personal details: such as name and date of birth: as well as his telephone number and address,Irrelevant
 The invoices can be sorted in two ways: by amount and by vendor,Irrelevant
 This process describes how purchases work at the ACME Inc company,Irrelevant
-"The final step in the process is the approval of this order: which is granted by another role: called ""approver""",Irrelevant
+"The final step in the process is the approval of this order: which is granted by another role: called ""approver"",Irrelevant"
 The account creation process at this bank proceeds as follows,Irrelevant
 As a basic principle: ACME AG receives invoices on paper or fax,Irrelevant
 For instance: a sales person on a trip rents a car,Irrelevant
