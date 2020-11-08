@@ -105,7 +105,7 @@ During the first meeting  the patient is examined using a standard checklist whi
 Additional observations are registered in a personal notebook,Relevant
 After a visit  the first intaker puts a copy of these notes in the file of a patient,Relevant
 The standard checklist is also added to the patients file,Relevant
-The second intaker plans the first meeting only after the medical information of the physician – if required – has been received,Relevant
+The second intaker plans the first meeting only after the medical information of the physician -if required -has been received,Relevant
 Physicians use dictaphones to record their observations made during meetings with patients,Relevant
 The secretarial office types out these tapes  after which the information is added to the patient file,Relevant
 As soon as the meetings of the first and second intaker with the patient have taken place  the secretarial office puts the patient on the list of patients that reach this status,Relevant
@@ -119,7 +119,7 @@ Then the problem report is compared to the customer SLA to identify what the ext
 Based on this  the necessary counter measures are determined including their respective priorities,Relevant
 An electronic service then determines the significance of the customer based on information that has been collected during the history of the contractual relationship,Relevant
 In case the customer is premium  the process will link to an extra problem fix process,Relevant
-In case the customer is of certain significance which would affect the counter measures previously decided upon  the process goes back to re-prioritize these measures – otherwise the process continues,Relevant
+In case the customer is of certain significance which would affect the counter measures previously decided upon  the process goes back to re-prioritize these measures -otherwise the process continues,Relevant
 Taking together the information a detailed problem report is created,Relevant
 The detailed problem report is then sent to Service Management,Relevant
 Service Management deals on a first level with violations of quality in services that are provided to customers,Relevant
@@ -138,7 +138,7 @@ Subsequently  the problem resolution report is created and then sent out to Cust
 After sending  this process path of Service Management ends,Relevant
 For the case that automatic resource restoration from Resource Provisioning is required  Service Management must create a request for automatic resource restoration,Relevant
 This message is then sent to Resource Provisioning,Relevant
-Resource Provisioning has been on-hold and waiting for a restoration request – but this must happen within 2 days after the status report was sent out  otherwise Resource Provisioning terminates the process,Relevant
+Resource Provisioning has been on-hold and waiting for a restoration request but this must happen within 2 days after the status report was sent out  otherwise Resource Provisioning terminates the process,Relevant
 After the restoration request is received  all possible errors are tracked,Relevant
 Based on the tracked errors  all necessary corrective actions are undertaken by Resource Provisioning,Relevant
 Then a trouble-shooting report is created,Relevant
