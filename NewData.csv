@@ -18,7 +18,7 @@ The case handler sees if the coverage conditions are fulfilled  that is to say t
 The other condition is that the contract should cover the damage,Relevant
 In the end  a notification with the outcome will be sent to the client and if these conditions are well fulfilled  Ethias will compensate for the damage,Relevant
 The case is finally settled or unsettled,Relevant
-In order to understand the reservation process better  it is necessary to clarify its purpose in the context of an insurance company: reservation allows Ethias to deal with future compensation needs by means of statistical computation techniques   for example  someone broke his leg this year and because of that  he might have complications like a need for a surgery years later,Relevant
+In order to understand the reservation process better  it is necessary to clarify its purpose in the context of an insurance company  reservation allows Ethias to deal with future compensation needs by means of statistical computation techniques   for example  someone broke his leg this year and because of that  he might have complications like a need for a surgery years later,Relevant
 Then  his insurance will have to compensate him once again,Relevant
 That’s why  on the insurance side  they have to make a reservation in order to be prepared for these cases,Irrelevant
 As seen in the claims management process  the clerk decides which type of reservation is needed based on his evaluation,Relevant
@@ -45,15 +45,15 @@ This demand is sent either by a peer-to-peer procedure between Ethias and the or
 This distinction doesn’t change the process in essence  but rather in the outcomes and the channel of communication,Irrelevant
 Then the demand is transferred into the CRM system of Ethias either by the sales officer or  in some cases  automatically,Relevant
 Next  the sales officer checks if this demand comply with the business guidelines of Ethias in strategic or relationship terms,Relevant
-Generally  the case complies and continues its path towards the underwriting department to follow two successive analysis procedures: first  an acceptance analysis which is made in order to make the decision to keep such demand or to reject it,Relevant
+Generally  the case complies and continues its path towards the underwriting department to follow two successive analysis procedures  first  an acceptance analysis which is made in order to make the decision to keep such demand or to reject it,Relevant
 If the underwriter doesn’t accept it then the process ends  otherwise he proceeds  in a second time  to a tarification analysis,Relevant
 These two phases are modelled as subprocesses which consist of multiple tasks that should be done before setting the tariff and the offer,Relevant
 In addition  a competence scheme helps to decide whether the offer needs to be agreed by two other third parties  BOL and HAC  or not  depending on the offer,Irrelevant
 They can eventually ask for adjustment before pursuing the process,Relevant
 Later on  if the third parties agreed when needed  the underwriter decides the channel through which he will make the offer,Relevant
-Considering the circumstances  he has 3 possibilities: the offer could either be led directly towards the client through the CRM system  be led to an account manager (ACMA) that will defend the offer in front of the call for tenders or be placed in a share application for the sales department that will handle it from there,Relevant
+Considering the circumstances  he has 3 possibilities  the offer could either be led directly towards the client through the CRM system  be led to an account manager (ACMA) that will defend the offer in front of the call for tenders or be placed in a share application for the sales department that will handle it from there,Relevant
 The outcome of the offer will be communicated through the same channel used to make the offer,Relevant
-The last tasks for the underwriter are to settle all the paperwork and then  depending on the outcome  to classify the case or not: if the outcome is negative  he must do so  if it is positive  the onus is not on him to do that and the process is over,Relevant
+The last tasks for the underwriter are to settle all the paperwork and then  depending on the outcome  to classify the case or not  if the outcome is negative  he must do so  if it is positive  the onus is not on him to do that and the process is over,Relevant
 This process begins when a client requests insurance coverage,Relevant
 He has the choice to fill in the subscription form digitally or to have contact with a clerk in an agency or via phone call,Relevant
 The sales officer of the front office will define what services the customer needs and check if he is already a client in Ethias,Relevant
@@ -72,7 +72,7 @@ For that he needs to be affiliated and this is made possible thanks to the websi
 The subscription form and client’s data are sent directly to the back office to be evaluated and analysed,Relevant
 The officer checks with the criteria of acceptance and decides whether to send a rejection or to establish and send the contract to be signed by the client,Relevant
 The process starts when an employee is sick or absent for whatever reason,Relevant
-"The first step of the process has to be done by the employee: he has to send his medical certificate to the human resources and at the ""same time""  he has to contact them in order to inform them of the duration of its absence,Relevant"
+"The first step of the process has to be done by the employee  he has to send his medical certificate to the human resources and at the ""same time""  he has to contact them in order to inform them of the duration of its absence,Relevant"
 Thanks to this  the human resources can start their own process in which they try to replace him by someone,Relevant
 Then  after both of these tasks have been completed  the next tasks will mainly concern the human resources department,Relevant
 They have to sort out the different types of medical certificates  check if they are certificates without pathologies or certificates with pathologies,Relevant
@@ -87,7 +87,7 @@ Afterwards  at the same time  they have to notify the medical advisor  and then 
 After that  in addition they receive the acknowledgement of receipt and finally they can put the certificate in the HR certificate folder and the process is over,Relevant
 The process starts at the end of the month when it is time to pay the different employees in the company,Relevant
 We should note that almost the entire process is carried out by human resources,Irrelevant
-Firstly  at the same time  the human resources employee is doing 4 different tasks  which are: check for extra hours  check leaving request  check attendance system in order to know how many hours the employee worked and then check it with the system “Unitime,Relevant
+Firstly  at the same time  the human resources employee is doing 4 different tasks  which are  check for extra hours  check leaving request  check attendance system in order to know how many hours the employee worked and then check it with the system “Unitime,Relevant
 ” Finally  he checks sickness  so if an employee was absent and then uses HR Accent in order to verify this,Relevant
 When all these 4 steps are finally done  he writes a recap   with all the information so he can export them to Securex,Relevant
 Securex checks the feedback and sends it to the human resources,Relevant
@@ -97,14 +97,14 @@ If the response is yes  we can continue the process,Relevant
 Human resources can then send the payment permission to Securex and wait until the reception of Securex agreement,Relevant
 Subsequently  several things have to be done at the same time  we are going to describe them branch by branch,Irrelevant
 Firstly  in the first branch he receives the “décompte de paye” and then prints it in order to send the file to the employee,Relevant
-"Afterwards  there is a question: ""Is there any contestation?"" If there is no contestation  we can continue and finalize the process with the acceptation of Securex payment,Relevant"
+"Afterwards  there is a question  ""Is there any contestation?"" If there is no contestation  we can continue and finalize the process with the acceptation of Securex payment,Relevant"
 But  if there is a contestation  we have to ask the CEO what to do with it and then a new process starts,Relevant
 Finally  on the other branch  things that need to be done first are to ask Securex to prepare the invoice  then we are waiting until Securex creates it  and sends it,Relevant
-"After this  there is another question: ""Are we sending this to accounting or not?"" If the answer is ""yes""  we can accept Securex  s payment and the process ends,Relevant"
+"After this  there is another question  ""Are we sending this to accounting or not?"" If the answer is ""yes""  we can accept Securex  s payment and the process ends,Relevant"
 And if no  once again we have to ask the CEO what to do,Relevant
 This process starts when an application is sent by a candidate to the HR which do a first sorting and then a second one,Relevant
 After this  the first interview take place,Relevant
-Then we are in the first question which is “Is this a key position or not?” If yes  we need to know if we need complementary assessments: - if yes  a specialist office makes a couple of tests and then sends the results to the HR,Relevant
+Then we are in the first question which is “Is this a key position or not?” If yes  we need to know if we need complementary assessments  - if yes  a specialist office makes a couple of tests and then sends the results to the HR,Relevant
 After this  we conclude whether it is okay or not,Relevant
 If it is not  we can dismiss the application and inform the applicant of that,Relevant
 We therefore destroy these data,Relevant
@@ -133,7 +133,7 @@ Then  it must be checked if the intervention is included in the contract,Relevan
 But if he agrees  the organization can define the costs of the intervention,Relevant
 #NAME?
 After this  at that moment we are on the same track  it should be chosen if we need an internal quote or an external one,Relevant
-"We then arrive to 2 different questions: The first one is: “Do we need an accord regarding the quote? “: - If the answer is ""yes""  the approbation of the client has to be asked,Relevant"
+"We then arrive to 2 different questions  The first one is  “Do we need an accord regarding the quote? “  - If the answer is ""yes""  the approbation of the client has to be asked,Relevant"
 If his answer is that it is okay  he must be informed about the start of the intervention,Relevant
 Then the intervention is finished,Relevant
 But if he refuses the quote  the process ends again,Relevant
@@ -149,18 +149,18 @@ If it is a verbal offer  the process continues and the Connexio controls the fil
 If the file is existing  he informs the client and the process ends  otherwise  he communicates the price of the service to the customer and reads the GDPR disclaimer in case of an opening  then waits for the client’s response,Relevant
 If the client accepts  a file is created,Relevant
 Otherwise the file is immediately closed and the process ends,Relevant
-After having created the file  the Connexio asks if the client is able to receive a remote operation: if he is not able  he asks whether the preparatory work is the client’s responsibility,Relevant
+After having created the file  the Connexio asks if the client is able to receive a remote operation  if he is not able  he asks whether the preparatory work is the client’s responsibility,Relevant
 If he is able  is the client  s request unique? If the client  s request is not unique  he asks if the preparatory work is the client  s responsibility  otherwise he asks directly what type of appointment to make,Relevant
 Concerning the preparatory work  if they are not the client’s responsibility  then the Connexio asks what type of appointment to make,Relevant
-But if they are the responsibility of the customer  the Connexio informs the customer about the preparatory work  he waits for a response: if the customer does not accept  the file is closed and the process ends,Relevant
+But if they are the responsibility of the customer  the Connexio informs the customer about the preparatory work  he waits for a response  if the customer does not accept  the file is closed and the process ends,Relevant
 If he accepts then he also asks what type of appointment to make,Relevant
-There are two types of appointments: The first one is if remote operations work (from June 2020)  the Connexio sends confirmation to the customer but also to the control room that the thing has been taken into account,Relevant
+There are two types of appointments  The first one is if remote operations work (from June 2020)  the Connexio sends confirmation to the customer but also to the control room that the thing has been taken into account,Relevant
 The control room receives this remote operation request for opening / closing port P1 / S1 and the process is terminated,Relevant
-The second one is if the technician has to come to the customer’s house: the Connexio controls the duration of the intervention  he schedules an appointment (if the intervention cannot be scheduled  the Connexio records the non-schedulable intervention request and the call ends),Relevant
+The second one is if the technician has to come to the customer’s house  the Connexio controls the duration of the intervention  he schedules an appointment (if the intervention cannot be scheduled  the Connexio records the non-schedulable intervention request and the call ends),Relevant
 After scheduling the appointment  he sends the appointment confirmation to the client  waits for the appointment confirmation,Relevant
 After receipt  he sends the work order to the technician,Relevant
 The technician receives the file and the process ends,Relevant
-The process is separated in 2 lanes: fieldworker and Work control OSP,Irrelevant
+The process is separated in 2 lanes  fieldworker and Work control OSP,Irrelevant
 The process starts with the reception of a request to install a smart meter for the activation of prepayment mode,Relevant
 All the processes arrive at the same gateway so I will describe each process up to the point of intersection and then explain what happens after,Relevant
 1) The customer was present and another customer was present,Relevant
@@ -179,7 +179,7 @@ If the client is electro-sensitive then the process goes directly to the checkin
 If the client is not electro-sensitive and it is their (a) first visit the process goes directly to the point of intersection,Relevant
 If it is not their (a) first visit but it is their second visit and the meter installation is possible before shutdown then the process continues to point (b),Relevant
 If the meter installation is not possible before shutdown and a meter cut is possible  2 things happen simultaneously,Relevant
-The first is checking if the meter installation is possible: if yes it goes to (b) if not it goes to the point of intersection,Relevant
+The first is checking if the meter installation is possible  if yes it goes to (b) if not it goes to the point of intersection,Relevant
 The second is to send the cutout start execution request to the meter and then wait for the message of the smart meter cut back,Relevant
 If there is no cancellation request they perform the cut on the meter,Relevant
 (d) After that an effective cutoff confirmation is filed which sends a message to the customer then they send the effective cutoff information which lead to the intersection point and (e) in the Work control OSP lane receiving information on the execution of cuts which send an end signal of management of cut returns,Relevant
@@ -207,7 +207,7 @@ If the network cut is not possible the information is sent of the non-execution 
 All of these lead to one gateway  after that they complete the worksheet,Relevant
 If the client is present  they sign the worksheet and if they are not a calling card is left for the customer which sends a message to them,Relevant
 Both of them lead to saving the worksheet and ending the process in the Work control OSP lane with post-administration,Relevant
-This process is divided into 5 lanes: planned works  technical solution officer  supervisor  manager and CTM coordinator,Irrelevant
+This process is divided into 5 lanes  planned works  technical solution officer  supervisor  manager and CTM coordinator,Irrelevant
 The process starts at planned works when an appointment  s planning is needed,Relevant
 First thing is to know if it is a grid/construction work or not,Relevant
 If it is not a grid/construction work  planned works assess if it is a civil engineering operation,Relevant
@@ -246,7 +246,7 @@ The manager gets the file  foresees the end of the work  executes the operation 
 He then informs the technician and the contractor and the CTM is managed,Relevant
 "The two main ORES services involved in the work execution process are the ""planned works"" department and the executing agent working in parallel,Irrelevant"
 Three other ORES actors play a lighter role  namely the   design office      supervision   and   local logistics manager  ,Irrelevant
-Executing agent: The process starts with the receipt of the file,Relevant
+Executing agent  The process starts with the receipt of the file,Relevant
 Then either civil engineering works are required or not,Relevant
 "If they are required  the agent plans them  informs the ""planned works"" of the civil engineering opening date (1)  then carries out the inventory of fixtures  executes the earthworks and finally confirms the execution of the earthworks to the ""planned works"" (2),Relevant"
 Otherwise  nothing happens,Relevant
@@ -267,7 +267,7 @@ Then  he draws up an inspection plan which he sends to the Ores drawing office (
 "If civil works are required  the agent plans the closure of the civil works  informs the ""planned works"" of the closure date (5)  plugs up the holes  repairs in a definitive manner  makes the inventory of fixtures and finally confirms the completion of the repair to the ""planned works"" (6),Relevant"
 Finally  his last task is to encode the internal services in the case of internal services or to encode the internal services in the case of entrepreneurial work,Relevant
 The process ends by sending the file to the post administration,Relevant
-Planned work: The process begins with the planning of the worksite,Relevant
+Planned work  The process begins with the planning of the worksite,Relevant
 "Then  if civil engineering works are required  the ""planned works"" department receives the civil engineering opening date from the executing agent (1)  the department then sends the civil engineering dates to the client  waits and finally receives confirmation of the earthworks by the executing agent (2),Relevant"
 "If no civil engineering works are required  the ""planned works"" department informs the client by sms of the date of the works 48 hours in advance,Relevant"
 The department then receives the execution information,Relevant
@@ -276,9 +276,9 @@ If it has been carried out  there is a waiting period,Relevant
 "Finally  again if civil works are required  the ""planned works"" department receives the civil works closing date from the executing agent (5)  the department then sends the civil works closing dates to the client  waits  receives the confirmation of the civil works closing from the executing agent (6) and finally updates the data in the POWALCO software,Relevant"
 If there is no civil engineering  nothing happens,Relevant
 The process is then completed towards post-administration,Relevant
-The drawing office: The process starts with the reception of the plan from the executing agent (4) and is then completed towards post-administration,Relevant
+The drawing office  The process starts with the reception of the plan from the executing agent (4) and is then completed towards post-administration,Relevant
 Monitoring The process starts with the reception of the date of the works  then the service ensures the supervision of the building sites and the process is finished with supervised building sites,Relevant
-Local logistics manager: The process starts with the reception of the message from the executing agent (3)  then he processes the request and the process ends,Relevant
+Local logistics manager  The process starts with the reception of the message from the executing agent (3)  then he processes the request and the process ends,Relevant
 The process starts at planned works when a technical visit is needed,Relevant
 If a visit without appointment (V1) is needed  planned works transfer the request to a technician and waits for feedback with the info concerning the V1,Relevant
 While planned work is waiting  a technician gets the request  carries out the visit and transfers info to planned works before being done with V1,Relevant
@@ -292,12 +292,12 @@ They then wait for feedback while the technician gets the request  carries out a
 When the feedback is received  planned works handle it and then assess if civil engineering is required,Relevant
 If it is not required the processing is done,Relevant
 Otherwise  the feedback is sent to the contractor and the processing is done,Relevant
-The subscription process is facilitated by the digital transformation: in usual context the customer and the company are engaged into an endless mail exchange demanding the documents for the subscription,Irrelevant
+The subscription process is facilitated by the digital transformation  in usual context the customer and the company are engaged into an endless mail exchange demanding the documents for the subscription,Irrelevant
 Thanks to Flora a new client only needs to enter some information about his property and his insurance fee is automatically calculated using the dimension and the location of his property,Relevant
 If the new client is not in the defaulters’ database  there is no need for an employee to take part in the process  the contract and insurance details will be automatically digitally created and sent to the customer,Relevant
 If the client is indeed in the defaulter’s database  Flora needs to conduct a short investigation to determine if they accept the client or not before finishing the process following the classical way,Relevant
 By using this process  customers are now able to modify their contract online (following a move for instance) by simply entering details about their new property,Irrelevant
-Their new price is calculated in the same way as in the subscription process  and the rest is also similar: contract and insurance details will be automatically created and sent to the customers as well as the new contract start date,Irrelevant
+Their new price is calculated in the same way as in the subscription process  and the rest is also similar  contract and insurance details will be automatically created and sent to the customers as well as the new contract start date,Irrelevant
 Flora allows the customer to make this report via a chatbox within the mobile app in a few steps,Irrelevant
 Of course after the declaration  an external contractor will come to your place to contact the damage but there is no need to extra paperwork that is usually used with the traditional way,Relevant
 The following process is of high interest as switching insurance can be really difficult and require documents and long procedures from both the former and the new insurance company,Irrelevant
@@ -336,7 +336,7 @@ The supply chain department looks at the BOM and then decides if it needs compar
 In this case  the supply chain department searches suppliers  consults three of them and compare their offers,Relevant
 Then  it chooses a supplier,Relevant
 - If the purchase amount is estimated to be less than 10000€  the supply chain department does not need comparative quotes and directly selects a supplier,Relevant
-After selecting a supplier  there are two options: - If this is a new supplier  the specific team (composed by the COO  the head of the supply chain department and the quality manager) performs a supplier audit,Relevant
+After selecting a supplier  there are two options  - If this is a new supplier  the specific team (composed by the COO  the head of the supply chain department and the quality manager) performs a supplier audit,Relevant
 If the conclusions of this audit are not positive  the supply chain department selects another supplier,Relevant
 If the audit is conclusive  the supply chain manager registers supplier’s information in the ERP system and sends a notification to the supplier selected,Relevant
 #NAME?
@@ -352,23 +352,23 @@ The process starts when the workshop manager receives the project from the R&D d
 With the recommendations from the production engineer  he evaluates which and how many workers must be assigned to this project linked to the difficulty’s level of the latter,Relevant
 With the help of the supply chain manager  he checks when all the needed material (BOM) will be available in stock at the factory,Relevant
 With all this information  he gives an approximation of the delivery date to the customer,Relevant
-He receives a set of documents thanks to the ERP system which describes: the BOM (Bill of Materials)  mechanical plans  electrical scheme  control prescription  … everything that is needed to organize production of the project,Relevant
+He receives a set of documents thanks to the ERP system which describes  the BOM (Bill of Materials)  mechanical plans  electrical scheme  control prescription  … everything that is needed to organize production of the project,Relevant
 The supply chain department receives the document and launches a production order to the warehouse clerk who prepares and sends all the materials needed to the workshop,Relevant
 At this stage  the workshop manager must prepare assembly aid documents which describe the production process adapted to the type of work to be executed,Relevant
 The function of the workshop manager is also to describe the jobs of each technician involved,Relevant
-Afterwards  technicians operate: first  they prepare nameplates to be able to identify all the products and cables,Relevant
+Afterwards  technicians operate  first  they prepare nameplates to be able to identify all the products and cables,Relevant
 Secondly  they assembly the systems while they identify themselves at each step of the process for the tracing and consequently the responsibility,Relevant
 The workshop manager is responsible for describing the complexity of conformity control which is afterwards operate by the technicians,Relevant
 At this stage  test technicians operate the FAI (First Article Inspection)  they inspect the finished systems  to see if it is safe  functional and conform to the specifications,Relevant
 If all tests are conclusive  the system is sent to the shipment employee who will package and send it to customers with the help of other actors (haulers  …),Relevant
 The systems production process ends at the moment the system is submitted to the shipment employee,Relevant
 The process is triggered when the product is received by the packaging employee who packages the product,Relevant
-Then  two tasks are done in parallel: addition of a suitable ID label to the package and wedging and wrapping to protect the product,Relevant
+Then  two tasks are done in parallel  addition of a suitable ID label to the package and wedging and wrapping to protect the product,Relevant
 The packaging employee makes the delivery form and send it to the head of shipment department who is going to give a pick-list-number and  afterwards  registers the pick-list number on the ERP system,Relevant
 Later on  the packaging employee fills the picklist with the product’s information (weight  date  …) on the ERP system,Relevant
 Subsequently  the employee stores the product in the shipment area,Relevant
 After that  the head of shipment management received on the ERP system the picklist completed and then classify the picklist by due date until the delivery day,Relevant
-When the delivery day has come  the back office does two tasks at the same time: to prepare the delivery note and print it and prepare the invoice and print it as well,Relevant
+When the delivery day has come  the back office does two tasks at the same time  to prepare the delivery note and print it and prepare the invoice and print it as well,Relevant
 After that  the back office sends the documents to all services concerned via the ERP system (i.e. accounting),Relevant
 Finally  the packaging employee add the waybill and the delivery note on the package and thereafter he gives the package to the haulers,Relevant
 The process ends when the order is sent,Relevant
@@ -390,12 +390,12 @@ When everything is correct or if everything was right the first time  the Chief 
 If he does not validate it  the comparison process between the invoice  the purchase order and the delivery starts again until the amount to be spent aligns with their expectations,Relevant
 If he validates the purchase  then he pays the invoice and the process ends,Relevant
 The process starts when the need is notified by the receipt of a purchase order form by the service manager,Relevant
-Then  the purchase department has to analyse the demand: if it is not ok  the demand is obviously rejected and the process ends,Relevant
+Then  the purchase department has to analyse the demand  if it is not ok  the demand is obviously rejected and the process ends,Relevant
 Otherwise  they have to request a quote,Relevant
 If the quote is asked to a new supplier  the purchasing department has to add it into the evaluation suppliers form (data base),Relevant
-Then  the financial management has to validate the quote: if it is not ok  the demand has to be analysed again but if it is financially ok  the service can be ordered so the service department asks for an intervention,Relevant
+Then  the financial management has to validate the quote  if it is not ok  the demand has to be analysed again but if it is financially ok  the service can be ordered so the service department asks for an intervention,Relevant
 The supplier performs the requested service and sends the purchase documents (purchase order and invoice) afterwards,Relevant
-Next  the purchasing department compares the purchase order with the invoice received and has to validate: if something is wrong  the invoice is not validated and the department contacts the supplier for another validation,Relevant
+Next  the purchasing department compares the purchase order with the invoice received and has to validate  if something is wrong  the invoice is not validated and the department contacts the supplier for another validation,Relevant
 Otherwise  the financial department has to validate it a second time,Relevant
 Again  if it is not ok  the purchase department has to compare it again but if it is ok  the financial department puts the invoice in payment and the process ends when the service provider is paid,Relevant
 The process starts with the presentation of the candidate at the office,Relevant
@@ -416,7 +416,7 @@ If it corresponds  the centre checks the temporary driving license and the certi
 If those are invalid  the candidate is rejected and the process ends,Relevant
 If those are valid  there are 2 possibilities,Relevant
 Either the applicant has learned by a driving school or by another guide,Relevant
-This second case requires an additional step: the centre checks the guide driving license,Relevant
+This second case requires an additional step  the centre checks the guide driving license,Relevant
 If his driving license is invalid  the process ends and the candidate is rejected,Relevant
 If it is valid  the process keeps going,Relevant
 This step is not necessary if the candidate has learnt by a driving school,Relevant
@@ -469,11 +469,11 @@ When the user starts typing his address  a drop-down list appears with all the s
 In order to move forward  the user has to select one address in the Google results and the system moves on directly to the next page,Relevant
 If the user enters an address abroad  the pop-up window appears informing the user that Flora is only available in Belgium,Relevant
 If the user lives in a zone subject to flooding  a pop-up window also appears to say that the house is located in a zone subject to flooding and that the user cannot be insured for the moment  the user can be redirected to the Ethias website,Relevant
-"If the address is unknow : the message “""Je ne trouve pas mon adresse""” appears,Relevant"
+"If the address is unknow   the message “""Je ne trouve pas mon adresse""” appears,Relevant"
 The user is redirected to the page where he has to enter manually his address  he has to complete manually all the fields,Relevant
 If the address is known  located in Belgium and complete  the user clicks on “Confirmer” and is then redirected to the monthly rental amount page,Relevant
 The monthly rental amount is a mandatory field,Irrelevant
-If it is left empty  a warning red notice must ask the user to correctly fill it out (Max of characters: 7),Relevant
+If it is left empty  a warning red notice must ask the user to correctly fill it out (Max of characters  7),Relevant
 If the user enters a higher rent  the pop-up window appears informing the user that Flora doesn’t insure properties with a rent higher than 1500€,Relevant
 The user can decide to move on to the Ethias website or exit the Flora’s quote calculation process by clicking on the X in the upper-right hand corner / the button “Je comprends”,Relevant
 "The user then goes to the ""Prix"" page  which mentions the price of the rental insurance for his property at his address,Relevant"
@@ -481,7 +481,7 @@ The price covers the civil liability and the content of the housing,Irrelevant
 The user can choose to add or not add the vandalism cover,Relevant
 To finish this process  the user has to tick the Checkbox of the terms conditions before being able to continue,Relevant
 Once the quote calculation process is complete  a customer profile must be created,Irrelevant
-"This process starts with the screen ""mon compte""   the user must fill in different information: First name  name  date of birth  phone number  email address and password are mandatory fields,Relevant"
+"This process starts with the screen ""mon compte""   the user must fill in different information  First name  name  date of birth  phone number  email address and password are mandatory fields,Relevant"
 Before going to the next step  the system makes a verification about the age of the user,Relevant
 In fact  the user must be between eighteen and hundred years old because they consider that outside this age slice  you are less likely to take out insurance,Irrelevant
 So  if the customer is under eighteen or over hundred  the process stops  and the customer gets stuck,Relevant
@@ -502,13 +502,13 @@ On the one hand  if he already moved in  Flora will invite the client to state i
 In case of a client who is already insured  Flora will ask the user to enter the contact details of his previous insurer and we will deal with the termination of his contract,Relevant
 On the other hand  if the user has not moved in yet  the app will request him to enter the date of moving in and his future address,Relevant
 After that  he will be invited to choose a payment method,Relevant
-The client will soon be allowed to choose among three different means of payment : with a credit card  via PayPal or via Apple Pay,Relevant
-For the moment  there are only two payment methods available : the credit card and PayPal,Irrelevant
+The client will soon be allowed to choose among three different means of payment   with a credit card  via PayPal or via Apple Pay,Relevant
+For the moment  there are only two payment methods available   the credit card and PayPal,Irrelevant
 By selecting the credit card as mean of payment  the user will be redirected to the next screen,Relevant
 At that point  he will have to encode his card number  the name of the card  the validity date and the CVV number,Relevant
 Obviously  there will be no direct debit before the start of the contract,Irrelevant
 In the case where the user would want to pay with PayPal  he would be redirected to the PayPal interface in order to check that the available balance on PayPal is sufficient to pay,Relevant
-Then  the user can click on the button “Suivant” which will redirect him to another screen with a summary of his contract : type of housing  monthly rental amount  full address  contract duration  price  credit card registered and so on,Relevant
+Then  the user can click on the button “Suivant” which will redirect him to another screen with a summary of his contract   type of housing  monthly rental amount  full address  contract duration  price  credit card registered and so on,Relevant
 After having checked the elements of his contract  he must accept the general terms conditions before subscribing to the product and paying,Relevant
 Then  he can click on “Confirmer” and in that case  it means that the user wants to confirm and pay,Relevant
 Once the contract is confirmed  the client will be invited to download the application in order to handle his insurance directly from the application,Relevant
@@ -594,19 +594,19 @@ If they do agree  the maintenance department contacts the company again to compl
 Otherwise  they explain to the company that they do not want to go any further and restart the search for qualified people,Relevant
 Once both parties have signed the contract  the financial department proceeds with the payment,Relevant
 Finally  the maintenance department checks the service delivery to be sure that it is well done and that it meets their expectations,Relevant
-The data analysis process is done in several steps: First  data analysts collect data from different sources for every sector,Relevant
+The data analysis process is done in several steps  First  data analysts collect data from different sources for every sector,Relevant
 Then  they merge the data from different sources and make a relation between them  unnecessary data is cleaned in order to concentrate on the economic analysis,Relevant
 Data analysts analyze the evolution of the annual revenue of the companies for each sector and they combine the data of SPI with the one coming from the outside sources,Relevant
 Finally  the results are interpreted  and the analysts make the best economic analysis possible and come to a conclusion,Relevant
 The report of the analysis is then published in the database of the company  so that it is accessible to everyone,Relevant
 Everything starts when a student is positive for the COVID-19,Relevant
 The school will receive the information via email  phone or even via SMS,Relevant
-Whether it’s via phone  the school management will ask some specific questions such as : what was the last day in class  when did the student do the test  when did the student receive the results and so on,Relevant
+Whether it’s via phone  the school management will ask some specific questions such as   what was the last day in class  when did the student do the test  when did the student receive the results and so on,Relevant
 Then they will fulfil the file with their own information such as the place where the student is sitting in class  the schedule from each class  … To do so  they must dispose of the class plans,Relevant
 Moreover  it should be done regarding one clear and precise model,Irrelevant
 Once the file is completed  they can start analysing the information,Relevant
 The first and the most important one is to know who the students with high risks are,Relevant
-For that  they will consult the class plans and will make groups of students : those who are behind the positive student are not impacted  nevertheless those who are on both sides from this student are risky only if they have had close contact with the positive student without masks,Relevant
+For that  they will consult the class plans and will make groups of students   those who are behind the positive student are not impacted  nevertheless those who are on both sides from this student are risky only if they have had close contact with the positive student without masks,Relevant
 Unfortunately  this operation is hard  because of option courses,Irrelevant
 Indeed  there are a lot of different class plans for these courses meaning that students are not always sitting next to the same students depending on the courses,Irrelevant
 Once every single information has been collected  they will send the complete file to the Safety Advisor via email,Relevant
@@ -626,10 +626,10 @@ If there is a priority temporary in the database  they contact him/her by phone,
 Finally  a management member sends the schedule of the teacher to be replaced to the substitute teacher and the teacher is replaced,Relevant
 If the teacher is absent for less than a day  then he is not replaced,Relevant
 However  if he/she is absent for more than a day  then a substitute teacher must be found,Relevant
-"To find a substitute teacher  there are two possible ways: either the candidate has sent his/her CV (printed and classified in a folder in order of importance of the title)  or via the website ""Primoweb""  on which we will be able to go do a search according to the teacher you want to hire,Relevant"
+"To find a substitute teacher  there are two possible ways  either the candidate has sent his/her CV (printed and classified in a folder in order of importance of the title)  or via the website ""Primoweb""  on which we will be able to go do a search according to the teacher you want to hire,Relevant"
 Management will be able to enter a series of criteria  such as the duration of the exercise  the branch of expertise and so on,Relevant
 Then  after pushing on the search button  they can see the number of titles required  of sufficient titles and of shortage titles,Relevant
-In the case of application by CV  the candidate selection sub-process begins when the file containing the applications is opened: If there are required titles available  then these are directly selected,Relevant
+In the case of application by CV  the candidate selection sub-process begins when the file containing the applications is opened  If there are required titles available  then these are directly selected,Relevant
 Otherwise  we go to sufficient titles,Relevant
 If there is no sufficient title  we move on to shortage titles,Relevant
 If there is no shortage title  we move on to unlisted shortage titles,Relevant
@@ -671,7 +671,7 @@ The process starts when report cards are encoded in the specific software used b
 The student’s report is then received by his or her parents,Relevant
 In the report card  there is a comment section in which parents can find the teachers the school wants them to meet,Irrelevant
 An online form is created on the LMS and sent to the parents for each year,Relevant
-The questions are the following : first name and last name of the student  class  name of the person filling the form  phone number of this person  a multiple choice question with three time intervals and who are the three teachers the parents want to meet,Irrelevant
+The questions are the following   first name and last name of the student  class  name of the person filling the form  phone number of this person  a multiple choice question with three time intervals and who are the three teachers the parents want to meet,Irrelevant
 Once the due date to fill in the form is reached  the form is closed by the IT manager,Relevant
 The form is exported in an Excel format and the table is shared with the teachers on the LMS,Relevant
 The table is posted on the right year group,Relevant
@@ -722,7 +722,7 @@ A student on the waiting list can also cancel his or her application by sending 
 And lastly the waiting list is closed on August 24  which means that all students still on it will receive a certificate of refusal,Relevant
 The recruitment is dealt with by the administrator  Pierre Girretz  himself,Irrelevant
 Indeed  as mentioned before  the company does not have an HR department nor a “true” recruitment system established since the administrator can easily do this type of work himself,Irrelevant
-This process is triggered only when a new post is available  and it is done in a more or less informal but also classical way: he receives applications and reads the CVs  then Mr,Relevant
+This process is triggered only when a new post is available  and it is done in a more or less informal but also classical way  he receives applications and reads the CVs  then Mr,Relevant
 Girretz first checks if the applicant has the competencies required for the job (degree  experience  …),Relevant
 If the resume does not correspond to what is expected  then the application is rejected by email with a thank you for sending the CV,Relevant
 If the candidate seems to have the right competencies on paper  then he receives a notification to fix a date for an interview,Relevant
@@ -743,7 +743,7 @@ Employees working in the production line start by identifying the type of stove 
 After that  the production line checks if the items needed for assembly are in stock,Relevant
 If not  an order request is sent to the supplier to receive the missing supplies,Relevant
 When every item is in stock  employees search for pieces’ emplacement in the system thanks to the QR code they scanned when they first received the items,Relevant
-Then  the actual assembly can start: the goods go from post to post  the stove is built little by little at every step,Relevant
+Then  the actual assembly can start  the goods go from post to post  the stove is built little by little at every step,Relevant
 Once it reaches post number N  the number of posts depending on each case  the final product is fully built and is ready to go through a quality check,Relevant
 Once this quality check process is done  the pellet stove is packaged in a plastic cover and a wood box,Relevant
 Finally  it can be shipped to the reseller store  which will be in charge of selling the stove to the customer,Relevant
@@ -811,7 +811,7 @@ Once this is completed  the storekeeper can synchronize the receipt of the order
 At another time  the billing department will receive the invoice of the order  which will start their process,Relevant
 This will be checked in the ERP,Relevant
 Once the service is notified that the receipt of the order has been synchronized in the ERP  it can proceed to the payment and the payment will be completed,Relevant
-The improvement action process starts with an improvement demand based on different sources: internal or external audit report  management review  customer complaint  non-compliance  suggestion etc,Relevant
+The improvement action process starts with an improvement demand based on different sources  internal or external audit report  management review  customer complaint  non-compliance  suggestion etc,Relevant
 The request is then registered in the Excel table by the Quality Assurance Manager (Q.A.M.),Relevant
 This excel file will be used all along the process,Irrelevant
 It is important to detect the issue  which means that an analysis of the problem in order to know the ins and outs of each approach will be conducted by the Q.A.M,Relevant
@@ -830,7 +830,7 @@ When the improvement action is finished  the Q.A.M. checks the effectiveness of 
 If the result is satisfying  the improvement action process ends there,Relevant
 Otherwise  the criticality analysis must be reseen and the process starts again from this point,Relevant
 The process starts when an unconformity is detected,Relevant
-A non-conformity must be declared when one or more of the following conditions are met:,Irrelevant
+A non-conformity must be declared when one or more of the following conditions are met ,Irrelevant
 #NAME?
 #NAME?
 #NAME?
@@ -905,11 +905,11 @@ During the whole work of the machine (printing  assembling …)  the work of the e
 The supply process of daily newspapers is critical and is obviously relying on the nature of past processes,Irrelevant
 Any delay can be toxic for the supply process and could cause terrible financial losses for Sudpresse and for booksellers themselves,Irrelevant
 First  we will focus on individual newspaper delivery,Irrelevant
-Newspapers must be ready for delivery at 01:00 a.m.   they are put into trucks and taken to the sorting office in Brussels,Relevant
+Newspapers must be ready for delivery at 01 00 a.m.   they are put into trucks and taken to the sorting office in Brussels,Relevant
 They are then charged 30 minutes before the departure into night trains taking them to the cities where the different sorting centers are located,Relevant
 Once the newspapers are in those centers  vans are used to deliver them to the local post offices,Relevant
 The postmen then deliver the newspapers in individual mailboxes,Relevant
-This must take place before 7:30am  as it is essential that a good part of workers have enough time to read their newspaper before going to work,Relevant
+This must take place before 7 30am  as it is essential that a good part of workers have enough time to read their newspaper before going to work,Relevant
 We will now focus on bookshops delivery,Irrelevant
 Instead of going to the Sorting post office in Brussels  trucks go straight to regional private delivery centers,Relevant
 Newspapers are then sorted and dispatched in vans that deliver over four thousand bookshops all over Belgium,Relevant
@@ -918,7 +918,7 @@ Through this process description  we realize that timing is essential in the pre
 Nowadays  writing and creating new articles does not suffice to create enough value for multimedia companies,Irrelevant
 Therefore  various advertising processes are in constant change in the press industry and are therefore impossible to describe entirely,Irrelevant
 Nevertheless  thanks to the two interviews we have conducted with our contacts at Sudpresse  we were able to identify some crucial steps in these processes,Irrelevant
-We established earlier that there is a market department running many analyses in order to determine what are the best advertising spots on the website: which format  which size  which colors  which position on the page  etc,Relevant
+We established earlier that there is a market department running many analyses in order to determine what are the best advertising spots on the website  which format  which size  which colors  which position on the page  etc,Relevant
 The IT department will then determine who sees what advert and most importantly  these people’s background and profile by using big data,Relevant
 Once the advertising spots have been defined  it is time for the sales department to intervene,Relevant
 Using the data previously collected  sales teams have to sell these spots to advertisers,Relevant
@@ -1034,7 +1034,7 @@ The second interview takes place in the presence of the company  s managers,Rele
 Following this second interview  they decide whether or not the person is suitable,Relevant
 Production is a very important business process at Goumanisto,Irrelevant
 About 50 people are employed in production  and almost half of them come from the sheltered workshop,Irrelevant
-The first room is made up of a recently acquired machine: it allows the various products to be cut very quickly and precisely,Relevant
+The first room is made up of a recently acquired machine  it allows the various products to be cut very quickly and precisely,Relevant
 Four to five workers are needed for this machine to work properly,Relevant
 Then there is another machine that weighs the cut products and divides them into different batches according to the quantities required,Relevant
 The next step is the reception of the products and their packaging,Relevant
@@ -1138,10 +1138,10 @@ The process starts with the interest of the client in finding a solution to the 
 The first contact always starts within Proximus stores  but the salesman only acts as an intermediate and only during the selling phase  after fulfilling the order he steps out of the conversation and an employee of DJM takes this over  firstly the manager,Relevant
 The process starts when a customer enters a Proximus shop  either the customer goes to a Proximus shop because he is a freelancer interested in the Bizz online packs  or the seller proposes the Bizz online packs to him,Relevant
 If the customer refuses the offer  the process is over,Relevant
-On the other hand  if the customer is interested in the pack  the seller offers him the choice between 3 packs: S-M-L,Relevant
+On the other hand  if the customer is interested in the pack  the seller offers him the choice between 3 packs  S-M-L,Relevant
 These packs are categorized according to their size  options and functionality,Irrelevant
 They go from the most basic to the most specific,Irrelevant
-Once the customer has made his choice  the seller informs a DJM manager of the customer  s new request via an ERP system set up between the 2 companies: DJM and Proximus,Relevant
+Once the customer has made his choice  the seller informs a DJM manager of the customer  s new request via an ERP system set up between the 2 companies  DJM and Proximus,Relevant
 Bizz online employees then start a discussion with the customer in order to prepare the website as well as possible,Relevant
 When the website is prepared  it is sent to the customer  who can then request the latest changes if he wants before the website is published,Relevant
 If the client is satisfied with the website  it is published on the internet and the process is completed,Relevant
@@ -1169,7 +1169,7 @@ Then  the first task is made by the Head of department  who has to give specific
 Once the task is completed  the HR employee has to see if it is a specific/more special demand  or not,Relevant
 Usually for nurses  they will look at spontaneous applications on the hospital website,Relevant
 For more specific functions  they will externalize the process and recruit via Forum,Relevant
-For more special requests (for example: energy engineer)  they make an offer on the website themselves,Relevant
+For more special requests (for example  energy engineer)  they make an offer on the website themselves,Relevant
 After having collected the CV  the HR employee has to to make a selection based on the head of department’s criteria,Relevant
 If there are a lot of applications  he can decide to filter the candidates by doing a written exam in order to screen people,Relevant
 Due to the written exam  he has to select candidate and review application,Relevant
@@ -1205,7 +1205,7 @@ Then  they have to check the availability of the medications in another service 
 Once they have received the medications  they have to notify the nurse  prepare all the medications and finally deliver them to the nurse,Relevant
 The last task is made by the nurse  who has to prepare the medications for each patient,Relevant
 Once the task is done  the process is finished (= medications prepared),Relevant
-There are several possible cases:,Irrelevant
+There are several possible cases ,Irrelevant
 #NAME?
 If the dis missal is sufficiently justified  HR will take care of giving notice,Relevant
 - In the event of a decision to discontinue (e,Relevant
@@ -1224,14 +1224,14 @@ After waiting in the waiting room  the doctor sees the patient,Relevant
 Eventually  the doctor may request additional tests if the situation requires it or even transfer the patient to the emergency room in case of an emergency,Relevant
 He can also schedule a hospitalization if he wants to follow the patient in real time,Relevant
 The invoicing service will take care of the invoice which will depend on the technical services performed during the consultation  the status of the person and his or her health insurance company,Relevant
-The maintenance and repair process uses one main software : Carpark,Irrelevant
-Indeed  Carpark allows the management of all the vehicles from all the parks thanks to its database that includes all the information necessary about the vehicles from all the subsidiaries : the number plate  the intern references  but also the location of the maintenance  the maintenance plan that suits the vehicle the most according to the recommendation of the suppliers  … Moreover  drivers also use Carpark in order to encode the kilometers travelled with the busses  which allows the automated planning of the maintenance every 15 000 or 30 000 kilometers  depending on the bus,Relevant
+The maintenance and repair process uses one main software   Carpark,Irrelevant
+Indeed  Carpark allows the management of all the vehicles from all the parks thanks to its database that includes all the information necessary about the vehicles from all the subsidiaries   the number plate  the intern references  but also the location of the maintenance  the maintenance plan that suits the vehicle the most according to the recommendation of the suppliers  … Moreover  drivers also use Carpark in order to encode the kilometers travelled with the busses  which allows the automated planning of the maintenance every 15 000 or 30 000 kilometers  depending on the bus,Relevant
 Those planned maintenances are sorted 1 500 kilometers in advance by the software in order for the technical and maintenance head to be able to plan their actual execution with the mechanics,Relevant
 Of course  more completion dates can be added manually in accordance with a specific date of a specific number of kilometers travelled,Relevant
 Lastly  Carpark keeps the history of all the maintenances and repairs that have been done on each vehicle,Relevant
 The repair process starts with the transmission of a complaint through Carpark,Relevant
 With this complaint  a driver signals a damage (a breakdown or an accident) after having made a research with the number of the vehicle in order to verify that the damage has not already been signaled and avoid any duplication,Relevant
-The content of the complaint is the following : the problem  the vehicle concerned  its kilometers travelled  and  if the driver wants to  his email address or his phone number in order to receive a message when the complaint is taken in charge,Irrelevant
+The content of the complaint is the following   the problem  the vehicle concerned  its kilometers travelled  and  if the driver wants to  his email address or his phone number in order to receive a message when the complaint is taken in charge,Irrelevant
 The technical and maintenance head can consult the list of all the complaints in Carpark,Irrelevant
 He then decides of the moment the complaint has to be treated   depending on the urgency of the problem,Relevant
 If the problem is considered as urgent  the technical and maintenance head directly visits the garage where the repair is going to be done in order to find mechanics who are available to take the bus in charge,Relevant
@@ -1251,7 +1251,7 @@ Once a new piece arrives  either it is immediately used because it has been orde
 Each piece of the stock is identified by a particular barcode (which is also useful to keep track of the pieces used during each repair  as mentioned previously)  and has a particular place in the warehouse determined by a departement  a shelf and a level,Relevant
 Keolis Belgium and its subsidiaries owns many gas stations with their fuel pumps  but they also manage the tankage of other stations in areas where they don’t own any cistern,Irrelevant
 This mix of their own tanks and the external tanks is centralized in one software  Telenaro   where the internal tanks are continuously updated  and the data from their external clients are imported two times a month,Relevant
-Telenaro gathers all the societies  vehicles of the group  internal and external drivers  and data related : type of vehicle  maximum level of the fuel tank  baseline consumption  current consumption  and all the other details linked with the tankage,Relevant
+Telenaro gathers all the societies  vehicles of the group  internal and external drivers  and data related   type of vehicle  maximum level of the fuel tank  baseline consumption  current consumption  and all the other details linked with the tankage,Relevant
 That permits automated statistics about the consumption of fuel  as a way of efficient control despite the size of the entire group and the number of stations  vehicles and cisterns,Relevant
 Moreover  the forecasting of the resupply of each cistern is based on an estimated range computed from the average daily consumption registered,Relevant
 Lastly  Telenaro keeps the history of all the deliveries of fuel  the deltas given by the probes (see further)  the alerts from problems during a delivery  etc,Relevant
@@ -1276,7 +1276,7 @@ Then  the delivery is confirmed by the system to the operator in charge as well 
 The system automatically creates and sends the invoice to the society that benefited from the delivery  and a copy to the manager in charge so that he is able to control if the delivery corresponds to the negotiations made at the moment of the ordering,Relevant
 It also generates the excise documents for the recovering as well as the official declaration for the Ministry,Relevant
 When an operator from any department wants to make a purchase  he has to fill in an investment request,Relevant
-Four different investment requests are used in Keolis Belgium for :,Relevant
+Four different investment requests are used in Keolis Belgium for  ,Relevant
 ? Rolling stock (buses for regular lines  scholar lines  tourisms  but also trailers for the luggages …),Relevant
 ? No-rolling stock (supplies for the garages  tools  compressors …),Relevant
 ? Properties (buildings  but also air-conditioning  garage doors  led lights  bus wash …),Relevant
@@ -1287,7 +1287,7 @@ If the management validates the purchase  the investment request has now to be s
 Once the investment request has been signed  it is sent via email to the supplier that launches the delivery,Relevant
 In order to close the process  the invoice still has to be validated by the purchase department that confirms the purchase,Relevant
 The firm has a few master contracts with some suppliers  and all the subsidiaries are strongly encouraged to make their purchases through those master contracts as a priority,Irrelevant
-Of course  case-by-case exceptions are possible but this tolerance toward the appeal to other suppliers is supervised : if a department constantly makes purchases with other suppliers that the ones concerned by the master contracts negotiated by the organisation  an operational manager or an head of the subsidiary will make sure it stops,Relevant
+Of course  case-by-case exceptions are possible but this tolerance toward the appeal to other suppliers is supervised   if a department constantly makes purchases with other suppliers that the ones concerned by the master contracts negotiated by the organisation  an operational manager or an head of the subsidiary will make sure it stops,Relevant
 In fact  76% of the purchases of the organisation are made within master contracts,Irrelevant
 For example  all the OPEX (Operational Expenditures) that concern office supplies are subject to master contracts,Irrelevant
 If no master contract concerns the purpose of the purchase and if the amount if that purchase exceeds 5 000 euros  three offers generally have to be collected before making a choice of a supplier  in order to compare the price-quality ratios  the delivery time  the quality of the after-sales service  etc,Relevant
@@ -1296,15 +1296,15 @@ The final choice of a supplier is made by the purchase department in tandem with
 Besides those master contracts  the company also has some price conventions and other pre-negotiated purchase terms with some other suppliers,Irrelevant
 Whenever the company wants to broaden the number of clients it reaches  the very first step concerns the work of the marketing team,Relevant
 The aim is to get information about potential clients in order to determine if the company can propose valuable services to them and conclude an order,Irrelevant
-This preparation is essential because it is the foundation of the sale process : the sales representatives from the commercial team have to be well prepared for the coming negotiation,Irrelevant
+This preparation is essential because it is the foundation of the sale process   the sales representatives from the commercial team have to be well prepared for the coming negotiation,Irrelevant
 Once the information has been collected through market analysis  the commercial team contacts the potential client and a first negotiation takes place,Relevant
 The aim is to determine whether the client is interested by the potential offer  and the sales representative bases its argumentation on the client analysis previously communicated by the marketing department,Relevant
 After the negotiation and if the client is indeed interested  a first offer is created,Relevant
-This offer needs to be signed by several managers : if the offer is not appropriated  it might compromise the sale,Relevant
+This offer needs to be signed by several managers   if the offer is not appropriated  it might compromise the sale,Relevant
 After having been signed  the offer is sent to the client by email,Relevant
 If the client directly accepts the offer  the sale is validated and the processes of invoicing and delivering can start,Relevant
 But if the client is not entirely satisfied with the proposition  more negotiations can take place in order to have the approval of the client  while still respecting the frames and goals from the management,Relevant
-Repeating the last circle several times would be very heavy due to the long approbation chain   but that almost never occurs : generally  if the second offer is still not validated by the client  the sale is cancelled,Relevant
+Repeating the last circle several times would be very heavy due to the long approbation chain   but that almost never occurs   generally  if the second offer is still not validated by the client  the sale is cancelled,Relevant
 Empty bottles are returned by the customers  once the bottles are received we sort the types of bottles before washing them afterwards  we control the cleanliness of the bottles and the quality of the bottles with a laser to detect the slightest defect,Relevant
 If the bottles have defects  they are rejected and if not  they are kept,Relevant
 Then the bottles are filled  captured  labelled and marked with the expiry date,Relevant
@@ -1319,21 +1319,21 @@ Once the beer is ready  it is delivered and the invoice is sent to the customer,
 AB InBev receives unsolicited applications but also via other channels (Indeed and Forem)  the People department receives applications,Relevant
 1. CV screening consists of the elimination of CVs that do not meet the criteria requested by the company  and when information is missing we send an e-mail to warn the candidate,Relevant
 If they do not meet the criteria  their application will not have been selected,Relevant
-2. The telephone interview: the recruiter will contact the selected candidates by telephone (5-10 minutes),Relevant
+2. The telephone interview  the recruiter will contact the selected candidates by telephone (5-10 minutes),Relevant
 If he is convinced  he will invite the candidate to the recruitment morning,Relevant
 3. The recruitment morning is a collective interview  there is a series of tests,Relevant
 Successful candidates are contacted by telephone to invite them to the next interview with the N+1 or N+2,Relevant
-4. Interview with the department manager : The manager turns his interview more towards the personality of the candidate,Relevant
+4. Interview with the department manager   The manager turns his interview more towards the personality of the candidate,Relevant
 If the candidate is accepted  he or she is invited to a training course,Relevant
-"5. Form’Alim"" training: Form’Alim is a training course specially created for production operators in the food industry,Irrelevant"
-"6. The first ""seasonal"" contract and coaching: When signing the contract  the candidate is invited to the People Department to complete documents,Relevant"
-7. The permanent contract: If the employee receives a sufficient number of positive feedbacks  his manager is satisfied with his work and ABI has the opportunity to do so  he will be offered a permanent contract,Relevant
+"5. Form’Alim"" training  Form’Alim is a training course specially created for production operators in the food industry,Irrelevant"
+"6. The first ""seasonal"" contract and coaching  When signing the contract  the candidate is invited to the People Department to complete documents,Relevant"
+7. The permanent contract  If the employee receives a sufficient number of positive feedbacks  his manager is satisfied with his work and ABI has the opportunity to do so  he will be offered a permanent contract,Relevant
 Different types of malts are put together in the tank,Relevant
 They are crushed in order to extract the fermentable sugar,Relevant
 The resulting product is then mixed with heated water in a vat,Relevant
 Then the liquid is pumped into another tank in which the husks of the grains are separated from the suicidal liquid,Relevant
 The liquid obtained is then subjected to strong heat in a kettle,Relevant
-After this step  we will be able to proceed to the fermentation process: we will add hops and yeast which will convert the sugar into beer  then we will cool the beer  filter it and add CO2 to make the beer sparkling,Relevant
+After this step  we will be able to proceed to the fermentation process  we will add hops and yeast which will convert the sugar into beer  then we will cool the beer  filter it and add CO2 to make the beer sparkling,Relevant
 So all that remains is to wait until the beer is mature (3 weeks) before it can be sold and consumed,Relevant
 The aim of this process is to answer  positively or not  to an employee’s holiday request,Irrelevant
 The process starts when an employee makes a request which is received by a human resource analyst,Relevant
@@ -1363,9 +1363,9 @@ If the training has not already been taught in the past  then the manager has to
 Otherwise  the manager only has to schedule the session of related training (called then a session) and contact the external trainer of his choice  specialized in this field,Relevant
 As the attendance needs to be recorded for obvious financial and organizational reasons  the manager establishes a list of attendees thanks to the form sent earlier on and the IT training system,Relevant
 1 week before the training’s day  a reminder is sent by email to the attendees,Relevant
-After the session  the manager has to perform 3 tasks simultaneously: ask for a debrief  apply the post-training process and update attendees’ skills in the database,Relevant
+After the session  the manager has to perform 3 tasks simultaneously  ask for a debrief  apply the post-training process and update attendees’ skills in the database,Relevant
 That being done  the whole process finally ends,Relevant
-Subprocess : If a training has not been given yet on a particular subject in the past  the manager has to design the training and fill a form with the details of it,Relevant
+Subprocess   If a training has not been given yet on a particular subject in the past  the manager has to design the training and fill a form with the details of it,Relevant
 If the HR director does not accept the training framework for various reasons (the training being too expensive  too time-consuming for the human resources etc)  the manager has to re-evaluate it and redesign the training,Relevant
 Otherwise  the manager can select the language the training will be given in (French  English or both),Relevant
 Finally  he has to save the choices made before and this creates the training in their IT training system,Relevant
@@ -1394,7 +1394,7 @@ In the second case  the employee will only analyze the documents and CVs of the 
 Based on these documents  the employee decides whether or not to go on with the process by calling the candidate if selected,Relevant
 The process starts when a message from the MRP system2 is received,Relevant
 Indeed  to manufacture a pump for a customer  they need material resources  and the MRP system knows it so it sends notifications to the central purchasing department that will then take care of this information,Relevant
-Then  three activities have to be done in parallel: • Create an X-Flow3 • Request for quotation to the supplier • Do a framework agreement price matrix (it is done to calculate costs of the pump),Relevant
+Then  three activities have to be done in parallel  • Create an X-Flow3 • Request for quotation to the supplier • Do a framework agreement price matrix (it is done to calculate costs of the pump),Relevant
 When these 3 tasks are completed  the company places an order with its supplier who then takes care of the delivery,Relevant
 Then the product is sent to the quality control to check the quality of the products received,Relevant
 If the quality does not meet the expectations  they are sent back to the supplier and the supplier delivers better products or does some repairs on them,Relevant
@@ -1422,11 +1422,11 @@ After all these activities  the pump is ready to be sold so the product developm
 The process starts when the production order is received from the SAP system,Relevant
 The workers can then take the raw parts needed for a specific pump in the warehouse,Relevant
 When it is done  they send a notification to inform the SAP system that this step of the production is done,Relevant
-Then the system sends a work order to the workers in the machining service and two activities are done in parallel : the transformation of raw parts that is done by the workers and the one that is done by the subcontractor,Relevant
+Then the system sends a work order to the workers in the machining service and two activities are done in parallel   the transformation of raw parts that is done by the workers and the one that is done by the subcontractor,Relevant
 When all the pieces are transformed by the subcontractor or by the workers  they can store those finished materials in the warehouse and once again inform the SAP system,Relevant
 Then they receive another work order from SAP to pre-assemble the pump,Relevant
 When it is done  they store the subsets and inform SAP,Relevant
-Once again they receive a work order  and they have to do two activities in parallel : do the piping and assemble the bareshaft pump4,Relevant
+Once again they receive a work order  and they have to do two activities in parallel   do the piping and assemble the bareshaft pump4,Relevant
 Then when those two activities are done  they can assemble the final pump and check its performance thanks to an internal and an external quality controller,Relevant
 If the performance is of good quality  the pump is dispatched,Relevant
 A notification is then sent to SAP and the process ends,Relevant
@@ -1454,7 +1454,7 @@ Once an application is selected  an interview is set up between the candidate an
 Then the candidates selected after the first interview are interviewed by a partner of the firm,Relevant
 Once the candidate has been selected  the integration phase begins  the candidate will receive a salary package from the HR department  and a mentor will be appointed to supervise the new candidate and help him or her integrate as well as possible,Relevant
 A form is sent to all members of the firm to inform them of the arrival of a new employee,Relevant
-The integration process: On the first day  the employee is welcomed by the HR department and the administrative assistant,Relevant
+The integration process  On the first day  the employee is welcomed by the HR department and the administrative assistant,Relevant
 The employee is given his or her work tools (mobile phone  PC  car) and is explained the IT tools used at Resultance,Relevant
 They are told what they need to know about the firm  the company  s values are explained to them and they receive their assignment,Relevant
 He will be attached to a project and will know the manager who is going to supervise it,Relevant
@@ -1501,7 +1501,7 @@ If there is a discrepancy  the offer is corrected,Relevant
 When the offer is finally approved  it is sent to the central team in India to copy it in SAP,Relevant
 The central team signals that the offer is confirmed to the local Belgian team by email,Relevant
 When this email is received in Belgium  the offer is confirmed to the client,Relevant
-There are 3 possibilities for GSK to receive an order for their products from a customer:,Relevant
+There are 3 possibilities for GSK to receive an order for their products from a customer ,Relevant
 • The customer can place his order through a sales representative of GSK during a physical visit,Relevant
 This case applies mainly to the pharmacies,Irrelevant
 The representative encodes the order on a tablet connected to the GSK ordering system,Relevant
@@ -1852,11 +1852,11 @@ At 10 am every workday  the Data Entry office takes the invoices and enters all 
 Every hour the Mail Centre office reviews the system and forwards all new invoices for validation  the Validation office executes the big process of validating invoices,Relevant
 At the beginning of every week  the Payment office executes the payment of every validate invoice  this is another big process,Relevant
 After the payment  all invoices are archived by the Registry office,Relevant
-The process starts when the SO: Angebot/Auftrag receives a subsidiary order,Relevant
-The SO: Angebot/Auftrag prepares goods for shipment and then ships the goods  concurrently with preparing the goods and shipping them  the SO: Angebot/Auftrag prepares invoicing,Relevant
-In case the customer is subsidiary and the subsidiary relationship is not yet modeled  SO: Address- management adds parent company as invoicing address  then the SO: Angebot/Auftrag create the invoice,Relevant
-Otherwise if the customer is independent or the subsidiary relationship is already modeled in ERP  the SO: Angebot/Auftrag directly creates the invoice,Relevant
-Finally  the SO: Angebot/Auftrag sends the invoice,Relevant
+The process starts when the SO  Angebot/Auftrag receives a subsidiary order,Relevant
+The SO  Angebot/Auftrag prepares goods for shipment and then ships the goods  concurrently with preparing the goods and shipping them  the SO  Angebot/Auftrag prepares invoicing,Relevant
+In case the customer is subsidiary and the subsidiary relationship is not yet modeled  SO  Address- management adds parent company as invoicing address  then the SO  Angebot/Auftrag create the invoice,Relevant
+Otherwise if the customer is independent or the subsidiary relationship is already modeled in ERP  the SO  Angebot/Auftrag directly creates the invoice,Relevant
+Finally  the SO  Angebot/Auftrag sends the invoice,Relevant
 In a certain company an Invoice process is started,Irrelevant
 First the Vendor is tried to be located into the SAP system of the company,Relevant
 If it is not possible to find it a sub-process to record this new Vendor is started,Relevant
@@ -1865,7 +1865,7 @@ After this  the request is attached to the invoice and then putted in an interna
 Before the request is finished it is classified in urgent and non-urgent invoices,Relevant
 Whenever the Invoice is urgent this Request has a maximum 24 hr window to be finished  while if it is non-urgent it has a 1-5 working days time to be done,Relevant
 If the Vendor is already in the system or the request for new Vendor Record has finished  its SAP number is then added to the invoice and the process continues,Relevant
-The invoices can be sorted in two ways: by amount and by vendor,Irrelevant
+The invoices can be sorted in two ways  by amount and by vendor,Irrelevant
 The invoices are then entered in the SAP system and the process is finished,Relevant
 The process starts when the admin office in SSP receives the invoice  the admin office then sorts the invoice per client  sorts the invoice per vendor  attaches invoice entry form to invoice  enters required info on the invoice entry form  and checks the completeness of the invoice after the client has completed the invoice,Relevant
 If the invoice is not completed a message is sent and the process finishes,Relevant
@@ -1890,7 +1890,7 @@ The process starts with a visitor filling out a registration-form,Relevant
 The availability of products and the credit rating is checked first,Relevant
 If the credit rating is higher than 9000 (according to Schufa) the registration is called unsuccessful,Relevant
 If not the interim customer dataset record is created,Relevant
-After this two sub-processes starts in parallel: Device provision and Register customer account at ISP nodes,Relevant
+After this two sub-processes starts in parallel  Device provision and Register customer account at ISP nodes,Relevant
 Once these sub-processes are finished a welcome package is created and sent to the customer to alert them that the registration process was completed successfully,Relevant
 A PayPal client wants to pay with bank account and has selected this as payment option,Relevant
 For bank account addition  first  the PayPal client needs to enter all relevant bank details ,Relevant
@@ -2104,7 +2104,7 @@ A guest enters the restaurant when feeling hungry,Relevant
 He chooses a dish from the changing meal range and waits until it is his turn,Relevant
 Following this he places his order with the employee,Relevant
 The employee enters the order into the POS system and collects the money from the guest,Relevant
-"After the payment  the employee sets up a buzzer and passes it on to the guest with the following information: ""When the buzzer rings  your dinner is ready"",Relevant"
+"After the payment  the employee sets up a buzzer and passes it on to the guest with the following information  ""When the buzzer rings  your dinner is ready"",Relevant"
 Afterwards the employee informs the chef of the new meal order,Relevant
 The chef prepares the meal and places it in the service hatch,Relevant
 He then informs the employee that he has placed the finished meal in the service hatch,Relevant
@@ -2115,7 +2115,7 @@ As soon as the guest appears at the service hatch  the employee hands over his m
 Should a guest not react to the buzzer  the employee calls for him after 5 minutes  if necessary several times in a row,Relevant
 henever a company makes the decision to go public  its first task is to select the underwriters,Relevant
 Underwriters act as financial midwives to a new issue,Irrelevant
-Usually they play a triple role: First they provide the company with procedural and financial advice  then they buy the issue  and finally they resell it to the public,Irrelevant
+Usually they play a triple role  First they provide the company with procedural and financial advice  then they buy the issue  and finally they resell it to the public,Irrelevant
 Established underwriters are careful of their reputation and will not handle a new issue unless they believe the facts have been presented fairly,Irrelevant
 Thus  in addition to handling the sale of a company’s issue  the underwriters in effect give their seal of approval to it,Relevant
 They prepare a registration statement for the approval of the Securities and Exchange Commission (SEC),Relevant
@@ -2182,8 +2182,8 @@ Pay determination from time and performance account is effected by the human res
 b) After calculation of net pay  HR generates the payment to the employees.,Relevant
 At the same time net pay is posted into the payroll account and the data is transferred to other applications.,Relevant
 a) The product manager creates a new BOM by specifying the material number  the usage and the validity period.,Relevant
-b) Thereafter the product manager enters the BOM components: each component to be entered is given an item number (10  20  30.)  a component number  a quantity and a validity date.,Relevant
-c) The components are assigned to the BOM: either the operation from routing is assigned or the object dependencies are entered or the BOM item is classified or any combination of the BOM item assignments.,Relevant
+b) Thereafter the product manager enters the BOM components  each component to be entered is given an item number (10  20  30.)  a component number  a quantity and a validity date.,Relevant
+c) The components are assigned to the BOM  either the operation from routing is assigned or the object dependencies are entered or the BOM item is classified or any combination of the BOM item assignments.,Relevant
 d) The controlling department enters the BOM header data (BOM group is determined  status is set and base quantity is entered).,Relevant
 Finally the BOM is saved.,Relevant
 a) When creating a work centre  the controlling department specifies the plant and the work centre category.,Relevant
@@ -2203,7 +2203,7 @@ The system used is the customer relationship management module (CRM).,Irrelevant
 a) When a MRP run is to be executed  the manufacturing department specifies the plant using the production planning system (PP).,Relevant
 b) Then the manufacturing department specifies the MRP parameters (planning type  category of purchase requisition  category of schedule line creation  MRP list creation category  planning mode  lead time scheduling to be executed or not).,Relevant
 c) After specifying the parameters  the MRP run can be launched.,Relevant
-The result of the run leads to the creation of a combination of the following events  which may be subject to further processing:,Relevant
+The result of the run leads to the creation of a combination of the following events  which may be subject to further processing ,Relevant
 "d) ""Purchase Requisition""  ""Scheduled Quantity""  ""Dependent Requirement""  ""Planned Order""  ""Capacity Load""  ""Planning Result""  and .MRP List"".,Relevant"
 a) A planned order is either created automatically or manually.,Relevant
 A combination of automatic and manual creation is also likely.,Irrelevant
@@ -2230,7 +2230,7 @@ And finally the material master is created.,Relevant
 a) On receiving an inquiry the sales department checks whether the data is complete or not.,Relevant
 b) Any missing data is collected by telephone (the sales department is still responsible).,Relevant
 c) Once the data is complete  the inquiry is processed at the sales & distribution system (SD).,Relevant
-Data is: article name  quantity  and date of delivery…,Irrelevant
+Data is  article name  quantity  and date of delivery…,Irrelevant
 d) Afterwards  the controlling department determines the preliminary costs of the product and the research & development department (R&D) checks the technical feasibility.,Relevant
 The systems used are SD  material management (MM) and production planning (PP).,Irrelevant
 e) Raw materials having a long period of delivery are purchased by the purchasing department in advance.,Relevant
@@ -2277,12 +2277,12 @@ e) If the invoice is not correct  the purchasing department requests an invoice 
 Finally account payable department posts the correct invoice using the module accounts payable (AP).,Relevant
 a) On occurrence of a capacity shortage  the system verifies whether to perform an interactive or an automatic calibration.,Relevant
 The system used is PP (production planning).,Relevant
-b) For interactive calibration the manufacturing department starts the calibration run leading to any of the following events: production is rescheduled or tools are relocated or additional resources are allocated or the working sequence is modified.,Relevant
+b) For interactive calibration the manufacturing department starts the calibration run leading to any of the following events  production is rescheduled or tools are relocated or additional resources are allocated or the working sequence is modified.,Relevant
 c) Thereafter the calibration is completed.,Relevant
 If capacity shortage still persists and another run is indicated  interactive calibration will be executed again  otherwise  the calibration is aborted.,Relevant
 d) In any case  the manufacturing department examines the whole network for functional failures at the end of the process.,Relevant
 a) To launch/relaunch a product  the design department needs to prepare a raw design according to the product specification using the CAD-system.,Relevant
-b) Once the raw design is completed  the following departments test if the product meets their requirements: the sales  the manufacturing  the purchasing  and the quality control department.,Relevant
+b) Once the raw design is completed  the following departments test if the product meets their requirements  the sales  the manufacturing  the purchasing  and the quality control department.,Relevant
 c) Should the tests fail in one of the departments  then the raw design is revised and the modified product is tested again by all departments.,Relevant
 d) Once the tests are successful  the departments give instructions to prepare the final design.,Relevant
 Thereafter the drafting department prepares the final design.,Relevant
@@ -2313,8 +2313,8 @@ b) Once distributed  the person in charge processes the assignments using the wo
 c) If no issues occur  then the assignments are completed and the business process is completed.,Relevant
 d) In case there are issues  the person in charge determines the type of issue.,Relevant
 e) For issues relative to the content the person in charge analyses the issues and consults the department manager who finds a solution to the problem.,Relevant
-f) For issues regarding the deadline  the process is as follows: until a solution is found  the hierarchically next manager will be involved.,Relevant
-The order is as follows: process manager  department manager  division manager  CEO (solves the issue),Relevant
+f) For issues regarding the deadline  the process is as follows  until a solution is found  the hierarchically next manager will be involved.,Relevant
+The order is as follows  process manager  department manager  division manager  CEO (solves the issue),Relevant
 a) To register for a course  a student has to log in LPIS.,Relevant
 For this he has to enter his immatriculation number and his password.,Relevant
 b) When the wrong combination is entered the system proofs how often it was wrong.,Relevant
@@ -2370,7 +2370,7 @@ e) After that  he has to enter the title of the auction and he can upload one or
 There is a maximum size for the images  so the system will verify this automatically.,Relevant
 If the picture is too big  the customer has to choose another one.,Relevant
 f) Following this  the seller has to enter some product-specific information and an individual description.,Relevant
-g) After entering both  the customer has to input: end time  payment details and transport information.,Relevant
+g) After entering both  the customer has to input  end time  payment details and transport information.,Relevant
 h) When the seller has entered all these information  he can see a preview.,Relevant
 The seller can decide if he is satisfied or if he wants to change some entries.,Relevant
 Therefore the system goes back to the first step  where the customer has to choose a category.,Relevant
@@ -2553,7 +2553,7 @@ Alternatively  components may not be available via standard supplier and the mat
 Consequently  a quotation is made.,Relevant
 Regardless of which of the both cases applies  the process goes back to adding the new peripherals.,Relevant
 f) In the next step  the sales department (using the Sales information system) calculates the price of the prototype and  at the same time  the price for board quantity of one thousand pieces.,Relevant
-Thereafter the hardware design department is responsible for the following procedures: components   fitment checking  board size checking  carrying out of preliminary placement  creation of 3D model of the board  connector  s fitment checking and components   height checking (some of the input data used are components  chipset  3D data and connectors).,Relevant
+Thereafter the hardware design department is responsible for the following procedures  components   fitment checking  board size checking  carrying out of preliminary placement  creation of 3D model of the board  connector  s fitment checking and components   height checking (some of the input data used are components  chipset  3D data and connectors).,Relevant
 g) After finishing of all procedures  two possible outcomes exist.,Relevant
 In the first case  problems have occurred after the previous checks.,Relevant
 This forces the hardware design department to revise the problematic component(s).,Relevant
@@ -2597,10 +2597,10 @@ Finally  the customer leaves the restaurant and the process is over.,Relevant
 If no new records are found  then the process should check the CRM system to see whether new returns have been filed.,Relevant
 If new returns exist  then register all defaulting accounts and customers.,Relevant
 If the defaulting client codes have not been previously advised  produce another table of defaulting accounts and send to account management.,Relevant
-All of this must be completed by 2:30 pm  if it is not  then an alert should be sent to the supervisor.,Relevant
+All of this must be completed by 2 30 pm  if it is not  then an alert should be sent to the supervisor.,Relevant
 Once the new defaulting account report has been completed  check the CRM system to see whether new returns have been filed.,Relevant
 If new returns have been filed  reconcile with the existing account defaulters table.,Relevant
-This must be completed by 4:00 pm otherwise a supervisor should be sent a message.,Relevant
+This must be completed by 4 00 pm otherwise a supervisor should be sent a message.,Relevant
 The Customer Service Representative sends a Mortgage offer to the customer and waits for a reply.,Relevant
 If the customer calls or writes back declining the mortgage  the case details are updated and the work is then archived prior to cancellation.,Relevant
 If the customer sends back the completed offer documents and attaches all prerequisite documents then the case is moved to administration for completion.,Relevant
@@ -2634,7 +2634,7 @@ If the design fails the test  then it is sent back to the first Activity (in the
 If the design passes the test  then it tells the other department that they need to restart their work.,Relevant
 When both of the designs have been revised  they are combined and tested.,Relevant
 If the combined design fails the test  then they are both sent back to the beginning to initiate another design cycle  if the designs pass the test  then they are deemed complete and are then sent to the manufacturing Process [a separate Process].,Relevant
-The goods are divided into two types: cold and warm.,Irrelevant
+The goods are divided into two types  cold and warm.,Irrelevant
 All cold goods are simply taken from the storehouse  whereas warm goods are prepared half an hour before the delivery starts.,Relevant
 After the customer has chosen several gold and warm goods  he can proceed to the checkout.,Relevant
 The checkout requires the selection of 1) a customer profile  2) the delivery time  and 3) the credit card number  which is debited at the bank.,Irrelevant
@@ -2659,11 +2659,11 @@ The students are not yet involved in the planning phase  where each research gro
 As the project proposals have to be handed in to the faculty by 30 June  the research group starts planning in the beginning of June.,Irrelevant
 The group sends request to all of its partners and waits for their proposals for at most a week.,Relevant
 The group selects the two most interesting proposals and starts planning the details for these two proposals.,Relevant
-First  the proposal is worked over in several iterations:,Relevant
+First  the proposal is worked over in several iterations ,Relevant
 The group updates the proposal document  before it is sent to the partner who in turn updates it and sends it back.,Relevant
 Once the document has reached a final status  it is handed in to the faculty.,Relevant
 The faculty decides which of the proposals will be accepted.,Relevant
-The outcome of this decision results in one of two messages: Either the project proposal was rejected or it was accepted.,Relevant
+The outcome of this decision results in one of two messages  Either the project proposal was rejected or it was accepted.,Relevant
 In the latter case the group announces this positive result to the corresponding partner.,Relevant
 After the reception of a meeting remainder  a new account must be created if the employee does not already have one.,Relevant
 The report is then reviewed for automatic approval.,Relevant
