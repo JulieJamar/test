@@ -138,7 +138,7 @@ If his answer is that it is okay he must be informed about the start of the inte
 Then the intervention is finished,Relevant
 But if he refuses the quote the process ends again,Relevant
 If the answer is no the client must be informed about the start of the intervention and also when it will be finished,Relevant
-The process starts when a customer makes a request to open/close the P1/S1 port (these are ports on the smart meter that allow the customer to connect their application on which they can consult their energy consumption in real time),Relevant
+The process starts when a customer makes a request to open close the P1 S1 port (these are ports on the smart meter that allow the customer to connect their application on which they can consult their energy consumption in real time),Relevant
 The call is received by an interlocutor (called Connexio working for a defined network distribution manager in our case for ORES obviously),Relevant
 The Connexio will then control whether the customer is addressing the correct DNM using an identification database,Relevant
 If it is the wrong DNM the Connexio informs the customer and the call ends,Relevant
@@ -155,7 +155,7 @@ Concerning the preparatory work if they are not the client’s responsibility then
 But if they are the responsibility of the customer the Connexio informs the customer about the preparatory work he waits for a response if the customer does not accept the file is closed and the process ends,Relevant
 If he accepts then he also asks what type of appointment to make,Relevant
 There are two types of appointments The first one is if remote operations work (from June 2020) the Connexio sends confirmation to the customer but also to the control room that the thing has been taken into account,Relevant
-The control room receives this remote operation request for opening / closing port P1 / S1 and the process is terminated,Relevant
+The control room receives this remote operation request for opening   closing port P1   S1 and the process is terminated,Relevant
 The second one is if the technician has to come to the customer’s house the Connexio controls the duration of the intervention he schedules an appointment (if the intervention cannot be scheduled the Connexio records the non schedulable intervention request and the call ends),Relevant
 After scheduling the appointment he sends the appointment confirmation to the client waits for the appointment confirmation,Relevant
 After receipt he sends the work order to the technician,Relevant
@@ -209,18 +209,18 @@ If the client is present they sign the worksheet and if they are not a calling c
 Both of them lead to saving the worksheet and ending the process in the Work control OSP lane with post administration,Relevant
 This process is divided into 5 lanes planned works technical solution officer supervisor manager and CTM coordinator,Irrelevant
 The process starts at planned works when an appointment s planning is needed,Relevant
-First thing is to know if it is a grid/construction work or not,Relevant
-If it is not a grid/construction work planned works assess if it is a civil engineering operation,Relevant
+First thing is to know if it is a grid construction work or not,Relevant
+If it is not a grid construction work planned works assess if it is a civil engineering operation,Relevant
 If it is a civil engineering operation they find out if there is an authorization or an information request (a),Relevant
-If it is not a civil engineering operation is it an individual planning? (b) If it is a grid/construction work that is needed the file is sent to the technical solution officer,Relevant
+If it is not a civil engineering operation is it an individual planning? (b) If it is a grid construction work that is needed the file is sent to the technical solution officer,Relevant
 (1) Planned works wait for the period defined in the order then check if there is a request for authorization or information,Relevant
 (a) If it is an information request planned works show the levelling zone and encodings to Powalco and then check KLIM and CICC and the process goes on,Relevant
 If it is an authorization request they check if the authorization has been received,Relevant
 If it has been received the process goes on if it hasn t planned works contact the competent authorities again to receive the authorization then the process goes on,Relevant
-Planned works then figure out if there s a presence of KLIM/CICC,Relevant
+Planned works then figure out if there s a presence of KLIM CICC,Relevant
 If there is the file is sent to the CTM coordinator (2) and planned works wait for the CTM coordinator s feedback,Relevant
 When the feedback is received the process goes on,Relevant
-(*) If there is not a presence of KLIM/CICC planned works find out if it is an individual planning,Relevant
+(*) If there is not a presence of KLIM CICC planned works find out if it is an individual planning,Relevant
 (b) If it is an individual planning the process goes on,Relevant
 If it is not an individual planning they form the batches transmit a list to the contractor and inform the client and the process goes on,Relevant
 (c) (*) Planned works then contact the client to arrange an appointment they make the client aware of the preparatory work and then plan the appointment with them,Relevant
@@ -233,7 +233,7 @@ If it is not the file is sent to a technician and planned works assess if it is 
 If it is not a civil engineering operation the process is done and a signal is sent to the process Execute the work ,Relevant
 If it is a civil engineering operation planned works send the file to the contractor to carry out civil engineering,Relevant
 The process is then done and a signal is sent to the process Execute the work ,Relevant
-(1) When the technical solution officer gets the file they get back the file s investment/cronos and check the CTM,Relevant
+(1) When the technical solution officer gets the file they get back the file s investment cronos and check the CTM,Relevant
 If there is a CTM file it is sent to the CTM coordinator (2) and the process goes on,Relevant
 If there is not a CTM file the process goes on,Relevant
 The technical solution officer adjusts the file (d) asks for authorization inform planned works of the theoretical period (*),Relevant
@@ -310,8 +310,8 @@ At last the new contract will automatically start at the end of the former one,R
 By using Flora a procedure that can take several days for clients is now completed in a few minutes,Irrelevant
 Filling a complaint is one of the most common processes inside an insurance company,Irrelevant
 This is usually a very tedious process for the client but now thanks to the new channel of communication it is much easier for the clients using the Flora’s application in order to fill a complaint this can be done in few minutes,Irrelevant
-The prospection and commercial process is triggered by the sales engineers who study the requirements of the prospects/potential clients,Relevant
-Then the CEO/COO elaborate sales strategy and set individual goals,Relevant
+The prospection and commercial process is triggered by the sales engineers who study the requirements of the prospects potential clients,Relevant
+Then the CEO COO elaborate sales strategy and set individual goals,Relevant
 Sales Engineers receive requests for quotation from clients and afterwards they consider whether the project submitted by the customers is feasible for Alpha or not,Relevant
 If not the request is declined and the process is stopped,Relevant
 But if the quotation is feasible sales engineers work together with the help of R&D engineers to make a technical and commercial offer and ask for client’s agreement,Relevant
@@ -324,7 +324,7 @@ When these two tasks are completed the back office confirms and validates the or
 Once this last step is completed the prospection and commercial process ends,Relevant
 The R&D process starts when a need is expressed,Relevant
 Sales engineers and R&D engineers formalize the request describe the new product and evaluate the feasibility (cost strategy coherence ) in the early stages,Relevant
-Then the CEO/COO challenge their analyze and decide if the feasibility is conceivable (the project is stopped if it is not the case),Relevant
+Then the CEO COO challenge their analyze and decide if the feasibility is conceivable (the project is stopped if it is not the case),Relevant
 Sales engineers and R&D engineers check prototype scale feasibility & conduct tests,Relevant
 If the project is technically validated by R&D the production engineers go on by checking industrial feasibility and preparing production file,Relevant
 After that step the Quality Manager certificates the product and requests client s approval by sending them the previous documents,Relevant
@@ -435,7 +435,7 @@ If the card is not corresponding to the candidate the employee takes the ID card
 The client is thus refused because of failure and fraud,Relevant
 If the card corresponds to the candidate the centre employee checks the number of failures and the driving school certificate if necessary,Relevant
 The employee then registers the candidate,Relevant
-If a session is not available the client asks the availability and/or takes an appointment then comes back to the beginning (arrival),Relevant
+If a session is not available the client asks the availability and or takes an appointment then comes back to the beginning (arrival),Relevant
 If a session is available he checks that the client is already in the database,Relevant
 If the client isn’t the centre employee creates a new file in the Database Permis (‘DB Permis’),Relevant
 If the client was already registered or has just been registered the employee registers the candidates and checks his data,Relevant
@@ -474,7 +474,7 @@ If the address is known located in Belgium and complete the user clicks on “Conf
 The monthly rental amount is a mandatory field,Irrelevant
 If it is left empty a warning red notice must ask the user to correctly fill it out (Max of characters 7),Relevant
 If the user enters a higher rent the pop up window appears informing the user that Flora doesn’t insure properties with a rent higher than 1500€,Relevant
-The user can decide to move on to the Ethias website or exit the Flora’s quote calculation process by clicking on the X in the upper right hand corner / the button “Je comprends”,Relevant
+The user can decide to move on to the Ethias website or exit the Flora’s quote calculation process by clicking on the X in the upper right hand corner   the button “Je comprends”,Relevant
 The user then goes to the Prix page which mentions the price of the rental insurance for his property at his address,Relevant
 The price covers the civil liability and the content of the housing,Irrelevant
 The user can choose to add or not add the vandalism cover,Relevant
@@ -564,7 +564,7 @@ Then they have to wait 10 days to have a decision from the banker,Relevant
 If after 10 days they don’t have an answer they can reschedule an appointment to have the final decision (usually if they don’t have an answer after 10 days it’s because the loan has been rejected so during this second meeting they will try to find a new arrangement),Relevant
 If no arrangement has been found the process ends here,Relevant
 The commercialization of plots of lands and building starts when Spi receives by email the interest of a client to buy a building or a plot of land,Relevant
-Then it has to acknowledge/confirm the receipt in order to follow the sale,Relevant
+Then it has to acknowledge confirm the receipt in order to follow the sale,Relevant
 Once the receipt acknowledges Spi has a free two month reservation to send a form to the candidate buyer,Relevant
 This one fills out the request and sends it back to the company which has the duty to complete sign and date the form,Relevant
 Once this first step done Spi’ executive board has one month to take a decision about the sale of its plots of land or building,Relevant
@@ -621,11 +621,11 @@ After that each excluded student will receive work on the LMS platform and there
 The process begins when a teacher is absent,Relevant
 If the teacher is absent for more than 3 months (at least 15 weeks) then they have to hire a priority temporary that is a teacher who has already given lessons either in the school or in a group of schools attached to the school for at least 360 days (accumulated not necessarily in the same school),Relevant
 In this case the management looks in its database for a priority temporary,Relevant
-If there is a priority temporary in the database they contact him/her by phone,Relevant
+If there is a priority temporary in the database they contact him her by phone,Relevant
 Finally a management member sends the schedule of the teacher to be replaced to the substitute teacher and the teacher is replaced,Relevant
 If the teacher is absent for less than a day then he is not replaced,Relevant
-However if he/she is absent for more than a day then a substitute teacher must be found,Relevant
-To find a substitute teacher there are two possible ways either the candidate has sent his/her CV (printed and classified in a folder in order of importance of the title) or via the website Primoweb on which we will be able to go do a search according to the teacher you want to hire,Relevant
+However if he she is absent for more than a day then a substitute teacher must be found,Relevant
+To find a substitute teacher there are two possible ways either the candidate has sent his her CV (printed and classified in a folder in order of importance of the title) or via the website Primoweb on which we will be able to go do a search according to the teacher you want to hire,Relevant
 Management will be able to enter a series of criteria such as the duration of the exercise the branch of expertise and so on,Relevant
 Then after pushing on the search button they can see the number of titles required of sufficient titles and of shortage titles,Relevant
 In the case of application by CV the candidate selection sub process begins when the file containing the applications is opened If there are required titles available then these are directly selected,Relevant
@@ -636,9 +636,9 @@ In the case of a candidate who has none of these titles it would be considered a
 Then the CV is downloaded by all members of the management,Relevant
 In the case of Primoweb we will first choose the required titles then the sufficient titles and then the shortage titles (the unlisted shortage titles are not listed on Primoweb ),Relevant
 Then we send an email to the candidate,Relevant
-If he/she accepts his CV is downloaded by all members of the management,Relevant
-If he/she refuses then the management goes back to Primoweb and looks for another replacement again in order of degree of importance,Relevant
-If he/she does not respond within 3 days the management returns to Primoweb and searches for another replacement always in order of degree of importance,Relevant
+If he she accepts his CV is downloaded by all members of the management,Relevant
+If he she refuses then the management goes back to Primoweb and looks for another replacement again in order of degree of importance,Relevant
+If he she does not respond within 3 days the management returns to Primoweb and searches for another replacement always in order of degree of importance,Relevant
 This process can sometimes take a very long time,Irrelevant
 After downloading the candidate s CV the members of the management will judge whether it is interesting or not,Relevant
 If it s not interesting that ends the process and the candidate is rejected,Relevant
@@ -650,18 +650,18 @@ If the interview is successful a member of the management phones the candidate t
 If the interview is not good the candidate is rejected,Relevant
 After calling the candidate they usually send the schedule of the teacher to be replaced,Relevant
 The process starts when the teacher wants to do an excursion with his students,Relevant
-Once the teacher has found an excursion he/she has to download an excursion document located on the digital workspace of the school in order to complete the first point of the document,Relevant
-Then he/she has to send that document to the school management where they will check for the validity of the document,Relevant
+Once the teacher has found an excursion he she has to download an excursion document located on the digital workspace of the school in order to complete the first point of the document,Relevant
+Then he she has to send that document to the school management where they will check for the validity of the document,Relevant
 If the document is not valid the process comes to an end and the excursion will not take place,Relevant
 If the document is valid the school management has to decide if they want to let the teacher carry out the excursion or not,Relevant
 If they decide to not give the permission to execute the excursion the process comes to an end,Relevant
 If they decide to let the teacher do the excursion they have to sign the document and send it to the accountant,Relevant
-The accountant will then evaluate the price of the excursion and he/she will inform the teacher,Relevant
+The accountant will then evaluate the price of the excursion and he she will inform the teacher,Relevant
 The teacher will then inform the parents of the excursion and give them all the necessary information such as the location the price the date and some general information about it,Relevant
 After that the teacher has to wait for the parents decision to either let go or not their child on the excursion,Relevant
-Once the teacher has received the parents decision he/she will book the excursion and carry it out,Relevant
+Once the teacher has received the parents decision he she will book the excursion and carry it out,Relevant
 Once the excursion is done the teacher has to complete the rest of the excursion document and to send it to the accountant,Relevant
-The accountant will then complete the document with other necessary documents such as the invoice and he/she will also mention the fees of the excursion in the periodic settlement of the students so that the fees will be added to what the parents have to pay at the end of the period,Relevant
+The accountant will then complete the document with other necessary documents such as the invoice and he she will also mention the fees of the excursion in the periodic settlement of the students so that the fees will be added to what the parents have to pay at the end of the period,Relevant
 After that the document is archived and the process is completed,Relevant
 Because of the covid crisis Sainte Véronique had to modify their organisation of parents’ meeting process,Irrelevant
 Indeed parents cannot enter the school anymore,Irrelevant
@@ -861,7 +861,7 @@ The order form is registered in the ERP system and a confirmation is sent to the
 The contract is reviewed by the project manager the file is prepared and information is sent for the registration to delivery process and the quotation registration process is ended,Relevant
 This process happens repeatedly throughout the day to journalists,Relevant
 Indeed they have to write several articles for the next day’s daily journal,Irrelevant
-The main subject of an article usually comes from an informant with a scoop / last minute information or from requests for coverage or news they received (for example through the “alert us” button of their website),Irrelevant
+The main subject of an article usually comes from an informant with a scoop   last minute information or from requests for coverage or news they received (for example through the “alert us” button of their website),Irrelevant
 Daily news and important events have priority over more common subjects,Irrelevant
 Therefore if crucial information is given by someone with a high position or an informant to a journalist he must not hesitate to dive in and collect more information about it,Irrelevant
 Once the subject is received or chosen the first step is confirming the information with a reliable person,Relevant
@@ -882,7 +882,7 @@ Following this event a strategic marketing employee in the “newsroom” creates a 
 This teasing includes a link to the company s paying website,Irrelevant
 Afterwards the journalist will progressively continue filling out the online article on the paying website adding information and upgrading the layout until it is complete and perfect,Relevant
 The journalist contacts his sources to find new he can add to his article,Relevant
-If he gets new information from a tier he contacts this tier (that becomes thus one of a source) or any other source who can verify/clarify this new information,Relevant
+If he gets new information from a tier he contacts this tier (that becomes thus one of a source) or any other source who can verify clarify this new information,Relevant
 The last version of the online article will be published the next morning in the traditional newspaper,Relevant
 Compared to a few years ago journalists do not write complete articles that only come out the following day as they first have to post them online,Irrelevant
 This applies to any level of importance of the information,Irrelevant
@@ -934,11 +934,11 @@ The advert is then created and published in the chosen canals with a determined 
 The catering process starts when a customer calls a Poivre&Sel point of sale for its services,Relevant
 One of the employees answers the phone call and asks automatically for the date and the number and variety of products wanted,Relevant
 The employee then asks for the customer’s usual point of sale,Relevant
-If the client doesn’t call his/her usual point of sale the employee has to conduct the customer to the usual one and the order is sent there,Relevant
+If the client doesn’t call his her usual point of sale the employee has to conduct the customer to the usual one and the order is sent there,Relevant
 If the client is a new or a usual one 10 the employee then asks for the address,Relevant
 Afterwards he checks the availability of the employees on this date and this address,Relevant
 If none of the employees is available the process ends,Relevant
-Otherwise the employee answering the call determines the type/category of the client and as a result of this proposes a series of products specific to the client,Relevant
+Otherwise the employee answering the call determines the type category of the client and as a result of this proposes a series of products specific to the client,Relevant
 It is then the job of the franchisor (CEO) to emit the invoice to the client,Relevant
 He receives the payment and checks if there is any missing information,Relevant
 If information is missing he sends a formal notice to the customer with the ERP system of Poivre&Sel (Teamleader),Relevant
@@ -946,7 +946,7 @@ The franchisor receives the missing information and if it is still missing the p
 When the payment is completed the employees can start the order,Relevant
 They deliver the order at the social event and the purchase order is completed,Relevant
 The franchising process is quite simple,Irrelevant
-Anyone interested in becoming a franchisee can obtain information at a point of sale or/and on the website,Relevant
+Anyone interested in becoming a franchisee can obtain information at a point of sale or and on the website,Relevant
 He then contacts Mr. Buche to ask him if he can become a franchisee,Relevant
 Then Mr. Buche will meet with the interested party to explain the principle of his company and its history,Relevant
 After this discussion he asks the franchisee if he is still interested,Relevant
@@ -956,7 +956,7 @@ After that day both parties take a week to think about whether or not they want 
 The decision comes from both parties,Relevant
 If they continue the prospective franchisee must sign a confidentiality document,Relevant
 Once this is done the franchisee starts looking for a location for their new outlet,Relevant
-Once he has found it he will show it to Mr. Buche so that he can take care of the market research and a cost/benefit calculation to see if the location is ideal and profitable,Relevant
+Once he has found it he will show it to Mr. Buche so that he can take care of the market research and a cost benefit calculation to see if the location is ideal and profitable,Relevant
 If it is not the franchisee has to look for another location,Relevant
 If it is the calculations are sent to the franchisee s accountant for validation,Relevant
 Once validated it takes a few months for the fieldworks to be completed and then the franchisee pays Mr. Buche for the fieldworks,Relevant
@@ -1156,13 +1156,13 @@ The project manager receives the application and checks whether it contains the 
 If the documents are incomplete the project manager will inform the applicant,Relevant
 If the documents are complete the project manager will contact the applicant through one of the channels provided on the CV to find a time to place an interview,Relevant
 After the interview if the candidate is hired the project manager will send a rejection email,Relevant
-After the interview if the candidate is hired an email is also sent to inform him/her of the news,Relevant
+After the interview if the candidate is hired an email is also sent to inform him her of the news,Relevant
 The project manager then begins to enter the information collected from the application,Relevant
-If he/she notices that he/she is missing data he/she contacts the candidate again to complete the application with the missing data,Relevant
+If he she notices that he she is missing data he she contacts the candidate again to complete the application with the missing data,Relevant
 Then he creates the contract which he then sends,Relevant
 The process starts when an employee is needed,Relevant
 Then the first task is made by the Head of department who has to give specific criteria of the job (requirements skills needed…),Relevant
-Once the task is completed the HR employee has to see if it is a specific/more special demand or not,Relevant
+Once the task is completed the HR employee has to see if it is a specific more special demand or not,Relevant
 Usually for nurses they will look at spontaneous applications on the hospital website,Relevant
 For more specific functions they will externalize the process and recruit via Forum,Relevant
 For more special requests (for example energy engineer) they make an offer on the website themselves,Relevant
@@ -1538,9 +1538,9 @@ When the products are received by the customer the invoice is sent,Relevant
 This process starts when a customer has a complaint about the price or the quantity of one order,Relevant
 He or she has to contact the customer service,Relevant
 Even if the contact is made by phone an e mail has to be sent to have a written proof of the complaint,Relevant
-Then the customer service has to ask the sales manager if the correct price was applied/the right quantity was sent,Relevant
+Then the customer service has to ask the sales manager if the correct price was applied the right quantity was sent,Relevant
 If it is the process ends with sending an email of rejection of complaint to the costumer,Relevant
-If the price/quantity is not correct the customer service generates a credit note and send it to the sales manager who has to print sign scan before sending it back to the customer service,Relevant
+If the price quantity is not correct the customer service generates a credit note and send it to the sales manager who has to print sign scan before sending it back to the customer service,Relevant
 Then the customer service also has to print sign scan send it and reimburse the customer,Relevant
 The law obliges GSK to keep proof of the complaint for 7 years,Irrelevant
 This storage is currently done through paper format documents,Irrelevant
@@ -1565,9 +1565,9 @@ Otherwise he will attribute the client to a salesman available who will set an a
 When the first quote is made by the salesman or the telemarketer the client might refuse it or accept it,Relevant
 If the client accepts it the contract will be signed and the order made,Relevant
 If not he might not be interested anymore and the case would be closed or he might want a better quote,Relevant
-The salesman/telemarketer will need approval from the financial department to lower prices or make a promotion,Relevant
+The salesman telemarketer will need approval from the financial department to lower prices or make a promotion,Relevant
 If it is not possible to do a better quote the case will be closed,Relevant
-If it is the salesman/telemarketer will make the new quote which might once again be approved or refused by the client,Relevant
+If it is the salesman telemarketer will make the new quote which might once again be approved or refused by the client,Relevant
 And so on until the client declined the offer or consented to it,Relevant
 When the order arrived at the warehouse if there are some products that need to be pre commanded the manager will do so and the order will be handled as soon as delivered,Relevant
 Otherwise he will assign the order to an available worker,Relevant
@@ -1616,13 +1616,13 @@ The customer receives feedback from the assessor or approver,Relevant
 The process of Vacations Request starts when any employee of the organization submits a vacation request,Relevant
 Once the requirement is registered the request is received by the immediate supervisor of the employee requesting the vacation,Relevant
 The supervisor must approve or reject the request,Relevant
-If the request is rejected the application is returned to the applicant/employee who can review the rejection reasons,Relevant
+If the request is rejected the application is returned to the applicant employee who can review the rejection reasons,Relevant
 If the request is approved a notification is generated to the Human Resources Representative who must complete the respective management procedures,Relevant
 The process of Vacations Request starts when any employee of the organization submits a vacation request,Relevant
 Once the requirement is registered the request is received by the immediate supervisor of the employee requesting the vacation,Relevant
 The supervisor must approve or reject the request,Relevant
 If the request is rejected the process will end,Relevant
-If the request is asked to make a change then it is returned to the petitioner/employee who can review the comments for the change request,Relevant
+If the request is asked to make a change then it is returned to the petitioner employee who can review the comments for the change request,Relevant
 If the request is approved it will go to the purchase department that will be in charge of making quotations (using a subprocess) and select a vendor,Relevant
 If the vendor is not valid in the system the purchase department will have to choose a different vendor,Relevant
 After a vendor is selected and confirmed the system will generate and send a purchase order and wait for the product to be delivered and the invoice received,Relevant
@@ -1639,7 +1639,7 @@ The customer enters the withdrawal amount,Relevant
 The ATM returns cash to the customer and changes his account balance,Relevant
 If the balance on customer’s account is less than the withdrawal amount the ATM returns an error,Relevant
 In a bowl mix the lemon juice olive oil Dijon mustard garlic red bell pepper salt and pepper,Relevant
-Set aside 1/4 cup of the mixture to use for basting,Relevant
+Set aside 1 4 cup of the mixture to use for basting,Relevant
 Place chicken in the bowl and marinate at least 20 minutes in the refrigerator,Relevant
 Preheat grill for high heat,Relevant
 Lightly oil grill grate,Relevant
@@ -1778,7 +1778,7 @@ If there are not any objections by the grid operator,Relevant
 (i.e. no supplier concurrence),Irrelevant
 customer service creates a CIS contract,Relevant
 The customer then has the chance to check the contract details and based on this check may decide to either withdraw from the switch contract or confirm it,Relevant
-Depending on the customer’s acceptance/rejection the process flow at customer service either ends (in case of withdrawal) or continues (in case of a confirmation),Relevant
+Depending on the customer’s acceptance rejection the process flow at customer service either ends (in case of withdrawal) or continues (in case of a confirmation),Relevant
 An additional constraint is that the customer can only withdraw from the offered contract within 7 days – after the 7th day the contract will be regarded as accepted and the process continues,Relevant
 The confirmation message by the customer is therefore not absolutely necessary (as it will count as accepted after 7 days in any way) but it can speed up the switch process,Irrelevant
 On the switch date but no later than 10 days after power supply has begun the grid operator transmits the power meter data to the customer service and the old supplier via messages containing a services consumption report,Relevant
@@ -1870,11 +1870,11 @@ At 10 am every workday the Data Entry office takes the invoices and enters all d
 Every hour the Mail Centre office reviews the system and forwards all new invoices for validation the Validation office executes the big process of validating invoices,Relevant
 At the beginning of every week the Payment office executes the payment of every validate invoice this is another big process,Relevant
 After the payment all invoices are archived by the Registry office,Relevant
-The process starts when the SO Angebot/Auftrag receives a subsidiary order,Relevant
-The SO Angebot/Auftrag prepares goods for shipment and then ships the goods concurrently with preparing the goods and shipping them the SO Angebot/Auftrag prepares invoicing,Relevant
-In case the customer is subsidiary and the subsidiary relationship is not yet modeled SO Address management adds parent company as invoicing address then the SO Angebot/Auftrag create the invoice,Relevant
-Otherwise if the customer is independent or the subsidiary relationship is already modeled in ERP the SO Angebot/Auftrag directly creates the invoice,Relevant
-Finally the SO Angebot/Auftrag sends the invoice,Relevant
+The process starts when the SO Angebot Auftrag receives a subsidiary order,Relevant
+The SO Angebot Auftrag prepares goods for shipment and then ships the goods concurrently with preparing the goods and shipping them the SO Angebot Auftrag prepares invoicing,Relevant
+In case the customer is subsidiary and the subsidiary relationship is not yet modeled SO Address management adds parent company as invoicing address then the SO Angebot Auftrag create the invoice,Relevant
+Otherwise if the customer is independent or the subsidiary relationship is already modeled in ERP the SO Angebot Auftrag directly creates the invoice,Relevant
+Finally the SO Angebot Auftrag sends the invoice,Relevant
 In a certain company an Invoice process is started,Irrelevant
 First the Vendor is tried to be located into the SAP system of the company,Relevant
 If it is not possible to find it a sub process to record this new Vendor is started,Relevant
@@ -1897,8 +1897,8 @@ The process starts with the business analyst collecting data and conducting busi
 The business analyst waits until the design is complete then she checks the design and provides feedback,Relevant
 If the design needs adjustment the web designer has to change the design and integrates the design and decides where the customer feedback module should be placed again,Relevant
 If the design is OK,Relevant
-The PHP/HTML/CSS specialist integrates with the overall implementation and then the tester tests the final website to make sure everything is going well,Relevant
-If the test is OK the process ends otherwise if the test is not ok the tester provides test results to the PHP/HTML/CSS specialist who adjusts according to the test results and integrates the overall implementation again,Relevant
+The PHP HTML CSS specialist integrates with the overall implementation and then the tester tests the final website to make sure everything is going well,Relevant
+If the test is OK the process ends otherwise if the test is not ok the tester provides test results to the PHP HTML CSS specialist who adjusts according to the test results and integrates the overall implementation again,Relevant
 In the process of adding a credit card for an internet purchase after choosing to pay with credit card the user has to put his credit card details after that the billing address is checked,Relevant
 If it is incorrect the process goes back to the user so that it can be modified if it is correct the process continues,Relevant
 Afterwards the user needs to click in the continue button to move forward,Relevant
@@ -2098,13 +2098,13 @@ The customer receives feedback from the assessor or approver,Relevant
 The process of Vacations Request starts when any employee of the organization submits a vacation request,Relevant
 Once the requirement is registered the request is received by the immediate supervisor of the employee requesting the vacation,Relevant
 The supervisor must approve or reject the request,Relevant
-If the request is rejected the application is returned to the applicant/employee who can review the rejection reasons,Relevant
+If the request is rejected the application is returned to the applicant employee who can review the rejection reasons,Relevant
 If the request is approved a notification is generated to the Human Resources Representative who must complete the respective management procedures,Relevant
 The process of an Office Supply Request starts when any employee of the organization submits an office supply request,Relevant
 Once the requirement is registered the request is received by the immediate supervisor of the employee requesting the office supplies,Relevant
 The supervisor must approve or ask for a change or reject the request,Relevant
 If the request is rejected the process will end,Relevant
-If the request is asked to make a change then it is returned to the petitioner/employee who can review the comments for the change request,Relevant
+If the request is asked to make a change then it is returned to the petitioner employee who can review the comments for the change request,Relevant
 If the request is approved it will go to the purchase department that will be in charge of making quotations (using a subprocess) and select a vendor,Relevant
 If the vendor is not valid in the system the purchase department will have to choose a different vendor,Relevant
 After a vendor is selected and confirmed the system will generate and send a purchase order and wait for the product to be delivered and the invoice received,Relevant
@@ -2206,7 +2206,7 @@ d) The controlling department enters the BOM header data (BOM group is determine
 Finally the BOM is saved.,Relevant
 a) When creating a work centre the controlling department specifies the plant and the work centre category.,Relevant
 b) The controlling department specifies the basic data of the work centre.,Relevant
-Therefore it enters its Description/Person Responsible/Usage and Standard Value Key and specifies its Efficiency Rate and its Rules for Maintenance .,Relevant
+Therefore it enters its Description Person Responsible Usage and Standard Value Key and specifies its Efficiency Rate and its Rules for Maintenance .,Relevant
 c) In the next step the capacity data is edited afterwards the formula and distribution keys are specified.,Relevant
 Finally the work centre is saved.,Relevant
 a) Upon receipt of a vendor creation request or if vendor data needs to be modified the purchasing department specifies the account group using the system materials management (MM).,Relevant
@@ -2228,7 +2228,7 @@ A combination of automatic and manual creation is also likely.,Irrelevant
 Once this is achieved the manufacturing department determines the planned order type.,Relevant
 b) This process is triggered once the conversion date is reached.,Relevant
 c) Once the planned order is selected the manufacturing department specifies the planned order position.,Relevant
-d) Depending on the product category (in house production / external procurement) the planned order is either to be converted into a production order a purchase requisition or a process order.,Relevant
+d) Depending on the product category (in house production   external procurement) the planned order is either to be converted into a production order a purchase requisition or a process order.,Relevant
 e) For a conversion into a production order the manufacturing department needs to specify the production order type so that the conversion to a production order may be started.,Relevant
 f) For a conversion into a purchase requisition the purchasing department needs to specify the procurement type so that the conversion to a purchase requisition may be started.,Relevant
 g) For a conversion into a production order the manufacturing department needs to specify the process order type so that the conversion to a process order may be started.,Relevant
@@ -2299,7 +2299,7 @@ b) For interactive calibration the manufacturing department starts the calibrati
 c) Thereafter the calibration is completed.,Relevant
 If capacity shortage still persists and another run is indicated interactive calibration will be executed again otherwise the calibration is aborted.,Relevant
 d) In any case the manufacturing department examines the whole network for functional failures at the end of the process.,Relevant
-a) To launch/relaunch a product the design department needs to prepare a raw design according to the product specification using the CAD system.,Relevant
+a) To launch relaunch a product the design department needs to prepare a raw design according to the product specification using the CAD system.,Relevant
 b) Once the raw design is completed the following departments test if the product meets their requirements the sales the manufacturing the purchasing and the quality control department.,Relevant
 c) Should the tests fail in one of the departments then the raw design is revised and the modified product is tested again by all departments.,Relevant
 d) Once the tests are successful the departments give instructions to prepare the final design.,Relevant
@@ -2321,9 +2321,9 @@ g) Then the manufacturing department reviews the production order data and the s
 Finally the production order is saved.,Relevant
 a) When a passenger (PAX) shows up at the express check in counter the check in agent determines whether the PAX carries hand luggage only or also additional luggage.,Relevant
 b) If the PAX carries additional luggage the agent checks whether the PAX holds a business class ticket or an economy class ticket (ticket data) and sends the PAX to the corresponding check in counter.,Relevant
-c) For a PAX with hand luggage only the agent puts the ticket into the reader and checks whether the computer (reservation system) shows a choice of seats (window/aisle seats) or not.,Relevant
+c) For a PAX with hand luggage only the agent puts the ticket into the reader and checks whether the computer (reservation system) shows a choice of seats (window aisle seats) or not.,Relevant
 d) If there is no choice the agent books an available seat immediately otherwise he asks the PAX for his preference and books a seat accordingly.,Relevant
-e) Thereafter the check in agent prints the boarding pass and returns the ticket/boarding pass to the PAX while telling gate and boarding time (airport & flight information system) to the PAX.,Relevant
+e) Thereafter the check in agent prints the boarding pass and returns the ticket boarding pass to the PAX while telling gate and boarding time (airport & flight information system) to the PAX.,Relevant
 f) After finishing either b) or e) the express check in PAX handling is completed (the PAX has either been checked in or sent to another check in counter to check in his additional luggage).,Relevant
 a) The first step in the handling of a business process is to distribute the assignments to the person in charge.,Relevant
 This is carried out by the process manager in co ordination with the department manager and supported by the workflow system.,Relevant
@@ -2347,7 +2347,7 @@ After printing the Student can print it again or go back.,Relevant
 f) If the student wants to change exams he chooses the exams menu.,Relevant
 There he gets a page showing all possible exams.,Relevant
 He can choose if he wants to register or deregister for an exam or he wants to go back to the main menu.,Relevant
-It is possible to register/deregister.,Irrelevant
+It is possible to register deregister.,Irrelevant
 g) If the student wants to register or deregister from a course he chooses the courses menu.,Relevant
 He gets a page displaying all the curriculum points.,Relevant
 He can choose the different curriculum points or go back to main menu.,Relevant
@@ -2432,8 +2432,8 @@ At the same time the cashier prepares and prints the receipt and gives it to the
 j) The item is placed into the correct box the sending process is completed.,Relevant
 a) The process starts with the arrival of a client with a car.,Relevant
 Once the client is already in the office the front office clerk checks the existing appointments.,Relevant
-b) If no appointment exists the front office clerk tries to determine what sort of problem the customer has with his vehicle and once the possible problem has been determined and records about it have been made the front office clerk checks the local IT system using the created records to determine which division(s) is/are responsible for this kind of problem.,Relevant
-After one or several divisions has/have been found in the system the front office clerk checks for free capacities.,Relevant
+b) If no appointment exists the front office clerk tries to determine what sort of problem the customer has with his vehicle and once the possible problem has been determined and records about it have been made the front office clerk checks the local IT system using the created records to determine which division(s) is are responsible for this kind of problem.,Relevant
+After one or several divisions has have been found in the system the front office clerk checks for free capacities.,Relevant
 On the other hand if the customer already has an appointment the the following process is described in d). ,Relevant
 c) For the case that free capacities are available please follow d) too.,Relevant
 If no free capacities are available the front office clerk checks the schedule for free dates.,Relevant
@@ -2444,7 +2444,7 @@ There is also a possible case when a customer agrees to make an appointment but 
 d) The office clerk stores the car.,Relevant
 To perform this task he needs a car number and customer data to enter them in the local IT system.,Relevant
 After the car has been stored the process continues with the actual repair (process navigation Repairs described in e)).,Relevant
-Once the repair(s) has/have been done the front office clerk gives the car to the customer (the local IT system is used).,Relevant
+Once the repair(s) has have been done the front office clerk gives the car to the customer (the local IT system is used).,Relevant
 At the same time the accounting department issues a bill using customer and car data as well as information about the repair work provided (the system is Accounting & Management).,Relevant
 Finally when the both processes are completed the customer leaves the service station.,Relevant
 e) Once the car has been stored the front office clerk uses the IT system to determine the next car to be sent for repair (schedule records car number and division data are entered). Thereafter he has to check if the car is clean.,Relevant
@@ -2452,7 +2452,7 @@ For cars that need cleansing the front office dispatches them to an in house car
 Then the front office determines the division responsible for the car.,Relevant
 The three possible problems may refer to painting & exterior problems engine problems or electrical problems.,Relevant
 A single car can visit one or multiple divisions that responsible for different kind of problems.,Irrelevant
-f) For cars with painting/exterior problems the automotive paints division at first determines the work scope.,Relevant
+f) For cars with painting exterior problems the automotive paints division at first determines the work scope.,Relevant
 The vehicle either needs whole new body paint or only particular parts need to be painted.,Relevant
 When the second case applies the automotive paints division dismounts the chosen parts and at the same time makes records about them in the IT system.,Relevant
 Once the car is prepared by the division (for this process they need car parts and automotive paints as inputs) they can conduct the paint job.,Relevant
@@ -2504,15 +2504,15 @@ As of now when books are already at the online retailers they offer them to purc
 i) The manufacturing process ends after the last shipment of books from the publisher is ready and the books are available in the online stores.,Relevant
 The books are now in the hands of booksellers and consumers.,Irrelevant
 The apex locator is an electronic device used in endodontics a dental specialty to determine the opening at the apex of the root of a tooth through which the nerve and blood vessels pass.,Irrelevant
-The device presented has a multimedia display and operates with two buttons a power button (ON/OFF) and VOLUME button to control the volume of the voice messages that guide the dentist during the measurement process.,Irrelevant
+The device presented has a multimedia display and operates with two buttons a power button (ON OFF) and VOLUME button to control the volume of the voice messages that guide the dentist during the measurement process.,Irrelevant
 In addition a demo mode presentation can be started by holding the power button for a few seconds.,Irrelevant
 The device uses a Li ion battery and the charging method is similar with this of a cell phone.,Irrelevant
-a) Upon pushing the ON/OFF button or plugging in the AC adapter the software program starts the central processing unit and at the same time initializes the display driver.,Relevant
+a) Upon pushing the ON OFF button or plugging in the AC adapter the software program starts the central processing unit and at the same time initializes the display driver.,Relevant
 Once the display is active the software program performs a check to find out if the AC adapter is plugged in.,Relevant
 If this is the case please follow e) if not follow b).,Relevant
-b) If no adapter is plugged in the system checks if the ON/OFF button is still pushed.,Relevant
+b) If no adapter is plugged in the system checks if the ON OFF button is still pushed.,Relevant
 If the check is negative please follow c). For a positive check follow d).,Relevant
-c) If the ON/OFF button is not pushed the system loads an initial display.,Relevant
+c) If the ON OFF button is not pushed the system loads an initial display.,Relevant
 Once the initial display is started and the device is ready to measure the software program checks if the VOLUME button has been pushed.,Relevant
 If the check is negative the following process is described in f) if the check is positive follow g).,Relevant
 d) A positive check leads to the activation of the demo mode.,Relevant
@@ -2646,7 +2646,7 @@ Any existing or previous Electrical and Physical Designs are inputs to both Acti
 Development of either design is interrupted by a successful update of the other design.,Relevant
 If interrupted then all current work is stopped and that design must restart.,Relevant
 In each department (Electrical Design and Physical Design) any existing designs are reviewed resulting in an Update Plan for their respective designs (i.e. one in Electrical and another in Physical).,Relevant
-Using the Update Plan and the existing Draft of the Electrical/Physical Design a revised design is created.,Relevant
+Using the Update Plan and the existing Draft of the Electrical Physical Design a revised design is created.,Relevant
 Once completed the revised design is tested.,Relevant
 If the design fails the test then it is sent back to the first Activity (in the department) to review and create a new Update Plan.,Relevant
 If the design passes the test then it tells the other department that they need to restart their work.,Relevant
@@ -2724,7 +2724,7 @@ Any existing or previous Electrical and Physical Designs are inputs to both Acti
 Development of either design is interrupted by a successful update of the other design,Relevant
 If interrupted then all current work is stopped and that design must restart,Relevant
 In each department (Electrical Design and Physical Design) any existing designs are reviewed resulting in an Update Plan for their respective designs (i.e. one in Electrical and another in Physical),Relevant
-Using the Update Plan and the existing Draft of the Electrical/Physical Design a revised design is created,Relevant
+Using the Update Plan and the existing Draft of the Electrical Physical Design a revised design is created,Relevant
 Once completed the revised design is tested,Relevant
 If the design fails the test then it is sent back to the first Activity (in the department) to review and create a new Update Plan,Relevant
 If the design passes the test then it tells the other department that they need to restart their work,Relevant
@@ -2740,7 +2740,7 @@ If it is not an alert is sent to the manager,Relevant
 At 8 00 pm the restaurant is opened,Relevant
 Pizza and Chicken wants to develop a system that can handle the delivery orders by the Order Handling Department (OHD),Irrelevant
 What follow is the description of the operation,Irrelevant
-When a customer phones in and specifies the food items (using item description assuming it is unique) that he/she wants to order the total order amounts will be calculated and the customer will be told about this,Relevant
+When a customer phones in and specifies the food items (using item description assuming it is unique) that he she wants to order the total order amounts will be calculated and the customer will be told about this,Relevant
 The information about the new order will be stored and the order is also send to the kitchen for preparing the food,Relevant
 When the kitchen finish preparing the food for a particular order it will inform the OHD that the order is ready,Relevant
 The OHD staff will update the status of the order to Ready and a delivery instruction which contain the order information (item description is printed instead of item code) and the delivery address will be generated and sent to the delivery personnel who is responsible for delivering the food to the customer,Relevant
@@ -2800,7 +2800,7 @@ All the systems in the car are also inspected during this step.,Relevant
 Once your car reaches this stage it means the repair is almost finished and the car is almost ready to be delivered to the client.,Irrelevant
 6. Quality Control Inspection The vehicle gets a wash and thorough interior cleaning once all parts have been reinstalled.,Relevant
 Surfaces are cleaned and the body paint is polished. In addition to doing a physical inspection the body shop personnel will also test drive your car.,Relevant
-This is to make sure that there are no driving problems that may be related to the repaired part/s of the vehicle.,Irrelevant
+This is to make sure that there are no driving problems that may be related to the repaired part s of the vehicle.,Irrelevant
 7. Delivery This is the final step in the collision repair process.,Relevant
 Once the client arrives at the shop to pick up their car the final paperwork is released and the bill is explained.,Relevant
 The customer then drives home in the car that has been returned to its pre accident state.,Irrelevant
@@ -2839,7 +2839,7 @@ Any existing or previous Electrical and Physical Designs are inputs to both Acti
 Development of either design is interrupted by a successful update of the other design.,Relevant
 If interrupted then all current work is stopped and that design must restart.,Relevant
 In each department (Electrical Design and Physical Design) any existing designs are reviewed resulting in an Update Plan for their respective designs (i.e. one in Electrical and another in Physical).,Relevant
-Using the Update Plan and the existing Draft of the Electrical/Physical Design a revised design is created.,Relevant
+Using the Update Plan and the existing Draft of the Electrical Physical Design a revised design is created.,Relevant
 Once completed the revised design is tested.,Relevant
 If the design fails the test then it is sent back to the first Activity (in the department) to review and create a new Update Plan.,Relevant
 If the design passes the test then it tells the other department that they need to restart their work.,Relevant
@@ -2855,7 +2855,7 @@ If it is not an alert is sent to the manager.,Relevant
 At 8 00 pm the restaurant is opened.,Relevant
 Pizza and Chicken wants to develop a system that can handle the delivery orders by the Order Handling Department (OHD).,Irrelevant
 What follow is the description of the operation.,Irrelevant
-When a customer phones in and specifies the food items (using item description assuming it is unique) that he/she wants to order the total order amounts will be calculated and the customer will be told about this.,Relevant
+When a customer phones in and specifies the food items (using item description assuming it is unique) that he she wants to order the total order amounts will be calculated and the customer will be told about this.,Relevant
 The information about the new order will be stored and the order is also send to the kitchen for preparing the food.,Relevant
 When the kitchen finish preparing the food for a particular order it will inform the OHD that the order is ready.,Relevant
 The OHD staff will update the status of the order to Ready and a delivery instruction which contain the order information (item description is printed instead of item code) and the delivery address will be generated and sent to the delivery personnel who is responsible for delivering the food to the customer.,Relevant
@@ -2915,7 +2915,7 @@ All the systems in the car are also inspected during this step. .,Relevant
 Once your car reaches this stage it means the repair is almost finished and the car is almost ready to be delivered to the client..,Irrelevant
 6. Quality Control Inspection The vehicle gets a wash and thorough interior cleaning once all parts have been reinstalled. .,Relevant
 Surfaces are cleaned and the body paint is polished. In addition to doing a physical inspection the body shop personnel will also test drive your car..,Relevant
-This is to make sure that there are no driving problems that may be related to the repaired part/s of the vehicle..,Irrelevant
+This is to make sure that there are no driving problems that may be related to the repaired part s of the vehicle..,Irrelevant
 7. Delivery This is the final step in the collision repair process. .,Relevant
 Once the client arrives at the shop to pick up their car the final paperwork is released and the bill is explained. .,Relevant
 The customer then drives home in the car that has been returned to its pre accident state..,Irrelevant
@@ -2999,10 +2999,10 @@ The business receives an invoice from a vendor or supplier.,Relevant
 The invoice is verified by the staff member responsible for procuring that particular type of product or service.,Relevant
 Verification typically involves matching the invoice with the appropriate purchase order (PO) for the product or service.,Irrelevant
 Invoice irregularities can include pricing discrepancies and missing information such as a PO number.,Irrelevant
-The invoice is sent to the relevant parties to address/correct the irregularity after which it’s sent through the approval workflow again.,Relevant
+The invoice is sent to the relevant parties to address correct the irregularity after which it’s sent through the approval workflow again.,Relevant
 The invoice is sent to relevant personnel for approval.,Relevant
 Depending on the products and services being ordered or the billed amount this approval chain can be dynamically determined.,Irrelevant
-The approved invoice is sent to the person/department responsible for accounts payable for processing and the vendor is paid.,Relevant
+The approved invoice is sent to the person department responsible for accounts payable for processing and the vendor is paid.,Relevant
 A permanent record of the transaction is added to the organization’s books.,Relevant
  That’s it – the whole process in six quick steps.,Irrelevant
 The invoice approval process may seem simple but multiply this by dozens or hundreds of vendors and thousands of invoices and you quickly have a complex situation on your hands.,Irrelevant
@@ -3012,7 +3012,7 @@ Choose Criteria are met to set filter criteria that records should meet to trigg
 Add the filter criteria on the fields provided.,Relevant
 Leave the filter blank if all the records in there will be included in the process.,Relevant
 Choose Formula Evaluates to True if a formula will be required to determine the records that will enter in the process.,Relevant
-Click on New field update/ email/ task select Conditions and click on Save.,Relevant
+Click on New field update  email  task select Conditions and click on Save.,Relevant
 Define Approval Steps Here the current user can assign approval requests to several other users through an automatic user field.,Relevant
 Bear in mind that the administrator has the sole responsibility to edit the process.,Irrelevant
 Enter the condition for approval of the records then save.,Relevant
@@ -3227,7 +3227,7 @@ The corn starch the active ingredient and the lubricant are weighed separately i
 The corn starch is dispensed into cold purified water then heated and stirred until a translucent paste forms.,Relevant
 The corn starch the active ingredient and part of the lubricant are next poured into one sterile canister and the canister is wheeled to a mixing machine called a Glen Mixer.,Relevant
 Mixing blends the ingredients as well as expels air from the mixture.,Relevant
-The mixture is then mechanically separated into units which are generally from 7/8 to 1 inches (2.22 to 2.54 centimeters) in size.,Relevant
+The mixture is then mechanically separated into units which are generally from 7 8 to 1 inches (2.22 to 2.54 centimeters) in size.,Relevant
 These units are called slugs.,Irrelevant
 Next small batches of slugs are forced through a mesh screen by a hand held stainless steel spatula.,Relevant
 Large batches in sizable manufacturing outlets are filtered through a machine called a Fitzpatrick mill.,Relevant
@@ -3344,7 +3344,7 @@ The stationary wheel has holes through it so that the balls can be fed into and 
 A special conveyor feeds balls into one hole the balls rattle around the groove and then come out the other hole.,Relevant
 They are then fed back into the conveyor for many trips through the wheel grooves until they have been cut down to being fairly round almost to the proper size and the flash is completely gone.,Relevant
 Once again the balls are left oversize so that they can be ground to their finished size after heat treatment.,Relevant
-The amount of steel left for finishing is not much only about 8/1000 of an inch (02 centimeter) which is about as thick as two sheets of paper.,Irrelevant
+The amount of steel left for finishing is not much only about 8 1000 of an inch (02 centimeter) which is about as thick as two sheets of paper.,Irrelevant
 The heat treatment process for the balls is similar to that used for the races since the kind of steel is the same and it is best to have all the parts wear at about the same rate.,Irrelevant
 Like the races the balls become hard and tough after heat treating and tempering.,Irrelevant
 After heat treatment the balls are put back into a machine that works the same way as the flash remover except that the wheels are grinding wheels instead of cutting wheels.,Relevant
@@ -3534,7 +3534,7 @@ Defective potatoes are kept to one side for instance if they have green edges or
 If their weight exceeds the factory s preset allowances the entire shipment can be sent back to the supplier.,Relevant
 Acceptable potatoes are then fed via conveyor belts into a vertical helical conveyor.,Relevant
 This removes dirt and stones if any and the potatoes are then passed on to an automatic peeler.,Relevant
-The peeled potatoes are then passed through a revolving impaler/presser that cuts them into uniform paper thin slices.,Relevant
+The peeled potatoes are then passed through a revolving impaler presser that cuts them into uniform paper thin slices.,Relevant
 The blades can be either straight or ridged depending on the product.,Relevant
 Excess starch can be removed in a cold soak.,Relevant
 Color treatment is also added at this stage if required.,Relevant
@@ -3745,7 +3745,7 @@ Next one sewer attaches the pockets to the leg seams another then sews the leg s
 Once the waist band is secure the belt loops may be stitched on and the buttons attached.,Relevant
 If the jeans include a zipper it is then sewn into place and the pants are hemmed.,Relevant
 Finally the rivets are placed in the appropriate places and the maker s label is sewn on last.,Relevant
-Some jeans are prewashed and/or stone washed to alter the appearance or texture of the finished jeans.,Relevant
+Some jeans are prewashed and or stone washed to alter the appearance or texture of the finished jeans.,Relevant
 Prewashing involves washing the jeans in industrial detergent for a short time to soften the denim.,Irrelevant
 Stone washing also means washing the jeans but pumice is added to the load resulting in a faded appearance.,Irrelevant
 Small stones (less than one inch [one centimeter] in diameter) produce an even abrasion while large stones (about four inches [10 centimeters] in diameter) highlight the seams and pockets and produce a more uneven appearance.,Irrelevant
@@ -3994,7 +3994,7 @@ To prepare the glaze similar methods are used as for the tile body.,Irrelevant
 After a batch formulation is calculated the raw materials are weighed mixed and dry or wet milled.,Relevant
 The milled glazes are then applied using one of the many methods available.,Relevant
 In centrifugal glazing or discing the glaze is fed through a rotating disc that flings or throws the glaze onto the tile.,Relevant
-In the bell/waterfall method a stream of glaze falls onto the tile as it passes on a conveyor underneath.,Relevant
+In the bell waterfall method a stream of glaze falls onto the tile as it passes on a conveyor underneath.,Relevant
 Sometimes the glaze is simply sprayed on.,Irrelevant
 For multiple glaze applications screen printing on under or between tile that have been wet glazed is used.,Relevant
 In this process glaze is forced through a screen by a rubber squeegee or other device.,Relevant
@@ -4057,7 +4057,7 @@ After cutting the curds may be heated to hasten the separation from the whey but
 When separation is complete the whey is drained.,Relevant
 Moisture must then be removed from the curds although the amount removed depends on the type of cheese.,Relevant
 For some types with high moisture contents the whey draining process removes sufficient moisture.,Relevant
-Other types require the curds to be cut heated and/or filtered to get rid of excess moisture.,Relevant
+Other types require the curds to be cut heated and or filtered to get rid of excess moisture.,Relevant
 To make cheddar cheese for example cheese makers cheddar  or finely chop the curd.,Irrelevant
 To make hard dry cheeses such as parmesan cheese makers first cheddar and then cook the curd.,Irrelevant
 Regardless if the curds are to be aged they are then put into molds.,Relevant
@@ -4086,7 +4086,7 @@ The tall 32.79 yard (30 meter) chicle tree is scored with a series of shallow Xs
 After a significant amount of chicle has accumulated it is strained and placed in large kettles.,Relevant
 Stirred constantly it is boiled until it reduces to two thirds of its original volume.,Relevant
 It is then poured into greased wooden molds and shipped.,Relevant
-The natural and/or artificial gum bases are first ground into a coarse meal and mixed to ensure uniform consistency.,Relevant
+The natural and or artificial gum bases are first ground into a coarse meal and mixed to ensure uniform consistency.,Relevant
 The blend is then placed in a warm room to dry for a day or two.,Relevant
 During drying hot air continually passes over the mixture.,Relevant
 Next the gum base is cooked in kettles at 243 degrees Fahrenheit (116 degrees Celsius) until it has melted into a thick syrup.,Relevant
@@ -4256,7 +4256,7 @@ Compact discs must be manufactured under very clean and dust free conditions in 
 The air in the room is specially filtered to keep out dirt and occupants of the room must wear special clothing.,Relevant
 Because an average dust particle is 100 times larger than the average pit and land on a CD even the smallest dust particle can render a disc useless.,Irrelevant
 The original music is first recorded onto a digital audio tape.,Relevant
-Next the audio program is transferred to a 3/4 inch (1.9 centimeters) video tape and then data (called subcodes) used for indexing and tracking the music is added to the audio data on the tape.,Relevant
+Next the audio program is transferred to a 3 4 inch (1.9 centimeters) video tape and then data (called subcodes) used for indexing and tracking the music is added to the audio data on the tape.,Relevant
 At this point the tape is called a pre master.,Irrelevant
 The pre master tape will be used to create the disc master (also called the glass master) which is a disc made from specially prepared glass.,Irrelevant
 The glass is polished to a smooth finish and coated with a layer of adhesive and a layer of photoresist material.,Relevant
@@ -4603,15 +4603,15 @@ Identification decals are also placed on the cylinder to identify the proper fir
 Many of the economy versions are for one time use only and cannot be refilled.,Irrelevant
 The manufacture of a floppy disk takes place in three phases.,Irrelevant
 First the disk itself is made then the case is made and finally the two are assembled.,Relevant
-The procedure for 8 and 5 1/4 inch disks differs slightly from that for the 3 1/2 inch model.,Irrelevant
+The procedure for 8 and 5 1 4 inch disks differs slightly from that for the 3 1 2 inch model.,Irrelevant
 First the recording media (Mylar) in the form of stock roll is coated with an extremely fine layer of iron oxide.,Relevant
 The thickness of this layer depends on the size of the disk and the type of density.,Irrelevant
-For instance the layer thickness is 110 microinches for 8 inch high density diskettes and 35 microinches for 3 1/2 inch high density disks.,Irrelevant
+For instance the layer thickness is 110 microinches for 8 inch high density diskettes and 35 microinches for 3 1 2 inch high density disks.,Irrelevant
 The coating for standard density diskettes is thicker than that for high density diskettes and is less coercive  meaning that it has less magnetic force.,Irrelevant
 Next the coated film is slit and appropriate size disks are punched out with an automatic device similar to a cookie cutter.,Relevant
-  Each disk is then burnished or polished according to the required specifications and standards 8 and 5 1/4 inch disks are now ready for insertion into jackets.,Relevant
-For 3 1/2 inch disks a stainless steel hub is attached to the media with an adhesive ring 3 1/2 inch disks are now ready for insertion into their plastic cases.,Relevant
-The jackets of the 8 inch and 5 1/4 inch disks are cut out of polyvinyl chloride (PVC) stock to appropriate size and the fabric liners laminated to them.,Relevant
+  Each disk is then burnished or polished according to the required specifications and standards 8 and 5 1 4 inch disks are now ready for insertion into jackets.,Relevant
+For 3 1 2 inch disks a stainless steel hub is attached to the media with an adhesive ring 3 1 2 inch disks are now ready for insertion into their plastic cases.,Relevant
+The jackets of the 8 inch and 5 1 4 inch disks are cut out of polyvinyl chloride (PVC) stock to appropriate size and the fabric liners laminated to them.,Relevant
 Each jacket is then punched to appropriate hole and notch configuration.,Relevant
 The drive spindle hole in the middle helps to center the disk in the disk drive.,Relevant
 The index hole  when aligned with an index hole punched in the media permits the drive to locate the beginning of each segment of data.,Irrelevant
@@ -4620,17 +4620,17 @@ The write protect notch prevents data from mistakenly being recorded or erased.,
 The relief notches keep the lower end of the head access hole from bending.,Irrelevant
 After the apertures have been punched the jacket is folded three ways with only the top flap left open.,Relevant
 The jackets are now ready for assembly.,Irrelevant
-The case or shell of 3 1/2 inch disks is molded out of hard plastic.,Relevant
+The case or shell of 3 1 2 inch disks is molded out of hard plastic.,Relevant
 It has a rectangular head access slot.,Irrelevant
 The lower shell of the case is assembled with the button the wiper tab the write protect tab and the fabric liner.,Relevant
 The upper shell is affixed with upper fabric liner.,Relevant
 The spring loaded shutter assembly is now attached and the two shells are connected at the top two corners.,Relevant
 The cases are now ready for assembly.,Irrelevant
-For 8 and 5 1/4 inch disks the media is inserted into the jacket through the top.,Relevant
+For 8 and 5 1 4 inch disks the media is inserted into the jacket through the top.,Relevant
 Each disk then undergoes comprehensive electrical and mechanical testing and certification.,Relevant
 After the top of the jacket which had been left open is folded disk assembly is complete.,Relevant
 Each disk is then given a final visual inspection before being labeled and packaged for shipment.,Relevant
-Assembly of 3 1/2 inch disks is very similar.,Irrelevant
+Assembly of 3 1 2 inch disks is very similar.,Irrelevant
 First the prepared media is inserted into the shell and then the disk is tested and certified.,Relevant
 The two shells are now welded at the bottom two corners and the assembly is complete.,Relevant
 Each disk is given a final visual inspection and then labeled and packaged for shipment.,Relevant
