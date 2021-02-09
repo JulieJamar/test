@@ -1,4 +1,4 @@
-Sentence,Sentence Type 
+Sentence,Class
 The process begins when someone is declaring a damage for which he wants to be compensated,Relevant
 For that  he has several ways to state the incident,Irrelevant
 The choice will impact the way the clerk will address the issue,Irrelevant
@@ -342,7 +342,7 @@ If the audit is conclusive  the supply chain manager registers supplier’s inform
 - If Alpha Innovations has already worked with this supplier  the specific team sends a notification to the supplier selected,Relevant
 Afterwards  the supply chain department establishes the order and receives the material once the supplier has fulfilled the order,Relevant
 In some case  a conformity certificate is required  because AISA works with railway companies (RATP for example) or nuclear sector where high level of traceability is mandatory,Relevant
-- If a conformity certificate is required  the supply chain department asks a conformity certificate to the supplier and creates its own conformity certificate (this document ensures that the products are not counterfeit items) before performing the quali,Relevant
+- If a conformity certificate is required  the supply chain department asks a conformity certificate to the supplier and creates its own conformity certificate (this document ensures that the products are not counterfeit items) before performing the quali
 - In some cases  the supply chain organizes quality control for incoming and finished goods and the warehouse clerk checks it,Relevant
 Alpha Innovations controls most of the time the products’ quality  except when it comes to checking small parts (like basic screws  etc),Relevant
 If the quality control shows material is defective  the supply chain gives the order to the warehouse clerk to return the product to the supplier,Relevant
