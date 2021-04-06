@@ -3086,7 +3086,7 @@ For delivery in North America there are no packaging requirements.,Irrelevant
 Delivery is normally by truck.,Irrelevant
 the process begins when the buyer adds an item to their aliexpress basket ,Relevant
 the seller receives the notification ,Relevant
-if the buyer does not pay, the seller sends a reminder to the buyer ,Relevant
+"if the buyer does not pay; the seller sends a reminder to the buyer ,Relevant"
 the buyer completes his personal information (delivery address) ,Relevant
 the buyer proceeds to payment ,Relevant
 Aliexpress keeps the payment ,Relevant
@@ -3094,13 +3094,13 @@ the seller carries out the order within 48 hours ,Relevant
 the seller sends the order ,Relevant
 the buyer receives confirmation that his order has been sent ,Relevant
 the buyer receives the package and confirms its receipt on the site ,Relevant
-Aliexpress pays the seller, the process is finished,Relevant
+"Aliexpress pays the seller; the process is finished,Relevant"
 The buyer receives the package and is not satisfied ,Relevant
 the buyer contacts the seller and try to find a solution ,Relevant
 if no solution found ,Relevant
 the buyer opens a dispute with the seller on aliexpress ,Relevant
 AliExpress acts as the intermediary between the 2 parties ,Irrelevant
-if a quality issues, color difference / poor quality/damage , the buyer sending proofs too aliexpress ,Relevant
+"if a quality issues; color difference / poor quality/damage ; the buyer sending proofs too aliexpress ,Relevant"
 aliexpress decide in favor of the buyer ,Relevant
 the buyer returns the package ,Relevant
 The seller resends the package or he platform aliexpress refund the buyer and the process is finished,Relevant
@@ -3113,7 +3113,7 @@ An employee receives a notification ,Relevant
 Meanwhile KFC employees are preparing his order in the kitchen ,Relevant
 The order is done ,Relevant
 The customer is called by his number ticket ,Relevant
-The customer takes his order and leaves KFC, the process is finished,Relevant
+"The customer takes his order and leaves KFC; the process is finished,Relevant"
 The process starts when a customer takes a ticket to the terminal ,Relevant
 Employees receive a notification ,Relevant
 An employee available ask the customer to come ,Relevant
@@ -3123,53 +3123,53 @@ The employee makes the change ,Relevant
 The payment is required ,Relevant
 The customer has the possibility to pay by cash or by card ,Irrelevant
 The employee provides new documents ,Relevant
-The customer takes his new documents and leaves, the process is finished,Relevant
+"The customer takes his new documents and leaves; the process is finished,Relevant"
 TEC is a public transport,Irrelevant
 He starts when the passenger want to buy his subsription at the sales automatons,Relevant
-When he puts his subscription,the automan welcomes him,Relevant
+"When he puts his subscription;the automan welcomes him,Relevant"
 And offers him the different regions of the country,Relevant
 After He chooses the budget that fits his modality,Relevant
-For the payement method,he gets the message to put his bank card ,at the same time his subscription title also,Relevant
+"For the payement method;he gets the message to put his bank card ;at the same time his subscription title also,Relevant"
 After the processing the automan confirms the payement,Relevant
 The automatan reminds you of don’t forget your card,Relevant
 Then he has the subscription receipt printed,Relevant
 Yoursurprise is a gift shop,Irrelevant
 The process begins when the customer chooses the customer mug,Relevant
 client service sends the message to customize the chosen command,Relevant
-Then the customer does the editing through,the design the photo,the text,…,Relevant
+"Then the customer does the editing through;the design the photo;the text;…,Relevant"
 After editing client service asks you to check you gift,Relevant
 You can go back edit if you are not satisfied,Relevant
 While client service deals ordered you at the same time it offers you a greeting card to fill out for free to accompany your surprise,Relevant
 then you can save your data for the delivery method,Relevant
-The customer cans pay by bancontact,bankcard,transfer,paypal…,Irrelevant
+"The customer cans pay by bancontact;bankcard;transfer;paypal…,Irrelevant"
 After the order confirmation message is send,Relevant
 And delivery takes place in two days,Relevant
-HEC is the management school of the university of Liege,Irrelevant
-To get admission, you must first creat an uliege account on the university website, Using an E-mail, and a password,Relevant
-Upon opening the school webpage, the student is asked to introduce some personal information and downloading of certain document depending on the application level,Relevant
-If it is for master’s degree you can be asked documents like bachelor’s degree, advanced level, ID, etc,Relevant
-The student then receives a message from the school confirming reception of admission request,Relevant
- A period of 3 to 4 months is taken by the school to evaluate if the conditions are met,Relevant
-The document is transfered to the school jury members,Relevant
-The university has many jury members depending on department and faculty,,Irrelevant
-If the conditions are not met, the request is automatically rejected,Relevant
-If the document is incomplete and the conditions are met, the school send a mail to the student for asking and addition document,Relevant
-If the student deliver’s the document, his admission is approved or else cancelled,Relevant
-If the document is complete and the conditions are met, the student receives a mail from the school telling him/her he has being admitted,Relevant
-SNCB is the Belgian railway transport,Irrelevant
-When a job has being advertised at SNCB website, job searcher postulates by introducing their CV on the company website,Relevant
- The HR department receives the CV ,Relevant
-SNCB has a subbranch INFRABEL which does with all what is technical, and they have different HR department and HR jury’s,Irrelevant
- 2 to 1 month is taken to evaluate the different CV,Relevant
- If a candidate’s profile matches with the job description, he continues the process, if not his process ends there, At least 10 candidates are selected,Relevant
-Then screening is done with these candidates on phone,Relevant
-  This process leads to reselection, if the candidates convince the HR, he continues the process or else the candidates file is rejected,Relevant
+       HEC is the management school of the university of Liege,Irrelevant
+"       To get admission; you must first creat an uliege account on the university website; Using an E-mail; and a password,Relevant"
+"       Upon opening the school webpage; the student is asked to introduce some personal information and downloading of certain document depending on the application level,Relevant"
+"       If it is for master’s degree you can be asked documents like bachelor’s degree; advanced level; ID; etc,Relevant"
+       The student then receives a message from the school confirming reception of admission request,Relevant
+       A period of 3 to 4 months is taken by the school to evaluate if the conditions are met,Relevant
+       The document is transfered to the school jury members,Relevant
+"       The university has many jury members depending on department and faculty;,Irrelevant"
+"       If the conditions are not met; the request is automatically rejected,Relevant"
+"   If the document is incomplete and the conditions are met; the school send a mail to the student for asking and addition document,Relevant"
+"   If the student deliver’s the document; his admission is approved or else cancelled,Relevant"
+"   If the document is complete and the conditions are met; the student receives a mail from the school telling him/her he has being admitted,Relevant"
+      SNCB is the Belgian railway transport,Irrelevant
+"      When a job has being advertised at SNCB website; job searcher postulates by introducing their CV on the company website,Relevant"
+      The HR department receives the CV ,Relevant
+"      SNCB has a subbranch INFRABEL which does with all what is technical; and they have different HR department and HR jury’s,Irrelevant"
+      2 to 1 month is taken to evaluate the different CV,Relevant
+"      If a candidate’s profile matches with the job description; he continues the process; if not his process ends there; At least 10 candidates are selected,Relevant"
+      Then screening is done with these candidates on phone,Relevant
+"  This process leads to reselection; if the candidates convince the HR; he continues the process or else the candidates file is rejected,Relevant"
   A physical interview is now conducted with the remaining candidates,Relevant
-  They are asked question on their skills, competences, motivation, likes, dislikes etc,Relevant
-  The HR sit back after and amongst the candidate with whom they performed the physical interview, they choose the best,Relevant
+"  They are asked question on their skills; competences; motivation; likes; dislikes etc,Relevant"
+"  The HR sit back after and amongst the candidate with whom they performed the physical interview; they choose the best,Relevant"
 Camergo is a travel agency based in Douala,Irrelevant
 The process begins when a Person Schedules a trip,Relevant
-He goes to the agency or contact them by phone, e-mail, message to book a ticket,Relevant
+"He goes to the agency or contact them by phone; e-mail; message to book a ticket,Relevant"
 The travel agency informs the Customer of the availability of the ticket or not,Relevant
 The Customer proceeds to the payment either in cash or by Transfer,Relevant
 The Customer provides proof of payment,Relevant
@@ -3183,7 +3183,7 @@ The Student Will go to the Belgian diplomatic post in his country for visa forma
 The Student pays his ticket and makes the trip to Belgium,Relevant
 The Student reserves accommodation for his home,Relevant
 The student goes to the place of August 20 to finalize his registration and obtain his student card,Relevant
-The student Will travels from the Place du 20 Aout to get to HEC on foot, by bus or by car,Relevant
+"The student Will travels from the Place du 20 Aout to get to HEC on foot; by bus or by car,Relevant"
 The Student goes to the apparitorat to take his course program,Relevant
 The Apparitorium checks the effectiveness of its registration and then gives it its course program,Relevant
 The Student go to the classrooms to start these lessons.,Relevant
@@ -3192,41 +3192,41 @@ A small bell notifies the employees that a customer has entered the store,Releva
 Either the customer does not have a specific idea and in this case the employee lets the customer look for a few minutes,Relevant
 Or the customer knows what he wants and notifies the employee,Relevant
 Or he leaves the store,Relevant
-In the first case, after a few minutes of waiting, the employee comes to help the customer who either makes a choice and notifies it, or leaves the store,Relevant
+"In the first case; after a few minutes of waiting; the employee comes to help the customer who either makes a choice and notifies it; or leaves the store,Relevant"
 The customer can choose clothes from the new collection or from the old one,Irrelevant
-When the customer notifies his choice, the employee checks if the desired garment is still in stock,Relevant
+"When the customer notifies his choice; the employee checks if the desired garment is still in stock,Relevant"
 The stock is located upstairs,Irrelevant
-If it is still available, the customer goes to the cashier and makes the payment,Relevant
-If not, the employee suggests that the customer place an order on the Internet directly from the store,Relevant
-If the customer accepts, the employee places the order on the computer and the customer goes to the cashier to pay,Relevant
+"If it is still available; the customer goes to the cashier and makes the payment,Relevant"
+"If not; the employee suggests that the customer place an order on the Internet directly from the store,Relevant"
+"If the customer accepts; the employee places the order on the computer and the customer goes to the cashier to pay,Relevant"
 The restaurant is an Italian restaurant open every day except Sunday.,Irrelevant
 The process begins when the customer enters the restaurant,Relevant
 The customer waits at the counter for a waiter to arrive,Relevant
 The waiter first asks if the customer has a reservation,Relevant
-If so, he takes him to his table and gives him a menu,Relevant
-If not, the waiter checks if there are any tables available,Relevant
-If a table is available, the customer is taken to it and the waiter gives him a menu,Relevant
-If there are no more tables available, the server notifies the client and the client leaves,Relevant
-Once the customer is seated, the waiter lets 10 minutes pass,Relevant
+"If so; he takes him to his table and gives him a menu,Relevant"
+"If not; the waiter checks if there are any tables available,Relevant"
+"If a table is available; the customer is taken to it and the waiter gives him a menu,Relevant"
+"If there are no more tables available; the server notifies the client and the client leaves,Relevant"
+"Once the customer is seated; the waiter lets 10 minutes pass,Relevant"
 He then comes back to take the order,Relevant
-Either the customer knows what he wants and notifies the customer, for example, a margherita pizza, or he doesn't know and the waiter lets another 10 minutes pass before coming back,Relevant
+"Either the customer knows what he wants and notifies the customer; for example; a margherita pizza; or he doesn't know and the waiter lets another 10 minutes pass before coming back,Relevant"
 The waiter leaves with the order and takes it to the cooks,Relevant
-During the preparation time of the dishes, the waiter brings the drink and olives to the customer,Relevant
-When the dish is ready, the cook notifies the waiter with a small bell,Relevant
+"During the preparation time of the dishes; the waiter brings the drink and olives to the customer,Relevant"
+"When the dish is ready; the cook notifies the waiter with a small bell,Relevant"
 The waiter takes the dish and brings it to the customer who can enjoy his meal,Relevant
 Erasmus’t is an accommodation company for Erasmus students in Liege. ,Irrelevant
-The process starts when the customer goes on the website erasmus.eu, choses a house and goes on the link applied for a room. ,Relevant
+"The process starts when the customer goes on the website erasmus.eu; choses a house and goes on the link applied for a room. ,Relevant"
 The future tenant can choose between eight houses. ,Irrelevant
-The future tenant choses the period of his stay and the user details (first name, mobile number,…) and fills it on the website. ,Relevant
+"The future tenant choses the period of his stay and the user details (first name; mobile number;…) and fills it on the website. ,Relevant"
 The future tenant clicks on « check the availability » after filing all the fields. ,Relevant
 You receive a mail as confirmation. ,Relevant
-Then, one of the owner call you to have more information. ,Relevant
+"Then; one of the owner call you to have more information. ,Relevant"
 You have to pay the rent and the deposit in advance as reservation. ,Relevant
-All the houses have one washing machine, an oven and a free Wi-Fi,Irrelevant
-Then, when you come for your Erasmus exchange, they pick you up at the train station and drive you to your house. ,Relevant
-They give you your keys and check your room (for the caution), the room is yours for the period of your stay. ,Relevant
+"All the houses have one washing machine; an oven and a free Wi-Fi,Irrelevant"
+"Then; when you come for your Erasmus exchange; they pick you up at the train station and drive you to your house. ,Relevant"
+"They give you your keys and check your room (for the caution); the room is yours for the period of your stay. ,Relevant"
 The process is finalized.,Relevant
-United Kitchens is a company with shared kitchens for caterer, cook or food entrepreneurs in IleDe-France,Irrelevant
+"United Kitchens is a company with shared kitchens for caterer; cook or food entrepreneurs in IleDe-France,Irrelevant"
 The process starts when the customer goes on the website www.unitedkitchens.fr and writes a message via the information request form,Relevant
 A united kitchens’ employee sends an e-mail and ask if they are available for a telephone meeting,Relevant
 The client answers,Relevant
@@ -3234,76 +3234,76 @@ A united kitchen’s employee calls the client and discusses about his needs and t
 We agree on a time slot for the laboratory visit,Relevant
 The customer visits,Relevant
 The customer can take a break and take a coffee in the hall,Irrelevant
-Then, the customer comes back to the united kitchens’ employee with a specific request,Relevant
+"Then; the customer comes back to the united kitchens’ employee with a specific request,Relevant"
 This request corresponds to the formula of united kitchens’ offer that best suits his needs,Irrelevant
 The united kitchens’ employee writes the contract 11- The united kitchens’ employee sends the contract to have an electronic signature,Relevant
-The client can sign the contract on his phone, computer,,Irrelevant
+"The client can sign the contract on his phone; computer;,Irrelevant"
 The client signs the contract,Relevant
 The process is finalized,Relevant
 The process starts when a couple wants to go for a city-trip in Belgium.,Relevant
 The couple makes a choice between several cities.,Relevant
 The couple makes a choice between several housings and sends request to the housing owner.,Relevant
 Housing owner is notified that a couple wants to book a night.,Relevant
-Housing owner asks for couple’s personal information such as first name, date of birth, number of passport, ID card… and it is valid for 7 days.,Relevant
-If there is no answer from the couple within 7 days regarding the personal information, the housing owner sends a reminder and waits for another 48 hours.,Relevant
-If there is no answer within the 48 hours, the request is cancelled, and housing owner notifies the couple.,Relevant
-After the booking is done, housing owner sends a link to proceed the payment online to the couple and it is valid for 3 days.,Relevant
-One day before the expiration date, housing owner sends a reminder to couple if the payment is not received.,Relevant
-When the payment is received, housing owner sends the order confirmation. ,Relevant
-If no payment is received within 3 days, the booking is cancelled, and housing owner notifies the couple.,Relevant
+"Housing owner asks for couple’s personal information such as first name; date of birth; number of passport; ID card… and it is valid for 7 days.,Relevant"
+"If there is no answer from the couple within 7 days regarding the personal information; the housing owner sends a reminder and waits for another 48 hours.,Relevant"
+"If there is no answer within the 48 hours; the request is cancelled; and housing owner notifies the couple.,Relevant"
+"After the booking is done; housing owner sends a link to proceed the payment online to the couple and it is valid for 3 days.,Relevant"
+"One day before the expiration date; housing owner sends a reminder to couple if the payment is not received.,Relevant"
+"When the payment is received; housing owner sends the order confirmation. ,Relevant"
+"If no payment is received within 3 days; the booking is cancelled; and housing owner notifies the couple.,Relevant"
 The process starts when Chloé wants to pass her driver’s license.,Relevant
 Employees are notified by email that Chloé wants to pass her license.,Relevant
 An employee asks for the date by responding to the email.,Relevant
 Chloé communicates her availabilities by responding to the email.,Relevant
-Then, she waits for several days.,Relevant
+"Then; she waits for several days.,Relevant"
 Then she decides to practice again her manoeuvres.,Relevant
-Meanwhile, the employee is checking availability.,Relevant
+"Meanwhile; the employee is checking availability.,Relevant"
 Then she passes the driving license.,Relevant
 An employee gives her the certificate of achievement.,Relevant
-Chloé takes the certificate and leaves the place, the process is finished.,Relevant
-The recruitment process starts with a presentation to the 1st and 2nd year bachelor students to introduce them to the company, its project, the role of the students,… and to inform them that the recruitment period will start two weeks later,Relevant
+"Chloé takes the certificate and leaves the place; the process is finished.,Relevant"
+"The recruitment process starts with a presentation to the 1st and 2nd year bachelor students to introduce them to the company; its project; the role of the students;… and to inform them that the recruitment period will start two weeks later,Relevant"
 These presentations are made exclusively in French,Irrelevant
-At the same time, activities are organised for interested people to get to know the company members in a more informal way,Relevant
-For example, these activities take the form of online drinks, escape games where the members of the company are mixed with the other participants, etc,Irrelevant
+"At the same time; activities are organised for interested people to get to know the company members in a more informal way,Relevant"
+"For example; these activities take the form of online drinks; escape games where the members of the company are mixed with the other participants; etc,Irrelevant"
 The first week of the recruitment period is devoted to sending the candidates' CVs and their covering letters,Relevant
 The next two weeks consist of the analysis of the CVs and cover letters,Relevant
 Individual interviews are also conducted with the candidates during this period to learn more about them,Relevant
 These interviews take place in the company's offices,Irrelevant
 Candidates matching the required profiles are hired,Relevant
-If there are still vacancies, the company makes a new presentation and starts the process again until the desired profiles are found,Relevant
-First, the customer places the desired items in their online shopping cart,Relevant
+"If there are still vacancies; the company makes a new presentation and starts the process again until the desired profiles are found,Relevant"
+"First; the customer places the desired items in their online shopping cart,Relevant"
 They then proceed to check out their order,Relevant
-If they are satisfied, they select the way they want their order to be shipped and, if necessary, indicate the shipping address,Relevant
+"If they are satisfied; they select the way they want their order to be shipped and; if necessary; indicate the shipping address,Relevant"
 They then fill in the details to make their payment,Relevant
-Once the payment has been received by the company, the order is validated and a recap email is sent to the customer,Relevant
-In parallel, the company contacts its warehouse to prepare the order,Relevant
-When the order is ready to be shipped, the company sends an email to inform the customer that the order is about to be shipped,Relevant
+"Once the payment has been received by the company; the order is validated and a recap email is sent to the customer,Relevant"
+"In parallel; the company contacts its warehouse to prepare the order,Relevant"
+"When the order is ready to be shipped; the company sends an email to inform the customer that the order is about to be shipped,Relevant"
 The company then contacts its subcontractor who handles the deliveries to ship the product to the customer,Relevant
-During the contact between the company and its subcontractor, the subcontractor may talks about its cash flow problems and asks to be paid more quickly,Relevant
-When the package has been delivered, the company sends an email to the customer to confirm that he has received his order and, if he wishes, he can complete a satisfaction questionnaire,Relevant
+"During the contact between the company and its subcontractor; the subcontractor may talks about its cash flow problems and asks to be paid more quickly,Relevant"
+"When the package has been delivered; the company sends an email to the customer to confirm that he has received his order and; if he wishes; he can complete a satisfaction questionnaire,Relevant"
 The satisfaction questionnaire is not mandatory,Irrelevant
-       Uber Eats is a meal delivery service launched by Uber in 2015 and based in San Francisco, California,Irrelevant
+"       Uber Eats is a meal delivery service launched by Uber in 2015 and based in San Francisco; California,Irrelevant"
        The process starts when the customer places an order through the Uber eats application,Relevant
-       For example, a Big Mac Menu at Mcdonalds,Irrelevant
+"       For example; a Big Mac Menu at Mcdonalds,Irrelevant"
        Then the restaurant receives the customer's order and starts to prepare it,Relevant
-       When the restaurant has almost finished preparing the order, an employee starts the automatic search for a delivery person,Relevant
+"       When the restaurant has almost finished preparing the order; an employee starts the automatic search for a delivery person,Relevant"
        A delivery person receives the order and goes to the restaurant to collect it,Relevant
        The restaurant gives the order to the deliveryman and he starts his delivery,Relevant
-       At that moment, the customer receives a notification and he can follow the deliverer through the map of the application,Relevant
+"       At that moment; the customer receives a notification and he can follow the deliverer through the map of the application,Relevant"
        The delivery man arrives at the customer's home and gives him his order,Relevant
    The customer receives the order and checks if the order is complete,Relevant
    If something is missing the customer must contact the restaurant to receive the missing meal,Relevant
    The customer marks the delivery as completed and the delivery person does the same,Relevant
 The process is finished,Relevant
-       Prozis is a European brand of sports nutrition, proteins, food supplements and clothing with quality products at the best price,Irrelevant
+"       Prozis is a European brand of sports nutrition; proteins; food supplements and clothing with quality products at the best price,Irrelevant"
        The process starts when a customer places an order on Prozis.com,Relevant
        The order is registered as soon as the order is paid,Relevant
-       Then, the order is prepared by the employees,Relevant
-       When the order is complete, it is marked as ready to ship,Relevant
-       When a carrier is available, the order is shipped,Relevant
-       For each of the previous steps, the customer receives a notification on the website about the status of the step,Relevant
-       One day before the reception of his order, the customer receives a sms concerning the approximate hour of delivery,Relevant
-       If the customer is not at home, the order is dropped off at the nearest relay point,Relevant
+"       Then; the order is prepared by the employees,Relevant"
+"       When the order is complete; it is marked as ready to ship,Relevant"
+"       When a carrier is available; the order is shipped,Relevant"
+"       For each of the previous steps; the customer receives a notification on the website about the status of the step,Relevant"
+"       One day before the reception of his order; the customer receives a sms concerning the approximate hour of delivery,Relevant"
+"       If the customer is not at home; the order is dropped off at the nearest relay point,Relevant"
    Then the customer receives or goes at the nearest relay point to get his order,Relevant
    The process ends when the customer receives the order,Relevant
       A client enters the restaurant to order food to go,Relevant
@@ -3313,7 +3313,7 @@ The process is finished,Relevant
       The waiter prints the ticket ,Relevant
       The waiter gives the ticket to the chefs,Relevant
       The clients pays for the order,Relevant
-      Meanwhile, The chefs ask to the kitchen some ingredients to make the sushis,Relevant
+"      Meanwhile; The chefs ask to the kitchen some ingredients to make the sushis,Relevant"
       The kitchen guy gives the ingredients to the chefs,Relevant
   The chefs make the sushi rolls ,Relevant
   The waiter packs the order into a bag with baguettes and salsas to accompany the sushi ,Relevant
@@ -3322,11 +3322,11 @@ The client leaves,Relevant
       A client sits at a table,Relevant
       The waiter goes and gives him a menu,Relevant
       The client looks at the menu ,Relevant
-      Once the client is ready to order, he makes a sign to the waiter,Relevant
+"      Once the client is ready to order; he makes a sign to the waiter,Relevant"
       The waiter takes the orders,Relevant
       Coffees are excellent there ,Irrelevant
-      The waiter gives the order to the kitchen, if the clients ordered something to eat ,Relevant
-      Meanwhile, the waiter prepares the drinks with small biscuits to accompany it,Relevant
+"      The waiter gives the order to the kitchen; if the clients ordered something to eat ,Relevant"
+"      Meanwhile; the waiter prepares the drinks with small biscuits to accompany it,Relevant"
       The waiter brings the drinks to the client,Relevant
   The kitchen brings the food directly to the clients ,Relevant
   The clients drinks and eats ,Relevant
@@ -3334,27 +3334,27 @@ The client leaves,Relevant
 The client leaves,Relevant
 """Le Brull"" is a dental clinic attached to the CHU of Liège. ,Irrelevant"
 The process begins when a patient arrives at the clinic.,Relevant
-The patient goes to the reception desk, where he or she is asked whether it is an emergency or an appointment. ,Relevant
+"The patient goes to the reception desk; where he or she is asked whether it is an emergency or an appointment. ,Relevant"
 He or she presents his or her identity card so that his or her details can be checked. ,Relevant
-In case of an appointment, the patient is directed to the waiting room, where the dentist concerned will come to collect him or her for treatment. ,Relevant
-If it is an emergency, the patient is required to wait for an indefinite period of time and care will be provided according to the degree of urgency of his or her case. ,Relevant
-For example, a broken tooth, an infection... ,Irrelevant
-Once the work is completed, an invoice will be sent to the patient within 24 hours. ,Relevant
+"In case of an appointment; the patient is directed to the waiting room; where the dentist concerned will come to collect him or her for treatment. ,Relevant"
+"If it is an emergency; the patient is required to wait for an indefinite period of time and care will be provided according to the degree of urgency of his or her case. ,Relevant"
+"For example; a broken tooth; an infection... ,Irrelevant"
+"Once the work is completed; an invoice will be sent to the patient within 24 hours. ,Relevant"
 The patient leaves the clinic. ,Relevant
 He will have to pay for his care as soon as the invoice is received. ,Relevant
-If he has not paid after one month, a reminder is sent to him. ,Relevant
+"If he has not paid after one month; a reminder is sent to him. ,Relevant"
 The clinic in Waremme has a very well known surgery department. ,Irrelevant
 The process begins when the patient comes to the clinic's admissions desk.,Relevant
 They are asked for their identity card.,Relevant
 Then he is asked if he has insurance.,Relevant
-If so, we check the e-mail sent by the hospital insurance. ,Relevant
-If not, we send it to the insurance terminal. ,Relevant
-After this step, we explain the admission declaration, fill it out and has it signed. ,Relevant
-The admission declaration includes among other things the choice of insurance, the costs of the stay, the pharmaceutical costs, etc. ,Irrelevant
-Once the declaration is signed, the patient receives an identification bracelet and labels. ,Relevant
-Finally, the patient is sent to the surgery department. ,Relevant
+"If so; we check the e-mail sent by the hospital insurance. ,Relevant"
+"If not; we send it to the insurance terminal. ,Relevant"
+"After this step; we explain the admission declaration; fill it out and has it signed. ,Relevant"
+"The admission declaration includes among other things the choice of insurance; the costs of the stay; the pharmaceutical costs; etc. ,Irrelevant"
+"Once the declaration is signed; the patient receives an identification bracelet and labels. ,Relevant"
+"Finally; the patient is sent to the surgery department. ,Relevant"
 The surgery department is located on the third floor. ,Irrelevant
-The patient is then received by the nurses, who explain how the operation will be done.,Relevant
+"The patient is then received by the nurses; who explain how the operation will be done.,Relevant"
 Uber Eats is an American online food ordering and delivery platform launched by Uber in 2014 ,Irrelevant
 The process starts when the customer selects a dish in uber Eats app and places an order ,Relevant
 The consumer has the possibility to add a comment on the ingredients of the dish when placing the order ,Relevant
@@ -3362,15 +3362,15 @@ The uber software receives a request for a dish ,Relevant
 The restaurant decides to accept or not the request ,Relevant
 The restaurant prepares the order ,Relevant
 If yes the uber software sends a request to a driver to deliver the dish ,Relevant
-Then, the customer receives a confirmation and tracks the order progress through the application,Relevant
+"Then; the customer receives a confirmation and tracks the order progress through the application,Relevant"
 The restaurant notifies the driver when the dish is ready ,Relevant
 The driver delivers the dish and contacts the customer when arrived to destination ,Relevant
 The uber software receives the payment by a credit card and sends the invoice by email ,Relevant
 The uber software sends a notification to note the delivery experience and the restaurant ,Relevant
 If the customer is satisfied he can tip the driver through the app,Relevant
-Campus France is the national agency in charge of promoting French higher education abroad, managing scholarships from French and foreign governments and hosting international students,Irrelevant
+"Campus France is the national agency in charge of promoting French higher education abroad; managing scholarships from French and foreign governments and hosting international students,Irrelevant"
 The student builds his study project and learns about the training courses offered,Relevant
-The student prepares his application ( for instance language tests, translations of diplomas...) and creates his account on the site,Relevant
+"The student prepares his application ( for instance language tests; translations of diplomas...) and creates his account on the site,Relevant"
 The student submits his application online,Relevant
 The student pays the costs of the file online or on-site with credit card or via a cheque,Relevant
 The agency sends a confirmation email,Relevant
@@ -3380,53 +3380,53 @@ After one month the student starts receiving responses from universities: two po
 The student presents the original documents of his academic background and the certificate of acceptance to the agency,Relevant
 The student prepares his departure with the help of workshops organized by Campus France,Relevant
 The student fills his visa application with the certificate of acceptance signed by campus France,Relevant
-A so-called “mini-enterprise” is a company created by young people in their final year of secondary school, who in addition to this activity, study economics, for example,Irrelevant
-The process of creating a mini-business begins with the application to LJE, the organization that oversees the activity,Relevant
+"A so-called “mini-enterprise” is a company created by young people in their final year of secondary school; who in addition to this activity; study economics; for example,Irrelevant"
+"The process of creating a mini-business begins with the application to LJE; the organization that oversees the activity,Relevant"
 LJE takes the application into consideration and will then visit the students,Relevant
-The students submit the project, for example the creation of a drink, and briefly describe their ambitions,Relevant
+"The students submit the project; for example the creation of a drink; and briefly describe their ambitions,Relevant"
 The students have to start looking for a minimum capital of 700 euros,Relevant
-Following this, an opening general meeting is held in order to legally create the entity,Relevant
-This is followed by a year of sales, fairs, and learning,Relevant
-If the project fails and the team dissolves, an extraordinary meeting must be called to warn the shareholders,Relevant
-If the activity goes smoothly, a general meeting is scheduled in April, all shareholders must be called at least 15 days before,Relevant
-If they do not wish to attend the event, they must either authorize another person to attend in their place with a written proxy, or notify the company in writing of their absence,Relevant
-The document must be in A4 format, sent in pdf format and legible,Irrelevant
-At the end of the year, the students dissolve the company, either by donating the capital to an association or by returning it to the shareholders,Relevant
+"Following this; an opening general meeting is held in order to legally create the entity,Relevant"
+"This is followed by a year of sales; fairs; and learning,Relevant"
+"If the project fails and the team dissolves; an extraordinary meeting must be called to warn the shareholders,Relevant"
+"If the activity goes smoothly; a general meeting is scheduled in April; all shareholders must be called at least 15 days before,Relevant"
+"If they do not wish to attend the event; they must either authorize another person to attend in their place with a written proxy; or notify the company in writing of their absence,Relevant"
+"The document must be in A4 format; sent in pdf format and legible,Irrelevant"
+"At the end of the year; the students dissolve the company; either by donating the capital to an association or by returning it to the shareholders,Relevant"
 This depends on the dynamics of each group,Irrelevant
-If the share has increased in value, the shareholder will have realized a capital gain, if the share is lower than its initial value, he will have made a capital loss,Relevant
-For students who do not wish to dissolve the company, it is possible to continue the project and be supported by an incubator,Relevant
+"If the share has increased in value; the shareholder will have realized a capital gain; if the share is lower than its initial value; he will have made a capital loss,Relevant"
+"For students who do not wish to dissolve the company; it is possible to continue the project and be supported by an incubator,Relevant"
 The Erasmus is the journey of a lifetime,Irrelevant
-First of all, the student goes to the International Relations Department in order to consult various testimonies of former students,Relevant
-If none of them seduced him, they can either abandon their project or consider a double degree,Relevant
-In the latter case, they consult Mrs. Gillet and the process stops,Relevant
-If the student is interested and after consulting the testimonies, they will select their favorite destinations,Relevant
+"First of all; the student goes to the International Relations Department in order to consult various testimonies of former students,Relevant"
+"If none of them seduced him; they can either abandon their project or consider a double degree,Relevant"
+"In the latter case; they consult Mrs. Gillet and the process stops,Relevant"
+"If the student is interested and after consulting the testimonies; they will select their favorite destinations,Relevant"
 They will then register in the student ranking,Relevant
-If their average is sufficient, they will be able to go to one of their favorite destinations,Relevant
-If not, they will be assigned another destination without affecting the rest of the process,Relevant
-Some students are very disappointed, frustrated and regret not having worked harder to get a better place in the ranking,Irrelevant
-Anyway, the student then contacts the university that will host them,Relevant
-They receive their learning agreement from the University of Liège, transfer it to their host university and start looking for accommodation,Relevant
-Students are also advised to learn some of the language of the host country, but few apply this advice,Relevant
-Once the departure date arrives, the student goes to their host university and gives a paper to be signed by the local office, which they send directly to the University of Liège to prove that they are in fact there,Relevant
+"If their average is sufficient; they will be able to go to one of their favorite destinations,Relevant"
+"If not; they will be assigned another destination without affecting the rest of the process,Relevant"
+"Some students are very disappointed; frustrated and regret not having worked harder to get a better place in the ranking,Irrelevant"
+"Anyway; the student then contacts the university that will host them,Relevant"
+"They receive their learning agreement from the University of Liège; transfer it to their host university and start looking for accommodation,Relevant"
+"Students are also advised to learn some of the language of the host country; but few apply this advice,Relevant"
+"Once the departure date arrives; the student goes to their host university and gives a paper to be signed by the local office; which they send directly to the University of Liège to prove that they are in fact there,Relevant"
 The student spends one semester in their new school,Relevant
-At the end of this time, the student takes the examinations and obtains a certificate of achievement, which they hand over to the University of Liège on their return,Relevant
-In case of failure, the student will retake the exams abroad, until obtaining the certificate, in order to close the Erasmus,Relevant
+"At the end of this time; the student takes the examinations and obtains a certificate of achievement; which they hand over to the University of Liège on their return,Relevant"
+"In case of failure; the student will retake the exams abroad; until obtaining the certificate; in order to close the Erasmus,Relevant"
 The warehouse takes care of sending packages in the different office of the company according to their orders ,Relevant
 The process starts when an office sends an email for placing an order ,Relevant
-For example: pens, pencils, sheet of paper, staples, folders and so on ,Irrelevant
+"For example: pens; pencils; sheet of paper; staples; folders and so on ,Irrelevant"
 Employees are notified that an order is receiving ,Relevant
 An employee looks the order ,Relevant
 The employee prints the order ,Relevant
 The employee prepares a cart and the order sheet ,Relevant
 The employee moves around the warehouse and fills his cart according to the order ,Relevant
-For example: he puts paper toilet, pens and coffee bag ,Irrelevant
-Then, he puts the cart with the order sheet in the room of current orders ,Relevant
+"For example: he puts paper toilet; pens and coffee bag ,Irrelevant"
+"Then; he puts the cart with the order sheet in the room of current orders ,Relevant"
 Another employee checks the cart and the order sheet to be sure there is no mistake ,Relevant
-Then, he packs the order ,Relevant
-Meanwhile, another employee prints the invoice with all the items in the order ,Relevant
+"Then; he packs the order ,Relevant"
+"Meanwhile; another employee prints the invoice with all the items in the order ,Relevant"
 The invoice is put in the package ,Relevant
-Then, the order is filed in the loading room ,Relevant
-A truck picks up the order and drops it off at the office, the process is finished,Relevant
+"Then; the order is filed in the loading room ,Relevant"
+"A truck picks up the order and drops it off at the office; the process is finished,Relevant"
 UnoBis is a restaurant which sells pizza and pates to takeaway ,Irrelevant
 The process starts when a customer rings to place an order ,Relevant
 An employee picks up the phone ,Relevant
@@ -3436,53 +3436,53 @@ For example: one pizza Sole Mio and one pizza Margherita ,Irrelevant
 The employee notes the order and gives an hour to pick up the command ,Relevant
 An employee prepares the order ,Relevant
 The kitchens contain all the equipment needed to cook pizza and pates ,Irrelevant
-Meanwhile, the customer leaves his home and comes to the restaurant ,Relevant
+"Meanwhile; the customer leaves his home and comes to the restaurant ,Relevant"
 The employee hosts the customer ,Relevant
 He says the amount of the order for the payment ,Relevant
 The customer pays cash ,Relevant
 You can’t pay by card ,Irrelevant
 The employee gives the order to the customer ,Relevant
-The customer takes his order and leaves the restaurant, the process is finished,Relevant
-Traiteur de Haene is a caterer operating in Belgium, Brussels region, only in B2B,Irrelevant
-When a company wants to order food from them, they need first to check their website to see what the different offers are,Relevant
-Then, they decide which menu they want to order,Relevant
-It can be for example buffets, starters or several meals,Irrelevant
-After taking this decision, they need to call or send an email for information,Relevant
-When Traiteur de Haene receives the call or email, they will send a quotation in a document to be filled online,Relevant
-Then, the ordering company will fill the document and complete the order by sending their approbation by email or by phone,Relevant
-As soon as Traiteur de Haene have received the confirmation of order, they will encode it in their data basis,Relevant
-When the order confirmation is encoded, an order receipt will be printed,Relevant
+"The customer takes his order and leaves the restaurant; the process is finished,Relevant"
+"Traiteur de Haene is a caterer operating in Belgium; Brussels region; only in B2B,Irrelevant"
+"When a company wants to order food from them; they need first to check their website to see what the different offers are,Relevant"
+"Then; they decide which menu they want to order,Relevant"
+"It can be for example buffets; starters or several meals,Irrelevant"
+"After taking this decision; they need to call or send an email for information,Relevant"
+"When Traiteur de Haene receives the call or email; they will send a quotation in a document to be filled online,Relevant"
+"Then; the ordering company will fill the document and complete the order by sending their approbation by email or by phone,Relevant"
+"As soon as Traiteur de Haene have received the confirmation of order; they will encode it in their data basis,Relevant"
+"When the order confirmation is encoded; an order receipt will be printed,Relevant"
 This receipt will be put in an excel file,Relevant
-The order is finally sent to the kitchen so they can start preparing it, depending on when is the delivery date and time,Relevant
+"The order is finally sent to the kitchen so they can start preparing it; depending on when is the delivery date and time,Relevant"
 They are able to deliver during the day or on the evening,Irrelevant
-When the delivery time comes, the delivery team plan their delivery regarding the place and the time, and then deliver it,Relevant
-When the lunch or dinner is finished, the ordering company can choose weather Traiteur de Haene comes back to take the plates back or not,Relevant
-If they chose not to, the process is finished,Relevant
-If they want Traiteur de Haene to take the plates back, the process is finished when the delivery team has taken the plates back,Relevant
-In march 2021, if a person wants to enter Belgium from abroad, he/she needs to follow some procedures,Relevant
+"When the delivery time comes; the delivery team plan their delivery regarding the place and the time; and then deliver it,Relevant"
+"When the lunch or dinner is finished; the ordering company can choose weather Traiteur de Haene comes back to take the plates back or not,Relevant"
+"If they chose not to; the process is finished,Relevant"
+"If they want Traiteur de Haene to take the plates back; the process is finished when the delivery team has taken the plates back,Relevant"
+"In march 2021; if a person wants to enter Belgium from abroad; he/she needs to follow some procedures,Relevant"
 This situation is due to the corona crisis that the world is living,Irrelevant
 The person needs first to check which measures apply when leaving the country he/she is currently in,Relevant
 Those measures are different depending on the country,Irrelevant
-When the person knows what to do to leave, he/she needs to fill up an online document regarding the entrance in Belgium by filling many personal information and precising weather he/she stays longer than 48h in Belgium or not and if he/she is resident of Belgium,Relevant
-If the person is a Belgian resident, he/she will not be asked to provide a negative PCR test before entering the country,Relevant
-If the person is not Belgian resident, he/she will be required to provide a negative PCR test,Relevant
-If the person stays less than 48, the person is not required to quarantine and a PCR test,Relevant
-If the person plans to stay longer than 48h, he/she will have to self-isolate for 10 days, and to do a PCR test at the first and 7th day of quarantine,Relevant
-When the person enters Belgium, he/she receives an SMS with a code and a link,Relevant
-The sms is written in Dutch, French and German,Irrelevant
+"When the person knows what to do to leave; he/she needs to fill up an online document regarding the entrance in Belgium by filling many personal information and precising weather he/she stays longer than 48h in Belgium or not and if he/she is resident of Belgium,Relevant"
+"If the person is a Belgian resident; he/she will not be asked to provide a negative PCR test before entering the country,Relevant"
+"If the person is not Belgian resident; he/she will be required to provide a negative PCR test,Relevant"
+"If the person stays less than 48; the person is not required to quarantine and a PCR test,Relevant"
+"If the person plans to stay longer than 48h; he/she will have to self-isolate for 10 days; and to do a PCR test at the first and 7th day of quarantine,Relevant"
+"When the person enters Belgium; he/she receives an SMS with a code and a link,Relevant"
+"The sms is written in Dutch; French and German,Irrelevant"
 The person can then click on the link and book an appointment for the first PCR test using the code he/she was provided,Relevant
 Another SMS with another code will follow for the second PCR test,Relevant
-If the second test is positive, the person needs to keep self-isolating and do another test 7 days after,Relevant
+"If the second test is positive; the person needs to keep self-isolating and do another test 7 days after,Relevant"
 The process ends when the person is negative to COVID-19,Relevant
 Let’s take the example of a mini-golf. ,Irrelevant
 The process starts when a customer enters the mini golf. ,Relevant
 The customer asks for the equipment to an employee at the desk. ,Relevant
 The employee at the desk asks for the number of players and the age. ,Relevant
 The customer communicates the number of players and their age. ,Relevant
-For example, 2 adults and 3 children. ,Irrelevant
+"For example; 2 adults and 3 children. ,Irrelevant"
 The employee in the equipment zone is notified with the equipment to prepare.,Relevant
 The customer pays for the equipment in cash or card and also pays a deposit.,Relevant
-Meanwhile, the employee in the equipment zone prepares the equiment.,Relevant
+"Meanwhile; the employee in the equipment zone prepares the equiment.,Relevant"
 The customer goes to the equipment zone. ,Relevant
 The employee in the equipment zone gives the equipment to the customer. ,Relevant
 The customer starts playing.,Relevant
@@ -3495,75 +3495,75 @@ ASP Groupe is a renovation company which works with insurance company. ,Irreleva
 The process starts when a customer calls his insurance company after a sinister.,Relevant
 The insurance company contact ASP Groupe. ,Relevant
 An employee of ASP Group goes to the sinister to see the damages. ,Relevant
-For example, a completely burnt house. ,Irrelevant
+"For example; a completely burnt house. ,Irrelevant"
 The employee draw up a quote. ,Relevant
 The quote is sent to the insurance company. ,Relevant
 The insurance analyses the quote and accept it or not. ,Relevant
-Meanwhile, ASP Groupe employee check the availability of its workers in case the quote is accepted. ,Relevant
+"Meanwhile; ASP Groupe employee check the availability of its workers in case the quote is accepted. ,Relevant"
 Workers can be ASP Groupe’s workers or subcontractors.,Irrelevant
-If the insurance company accepts the quote, the workers start to work on the sinister. ,Relevant
+"If the insurance company accepts the quote; the workers start to work on the sinister. ,Relevant"
 The insurance pays the amount to ASP Groupe when the work is done. ,Relevant
 The Burger customers’ order are received on the application,Relevant
-When an order is received, the central allocate the order to the restaurant closest to the customers’ location,Relevant
-Once the restaurant receives the order, the chef take the right amount of meat patties out of the fridge,Relevant
+"When an order is received; the central allocate the order to the restaurant closest to the customers’ location,Relevant"
+"Once the restaurant receives the order; the chef take the right amount of meat patties out of the fridge,Relevant"
 They need to stay out of the fridge around 10minutes in order for the cooking to be perfect,Relevant
-Simultaneously, the chef slice the vegetables and prepare the Fresh Sauce,Relevant
-The Fresh Sauce is a “The Burger special” sauce, customers love it,Irrelevant
-Then, the chef heats the bread before assembling The Burger,Relevant
-While the chef is cooking, the central check whether the payment from the customer has been received and book a delivery guy,Relevant
-Once notified, the delivery guy goes to the restaurant to pick up The Burger,Relevant
+"Simultaneously; the chef slice the vegetables and prepare the Fresh Sauce,Relevant"
+"The Fresh Sauce is a “The Burger special” sauce; customers love it,Irrelevant"
+"Then; the chef heats the bread before assembling The Burger,Relevant"
+"While the chef is cooking; the central check whether the payment from the customer has been received and book a delivery guy,Relevant"
+"Once notified; the delivery guy goes to the restaurant to pick up The Burger,Relevant"
 He then delivers it in less than 6minutes to the client,Relevant
 That’s what we call efficiency!,Irrelevant
 Alfred works as postman in the town of Saive,Irrelevant
-Everyday, he engages in a delivery tour to post letters,Relevant
-Each morning, Alfred bikes to the post station and get the letters,Relevant
+"Everyday; he engages in a delivery tour to post letters,Relevant"
+"Each morning; Alfred bikes to the post station and get the letters,Relevant"
 He also check whether packages need to be delivered today,Relevant
-If there are no packages, Alfred delivers the mail by bike, he enjoys it more,Relevant
-However, if there are packages to be delivered, Alfred drives the post truck because he can’t carry all the packages on his back,Relevant
-He always starts by delivering mail in the neighborhood A, the farthest from the post station,Relevant
-Then, Alfred delivers neighborhood D, C and B, in that order,Relevant
-In the afternoon, Alfred goes back to the post station and prepares his next day delivery round,Relevant
-To do so, he allocates each letter to its right neighborhood,Relevant
-For every letter, Alfred must check whether it is well stamped,Relevant
-Once these tasks are done, Alfred is free to go back home and walk his dog!,Irrelevant
-      The restaurant for which I worked, holds a managing system for the tables’ bookings. ,Irrelevant
-      When a client phones to book a table, and communicates the datum when he wants to come, the waiter needs to check the availability of tables. ,Relevant
-      If a table is available on that day, the process will keep going, if no table is available, either the client will postpone to another date, or he will cancel his request and the process is over.,Relevant
-      If it’s a table for more than 4 people, they will be sitting in the “Fish room”, if they’re less or equal to 4 people, they will be placed in the “Harbour room”. ,Relevant
-      If there is a free table in the room desired, the table will be booked and the waiter will communicate the table number to the client (in order to make it easier for when the customer arrives,Relevant
+"If there are no packages; Alfred delivers the mail by bike; he enjoys it more,Relevant"
+"However; if there are packages to be delivered; Alfred drives the post truck because he can’t carry all the packages on his back,Relevant"
+"He always starts by delivering mail in the neighborhood A; the farthest from the post station,Relevant"
+"Then; Alfred delivers neighborhood D; C and B; in that order,Relevant"
+"In the afternoon; Alfred goes back to the post station and prepares his next day delivery round,Relevant"
+"To do so; he allocates each letter to its right neighborhood,Relevant"
+"For every letter; Alfred must check whether it is well stamped,Relevant"
+"Once these tasks are done; Alfred is free to go back home and walk his dog!,Irrelevant"
+"      The restaurant for which I worked; holds a managing system for the tables’ bookings. ,Irrelevant"
+"      When a client phones to book a table; and communicates the datum when he wants to come; the waiter needs to check the availability of tables. ,Relevant"
+"      If a table is available on that day; the process will keep going; if no table is available; either the client will postpone to another date; or he will cancel his request and the process is over.,Relevant"
+"      If it’s a table for more than 4 people; they will be sitting in the “Fish room”; if they’re less or equal to 4 people; they will be placed in the “Harbour room”. ,Relevant"
+"      If there is a free table in the room desired; the table will be booked and the waiter will communicate the table number to the client (in order to make it easier for when the customer arrives,Relevant"
       The customer will communicate the accurate time when he will be there. ,Relevant
       The waiter will register the hour in his program. ,Relevant
-      When the client arrives, the waiter has to open the table on his program to confirm that the client arrived. ,Relevant
-If the waiter hasn’t opened the table on his program in the 20 minutes while the client was supposed to, the reservation will automatically be canceled and the table will be free again for an eventual other client.,Relevant
+"      When the client arrives; the waiter has to open the table on his program to confirm that the client arrived. ,Relevant"
+"If the waiter hasn’t opened the table on his program in the 20 minutes while the client was supposed to; the reservation will automatically be canceled and the table will be free again for an eventual other client.,Relevant"
       The waiter will go regularly to the client’s table to check that everything is ok.,Relevant
   All the food and drinks ordered by the client will be registered by the waiter on the program with the customer’s table assigned. ,Relevant
-If the bill is more than 60€, a drink will be offered, otherwise nothing will be offered.,Relevant
+"If the bill is more than 60€; a drink will be offered; otherwise nothing will be offered.,Relevant"
   The “table” (on the computer program will be closed when the client will have paid either by cash or by card.,Relevant
 The process is finished,Relevant
       My sister is working as a recruiter in a big company in which there is a special process to hire people. ,Irrelevant
-      First, when they are looking for a new candidate to work for them, she will place a job description on the website of the company. ,Relevant
-      If someone is interested in applying for the job, he will be asked to send an email to her e-mail address. ,Relevant
+"      First; when they are looking for a new candidate to work for them; she will place a job description on the website of the company. ,Relevant"
+"      If someone is interested in applying for the job; he will be asked to send an email to her e-mail address. ,Relevant"
       She will receive dozens of applications. ,Relevant
-She will only keep people who can either speak English and/or Dutch, those who can’t speak any of those languages will be out. ,Relevant
+"She will only keep people who can either speak English and/or Dutch; those who can’t speak any of those languages will be out. ,Relevant"
       She will notify them by e-mail that their application has been rejected.,Relevant
       She will contact by phone the most interesting profiles to make an interview in face-to-face with them.,Relevant
-      On the phone, they will agree on a datum to meet. ,Relevant
-      After having seen all the interesting candidates, she will write a report, a debriefing on the best 3 candidates and show it to her director.,Relevant
-      If the report is clear enough and that the manager can make a decision thanks to it, he will choose the candidate without having seeing him. ,Relevant
-Otherwise, he will arrange a meeting with the best candidates.,Relevant
-  If one candidate has been selected, he will receive an email to be informed that he is selected and the others who haven’t been selected, will also be informed by email. ,Relevant
-  If the director hasn’t been able to make a decision with the report, my sister will organize another meeting with the 3 best candidates and her manager.,Relevant
-  2 days after the meeting, the candidates will receive a positive or negative answer for the job. ,Relevant
-  Once one candidate has been selected, the process is over.,Relevant
+"      On the phone; they will agree on a datum to meet. ,Relevant"
+"      After having seen all the interesting candidates; she will write a report; a debriefing on the best 3 candidates and show it to her director.,Relevant"
+"      If the report is clear enough and that the manager can make a decision thanks to it; he will choose the candidate without having seeing him. ,Relevant"
+"Otherwise; he will arrange a meeting with the best candidates.,Relevant"
+"  If one candidate has been selected; he will receive an email to be informed that he is selected and the others who haven’t been selected; will also be informed by email. ,Relevant"
+"  If the director hasn’t been able to make a decision with the report; my sister will organize another meeting with the 3 best candidates and her manager.,Relevant"
+"  2 days after the meeting; the candidates will receive a positive or negative answer for the job. ,Relevant"
+"  Once one candidate has been selected; the process is over.,Relevant"
 A client makes an order to market buy a stock to his stock broker,Relevant
 The stock broker checks the price and the liquidity for the stock,Relevant
 The liquidity can show how many stocks the client can buy without having an increased slippage,Irrelevant
 The stock broker notifies the client about the price and the liquidity for the desired stock 5,Relevant
 The client either accepts or refuses the conditions for the trade,Relevant
-If the client refuses the trade, the process is finished,Relevant
-If the client accepts the trade, the stock broker debits the client’s account from the sum dedicated to the buying of the stock,Relevant
+"If the client refuses the trade; the process is finished,Relevant"
+"If the client accepts the trade; the stock broker debits the client’s account from the sum dedicated to the buying of the stock,Relevant"
 The stock broker places the order on the stock exchange,Relevant
-At the execution, the stock broker pays the stock to the seller and receives the stock bought,Relevant
+"At the execution; the stock broker pays the stock to the seller and receives the stock bought,Relevant"
 The stock broker notifies his clients of the good execution of the trade,Relevant
 The process is finished,Relevant
 The process starts when someone wants to buy a stock on a stock broker website,Relevant
@@ -3574,94 +3574,94 @@ The system places the allocated funds of the client on hold,Relevant
 The system detects which class of asset is in the order,Relevant
 The system performs a research to sort only the assets in the category chosen by the customer,Relevant
 The system selects the relevant asset chosen by the customer,Relevant
-The system can receive two type of orders, market orders or limit orders,Irrelevant
+"The system can receive two type of orders; market orders or limit orders,Irrelevant"
 The system recognizes if it is a market order or a limit order,Relevant
-If it is a market order, the system executes the order at the market price,Relevant
-If it is a limit order, the system places the order in the order book,Relevant
+"If it is a market order; the system executes the order at the market price,Relevant"
+"If it is a limit order; the system places the order in the order book,Relevant"
 When the order is executed the system takes the on-hold funds to pay the seller,Relevant
 The system credits the asset on the customer’s account,Relevant
 The system sends a notification of the execution of the customer’s order,Relevant
 The process is finished,Relevant
 It is the Vice-President (VP) of the CIO that organizes the recruitment in the CIO Essentia.,Irrelevant
-At the beginning of the Easter Holiday, the VP informs the team that the recruitment will take place and organize a poll in order to set a date for the recruitment.,Relevant
-"3 days later, the VP selects the most popular date; this will be the date of the recruitment.,Relevant"
-Then, the VP informs the team and, especially, the communication team of the date.,Relevant
-After that, the communication team posts a Facebook and an Instagram status saying that Essentia is recruiting.,Relevant
-In the status, it is stated that the applicant should apply by sending their CV and a Cover letter.,Relevant
-Moreover, there is a deadline in the status which is 5 days before the day of recruitment.,Irrelevant
-Five days before the recruitment, all the members screen the CV and the cover letters and make a first selection between the applicants.,Relevant
+"At the beginning of the Easter Holiday; the VP informs the team that the recruitment will take place and organize a poll in order to set a date for the recruitment.,Relevant"
+"3 days later; the VP selects the most popular date; this will be the date of the recruitment.,Relevant"
+"Then; the VP informs the team and; especially; the communication team of the date.,Relevant"
+"After that; the communication team posts a Facebook and an Instagram status saying that Essentia is recruiting.,Relevant"
+"In the status; it is stated that the applicant should apply by sending their CV and a Cover letter.,Relevant"
+"Moreover; there is a deadline in the status which is 5 days before the day of recruitment.,Irrelevant"
+"Five days before the recruitment; all the members screen the CV and the cover letters and make a first selection between the applicants.,Relevant"
 It is rare that we refuse someone at this stage but it happens from time to time.,Irrelevant
-if 2/3 or more of the members have accepted the applicant : in that case, the applicant is hired.,Relevant
-If less than half of the members have accepted the applicant :in that case, the applicant is not hired.,Relevant
-If less than 2/3 and more than half of the members have accepted the applicant, there is a discussion between the members and after the discussion, they have to vote again. ,Relevant
+"if 2/3 or more of the members have accepted the applicant : in that case; the applicant is hired.,Relevant"
+"If less than half of the members have accepted the applicant :in that case; the applicant is not hired.,Relevant"
+"If less than 2/3 and more than half of the members have accepted the applicant; there is a discussion between the members and after the discussion; they have to vote again. ,Relevant"
 Only the members of the CIO Essentia and participants on the humanitarian trip are going to sell croquettes.,Irrelevant
 The process starts when the Event Manager sends to them the excel file in which they can register their sales.,Relevant
-At the same time, the Event Manager informs every one of the deadline to send back their excel file.,Relevant
+"At the same time; the Event Manager informs every one of the deadline to send back their excel file.,Relevant"
 Essentia sells 7 different types of croquette’s boxes.,Irrelevant
-Then, the sellers register their sales in their excel files and collect payment from their clients.,Relevant
-When the deadline comes, the sellers send back their excel files to the Event Manager.,Relevant
-After that, the Event Manager has 24 hours to aggregate all the sales in all the excel files and write it down in a summary table.,Relevant
-The summary table is also an excel file that computes the total number of boxes sold by everyone, the total number of boxes for each type of croquettes and the amount that Essentia is going to pay to the supplier.,Relevant
-After the 24 hours, the Event Manager gives a call to the supplier to order the croquettes.,Relevant
+"Then; the sellers register their sales in their excel files and collect payment from their clients.,Relevant"
+"When the deadline comes; the sellers send back their excel files to the Event Manager.,Relevant"
+"After that; the Event Manager has 24 hours to aggregate all the sales in all the excel files and write it down in a summary table.,Relevant"
+"The summary table is also an excel file that computes the total number of boxes sold by everyone; the total number of boxes for each type of croquettes and the amount that Essentia is going to pay to the supplier.,Relevant"
+"After the 24 hours; the Event Manager gives a call to the supplier to order the croquettes.,Relevant"
 The delay for being delivered is 1 week.,Relevant
 The Event Manager usually orders a Friday in order to be delivered the Friday after.,Irrelevant
-Two day before the delivery, the supplier sends an approximate hour of delivery by mail to the Event Manager.,Relevant
+"Two day before the delivery; the supplier sends an approximate hour of delivery by mail to the Event Manager.,Relevant"
 The Event Manager informs the croquettes sellers of the hour of delivery.,Relevant
-2 days later, we are delivered at the approximate hour given by the supplier.,Relevant
+"2 days later; we are delivered at the approximate hour given by the supplier.,Relevant"
 The Event manager counts the boxes to see if all the croquettes are there.,Relevant
-If some boxes are missing, the Event manager calls back the supplier and the supplier comes back to deliver the missing boxes.,Relevant
-If all the boxes are there, the Event Manager distributes the boxes to the sellers.,Relevant
+"If some boxes are missing; the Event manager calls back the supplier and the supplier comes back to deliver the missing boxes.,Relevant"
+"If all the boxes are there; the Event Manager distributes the boxes to the sellers.,Relevant"
 The sellers will then deliver their boxes to their clients.,Relevant
-The day of the delivery, the Event Manager receives the invoice, by email.,Relevant
+"The day of the delivery; the Event Manager receives the invoice; by email.,Relevant"
 The invoice is 30 days to be paid.,Irrelevant
-Then, on the day of the delivery, the Event Manager informs the sellers that they have 1 week to pay the proceeds of their sales to the Essentia bank account.,Relevant
-1 week late, when all the payments are received, the Events Manager pays the supplier and the process is finished.,Relevant
+"Then; on the day of the delivery; the Event Manager informs the sellers that they have 1 week to pay the proceeds of their sales to the Essentia bank account.,Relevant"
+"1 week late; when all the payments are received; the Events Manager pays the supplier and the process is finished.,Relevant"
 Delhaize is a retail supermarket,Irrelevant
 The process stats when the truck unload the goods,Relevant
 A chief brings a roll to the shelf,Relevant
-For example, the roll of chips is brought in front of the shelf where the chips are,Irrelevant
+"For example; the roll of chips is brought in front of the shelf where the chips are,Irrelevant"
 The chief prepares the shelving tool by putting the goods on it,Relevant
 The employees and students take the shelving toll to fill the shelves,Relevant
-If you cannot put all the goods in the shelves, you put the surplus in a bin that will be stored in the reserve,Relevant
-But before putting the surplus in the reserve, the bin will be controlled by an expert,Relevant
-Sometimes it can happen there is new product, so an expert has also to control,Relevant
+"If you cannot put all the goods in the shelves; you put the surplus in a bin that will be stored in the reserve,Relevant"
+"But before putting the surplus in the reserve; the bin will be controlled by an expert,Relevant"
+"Sometimes it can happen there is new product; so an expert has also to control,Relevant"
 You repeat the operation until all the goods received are in the supermarket or in the reserve,Relevant
 BNP Paribas Securities Services is a bank providing services to fund,Irrelevant
 The Fund Accounting department provides the Net Asset Value (NAV) of the fund to the Management Company,Relevant
 The process of the NAV calculation starts when the accountant receives the signoff of the pricing team which is in charge of pricing the assets in the fund,Relevant
-Once we receive that signoff, we have to check if all the assets are correctly priced,Relevant
-If the assets are not correctly priced, we have to contact the pricing team to redo their job,Relevant
-Then, we can launch the calculation of the NAV,Relevant
-When the calculation is done, we print the 3 different reports and we check if the variations in the fund are not too big, it is a step of control,Relevant
-For example, if the variation is superior to 10%, we have to investigate what could happen,Irrelevant
-When we complete that task, we give all the documents to our supervisor who control the NAV to see if the accountant doesn’t make a mistake,Relevant
+"Once we receive that signoff; we have to check if all the assets are correctly priced,Relevant"
+"If the assets are not correctly priced; we have to contact the pricing team to redo their job,Relevant"
+"Then; we can launch the calculation of the NAV,Relevant"
+"When the calculation is done; we print the 3 different reports and we check if the variations in the fund are not too big; it is a step of control,Relevant"
+"For example; if the variation is superior to 10%; we have to investigate what could happen,Irrelevant"
+"When we complete that task; we give all the documents to our supervisor who control the NAV to see if the accountant doesn’t make a mistake,Relevant"
 The last step is to send the NAV to the client who will accept it or not,Relevant
-If he doesn’t accept the NAV, we have to recalculate it,Relevant
+"If he doesn’t accept the NAV; we have to recalculate it,Relevant"
 We also have to respect the cutoff which is the deadline to send the NAV to the customer,Irrelevant
-From DR.Congo, Grace McKenzi is a Montreal artist, a fan of Rap and French melody,Irrelevant
+"From DR.Congo; Grace McKenzi is a Montreal artist; a fan of Rap and French melody,Irrelevant"
 The process starts when he chooses the main theme of the album mostly in relation to the experiences he is going through or has gone through in order to find the title of the album,Relevant
 He tries different instrumentals with different songs to see what fits with his lyrics,Relevant
-With his writing in draft format, he has to execute it in the studio with the engineer,Relevant
-This step is very important, if it is missed, the project is failed,Irrelevant
-"This is the step of the repetition, here the engineer tries to put the lyrics on his different ""yogurts"" that the artist made during his preparation,Relevant"
+"With his writing in draft format; he has to execute it in the studio with the engineer,Relevant"
+"This step is very important; if it is missed; the project is failed,Irrelevant"
+"This is the step of the repetition; here the engineer tries to put the lyrics on his different ""yogurts"" that the artist made during his preparation,Relevant"
 This will allow him to be more comfortable during the studio recording,Irrelevant
-For example, when creating the album Melomaniac, Grace Mckenzi's first studio project, is an album in which he mixes different styles of music that have rocked him since he was young,Irrelevant
-Then, the sound engineer cleans up the recorded tracks of all the songs on the album,Relevant
-This step allows them to have clear, noise-free tracks for the next step,Irrelevant
+"For example; when creating the album Melomaniac; Grace Mckenzi's first studio project; is an album in which he mixes different styles of music that have rocked him since he was young,Irrelevant"
+"Then; the sound engineer cleans up the recorded tracks of all the songs on the album,Relevant"
+"This step allows them to have clear; noise-free tracks for the next step,Irrelevant"
 The engineer puts all the tracks of a song together to get a raw finished product,Relevant
-This is the adjustment stage, this is when the engineer adds effects and boosts the volume of the songs on the album to get commercial quality sounds,Relevant
+"This is the adjustment stage; this is when the engineer adds effects and boosts the volume of the songs on the album to get commercial quality sounds,Relevant"
 It can be done by someone who knows how to do it or he can use paid sites like LANDR to handle the songs,Irrelevant
-Once the songs are finished, the artist decides to distribute the album on different download or streaming sites through distributors that you pay per month like Distrokid, Amuse,Relevant
+"Once the songs are finished; the artist decides to distribute the album on different download or streaming sites through distributors that you pay per month like Distrokid; Amuse,Relevant"
 EVRARD DPE - PHARMALPA is one of the oldest French pharmaceutical depositories,Irrelevant
-The exercise starts with the control of the product, the labeling, and the stocking of the goods,Relevant
+"The exercise starts with the control of the product; the labeling; and the stocking of the goods,Relevant"
 The forklift operator picks up the goods to start the preparation,Relevant
 He uses the Flash at the beginning of the tour to transmit the voice order information,Relevant
 The operator collects the orders in a box and then scans them,Relevant
-Once the order is completed, it is checked by weighing to see if the prepared weight of the package matches the theoretical weight,Relevant
-If the weighing is not in conformity, a red sticker is put on the parcel,Relevant
+"Once the order is completed; it is checked by weighing to see if the prepared weight of the package matches the theoretical weight,Relevant"
+"If the weighing is not in conformity; a red sticker is put on the parcel,Relevant"
 It will be checked manually by another operator,Relevant
 The package with Caudalie products must be prepared for shipment to the pharmacy,Relevant
-The operator checks the parcel, closes it and chooses the shipping mode if the parcel is not in conformity, the quantity is checked, and then a red label is put on it,Relevant
+"The operator checks the parcel; closes it and chooses the shipping mode if the parcel is not in conformity; the quantity is checked; and then a red label is put on it,Relevant"
 The operator chooses a mode of shipment according to the size of the package or TNT package of 1 to 14 packages or delivery by pallets + 15 packages using software,Relevant
 The procedure ends when they deliver to the different pharmacies,Relevant
       Carrefour is a supermarket that offers a self-service payment method.,Irrelevant
@@ -3684,170 +3684,170 @@ The procedure ends when they deliver to the different pharmacies,Relevant
       Order pickers can browse the shelves to complete the order.,Relevant
       The order is then packed and sent to the customer.,Relevant
 The customer receives the order with the right product and enjoys the product,Relevant
-The process starts by sending an email to the person in charge of external relations, ,Relevant
+"The process starts by sending an email to the person in charge of external relations; ,Relevant"
 he must confirm the reception of the request if not the student must send another request. ,Relevant
-After the confirmation, the student must wait until March 12, ,Relevant
-the responsible will send an email to the student, either he will confirm his selection or not, ,Relevant
-if the student is not selected it is the end of the process if not the student must reconfirm his interest to go on exchange to responsible ,,Relevant
+"After the confirmation; the student must wait until March 12; ,Relevant"
+"the responsible will send an email to the student; either he will confirm his selection or not; ,Relevant"
+"if the student is not selected it is the end of the process if not the student must reconfirm his interest to go on exchange to responsible ;,Relevant"
 after the confirmation student must fill a form on my ulg .,Relevant
-the process starts with the customer's need , ,Relevant
-Once the request is entered by the customer, he sends it to the company SOFAZEN and specifically to the administration ,Relevant
-"which, in turn, sends him an quote after having ensured the availability of the goods requested by ""the storekeeper"". ,Relevant"
-If the furniture does not in stock, the storekeeper should send an apology message to the customer. ,Relevant
-If the furniture is available ,the customer has the possibility to refuse the prices and therefore the end of the process or to accept price set by the company ,Relevant
+"the process starts with the customer's need ; ,Relevant"
+"Once the request is entered by the customer; he sends it to the company SOFAZEN and specifically to the administration ,Relevant"
+"which; in turn; sends him an quote after having ensured the availability of the goods requested by ""the storekeeper"". ,Relevant"
+"If the furniture does not in stock; the storekeeper should send an apology message to the customer. ,Relevant"
+"If the furniture is available ;the customer has the possibility to refuse the prices and therefore the end of the process or to accept price set by the company ,Relevant"
 therefore he should send a purchase order that will be received by the storekeeper . ,Relevant
-the storekeeper has to prepare the furniture supporting documents, ,Relevant
+"the storekeeper has to prepare the furniture supporting documents; ,Relevant"
 he should send the invoice and delivery note to logistics department and a copy of the invoice to the accountant. ,Relevant
 The accountant should record the sale and logistic department must deliver the order. ,Relevant
-After receiving the furniture, customer sign the delivery note and send it to administration. ,Relevant
-Boulangerie Baijot is a family bakery in Gedinne, Wallonia,Irrelevant
+"After receiving the furniture; customer sign the delivery note and send it to administration. ,Relevant"
+"Boulangerie Baijot is a family bakery in Gedinne; Wallonia,Irrelevant"
 The process starts when a customer comes into the bakery,Relevant
-As the bells rings when the doors are opened, the worker is aware that a customer is there,Relevant
+"As the bells rings when the doors are opened; the worker is aware that a customer is there,Relevant"
 The worker says “Hello” and asks for the order at the customer ,Relevant
 The customer gives the order,Relevant
-For example, a multigrain bread and four croissants,Irrelevant
+"For example; a multigrain bread and four croissants,Irrelevant"
 The employee takes bags and put the bread and the croissants into these bags,Relevant
-Then, the employee calculates what the customer should pay,Relevant
+"Then; the employee calculates what the customer should pay,Relevant"
 The calculating machine is integrated into the cash register,Irrelevant
 The customer pays by card or cash ,Relevant
 The baker is in the room at the back of the store ,Irrelevant
 The vendor gives the order to the customer ,Relevant
-The customer takes his order and leave, the process is then finished,Relevant
+"The customer takes his order and leave; the process is then finished,Relevant"
 The process starts when friends meet at the appointment place,Relevant
-The appointment place is Kayaks La Vanne, Alle-sur-Semois, Belgium,Irrelevant
+"The appointment place is Kayaks La Vanne; Alle-sur-Semois; Belgium,Irrelevant"
 The friends go to the reception where the employees are,Relevant
-The employee asks which length they want to do, what type of kayak and what material they need,Relevant
+"The employee asks which length they want to do; what type of kayak and what material they need,Relevant"
 The friends answer and say how many kilometers they will do and what they need,Relevant
-For example, they will do 17 kilometers in two-places kayaks and they need 1 bucket per person,Irrelevant
+"For example; they will do 17 kilometers in two-places kayaks and they need 1 bucket per person,Irrelevant"
 The employee explains the route and the instructions,Relevant
 They cannot stop between two official stops and must arrive before 7pm,Irrelevant
 The boss is sitting to answer mails in the same room,Relevant
-Then, the employee calculates the price for the group,Relevant
+"Then; the employee calculates the price for the group,Relevant"
 The friends pay by card or cash,Relevant
 The employees prepare the kayaks,Relevant
 The friends get into the kayaks and start their trip,Relevant
 They can stop on the way if they want to eat or drink something,Irrelevant
-For example, they can go to the pizzeria “La Riviera” in Vresse-sur-Semois,Irrelevant
-When they are arrived at the end of the trip, they have to call the employees to mention it,Relevant
+"For example; they can go to the pizzeria “La Riviera” in Vresse-sur-Semois,Irrelevant"
+"When they are arrived at the end of the trip; they have to call the employees to mention it,Relevant"
 The employee takes the minibus and goes to get the friends and the kayaks,Relevant
-The employee and the friends come back in Alle-sur-Semois, the process is finished,Relevant
+"The employee and the friends come back in Alle-sur-Semois; the process is finished,Relevant"
 The process starts when a client makes an online booking,Relevant
-While doing it, he has to provide us several personal information: First name, last name, mail address, phone number,Relevant
-But also, information concerning their demand: date, hour, number of participants (minimum two players required), and the platform on which they desire to play,Irrelevant
-Concerning the date and the hour, an interactive calendrer is available, and they can only choose if it's available,Irrelevant
-Furthermore, the booking has to be made at least 3 days before the session day,Relevant
-Then, the client has to pay online, and only once it's done, the booking is completed,Relevant
-"One Reality has three types of platform: ""Vex"", ""Arena"" and ""Anvio"",Irrelevant"
+"While doing it; he has to provide us several personal information: First name; last name; mail address; phone number,Relevant"
+"But also; information concerning their demand: date; hour; number of participants (minimum two players required); and the platform on which they desire to play,Irrelevant"
+"Concerning the date and the hour; an interactive calendrer is available; and they can only choose if it's available,Irrelevant"
+"Furthermore; the booking has to be made at least 3 days before the session day,Relevant"
+"Then; the client has to pay online; and only once it's done; the booking is completed,Relevant"
+"One Reality has three types of platform: ""Vex""; ""Arena"" and ""Anvio"",Irrelevant"
 The three platforms can be used by different clients at the same time slot,Irrelevant
-Two days before the session, the HR will adjust the students' schedules according to the booking,Relevant
+"Two days before the session; the HR will adjust the students' schedules according to the booking,Relevant"
 One student per type of platform is necessary,Irrelevant
 An automatic reminder is sent by mail to the client the day prior to the session,Relevant
-On the day of the session, the students welcome the clients,Relevant
-After making them sign an agreement stating that they will take care of the material, the student brings the clients to their platform,Relevant
+"On the day of the session; the students welcome the clients,Relevant"
+"After making them sign an agreement stating that they will take care of the material; the student brings the clients to their platform,Relevant"
 He then gives a safety briefing and helps them set up all the equipment,Relevant
-Once the customers are ready, he gives a short briefing on the game, before launching them,Relevant
-While the clients are playing, the student stays close to the platform to be able to react in case of software or hardware bugs,Relevant
-Once the game is over, he helps the customers to remove the equipment,Relevant
-Then, once the customers have left, he cleans up all the equipment,Relevant
+"Once the customers are ready; he gives a short briefing on the game; before launching them,Relevant"
+"While the clients are playing; the student stays close to the platform to be able to react in case of software or hardware bugs,Relevant"
+"Once the game is over; he helps the customers to remove the equipment,Relevant"
+"Then; once the customers have left; he cleans up all the equipment,Relevant"
 "There are two major diving leagues: Lifras and PADI; we will talk about the former,Irrelevant"
-There are 6 diving certificates in the Lifras: 1 to 3 stars, club, federal and national instructor,Irrelevant
-We will concentrate on the star certificates, the instructor certificates being a very special process,Irrelevant
-Before a diver can obtain a certificate, he or she must register with a club,Relevant
-Once this is done, the diver will then be registered with Lifras and will receive a membership card after paying the registration fee,Relevant
+"There are 6 diving certificates in the Lifras: 1 to 3 stars; club; federal and national instructor,Irrelevant"
+"We will concentrate on the star certificates; the instructor certificates being a very special process,Irrelevant"
+"Before a diver can obtain a certificate; he or she must register with a club,Relevant"
+"Once this is done; the diver will then be registered with Lifras and will receive a membership card after paying the registration fee,Relevant"
 A fee will then have to be paid each year to keep the membership card up to date,Relevant
-Once this membership card is received, the diver can register for a certificate,Relevant
+"Once this membership card is received; the diver can register for a certificate,Relevant"
 Please note that it is mandatory to have the certificate of the previous level,Irrelevant
 The diver will start two types of courses at the same time: theoretical courses and training courses in the pool,Relevant
 These two courses will last a little less than a year,Relevant
-After this period, the club will contact Lifras to organize an examination session,Relevant
+"After this period; the club will contact Lifras to organize an examination session,Relevant"
 External instructors will be contacted to supervise the exam,Relevant
-When enough external instructors are present for the date desired by the club, the date is communicated to all participants,Relevant
+"When enough external instructors are present for the date desired by the club; the date is communicated to all participants,Relevant"
 Participants must also pay the examination fee,Relevant
-On the day of the exam, the participant will have 2 parts: a theoretical exam (written and oral) and a practical one in the pool,Relevant
+"On the day of the exam; the participant will have 2 parts: a theoretical exam (written and oral) and a practical one in the pool,Relevant"
 They must pass both,Irrelevant
-If one part is failed, a second session can be organized within one month,Relevant
-If they fail both at the first session or if they fail again at the second session, they will have to start again from the beginning and take the whole test the next time,Relevant
-If both parts are passed, participants receive proof of their success,Relevant
-Once this proof is sent to Lifras, the process ends for the brevet 1* with the receipt of the participant's updated membership card,Relevant
-For certificates over that level, phase 2 begins,Relevant
-Participants must complete a set of outdoor exercises in a real situation, as well as a minimum of diving,Relevant
-For those exercises to be legal, the club must be notified 24 hours in advance and an instructor must be present during the dive,Relevant
-A briefing will be held after the dive between the instructor and the participant, whether the exercise is successful or not,Relevant
-If the exercise is unsuccessful, participants may retry the exercise as many times as necessary as long as the previous steps are respected,Relevant
-Once all the exercises have been completed, participants send proof of successful completion of the exam and the exercises to Lifras, who will then send them their updated membership cards,Relevant
-Pour débuter votre inscription, rendez-vous sur Facebook.com,Relevant
+"If one part is failed; a second session can be organized within one month,Relevant"
+"If they fail both at the first session or if they fail again at the second session; they will have to start again from the beginning and take the whole test the next time,Relevant"
+"If both parts are passed; participants receive proof of their success,Relevant"
+"Once this proof is sent to Lifras; the process ends for the brevet 1* with the receipt of the participant's updated membership card,Relevant"
+"For certificates over that level; phase 2 begins,Relevant"
+"Participants must complete a set of outdoor exercises in a real situation; as well as a minimum of diving,Relevant"
+"For those exercises to be legal; the club must be notified 24 hours in advance and an instructor must be present during the dive,Relevant"
+"A briefing will be held after the dive between the instructor and the participant; whether the exercise is successful or not,Relevant"
+"If the exercise is unsuccessful; participants may retry the exercise as many times as necessary as long as the previous steps are respected,Relevant"
+"Once all the exercises have been completed; participants send proof of successful completion of the exam and the exercises to Lifras; who will then send them their updated membership cards,Relevant"
+"Pour débuter votre inscription; rendez-vous sur Facebook.com,Relevant"
 Ce réseau social est une société américaine créée en 2004 par Mark Zuckerberg,Irrelevant
 Cliquez sur le bouton « Créer un compte »,Relevant
-Ensuite, dans la fenêtre « S'inscrire », complétez les données obligatoires en indiquant vos informations personnelles,Relevant
-Définissez un mot de passe d'au moins six caractères contenant des lettres, des chiffres et des caractères spéciaux,Relevant
-Plus il sera long, plus il sera difficile à deviner,Irrelevant
+"Ensuite; dans la fenêtre « S'inscrire »; complétez les données obligatoires en indiquant vos informations personnelles,Relevant"
+"Définissez un mot de passe d'au moins six caractères contenant des lettres; des chiffres et des caractères spéciaux,Relevant"
+"Plus il sera long; plus il sera difficile à deviner,Irrelevant"
 Indiquez ensuite votre date de naissance et cochez la case correspondant à votre genre,Relevant
-Après, cliquez sur le bouton vert « S'inscrire »,Relevant
-Pour valider votre inscription, copiez le code reçu dans votre boîte mail et collez-le dans le champ prévu à cet effet avant de cliquer sur « Continuer »,Relevant
-Un message s'affiche annonçant que votre compte est confirmé, cliquez sur « OK »,Relevant
-Afin d’ajouter une photo de profil, cliquez sur le bouton « Ajouter une photo », puis suivez les instructions,Relevant
+"Après; cliquez sur le bouton vert « S'inscrire »,Relevant"
+"Pour valider votre inscription; copiez le code reçu dans votre boîte mail et collez-le dans le champ prévu à cet effet avant de cliquer sur « Continuer »,Relevant"
+"Un message s'affiche annonçant que votre compte est confirmé; cliquez sur « OK »,Relevant"
+"Afin d’ajouter une photo de profil; cliquez sur le bouton « Ajouter une photo »; puis suivez les instructions,Relevant"
 Votre photo de profil permettra à vos amis de vous reconnaitre,Irrelevant
-Cliquez enfin sur « Enregistrer » pour finaliser votre inscription, Bravo !,Relevant
-Le cheese cake, ou gâteau au fromage blanc, est LA nouvelle pâtisserie à la mode,Irrelevant
-Pour commencer, préchauffez votre four à 180°C,Relevant
-Ensuite, graissez le fond du plat que vous utiliserez pour faire cuire votre cheesecake,Relevant
-Une fois que cela est fait, émiettez les biscuits dans un bol et mélangez-les avec le beurre fondu,Relevant
+"Cliquez enfin sur « Enregistrer » pour finaliser votre inscription; Bravo !,Relevant"
+"Le cheese cake; ou gâteau au fromage blanc; est LA nouvelle pâtisserie à la mode,Irrelevant"
+"Pour commencer; préchauffez votre four à 180°C,Relevant"
+"Ensuite; graissez le fond du plat que vous utiliserez pour faire cuire votre cheesecake,Relevant"
+"Une fois que cela est fait; émiettez les biscuits dans un bol et mélangez-les avec le beurre fondu,Relevant"
 Répartissez la pâte obtenue au fond de votre plat,Relevant
 Réservez ensuite le tout au frigo,Relevant
-Pendant ce temps, battez le fromage blanc avec un fouet et ajoutez la farine, les œufs et le sucre,Relevant
+"Pendant ce temps; battez le fromage blanc avec un fouet et ajoutez la farine; les œufs et le sucre,Relevant"
 Vous pouvez ensuite rajouter des zestes de citron ou de la vanille si l’envie vous chante,Relevant
 Ces derniers permettent de donner plus de goût à votre cheese cake,Irrelevant
 Déposez délicatement votre préparation sur les biscuits préalablement émiettés,Relevant
 Faites cuire le tout pendant une heure,Relevant
-Pour finir, laissez refroidir avant de démouler,Relevant
+"Pour finir; laissez refroidir avant de démouler,Relevant"
 Merci d’avoir suivi ma recette,Irrelevant
-     The process starts when a customer asks for a car reparation by phone, mail or in place,Relevant
+"     The process starts when a customer asks for a car reparation by phone; mail or in place,Relevant"
      The car employees are notified,Relevant
      An employee processes the request,Relevant
      The employee creates a repair file,Relevant
      The employee creates a customer file if it is a new customer or update the customer file if the customer is already in the database,Relevant
      The employee makes an appointment for the reparation,Relevant
-     Day minus 1, an email and sms is sent to the customer to recap the appointment that will happened tomorrow,Relevant
-     D-Day, the car is repaired,Relevant
+"     Day minus 1; an email and sms is sent to the customer to recap the appointment that will happened tomorrow,Relevant"
+"     D-Day; the car is repaired,Relevant"
      An employee completes the repair file,Relevant
   The employee creates the invoice,Relevant
   The employee sends the invoice to the customer by mail,Relevant
   The customer pays the invoice within 7 days,Relevant
-  7 days after the reparation, an satisfaction survey is sent by mail to the customer,Relevant
+"  7 days after the reparation; an satisfaction survey is sent by mail to the customer,Relevant"
   The process ends,Relevant
      The process starts when the legal guardian of the customer sends a mail or calls the travel agency for a reservation,Relevant
-     If the stay is already complete, an employee contacts the legal guardian that the stay is not available anymore and the process ends,Relevant
-If the stay is not complete, an estimate is created and is sent to the legal guardian,Relevant
+"     If the stay is already complete; an employee contacts the legal guardian that the stay is not available anymore and the process ends,Relevant"
+"If the stay is not complete; an estimate is created and is sent to the legal guardian,Relevant"
      The legal guardian has 7 days to accept the estimate,Relevant
-     Once the estimate is accepted, an information document about the customer is sent to the legal guardian by mail or by post,Relevant
-If the estimate is not accepted, the process ends,Relevant
+"     Once the estimate is accepted; an information document about the customer is sent to the legal guardian by mail or by post,Relevant"
+"If the estimate is not accepted; the process ends,Relevant"
      An employee creates an invoice,Relevant
      The legal guardian sends an deposit of the half of the stay price within 7 days,Relevant
      The legal guardian sends the completed information document within 7 days,Relevant
-     When the deposit and the completed information document are received, the travel agency prepares the required medical material in the vacation spot,Relevant
+"     When the deposit and the completed information document are received; the travel agency prepares the required medical material in the vacation spot,Relevant"
      The legal guardian needs to pay the total amount of the stay price 7 days before the beginning of the stay,Relevant
-  When the legal guardian pays the total amount of the stay, the invoice is completed and is sent to the legal guardian,Relevant
-"  D-Day, the stay begins; the employees of the travel agency come and get the customer in the institution and go to the vacation spot,Relevant"
+"  When the legal guardian pays the total amount of the stay; the invoice is completed and is sent to the legal guardian,Relevant"
+"  D-Day; the stay begins; the employees of the travel agency come and get the customer in the institution and go to the vacation spot,Relevant"
   The stay ends on the 8th day,Relevant
 The employees bring back the customer to the institution where he lives,Relevant
-"  15 days after the end of the stay; the travel agency contacts the institution, the legal guardian and the customer to have a satisfaction survey,Relevant"
+"  15 days after the end of the stay; the travel agency contacts the institution; the legal guardian and the customer to have a satisfaction survey,Relevant"
   The process ends,Relevant
 The process starts when a customer makes an order on the app and pays,Relevant
 TakeAway employees are notified that an order was made,Relevant
 The restaurant receives the order,Relevant
 The restaurant cooks the order,Relevant
-Meanwhile, the employee of TakeAway is going to the restaurant,Relevant
+"Meanwhile; the employee of TakeAway is going to the restaurant,Relevant"
 The restaurant finishes the order,Relevant
 The delivery person takes the order and begins the journey to the customer,Relevant
-At the same time, the customer receives a notification of the progress of his order,Relevant
-The delivery person is arrived, he sends a message to the customer to notify his presence,Relevant
-The customer receives the order, the process is finished,Relevant
+"At the same time; the customer receives a notification of the progress of his order,Relevant"
+"The delivery person is arrived; he sends a message to the customer to notify his presence,Relevant"
+"The customer receives the order; the process is finished,Relevant"
 ING is a multinational Bank well-known for his online services. ,Irrelevant
 The process starts when a client/prospect request an appointment via a Web form. ,Relevant
 ING agents received and check the request elements of the client/prospect. ,Relevant
 ING agents approve or reject the request. ,Relevant
 If the Web form was not well fulfilled the agents reject the request and notified the reasons to the client with an email: the appointment request process stops. ,Relevant
-If the Web form is approved, the appointment request process continue and the client receive a confirmation email with some specifications and code number for the appointment date. ,Relevant
+"If the Web form is approved; the appointment request process continue and the client receive a confirmation email with some specifications and code number for the appointment date. ,Relevant"
 The client waits from 1 to 30 days depending on the appointment date delivered. ,Relevant
 An appointment reminder is sent to the client/prospect by the Bank a day ago the appointment day. ,Relevant
 For example “Good morning Jonas This is Jake Hall from ING Bank This is just a reminder for our appointment at 1 p.m. tomorrow”. ,Irrelevant
@@ -3858,214 +3858,214 @@ The French Institute of Madrid is a prestigious language school with a wide libr
 The process starts when the librarian receives a student book request via the online website.,Relevant
 The librarian checks the “book status” on the data base. ,Relevant
 The librarian extracts the book availability from the data base. ,Relevant
-If the book is already loan, the librarian notified the student with an email and the process stops. ,Relevant
-If the book is available, the librarian notified the student with an email specifying the date to come to pick it up and the date to return it. ,Relevant
+"If the book is already loan; the librarian notified the student with an email and the process stops. ,Relevant"
+"If the book is available; the librarian notified the student with an email specifying the date to come to pick it up and the date to return it. ,Relevant"
 The student come as agreed and shows his student card to pick up the book. ,Relevant
 At the same time the librarian checks if the student is not in delay with other books on loan. ,Relevant
-If the student has pending books to deliver, the process stops until the student delivers the books. ,Relevant
-If the student has not pending books to deliver, the process continues and the librarian scan and deliver the book to the student. ,Relevant
-Before leaving, the student signs the loan concessions of the book and keeps it for the next six weeks at most. ,Relevant
-A week before the books return date, the student receives an email return day reminder. ,Relevant
+"If the student has pending books to deliver; the process stops until the student delivers the books. ,Relevant"
+"If the student has not pending books to deliver; the process continues and the librarian scan and deliver the book to the student. ,Relevant"
+"Before leaving; the student signs the loan concessions of the book and keeps it for the next six weeks at most. ,Relevant"
+"A week before the books return date; the student receives an email return day reminder. ,Relevant"
 The student comes on time as agreed to the library. ,Relevant
-While waiting for the librarian, the student can wait in the cafeteria. ,Relevant
+"While waiting for the librarian; the student can wait in the cafeteria. ,Relevant"
 The librarian checkout the book and if the loan concessions were respected. ,Relevant
-For example, the librarian checks if the book was ripped or cut. ,Irrelevant
+"For example; the librarian checks if the book was ripped or cut. ,Irrelevant"
 If everything is in order the student can leave and the process is ended. ,Relevant
-However, if the book is damaged or got lost the student will pay a fee before ending the process.,Relevant
+"However; if the book is damaged or got lost the student will pay a fee before ending the process.,Relevant"
 La Bodega is a restaurant that offers Spanish cuisine to its customers,Irrelevant
 The process begins when customers arrive at the restaurant,Relevant
-One of the waiters welcomes them, places them at a table and gives them a menu,Relevant
+"One of the waiters welcomes them; places them at a table and gives them a menu,Relevant"
 The waiter waits until the customers are ready to order and then he takes the order of drinks and food,Relevant
-For example, 3 Coke, 2 paella and 1 tortilla,Irrelevant
-Afterwards, he will say the order of the dishes to the cook,Relevant
+"For example; 3 Coke; 2 paella and 1 tortilla,Irrelevant"
+"Afterwards; he will say the order of the dishes to the cook,Relevant"
 The waiter prepares the drinks and brings them to the table (the waiter is considered to be a barman and waiter at the same time),Relevant
 Meanwhile the cook starts to make the dishes,Relevant
-Once the dishes are finished, the cook tells the waiter,Relevant
+"Once the dishes are finished; the cook tells the waiter,Relevant"
 The waiter picks up the dishes in the kitchen and brings them to the table,Relevant
 The customers eat,Relevant
-Once they are finished, the waiter takes them away,Relevant
+"Once they are finished; the waiter takes them away,Relevant"
 The customers ask for the bill,Relevant
-The waiter brings the bill to the customers, they pay and leave, the process is over,Relevant
+"The waiter brings the bill to the customers; they pay and leave; the process is over,Relevant"
 Basic Fit is a low-cost gym,Irrelevant
 The process starts when the customer arrives at the gym and goes to the reception desk,Relevant
-An employee welcomes him, shows him the prices and tells him that he has the right to have a free session to see if he likes the gym or not,Relevant
+"An employee welcomes him; shows him the prices and tells him that he has the right to have a free session to see if he likes the gym or not,Relevant"
 The employee will show him where the changing rooms are and explain how the machines work,Relevant
 The client then begins his free session,Relevant
-After that, he has 2 choices, either he doesn't like it and so he says so and leaves,Relevant
-In this case, the process stops there,Relevant
+"After that; he has 2 choices; either he doesn't like it and so he says so and leaves,Relevant"
+"In this case; the process stops there,Relevant"
 Either he likes it and so he goes back to the reception desk to choose the subscription he is going to take,Relevant
-The customer makes his choice between 3 types of subscriptions: Either he chooses the one-month subscription, the 6-month subscription or the one-year subscription,Relevant
+"The customer makes his choice between 3 types of subscriptions: Either he chooses the one-month subscription; the 6-month subscription or the one-year subscription,Relevant"
 The employee is going to ask him for some personal information in order to encode it in the computer,Relevant
-Then, the customer pays his subscription (the customer can pay by card or cash) and leaves,Relevant
-Afterwards, he comes back to the gym whenever he wants and since this is his real first session, a coach will discuss with him and observe him in order to create his personal programme,Relevant
-(Note: The coach has a diploma, he has a bachelor's degree in sports coaching),Irrelevant
-Once the client has his own programme, he can come back when he wants to train at the gym and can decide to either follow his programme or use all the machines as he wishes,Relevant
-The process will end at the end of his subscription if the client decides not to renew it, but he can also decide to extend it as many times as he wants for the period he wants,Relevant
+"Then; the customer pays his subscription (the customer can pay by card or cash) and leaves,Relevant"
+"Afterwards; he comes back to the gym whenever he wants and since this is his real first session; a coach will discuss with him and observe him in order to create his personal programme,Relevant"
+"(Note: The coach has a diploma; he has a bachelor's degree in sports coaching),Irrelevant"
+"Once the client has his own programme; he can come back when he wants to train at the gym and can decide to either follow his programme or use all the machines as he wishes,Relevant"
+"The process will end at the end of his subscription if the client decides not to renew it; but he can also decide to extend it as many times as he wants for the period he wants,Relevant"
 The citizen receives a convocation to renew his ID card. ,Relevant
-Once he has been to the photographer to get a conformed picture, he goes to the municipal administration with the convocation and the picture. ,Relevant
+"Once he has been to the photographer to get a conformed picture; he goes to the municipal administration with the convocation and the picture. ,Relevant"
 The administration agent takes the digital fingerprints of the citizen and scans his ID picture. ,Relevant
 The citizen signs the document on the signpad. ,Relevant
 The administration agent asks the ID card to the “SPF intérieur”. ,Relevant
 The citizen pays by card or in cash. ,Relevant
 The price varies according to the municipal tax applied to the basic price.,Irrelevant
-After about 15 days, the administration receives the ID card. ,Relevant
-2 days after, the citizen receives a document with his pin and puk codes. ,Relevant
-Once he has received it, he comes back to the administration to collect his ID card with the received document. ,Relevant
-For that, the administration agent takes again the digital fingerprints of the citizen. ,Relevant
-Finally, the citizen taps his pin and puk codes to activate the ID card. ,Relevant
+"After about 15 days; the administration receives the ID card. ,Relevant"
+"2 days after; the citizen receives a document with his pin and puk codes. ,Relevant"
+"Once he has received it; he comes back to the administration to collect his ID card with the received document. ,Relevant"
+"For that; the administration agent takes again the digital fingerprints of the citizen. ,Relevant"
+"Finally; the citizen taps his pin and puk codes to activate the ID card. ,Relevant"
 He gives back his previous card to receive the new one. ,Relevant
-For a middle-aged citizen, the ID card is valid for 10 years.,Irrelevant
-In case that the citizen does not report to the municipal administration, the administration sends him a reminder.,Relevant
+"For a middle-aged citizen; the ID card is valid for 10 years.,Irrelevant"
+"In case that the citizen does not report to the municipal administration; the administration sends him a reminder.,Relevant"
 New Quita is a chip shop located in Eynatten. ,Irrelevant
 The process starts when a customer enters the chip shop. ,Relevant
 An employee asks him for his order. ,Relevant
-Once the order has been taken, the customer pays by card or cash. ,Relevant
-If the customer pays in cash, he has to place the money in the machine provided for this purpose. ,Relevant
+"Once the order has been taken; the customer pays by card or cash. ,Relevant"
+"If the customer pays in cash; he has to place the money in the machine provided for this purpose. ,Relevant"
 The machine is able to give change if necessary.,Irrelevant
-After that, the employee gives a box to the customer. ,Relevant
+"After that; the employee gives a box to the customer. ,Relevant"
 The customer goes to sit at a table.,Relevant
-During this time, the employee prepares the customer's order.,Relevant
-When the box rings, he goes to the counter to take the plate with his order.,Relevant
+"During this time; the employee prepares the customer's order.,Relevant"
+"When the box rings; he goes to the counter to take the plate with his order.,Relevant"
 He goes back to his table and eats.,Relevant
-When the customer has finished eating, he tidies up his plate and leaves.,Relevant
+"When the customer has finished eating; he tidies up his plate and leaves.,Relevant"
 The employee cleans the table where the customer was sitting and the process is completed.,Relevant
 Otolift is a company that sells stairlifts,Irrelevant
 The process starts when a customer sees an advertisement of Otolift on the Internet or on a magazine,Relevant
 The customer is attracted by the advertisement,Relevant
 The advertisement are seen on magazines or heard on the radio,Irrelevant
-If he is in need of a stairlift, he calls the call-center in order to get an appointment with a seller for a quote,Relevant
+"If he is in need of a stairlift; he calls the call-center in order to get an appointment with a seller for a quote,Relevant"
 The call is received by the call center,Relevant
 The call center answers the phone,Relevant
-Depending on where the call comes from, they will put the appointment in the agenda of one of the nine salesmen depending on where the salesman is on a certain day,Relevant
-On the day of the appointment, the salesman goes to the customer, he makes his presentation in order to sell,Relevant
-Here, there are 3 possibilities,Irrelevant
-If no direct sale, the salesman fills in the customer's card on his Ipad with all the explanations on what happened (who was there, for whom, customer's budget, for when, ,Relevant
+"Depending on where the call comes from; they will put the appointment in the agenda of one of the nine salesmen depending on where the salesman is on a certain day,Relevant"
+"On the day of the appointment; the salesman goes to the customer; he makes his presentation in order to sell,Relevant"
+"Here; there are 3 possibilities,Irrelevant"
+"If no direct sale; the salesman fills in the customer's card on his Ipad with all the explanations on what happened (who was there; for whom; customer's budget; for when; ,Relevant"
 He puts a date in the software to call the person back to find out what's going on until people have made a decision,Relevant
 If they buy the process in point 3 is started,Relevant
-If they want to wait several months, in this case the salesman will call back later,Relevant
-If they have chosen a competitor, the sale is closed,Relevant
-If it is a file with a state subsidy (AVIQ), the seller then calls back every month to find out if the customer has any news from the AVIQ,Relevant
+"If they want to wait several months; in this case the salesman will call back later,Relevant"
+"If they have chosen a competitor; the sale is closed,Relevant"
+"If it is a file with a state subsidy (AVIQ); the seller then calls back every month to find out if the customer has any news from the AVIQ,Relevant"
 AVIQ means “Agence pour une vie de qualité”,Irrelevant
 If so and they buy the process in point 3 begins,Relevant
-For the payment of the stairlift, the customer receives a session of debt and this is given to the assembler when the work is completed,Relevant
+"For the payment of the stairlift; the customer receives a session of debt and this is given to the assembler when the work is completed,Relevant"
 Otolift will then send this claim session back to the AVIQ for payment,Relevant
-If yes and they do not buy from Otolift, the sale is closed,Relevant
-If they did not hear from it yet, the seller will have to call back later,Relevant
-If there is a sale, the salesperson is very happy,Irrelevant
+"If yes and they do not buy from Otolift; the sale is closed,Relevant"
+"If they did not hear from it yet; the seller will have to call back later,Relevant"
+"If there is a sale; the salesperson is very happy,Irrelevant"
 The seller has the order form signed and sends it to the factory in Belgium,Relevant
 He makes the measurements that he will have to send on one hand to the factory in Holland and on the other hand to the factory in Belgium with additional explanations,Relevant
-A few days later, through a simulation thanks to the measurements, we can see if there is a problem with the knees rubbing against the wall,Relevant
-If this problem occurs, the salesman will then call the customer to explain the situation,Relevant
-If there is no problem for him, the sale is concluded, the factory is notified and a person in charge of planning will then contact the customer to find a delivery date and an installation date,Relevant
-For a normal file (non AVIQ), the client can either pay in cash when the work is completed, or pay it in monthly payment: when the work is completed, the client is billed 40% and the balance can be paid up to 11 times at 0% interest,Relevant
-If the customer says no, the factory is notified and they try to find another solution for the installation of the stairlift,Relevant
-If no other solution is found, the salesman will contact the customer again to explain,Relevant
-Either he accepts and the sale is concluded, or he cancels and the sale is cancelled,Relevant
+"A few days later; through a simulation thanks to the measurements; we can see if there is a problem with the knees rubbing against the wall,Relevant"
+"If this problem occurs; the salesman will then call the customer to explain the situation,Relevant"
+"If there is no problem for him; the sale is concluded; the factory is notified and a person in charge of planning will then contact the customer to find a delivery date and an installation date,Relevant"
+"For a normal file (non AVIQ); the client can either pay in cash when the work is completed; or pay it in monthly payment: when the work is completed; the client is billed 40% and the balance can be paid up to 11 times at 0% interest,Relevant"
+"If the customer says no; the factory is notified and they try to find another solution for the installation of the stairlift,Relevant"
+"If no other solution is found; the salesman will contact the customer again to explain,Relevant"
+"Either he accepts and the sale is concluded; or he cancels and the sale is cancelled,Relevant"
 The store contains several kitchen expositions,Irrelevant
-First, the client enters into the store and the seller welcomes him and presents himself,Relevant
+"First; the client enters into the store and the seller welcomes him and presents himself,Relevant"
 It is a little competition between the sellers because they have to have a maximum of sales per month,Irrelevant
 The salesman makes a tour of the store with the customer in order to already know which style of kitchen pleases the customer,Relevant
-When the customer has chosen, he gives the measurements of his kitchen,Relevant
-Based on the measurements of the kitchen, the salesperson asks questions about what type of appliances, what type of sink and what type of mixer tap the customer needs,Relevant
+"When the customer has chosen; he gives the measurements of his kitchen,Relevant"
+"Based on the measurements of the kitchen; the salesperson asks questions about what type of appliances; what type of sink and what type of mixer tap the customer needs,Relevant"
 He then asks about the budget in order to know which type of furniture and which brand of household appliances can be put,Relevant
-Based on the measurements, the seller will look at how to arrange the kitchen plan according to the needs and space,Relevant
-Once the design has been drawn, the seller gives the price of the kitchen with all the discounts,Relevant
+"Based on the measurements; the seller will look at how to arrange the kitchen plan according to the needs and space,Relevant"
+"Once the design has been drawn; the seller gives the price of the kitchen with all the discounts,Relevant"
 The customer can then buy directly or think about it,Relevant
-If he buys, the payment is as follows: the customer pays a deposit of 30% with the order of the kitchen and the balance is paid before the delivery of the kitchen,Relevant
-If he decides to think about it, the customer is called again a few days later to find out his decision and whether any changes are needed,Relevant
-When the customer decides to order the kitchen, he signs the order form and a fitter is sent to the customer's home to check the measurements,Relevant
-If the measurements are not good, the kitchen is modified according to the measurements given by the fitter,Relevant
-If the kitchen needs a lot of work, the kitchen is redesigned and the customer is called because there is a risk of a price difference,Relevant
+"If he buys; the payment is as follows: the customer pays a deposit of 30% with the order of the kitchen and the balance is paid before the delivery of the kitchen,Relevant"
+"If he decides to think about it; the customer is called again a few days later to find out his decision and whether any changes are needed,Relevant"
+"When the customer decides to order the kitchen; he signs the order form and a fitter is sent to the customer's home to check the measurements,Relevant"
+"If the measurements are not good; the kitchen is modified according to the measurements given by the fitter,Relevant"
+"If the kitchen needs a lot of work; the kitchen is redesigned and the customer is called because there is a risk of a price difference,Relevant"
 It is a lot of work if the customer made wrong measurements,Irrelevant
-When everything is done, we give the technical plan to the customer and we send the order of the kitchen to the factory with the right measurements,Relevant
-We receive a confirmation from the factory and at that time, we ask the fitter to arrange with the client for an installation date based on the delivery date given by the factory,Relevant
+"When everything is done; we give the technical plan to the customer and we send the order of the kitchen to the factory with the right measurements,Relevant"
+"We receive a confirmation from the factory and at that time; we ask the fitter to arrange with the client for an installation date based on the delivery date given by the factory,Relevant"
 The fitter then installs the kitchen,Relevant
-If there are problems with a piece of furniture or measurements, the replacement part is recommended so that the erector can complete the kitchen,Relevant
-firstly, you have to know that the most used platform is Amazon and that you can reduce the delivery time if you are a premium member.,Relevant
-The process begins when a customer want to buy something on line, ( for example: a candle).,Relevant
-He will search for the article that he wants, when he has found he will be redirected to his basket, to confirm his order and to pay it. ,Relevant
-Then when the payment is made, the customer will receive a notification by email and the sales service will be notified too.,Relevant
+"If there are problems with a piece of furniture or measurements; the replacement part is recommended so that the erector can complete the kitchen,Relevant"
+"firstly; you have to know that the most used platform is Amazon and that you can reduce the delivery time if you are a premium member.,Relevant"
+"The process begins when a customer want to buy something on line; ( for example: a candle).,Relevant"
+"He will search for the article that he wants; when he has found he will be redirected to his basket; to confirm his order and to pay it. ,Relevant"
+"Then when the payment is made; the customer will receive a notification by email and the sales service will be notified too.,Relevant"
 The sales service will transfer the purchase order to the department: orders preparation. ,Relevant
 They will first check the availability of the product to reduce the quantity available online directly when the order is made. ,Relevant
-If it was the last candle available, the department orders preparation will notify it to the purchasing department and to the IT department.,Relevant
-Like that, the first one can place a new order to have this article in stock again and the second department can delete the offer, on the Amazon website while waiting to receive the replenishment. ,Relevant
-when an order is placed in an orange box, it means that is still other items available in the warehouse and when it is placed in a blue box it means it was the last one available. ,Relevant
-When they have a shortage, they have to wait 5 days more to receive the item.,Relevant
-When the order is done, the customer receive an email to say that a transporter will come to take the package and that they have to wait around 3 days to receive the order.,Relevant
+"If it was the last candle available; the department orders preparation will notify it to the purchasing department and to the IT department.,Relevant"
+"Like that; the first one can place a new order to have this article in stock again and the second department can delete the offer; on the Amazon website while waiting to receive the replenishment. ,Relevant"
+"when an order is placed in an orange box; it means that is still other items available in the warehouse and when it is placed in a blue box it means it was the last one available. ,Relevant"
+"When they have a shortage; they have to wait 5 days more to receive the item.,Relevant"
+"When the order is done; the customer receive an email to say that a transporter will come to take the package and that they have to wait around 3 days to receive the order.,Relevant"
 The process finish when the customer has received his order in his letterbox or in his hand and that he has received an confirmation email.,Relevant
 You begin by looking on internet flights tickets. ,Relevant
-For that it exists several websites as for example: Ryanair, Jetcost, Edreams, AirFrance… ,Irrelevant
-When you have found your destination and a good price, you book it online or by phone with a travel agency. ,Relevant
-Immediately, when the company has received the payment you receive an email and then, the company knows that they have to book a place in the flight for you.,Relevant
-After that, you will have to find a hotel. ,Relevant
+"For that it exists several websites as for example: Ryanair; Jetcost; Edreams; AirFrance… ,Irrelevant"
+"When you have found your destination and a good price; you book it online or by phone with a travel agency. ,Relevant"
+"Immediately; when the company has received the payment you receive an email and then; the company knows that they have to book a place in the flight for you.,Relevant"
+"After that; you will have to find a hotel. ,Relevant"
 You can search on Booking (which is the most famous website to book a hotel nowadays). ,Irrelevant
-Same, when it is done you have to pay, you receive an email to confirm your order and the hotel knows that they have to prepare your room. ,Relevant
+"Same; when it is done you have to pay; you receive an email to confirm your order and the hotel knows that they have to prepare your room. ,Relevant"
 Then you have to prepare your suitcases. ,Relevant
 You can have 10kg per suitcase maximum.,Irrelevant
 According to the time you will have to come to the airport you will ask to a taxi to come to your house 3h before (if it is an international fly) and 1H30 before if you stay in Europe. ,Relevant
-When you are in the airport you have to go first at the counter, to take your tickets. ,Relevant
-When it is done, you go to register your suitcases. In general, there are many people, so you have to do the line for 20 minutes. If when you arrive, you have more than 10kg in your suitcase, you have to take off some clothes and to redo the line for 20 minutes to check if you have 10kg. ,Relevant
-If not, you do it again until that you have the good weight. ,Relevant
-When your suitcase is registered, you have to pass security checks. ,Relevant
+"When you are in the airport you have to go first at the counter; to take your tickets. ,Relevant"
+"When it is done; you go to register your suitcases. In general; there are many people; so you have to do the line for 20 minutes. If when you arrive; you have more than 10kg in your suitcase; you have to take off some clothes and to redo the line for 20 minutes to check if you have 10kg. ,Relevant"
+"If not; you do it again until that you have the good weight. ,Relevant"
+"When your suitcase is registered; you have to pass security checks. ,Relevant"
 Everybody has to do it no matter the flight that you take. ,Irrelevant
 It can take a lot of time according the airport where you are (+/- 30minutes). ,Irrelevant
 If you are in Brussels airport you have to wait during 40 minutes because it is the largest airport in Belgium and that they only have 5 machines to test everybody. ,Relevant
-After that according the time that you still have to wait ,you can do shopping, but don't forget to be at least 15 minutes in advance to the boarding gates before your flight time, to be certain to not lose your flight. ,Relevant
+"After that according the time that you still have to wait ;you can do shopping; but don't forget to be at least 15 minutes in advance to the boarding gates before your flight time; to be certain to not lose your flight. ,Relevant"
 The process is done when you are in the plane. ,Relevant
-       The Campus Recruitment organizes the “Career Night” on Wednesday, March 17 virtually due to the current health crisis,Irrelevant
-       The process begins when the organizing team send the event link to the students of HEC Liège (Master 1, master 2 and alumni), either by email or on Facebook,Relevant
+"       The Campus Recruitment organizes the “Career Night” on Wednesday; March 17 virtually due to the current health crisis,Irrelevant"
+"       The process begins when the organizing team send the event link to the students of HEC Liège (Master 1; master 2 and alumni); either by email or on Facebook,Relevant"
        Then the student clicks on the Career Center event link he received,Relevant
-       The Career Center is a platform where there are a lot of job or internship offers, or events offered by HEC’s partner companies,Irrelevant
-       Then he is redirected to the Career Center page, and there he can either click on register, save or exit the page,Relevant
-       If he registered to the event, the student receives an e-mail with a confirmation that he is registered,Relevant
-Same if he just saved the event, he will receive an email,Relevant
+"       The Career Center is a platform where there are a lot of job or internship offers; or events offered by HEC’s partner companies,Irrelevant"
+"       Then he is redirected to the Career Center page; and there he can either click on register; save or exit the page,Relevant"
+"       If he registered to the event; the student receives an e-mail with a confirmation that he is registered,Relevant"
+"Same if he just saved the event; he will receive an email,Relevant"
        The team organizing the event receives a notification that someone has registered or had saved the event,Relevant
-       If the student has registered on the Career Center (and only if!), he can now go on the platform where the event will take place by clicking on the second link provided to him on the email or on Facebook,Relevant
+"       If the student has registered on the Career Center (and only if!); he can now go on the platform where the event will take place by clicking on the second link provided to him on the email or on Facebook,Relevant"
        The student can first creates his user account on the platform by clicking on “sign up” and then on “create user profile”,Relevant
-   The student can complete his profile, or he can do it later,Relevant
-   The student can now register to the event “Career Night 2021” by clicking on it, and then on “register”,Relevant
+"   The student can complete his profile; or he can do it later,Relevant"
+"   The student can now register to the event “Career Night 2021” by clicking on it; and then on “register”,Relevant"
    One of the great features of this platform is that students can book interviews in advance,Relevant
-   To book interviews in advance, the student can click on a slot with the time he wants to do the interview,Relevant
-   Then, the recruiter has a notification that a student wants to meet,Relevant
+"   To book interviews in advance; the student can click on a slot with the time he wants to do the interview,Relevant"
+"   Then; the recruiter has a notification that a student wants to meet,Relevant"
 The recruiter can either accept or reject the appointment,Relevant
    The student will get an e-mail with the confirmation (or not) that the interview is booked for the event,Relevant
        The insurance company takes care of the management of the unpaid invoices of our clients by their clients,Irrelevant
        One of the clients of the insurance company has an unpaid bill and ask the company to manage this file,Relevant
-       The insurance company is notified and receives the file with the name of the debtor and all the information (amount due, etc),Relevant
+"       The insurance company is notified and receives the file with the name of the debtor and all the information (amount due; etc),Relevant"
        The debtor is the client who has not paid the client of the insurance company,Irrelevant
        The insurance company send a first reminder letter to the debtor with the details of the unpaid amount,Relevant
        The client receives a notification that the insurance company has taken over the file,Relevant
-       If the debtor pays, the insurance company send the amount back to the client,Relevant
-       Many debtors do not pay their debts immediately, other options should be considered,Irrelevant
-       If the debtor contests the claim, the insurance company will initiate a dispute procedure,Relevant
-   If the debtor says he has payment difficulties, the insurance company starts an installment plan in agreement with the client,Relevant
-   If, after 10 days, the debtor has not given any news, the insurance company send a second reminder letter,Relevant
-   If, after 20 days and the second reminder letter, there is no payment from the debtor, the insurance company initiates a legal procedure,Relevant
-Bpost is a public limited company which has two main activities: the processing of postal mail, and the management of a network of post offices which distribute postal products, financial products and insurance of subsidiary companies.,Irrelevant
+"       If the debtor pays; the insurance company send the amount back to the client,Relevant"
+"       Many debtors do not pay their debts immediately; other options should be considered,Irrelevant"
+"       If the debtor contests the claim; the insurance company will initiate a dispute procedure,Relevant"
+"   If the debtor says he has payment difficulties; the insurance company starts an installment plan in agreement with the client,Relevant"
+"   If; after 10 days; the debtor has not given any news; the insurance company send a second reminder letter,Relevant"
+"   If; after 20 days and the second reminder letter; there is no payment from the debtor; the insurance company initiates a legal procedure,Relevant"
+"Bpost is a public limited company which has two main activities: the processing of postal mail; and the management of a network of post offices which distribute postal products; financial products and insurance of subsidiary companies.,Irrelevant"
 The business process begins when a customer comes to their nearest Bpost office to send a registered letter. ,Relevant
-First, the customer take their ticket and waits their turn. ,Relevant
-Then, when called, he goes to the counter. ,Relevant
-Next, he chooses a type of registered mail by specifying the country of destination of the mail. ,Relevant
-For example, he can choose standard registered mail, or registered mail with additional insurance. ,Irrelevant
-Then, the Bpost employee gives the customer a dispatch slip to be completed. ,Relevant
-After that, the customer completes the dispatch slip by hand and gives it back to the employee. ,Relevant
+"First; the customer take their ticket and waits their turn. ,Relevant"
+"Then; when called; he goes to the counter. ,Relevant"
+"Next; he chooses a type of registered mail by specifying the country of destination of the mail. ,Relevant"
+"For example; he can choose standard registered mail; or registered mail with additional insurance. ,Irrelevant"
+"Then; the Bpost employee gives the customer a dispatch slip to be completed. ,Relevant"
+"After that; the customer completes the dispatch slip by hand and gives it back to the employee. ,Relevant"
 The Bpost employee encodes on the computer the data provided by the consumer on the dispatch slip. ,Relevant
-Then, the employee weighs the package. ,Relevant
-Next, the consumer pays for his shipment in cash, or by card. ,Relevant
-Afterwards, the employee gives the receipt as well as the proof of deposit to the customer and sticks the dispatch slip on the package. ,Relevant
-Finally, the customer can then track his package on the E-tracking application,Relevant
+"Then; the employee weighs the package. ,Relevant"
+"Next; the consumer pays for his shipment in cash; or by card. ,Relevant"
+"Afterwards; the employee gives the receipt as well as the proof of deposit to the customer and sticks the dispatch slip on the package. ,Relevant"
+"Finally; the customer can then track his package on the E-tracking application,Relevant"
 Bershka is a chain of ready-to-wear stores for men and women. ,Irrelevant
 The business process begins when the customer goes to the Bershka store to return an item ordered on the store's online platform. ,Relevant
-First, the customer walks into the store, and lines up. ,Relevant
-Then, he gives the cashier the items he wishes to return and presents the QR code attached to the purchase invoice. ,Relevant
+"First; the customer walks into the store; and lines up. ,Relevant"
+"Then; he gives the cashier the items he wishes to return and presents the QR code attached to the purchase invoice. ,Relevant"
 The cashier begins by scanning the label of the item to be returned. ,Relevant
 The cashier then scans the QR code. ,Relevant
-Afterwards, the cashier validates the item to be returned on the computer. ,Relevant
-finally, the cashier puts the item back on a hanger, attaches an anti-theft device, and hangs it on the clothes rack. ,Relevant
+"Afterwards; the cashier validates the item to be returned on the computer. ,Relevant"
+"finally; the cashier puts the item back on a hanger; attaches an anti-theft device; and hangs it on the clothes rack. ,Relevant"
 The cashier repeats this procedure for each of the items to be returned. ,Relevant
-Once all the clothes to be returned are validated on the computer and hung on the clothes rack with an anti-theft device, the cashier submits a refund request. ,Relevant
+"Once all the clothes to be returned are validated on the computer and hung on the clothes rack with an anti-theft device; the cashier submits a refund request. ,Relevant"
 the customer inserts his bank card into the terminal and is reimbursed to the account used for the purchase. ,Relevant
-Finally, the refund is validated, and the proof of refund is printed and given to the customer,Relevant
+"Finally; the refund is validated; and the proof of refund is printed and given to the customer,Relevant"
           The process starts when a customer logs on to Ryanair website to book a flight. ,Relevant
           He chooses a destination. ,Relevant
           He selects departure and return date. ,Relevant
@@ -4079,11 +4079,11 @@ Finally, the refund is validated, and the proof of refund is printed and given t
           He checks in. ,Relevant
           He downloads the ticket. ,Relevant
           Booking completed. ,Relevant
-Vinted is an online platform that allows its users to sell, buy secondhand clothes. ,Irrelevant
+"Vinted is an online platform that allows its users to sell; buy secondhand clothes. ,Irrelevant"
 The customer logs on to vinted. ,Relevant
 He searches for clothes he is interested in. ,Relevant
 He often chats with the seller. ,Relevant
-For example, there is a negotiation.,Irrelevant
+"For example; there is a negotiation.,Irrelevant"
 The customer buys the item. ,Relevant
 He chooses a delivery point. ,Relevant
 He proceeds to electronic payment. ,Relevant
