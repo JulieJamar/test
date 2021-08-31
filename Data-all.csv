@@ -1,4 +1,4 @@
-Sentence;Class
+sentence;class
 a  Upon receipt of a customer creation request  the sales department verifies if the customer is already created  using the SD and the AR ;Relevant
 b  If the customer is already created  then customer creation will be aborted ;Relevant
 "c  If the customer is not created  then ""General Data""  ""Sales Area Data"" and ""Company Code Data"" are entered ";Relevant
