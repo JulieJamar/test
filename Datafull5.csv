@@ -1,0 +1,1001 @@
+sentence,class
+The payment is validated by the bank ,Relevant
+By going through this authentication  the customer s bank account is protected,Irrelevant
+Zara receives the order ,Relevant
+An employee collects the documents ,Relevant
+Zara sends the package ,Relevant
+The customer receives the package at home,Relevant
+The customer goes to the airport ,Relevant
+The customer shows his papers and ticket at the check in,Relevant
+The flight attendant checks the customer s information ,Relevant
+The customer chooses seat ,Relevant
+For example  in the back or in the front  or at the window,Irrelevant
+The customer checks his luggage in the hold ,Relevant
+The customer pays an extra weight for his luggage ,Relevant
+For example  10 € per additional kg,Irrelevant
+The customer goes through the security gate ,Relevant
+The police officer searches the customer ,Relevant
+The customer s luggage is inspected,Relevant
+The customer waits for his flight at the gate,Relevant
+The customer shows his ticket to the stewardess ,Relevant
+The flight attendant checks his information,Relevant
+The customer boards the plane,Relevant
+The plane takes off ,Relevant
+The plane lands ,Relevant
+The customer shows his identity documents to the customs ,Relevant
+Customs take a picture of the customer entering the country ,Relevant
+Customs checks his information ,Relevant
+The customer collects his luggage ,Relevant
+The customer leaves the airport,Relevant
+Deliveroo is a food delivery service founded in 2013,Irrelevant
+The process starts when I go on the app to order food,Relevant
+I select a menu among those proposed,Relevant
+Deliveroo has a large choice of food from various restaurants,Irrelevant
+Once I have chosen the menu  I pay via the app on my smartphone,Relevant
+Deliveroo receives a notification with the payment and the order,Relevant
+At the same time  the restaurant also receives a notification with the order that needs to be cooked,Relevant
+The restaurant starts preparing the food,Relevant
+As the food is prepared  The Deliveroo rider goes to the restaurant ,Relevant
+The rider picks up the menu at the restaurant,Relevant
+When the rider has the order in his hand  I receive a notification that my order is on the go,Relevant
+The rider goes to my address mentioned in the order,Relevant
+Sometimes the delivery takes more time because of traffic,Irrelevant
+After a few minutes  the Deliveroo rider rings to my door to supply me with my order,Relevant
+I take the food and the process is finished,Relevant
+The process starts when I go on the Airbnb website,Relevant
+I put the dates when I want an Airbnb as well as the location where I want to go,Relevant
+Airbnb proposes a wide range of accommodation such as flats  rooms or entire houses,Irrelevant
+I compare the options that Airbnb suggests me ,Relevant
+Most of the time I love more than one flat and I take time to choose my favorite ,Irrelevant
+I choose the flat I want to book,Relevant
+To book the Airbnb  I must fulfil my personal information,Relevant
+Then I pay for the Airbnb ,Relevant
+After the payment  I receive a confirmation by email for the reservation,Relevant
+The host receives a notification that his flat has been rented with all the info he needs,Relevant
+I print the document that states that I booked the flat ,Relevant
+I go to the Airbnb on the date I chose,Relevant
+I present the confirmation of the booking at the D day and it is the end of the process of the booking of the Airbnb,Relevant
+Myntra is a popular fashion ecommerce website in India,Irrelevant
+ When a customer wants to buy clothes  they first start by searching for the items they want,Relevant
+ A customer can search for an item by typing into the search bar or by using filters on the available categories,Irrelevant
+ They can also browse through sales or displayed collections,Irrelevant
+ Once they have selected the item and other particulars such as the colour and size  they add it to their cart,Relevant
+ This process is repeated until the customer has added all required items into the cart,Relevant
+ Then they go to the cart and proceed with the order,Relevant
+ At this point  the customer chooses to create an account with Myntra or make the purchase as a guest,Relevant
+ Next  they fill out the delivery address,Relevant
+ Then the customer chooses a method of payment from several options,Relevant
+ Payment methods include credit debit card  cash on delivery  net banking and payment wallets,Irrelevant
+ Once the payment is confirmed  the customer is notified of the order via email and text message,Relevant
+ The ordering process is completed,Relevant
+Apple jam is a delicious and healthy option to eat along with different breads,Irrelevant
+To make apple jam  you will require 4 apples  1 cup of sugar and water,Irrelevant
+First  peel and cut the apples into small cubes,Relevant
+Next  place them in a shallow pan and fill it with just enough water to cover the apples,Relevant
+Then cook the apples until the pieces start to become soft and translucent,Relevant
+This can be done on the stove or in a microwave,Irrelevant
+Stick a knife into a few of the pieces to make sure they are cooked,Relevant
+Wait for the apples to cool off,Relevant
+Once they are at room temperature again  transfer the apples and water to a mixer,Relevant
+Add the sugar and blend until smooth,Relevant
+Add water if it is too thick,Relevant
+Once you get a smooth mixture  transfer it back to the pan and cook on a slow flame,Relevant
+Make sure to continuously turn the mixture while on the stove,Relevant
+If using a microwave  then heat at intervals of 45 seconds and turn the mixture in between,Relevant
+Do this until the mixture starts thickening and becomes gelatinous,Irrelevant
+Take the mixture off the heat or out of the microwave when it has reached a jam like consistency,Relevant
+Let the jam cool off in the fridge and enjoy!,Relevant
+The process starts when the clients calls the restaurant to reserve a table,Relevant
+The clients enter the restaurant,Relevant
+A waitress welcomes the client and conduct customers to their table,Relevant
+An other waitress brings the menu to the customer s table,Relevant
+A few minutes later  the waitress comes to take the drinks and plates order,Relevant
+For exemple  a children has chosen a pizza,Irrelevant
+The order is sent to the kitchen,Relevant
+The cookers prepare the order,Relevant
+Once all the table s plate are ready  the waitress comes in the kitchen to take the plates,Relevant
+The waitress carry the plates to the table,Relevant
+The clients eat their order,Relevant
+Once they have finished since a few minutes  the waitress comes to the table to clear the table,Relevant
+The waitress comes back to the table a few minutes later to propose a dessert,Relevant
+The clients choose their dessert,Relevant
+The waitress go back to the kitchen to give the order to the cooker,Relevant
+The cooker prepare the desserts,Relevant
+The waitress comes back to the kitchen to bring dessert to the table once the desserts are ready in the kitchen,Relevant
+There was 4 desserts ordered,Irrelevant
+The clients eat their dessert,Relevant
+The waitress comes back to clear the tables once the clients have finished to eat,Relevant
+The waitress waits until the clients ask for the bill,Relevant
+The bill is brought to the table by the waitress,Relevant
+The clients get up to go pay the bill at the restaurant cashier and leaves the restaurant,Relevant
+The LAB9 company is an official reseller of Apple product and repaire damaged devices,Irrelevant
+The process starts when a customer enters the shop,Relevant
+A seller welcomes the client and asks the in what he can help,Relevant
+The clients explains his problem with the device he owns and that need a reparation,Relevant
+The seller charge a quote to the client,Relevant
+The client give his device to the seller and leave the shop,Relevant
+A repairer takes charge of the device and find the problem,Relevant
+An email is sent by the repairer to communicate the price of the repair and to obtain the customer s agreement,Relevant
+The customer thinks that the cost is very high but has no other choice than to accept to pay the repair,Irrelevant
+The customer answer the mail by a positive response,Relevant
+The repairer makes the reparation,Relevant
+Once the reparation is done  a sms is sent to the client to notify him that he can come retrieve is device at the shop,Relevant
+The customer arrives at the shop,Relevant
+A seller welcomes him and asks what he is coming for,Relevant
+They go to the cashier so that the client pays the price of the repair and take back his device,Relevant
+Burger King is a fast food restaurant that serves all kinds of burgers  fries  desserts etc,Irrelevant
+There are about 40 shops in Belgium and I worked in one of them last summer,Irrelevant
+The process starts when the client is hungry and decides to eat a meal,Relevant
+He can choose to order on an app like UberEats and have it brought to his home or he can go directly to the nearest Burger King shop,Relevant
+If he goes to a shop  he can choose to order at the kiosk or near a cashier,Relevant
+If he orders at the kiosk  he will be asked to scan the QR code on his app to earn points based on the amount he will spend,Relevant
+Then he chooses the burger he wants from a list of 15 more or less,Relevant
+He also chooses his drink and the size of his menu  medium or large ,Relevant
+When he has chosen everything he wants  he pay for his order,Relevant
+When his order is finalised  he receives a number  by which he will be called when his order is ready,Relevant
+At this moment  the cooks start to prepare the burger,Relevant
+The fries are already ready because they are continuously cooked,Irrelevant
+At the same time  a student prepares the tray with a napkin  drink and dessert  if any ,Relevant
+The preparation should not take longer than 6 minutes,Irrelevant
+When all the parts of the order are ready  the student puts everything on the tray and calls the customer by his number so that he can collect it,Relevant
+The process ends when the customer leaves with his meal,Relevant
+UberEats is an application where you can order a meal at any time of the day  ,Irrelevant
+This allows customers to have a wide choice of restaurants without having to go there ,Irrelevant
+The process starts when the hungry customer goes to the app to decide what he wants to eat,Relevant
+He chooses the restaurant where he wants to order and looks at the dishes that restaurant offers,Relevant
+This evening  the customer wants sushis,Irrelevant
+He clicks on the  Sushi shop  shop and chooses whether he prefers to order a box of 20 ready made sushi or whether he prefers to choose sushi by the piece,Relevant
+When he has selected everything he wants  he confirms his order and the payment is made automatically if he has already ordered before because his bank details have been registered,Relevant
+The customer receives an approximate delivery time depending on the number of orders that the sushi shop has to prepare before his,Relevant
+Then the sushiman starts preparing the sushis and putting them in a box to keep them safe during the transport,Relevant
+Meanwhile  the UberEats delivery man is cycling to sushi shop and the customer receives notifications as the order progresses,Relevant
+When the order is ready  the deliveryman puts the box of sushi in his backpack and leaves for the customer s address,Relevant
+The customer can observe the driver s route on the Uber map,Irrelevant
+When the driver is at the door  he sends a message to the customer to pick up his order,Relevant
+The customer leaves a tip for the driver if he wants to  this is where the process ends,Relevant
+Pizzeria Trinacria is a pizzeria which offers pizza  pasta and meat,Irrelevant
+The process starts when employees arrive in the pizzeria,Relevant
+Employees do the set up,Relevant
+The set up includes preparing the dough  cutting the vegetables  setting the tables and things like that,Irrelevant
+Customer can place an order from 5 30pm to 9 00pm,Irrelevant
+Employees receive a call from customer who would like to order a meal,Relevant
+Employees ask to the customer what kind of meal they want,Relevant
+Employees communicate to the customer when the order will be ready,Relevant
+Employees cook the meal,Relevant
+Meanwhile  the customer drives to the pizzeria,Relevant
+When the customer arrives and the meal is ready  employees ask for the payment,Relevant
+The customer pays for the order,Relevant
+The customer can pay by cash or by bank transfer,Irrelevant
+When the order is paid  employees give the order to the customer,Relevant
+When it s 9 00pm employees clean the whole pizzeria and then the process is finish,Relevant
+Customer looks in his fridge and cupboards after some food,Relevant
+Customer notices there is nothing to eat,Relevant
+Customer thinks about what he wants to eat,Relevant
+Customer writes his shopping list,Relevant
+The customer can write his shopping list on a paper of in his phone,Irrelevant
+Customer goes to the shop,Relevant
+The customer can go to the shop by car  by bus or on foot,Irrelevant
+Customer takes a caddy and enter in the shop,Relevant
+Customer looks after his products,Relevant
+If he doesn t find what he is looking for  he asks to a shop s employee,Relevant
+When the customer has all he needs  he goes to the cashier,Relevant
+The cashier scans the products,Relevant
+Then the cashier communicates de price,Relevant
+The customer pays,Relevant
+The customer can pay by card or by cash,Irrelevant
+Then the cashier gives the ticket to the customer,Relevant
+The customer goes back home,Relevant
+The customer can do it by car  by bus or on foot for example,Irrelevant
+The customer put the product in his fridge and cupboards and then the process is finish,Relevant
+VINTED is an online second hand sales platform,Irrelevant
+The process on vinted starts when a new user registers on the vinted app,Relevant
+Then the user will have the possibility to post some clothes that he would like to sell,Irrelevant
+In this step  he will take a picture of the garment and then he will enter the important information about the garment such as size  condition  color  brand and of course the price,Relevant
+Then he will post the article on the platform,Relevant
+The article will be followed by several vinties,Relevant
+A potential buyer will make an offer to buy  often below the offer  and will have a discussion with the seller,Relevant
+Either the seller accepts the offer and decides to conclude the sale  or the seller refuses the offer and the sale is not concluded,Relevant
+When the offer is concluded the seller will receive a dispatch note with the buyer s details which he will place on the shipping carton containing the product,Relevant
+Then he will go to a shipping point to send his package,Relevant
+Finally  he will receive the money when the buyer has received his package,Relevant
+The car park of the bank can be accessed by crossing the car park of the supermarket next to it,Irrelevant
+Whenever a client presents themselves at the reception for an appointment  the receptionist warns the banker that their client has arrived,Relevant
+The identity of the client is checked by inserting the ID card into the reader,Relevant
+After that  the customer is told by the receptionist to wait in the waiting room for the banker,Relevant
+There are some magazines and flyers lying on the table to make the waiting time more enjoyable,Irrelevant
+Later on  the banker comes to pick up the customer to go to their office,Relevant
+The banker must guide the customer to the office because there are several doors that required to be opened with an electronic badge,Relevant
+The lights turn green when the door is opened,Relevant
+Once the customer is sitting in the office  they are offered a drink by the banker,Relevant
+From that point  the counselling session begins,Relevant
+The banker logs themselves in the software of the bank to access the data about their clients  accounts,Relevant
+The representative of the intercultural has the mission to gather in the airport hall all the exchange students coming from the different flights,Irrelevant
+The representative receives a call from the exchange students once they landed to be informed about where the encounter zone is located in the airport,Relevant
+Once the exchange students have arrived at the encounter zone  the representative guides them to the other exchange students who arrived earlier that day,Relevant
+The students get to know each other while waiting for the remaining flights to land,Relevant
+The representative of the agency makes sure that everyone on their list is sitting in the airport hall,Relevant
+Then  all the students are split into groups according to the part of the country where their host family lives,Relevant
+In England  a host family must host 2 students at a time,Irrelevant
+Therefore  the representative puts the pair of the students in touch with each other,Relevant
+The students are brought to the car park of the airport where some taxicabs are waiting for them,Relevant
+According to the destination of the students  they are sent in different taxicabs that will drive them to their host families,Relevant
+Once all the luggage fits inside the cab  the exchange students leave the airport,Relevant
+Intermarché is a supermarket chain,Irrelevant
+The process start when the director of the shop received a broken good inside the Intermarché truck,Relevant
+The director has to write a reclamation form ,Relevant
+The director sends the reclamation form and wait for the response of Intermarché Warehouse,Relevant
+The employee in the warehouse receives the complain,Relevant
+In the warehouse there are more or less 80 employees,Irrelevant
+The employee in the warehouse check if the complaint is well written,Relevant
+The employee reimburse the director of the shop,Relevant
+The director receives a message to say that the payment has been done,Relevant
+The payment is received by the director,Relevant
+The director is happy with the payment,Irrelevant
+Bénin is a country in Africa,Irrelevant
+The customer send the demand to the travel agency for a trip to Bénin,Relevant
+The travel agency send a proposition to the client,Relevant
+The client accept the proposition,Relevant
+The client pays the travel agency,Relevant
+The client goes to a vaccine center in order to have its vaccine,Relevant
+The are some traffic jams on the road,Irrelevant
+The client prepares its suitcase,Relevant
+The client goes to the airport,Relevant
+The client takes a plan,Relevant
+There are different destination in the airport ,Irrelevant
+The client arrive in Bénin,Relevant
+IKEA is a retail shop  where you can buy furniture for your house,Irrelevant
+The process starts when a customer buys an item from IKEA,Relevant
+For example  the client has bought a new chair for his office  he needed a new one,Irrelevant
+IKEA sales department receives a notification saying that this customer has purchased that specific item,Relevant
+The employee then checks the availability of the item in stock,Relevant
+If the item is in stock  the item gets out of stock and the order will proceed,Relevant
+If the item is not in stock  the order will be cancelled  and a notification of cancellation is sent to the customer,Relevant
+The item has been taken out of stock  now the employee checks if the payment has been received,Relevant
+If yes  the item is finalised to be sent to the customer,Relevant
+The item is in silver paper and with some flowers,Irrelevant
+If not  the order is cancelled  and the customer will be notified,Relevant
+The client will receive an email  in which IKEA politely apologises for the inconvenience,Relevant
+The item is being shipped and sent to the customers address,Relevant
+After shipping and receiving the item  the process ends,Relevant
+Tango is a telecommunication shop in which you can have a contract which gives you free communication and a small fee for buying a new mobile phone,Irrelevant
+The process starts when the client comes into the shop and gives the employee his phone number,Relevant
+A client database is associated to the phone number given by the customer,Irrelevant
+After opening the customers file  we have access to his data,Irrelevant
+The client wants to extend his contract and wants to buy a new phone,Irrelevant
+The employee has to see if the phone is available in their shop  ,Relevant
+If it s available  he calculates the amount the client needs to pay according to his contract,Relevant
+If it s not available  the process is cancelled  and the client leaves the shop,Relevant
+After calculating the amount  the employee informs the client,Relevant
+The client has 2 choices,Irrelevant
+Either he accepts it  or he denies it,Relevant
+If it s accepted  a new contract is printed  and the mobile phone is taken out of the stock of the shop,Relevant
+If he denies it  the process ends,Relevant
+The mobile phone is being taken out of the stock and the new contract is sign by the customer,Relevant
+After signing  the contract starts   is valid  begins   the customer can use his new mobile phone,Irrelevant
+Coming home  the customer switchs his mobiles phone  to start using his new one,Relevant
+At the end of the month  the client receives a new bill and pays the new amount  and the process ends,Relevant
+Deliveroo is an online app that provides delivery services in a lot of cities around the world,Irrelevant
+Download the app on the app store or play store,Relevant
+Create an account in order to fill in all the necessary information  address  phone number  email  payment method  etc,Relevant
+Browse the different restaurants in order to see what you fancy eating drinking,Relevant
+Choose your desired meal,Relevant
+Confirm the order,Relevant
+The estimated time of delivery is written on the order confirmation page,Irrelevant
+Pay to finalize the order,Relevant
+The restaurant in which the order has been made confirms the order,Relevant
+In the meantime  the customer waits for the order confirmation by the desired restaurant,Relevant
+The restaurant prepares the order,Relevant
+A driver is assigned to the order,Relevant
+The driver drives to the assigned restaurant,Relevant
+Once finished  the order is transferred to the driver,Relevant
+The customer receives a notification confirming the order transfer to the driver,Relevant
+The driver heads to the delivery address,Relevant
+The delivery time can vary depending on the driver s speed and location,Irrelevant
+The customer receives a notification when the driver is nearly arrived,Relevant
+When arrived  the order is handed to the customer,Relevant
+Remove the individual parts of the drums from their covers,Relevant
+Prepare the positioning area by adding a rug,Relevant
+The rug prevents the drum set to slide while playing,Irrelevant
+Build up the drum set to the drummer s preference,Relevant
+Tune the snare drum and the toms,Relevant
+A bad tuning of the snare and toms can result in unpleasant sound during the concert,Irrelevant
+Order the various songs that will be played,Relevant
+Install the microphones to various parts of the drum set,Relevant
+Check the volume levels of every microphone,Relevant
+Do an overall soundcheck of the drum set,Relevant
+During the soundcheck  the sound engineer can see if some microphone volumes are set too high or too low,Irrelevant
+Do an overall soundcheck with the whole band,Relevant
+Adjust the levels again  if necessary,Relevant
+The drum set is ready for the concert,Irrelevant
+ Marmiton is the first cooking website in France,Irrelevant
+ Heat a wok or a large pan  ,Relevant
+ Add 1 spoon of oil and add basil,Relevant
+ Let it fry for a minute ,Relevant
+ Remove it and wring it out on paper,Relevant
+ Add another spoonful of oil to the pan  brown the chicken  add salt and paprika ,Relevant
+ Cook for 4 5 minutes ,Relevant
+ Add the eggs and mix well,Relevant
+ It should look like scrambled eggs,Irrelevant
+ Remove everything and put in a dish ,Relevant
+ Add the last spoonful of oil to the pan,Relevant
+ Put the garlic  vinegar  nuoc nam and sugar,Relevant
+ For example  you can find nuoc nam at Carrefour ,Irrelevant
+ Cook for 2 minutes ,Relevant
+ Add the pasta  which you cooked  to this sauce  ,Relevant
+ Add the chili and peanuts  add the chicken and vegetables to everything and mix well,Relevant
+ Put everything is a dish  garnish with the fried basil and lemon slices,Relevant
+ Bon appétit! ,Irrelevant
+ First  begin by removing your makeup thoroughly,Relevant
+ For example  choose a mild cleansing milk ,Irrelevant
+ Wet your face lightly ,Relevant
+ Gently rub your face with a scrub,Relevant
+ Rinse off with a soft cloth dampened in lukewarm water,Relevant
+ Do a facial sauna or place your head over a basin filled with hot water for 15 minutes to open the pores,Relevant
+ The steam will allow the pores to open  zero blackheads goal !,Relevant
+ Once the pores opened  remove the blackheads by pressing the skin with a tissue,Relevant
+ Spread the cleansing mask all over your face,Relevant
+ This type of mask contains clay,Relevant
+ Leave on for about 20 minutes,Relevant
+ Rinse off the face with a soft cotton or a cloth soaked in lukewarm water,Relevant
+ Apply a hydrating or radiance mask,Relevant
+ The mask must be adapted to your skin type,Irrelevant
+ Finish your facial care by applying your day cream,Relevant
+The process starts when a customer calls to reserve a table,Relevant
+The call is accepted by an employee and the reservation  date  name  number of people    is registered,Relevant
+At the reservation date  the process continues when the client enters the restaurant,Relevant
+An employee welcomes the client and escorts him her to the table,Relevant
+The employee gives the menu to the client,Relevant
+Then the employee asks for the aperitif,Relevant
+The customer communicates his choice to the employee,Relevant
+For example a coke  a sprite or a cocktail,Irrelevant
+The employee prepares the aperitif and brings it to the customer,Relevant
+Then the employee asks for the dish,Relevant
+The customer communicates his choice to the employee,Relevant
+The employee communicates the customer s choice to the kitchen,Relevant
+The kitchen prepares the dish,Relevant
+Meanwhile  the employee asks if the customers wants wine or water or another beverage with the dish,Relevant
+The customer communicates his choice to the employee,Relevant
+The employee prepares the drinks and brings them to the customer,Relevant
+When the dish is ready  the kitchen calls for the employee,Relevant
+The employee picks up the dish and brings it to the customer,Relevant
+When the customer has finished the dish  the employee cleans up the table,Relevant
+Then the customers asks to get the bill,Relevant
+The employee brings the bill to the customer that pays it,Relevant
+The customer leaves the restaurant after paying and the process is finished,Relevant
+The process starts when the Huggy s Bar receives and order from a customer via Deliveroo,Relevant
+The client pays his order directly via Deliveroo,Relevant
+The Huggy s Bar is notified when the client has paid,Relevant
+An employee reads the order and communicates it to the kitchen,Relevant
+The customer is notified via Deliveroo that the Huggy s Bar received his order,Relevant
+The kitchen starts preparing the order,Relevant
+The customer is notified that the kitchen is preparing his order,Relevant
+When the order is ready  it is loaded onto a moped for delivery,Relevant
+The client is notified that the order will be there in a few minutes,Relevant
+It usually takes about 10 minutes to drive to the customer,Irrelevant
+The driver delivers the order to the client s house,Relevant
+The client is notified when the driver has arrived,Relevant
+The client picks up his order and the process is finished,Relevant
+The Big Four is the nickname used to refer collectively to the four largest professional services networks in the world,Irrelevant
+They provide financial services throughout the world,Irrelevant
+First  an identification of the firm wishing to get services is mandatory  we need to know its activity and location,Irrelevant
+The identification process is done by the Onboarding department,Irrelevant
+The potential client has to provide all the documentation needed for the whole identification and AML process,Relevant
+Then there is the identification of the board of management,Relevant
+Afterwards a deep investigation concerning the identity of the UBO is done  Ultimate Beneficial Owners ,Relevant
+Then an AML review is done by the AML department if all the identification are validated,Relevant
+This part is the longest and can last 2 days to 3 weeks regarding the size of the analyzed company,Irrelevant
+The potential client will then be checked regarding its independence with the firm  conflict of interest are not desirable  it is done by the Independence department,Relevant
+When all the precedent process are completed  every information if gathered and expose to a committee of acceptation in order to know if the firm accept or not that client,Relevant
+If refused  the client is or rejected or send back to the first step of identification for a better review,Relevant
+The firm will could not accept a client if his reputation would be at risk by having relations with him,Irrelevant
+With acceptation of the committee  the client is valid and business negotiations start regarding the services and the drawing of the contract starts,Relevant
+The team giving the service celebrate the acquisition and acceptation of a new client,Relevant
+Each year  the AML process will be done again for risky clients  each 2 years for moderate ones and each 3 years for riskless clients,Irrelevant
+When it s been a long time not seeing my family or friends  I go back to France,Relevant
+I need in first place to check the timetables of the trains and buses,Relevant
+I book my train from Liège and Luxembourg,Relevant
+With a minimum of 15min of transition  I then book a second train from Luxembourg to Metz,Relevant
+I will then print both of my tickets at my friend s place in the next street,Relevant
+I pack my stuff and the D day I leave my place,Relevant
+I take a bus to the train station,Relevant
+I validate my train tickets with the different machines,Relevant
+It is really easy and fast to do  most of the machines are in the middle of the hall,Irrelevant
+I take my 2 trains as planned,Relevant
+I love this part  it allows me to listen to music and admire the Belgium landscapes,Irrelevant
+Once at Metz  I have to take a bus  to do so  I go to a machine that sells tickets near the train station,Relevant
+If there are no buses anymore because it is too late  a friend or a relative will pick me up to get home,Relevant
+If there are still buses I take the 98 one for a 20min duration,Relevant
+I get off and walk for 15min and I am finally home,Relevant
+ The process starts when a client calls the BEP company,Relevant
+ An employee asks for some information about the building,Relevant
+ The client gives information and the plans of the building,Relevant
+ Then  the employee drives to the building,Relevant
+ The employee takes some measures or calculations,Relevant
+ The employee draws the plans if the client can t bring it,Relevant
+ The employee encodes the building in the BEP program,Relevant
+ The employee ask some more information to the client if it is needed,Irrelevant
+ The employee sends the final report to the client,Relevant
+ The client pays cash or pays by card  the process is finished,Relevant
+ BEP company offers different services such as BEP but also energy audits,Irrelevant
+ The process starts when a client calls the BEP company,Relevant
+ An employee asks for some information about the building,Relevant
+ The client gives information and the plans of the building,Relevant
+ For example  the type of boiler  insulation quality  type of roof    ,Irrelevant
+ Then  the employee drives to the building,Relevant
+ The employee takes some measures or calculations,Relevant
+ The employee draws the plans if the client can t bring it,Relevant
+ The employee encodes the building in the BEP program,Relevant
+ The BEP program is a verry complete tool  with a lot of possible options,Irrelevant
+ The employee ask some more information to the client if it is needed,Relevant
+ The employee sends the final report to the client,Relevant
+ The client pays cash or pays by card  the process is finished,Relevant
+ Huggy s Bar Delivery is the delivery service of the Huggy s Bar Restaurant chain in partnership with Deliveroo  which also offer a « take away » service,Irrelevant
+ The process starts when a customer orders his food on the Deliveroo App,Relevant
+ The customer chooses his delivery time,Relevant
+ Deliveroo send the order and the delivery time requested to the Huggy s Bar Delivery Team through the Deliveroo Tablet ,Relevant
+ For Example  the customer orders a Magic Tom Burger with 6 BBQ meat balls and a Cola Zero,Irrelevant
+ The Deliveroo App redirects the customer to the payment portal,Relevant
+ The customer pays by Bancontact  Apple Pay or credit card,Relevant
+ Meanwhile  the Huggy s Bar employee checks the available stocks to prepare the order ,Relevant
+ The Huggy s Bar employee prepare the order ,Relevant
+ When the order is finished  the Huggy s Bar employee set the packaging under the heat lamps ,Relevant
+ The Deliveroo employee pick up the order at the time requested by the customer,Relevant
+ The Deliveroo employee drives to the customer house,Relevant
+ The Deliveroo employee supplies the customer with his order ,Relevant
+ Due to Covid the delivery can be proceeded without contacts with the Deliveroo employee if the customer asks for,Irrelevant
+ The Deliveroo employee leaves the customer s house and the process is finished,Relevant
+ The Driving test in Liège take place at the Wandres Auto center,Irrelevant
+ The process starts when the customer arrives with his guide in the parking lot,Relevant
+ The customer enters and takes place in the line of the counter ,Relevant
+ The employee asks to the customer s and guide s papers,Relevant
+ For instance  the customer must show the insurance  the conformity certificate of the car and their roadbook of 1500km fulfilled,Irrelevant
+ The employee fills in the client s registration and asks for payment ,Relevant
+ The customer pays by cash or by card ,Relevant
+ After  the employee asks to the customer to go to the theory room,Relevant
+ The customer takes a theory exam of 6 questions,Relevant
+ After the theory exam  the examinator comes and steers the customer to their car ,Relevant
+ The examinator asks to the customer to demonstrate certain features of the car,Relevant
+ For example  the examinator may ask how to turn on the headlights  where the brake fluid is located  and so on,Irrelevant
+ The examinator asks to the customer to start the car and to follow the instructions ,Relevant
+ After 30 minutes on average  the examinator asks to the customer to return to the autocenter,Relevant
+ The customer returns to the auto center and turns off the car,Relevant
+ The examinator completes the pass or deferral paperwork,Relevant
+ The process is finished,Relevant
+Every morning starts the same way  ,Irrelevant
+My alarm rings at 7 o clock and I get up out of my bed ,Relevant
+Then  I go downstairs to make myself a coffee ,Relevant
+I choose between two coffees  strong or light ,Relevant
+The strong coffee helps to be better awake ,Irrelevant
+I drink my coffee at ease and then I have my breakfast ,Relevant
+When I have finished eating  I clean everything and then I go to the bathroom ,Relevant
+In the bathroom  I take a shower and then I brush my teeth ,Relevant
+After this  I choose my clothes ,Relevant
+I dress up and start my day ,Relevant
+This is a car tutorial ,Irrelevant
+First  you have to get your key ready,Relevant
+Unlock your car and get in,Relevant
+Once inside your car  the first thing you have to do is to fasten your seatbelt,Relevant
+Then  check if all the mirrors are well positioned and at the same time check if your seat is in good position,Relevant
+You may want to start the radio but that s not a good idea,Irrelevant
+Before ignition  you have to check if the gearbox is in neutral position? If yes  you can start the car,Relevant
+ If not  you have to clutch in before,Relevant
+Once the car is running  you have to release the clutch while pushing down the gas pedal at the same time if you already clutched before starting the car,Relevant
+ If you started the car in neutral position  it is now the time to clutch in and set a gear,Relevant
+ Once the gear is set  you release the clutch and push down the gas pedal together,Relevant
+Sushi Shop is a French franchiser who sells high quality sushis,Irrelevant
+The process starts when a customer order by phone or through the website,Relevant
+If the order is registered by phone  the desk employee put the order on the screen,Relevant
+If the order is placed through the website  the user register his order itself,Relevant
+The user has the choice to pay online or pay at the shop when he will come get his order,Irrelevant
+The Desk employee is notified that a customer just have placed an order through the website,Relevant
+The employee sees that he has order a Super Salmon mix with a coke,Relevant
+The employee give the order to the sushimen,Relevant
+Sushi Shop  have all the equipment to make sushi ,Irrelevant
+The sushi men prepare the order,Relevant
+When the order is ready  the desk employee closes the sushi boxes and put them in a paper bag with chopsticks  soy sauce  napkins  ginger and wasabi,Relevant
+The employee put the order in the fridge,Relevant
+When the customer arrives at the shop  he tells his name,Relevant
+The employee searches his name in the program and look at the order number,Relevant
+If the order is not paid yet  the employee tells the amount to pay ,Relevant
+The customer pays either by card or by cash,Relevant
+Now that the order is paid  the employee take the order in the fridge and give it to the customer,Relevant
+The customer leaves the shop and the process is finished,Relevant
+Delhaize is a Belgian supermarket chain created in 1867 by Jules Delhaize   belonging to the Ahold Delhaize group,Irrelevant
+The process starts when a customer go to Delhaize s website and select all the groceries he wants,Relevant
+Then he clicks on the Collect option,Relevant
+The option is validated only and only if the order has an amount >30€,Irrelevant
+The Customer books a time slot ,Relevant
+For example  he has booked the Collect service at the Delhaize of Ans for the time slot 10 00 ,Irrelevant
+Then he is redirect to the payment page,Relevant
+When the order is paid  the workers at the Delhaize Collect section sees the order and starts to assemble it if the time slot selected by the customer is today,Relevant
+When the time arrives  the customer pulls up to the parking lot ,Relevant
+An employee is noticed that a car has parked and go get the order,Relevant
+The computers are really performant ,Irrelevant
+The employee delivers the order to the customer and the process is finished,Relevant
+The process starts when the customer enters in the store,Relevant
+Leen Bakker employee orally agree on client s needs in terms of furniture,Relevant
+The request order is encoded in the information system  company Intranet ,Relevant
+Leen Bakker employee is told the first possible date for delivery ,Relevant
+For example  the trucks replenishments take place on Tuesdays and Fridays,Irrelevant
+Once the date is agreed on  the order request is printed and given to the client,Relevant
+The clerk at the check out takes a payment of 20% of the amount,Relevant
+The pieces of furniture arrive on due date,Relevant
+One of Leen Bakker employee s calls the client to warn the order had arrived,Relevant
+The client comes and pays the remaining amount,Relevant
+ An employee picks up the order from the stocks and bring it to the client,Relevant
+The order is complete and the process ended,Relevant
+Wetzlarbad is a swimming pool located in Eupen  Belgium,Irrelevant
+The process starts when a customer decides to go to the swimming pool,Relevant
+The client goes on the website to book their tickets,Relevant
+They first check the availability according to when they want to go ,Relevant
+For example  they want to go on a Monday from 6 to 730 am,Irrelevant
+After having chosen their spots  they click on  payment button ,Relevant
+The website redirects them towards an online payment platform,Relevant
+The client pays with his  her computer  smartphone,Relevant
+An email is automatically sent to the client with a QR code,Relevant
+The client comes at the swimming pool and scans their QR code to enter the facility,Relevant
+fter maximum 1 30  the client is required to leave the facility  this ends the process,Relevant
+Voyages Léonard is a travel company specialized in coach trips for older people,Irrelevant
+The process starts when the registrations for the day trip open,Relevant
+The registrations are mainly made by phone calls to the agency ,Irrelevant
+The employees receive a call notifying an interest for the day trip,Relevant
+The client is asked to display its personal data ,Relevant
+For example  its age  name  address for the invoice  etc,Irrelevant
+After the registration is confirmed  the employee must print the invoice ,Relevant
+By the end of the day  there will be numerous invoices that need to be sent,Irrelevant
+The employees put it in envelopes and sent it by mail,Relevant
+The client receives the invoice and pays it,Relevant
+The employees notify the completion of the order on the registration form,Relevant
+A message is sent to the client to confirm their registration  the process is finished,Relevant
+The process starts when the shop assistant checks the stock of clothes of the shop to know the needs,Relevant
+When the missing items have been identified  he looks into the manufacturer s catalogue,Relevant
+This catalogue is send twice a year to the shop  according to the seasons,Irrelevant
+The shop assistant then look for references of the garments such as size and colours,Relevant
+Once the choice is done  an order is sent to the manufacturer,Relevant
+A confirmation mail from the manufacturer arrives after confirming the order,Relevant
+If an item is missing  they mention it in the mail,Relevant
+The manufacturer gives an approximate delivery date following its manufacturing schedule,Relevant
+Within 8 days  the delivery is made,Relevant
+When the shop assistant receives the order  he controls it and compares it with his purchase order,Relevant
+Two days later  the vendor receives the invoice and he checks it with the delivery note,Relevant
+He pays the invoice within 30 days or within 10 days with discount,Relevant
+After that  he labels the selling prices and put the new product on the shelf,Relevant
+He is then ready to sell it to the clients,Irrelevant
+Rue Neuve in Brussels is great for shopping,Irrelevant
+The process starts when all of a sudden  a griel gets her purse ripped off,Relevant
+She watch the suspect running away,Relevant
+She then asks a pedestrian to dial 101 to alert the police,Relevant
+An operator picks up and the woman gives him a description of her thief,Relevant
+The operator tells her that a team will be dispatched to the scene as soon as possible,Relevant
+A response team arrives within 5 minutes and takes the woman s statement,Relevant
+At the same time  another team searches the surrounding streets for the suspect,Relevant
+If the suspect is found  he is arrested and taken to the police station,Relevant
+Then  the stolen bag is returned to the owner,Relevant
+In some cases  the bag is found on the suspect but is empty,Irrelevant
+If not  the surveillance cameras in the surrounding area are analysed and a wanted notice is created,Relevant
+In both cases  the lady comes to the police station to make her statement,Relevant
+If she was injured during the robbery  she is offered a visit to the hospital,Relevant
+If her attacker has not been found  she will be kept informed of the outcome of the investigation,Irrelevant
+Anapharma is a drugstore located in Ans  next to a butcher shop,Irrelevant
+The process starts when a customer passes the automatic door,Relevant
+ The customer places himself in the queue or goes directly to the counter,Relevant
+The customer gives his prescription to the pharmacist or asks for some medicine,Relevant
+ For example  a specific medication or simply a box of cough drops,Irrelevant
+The pharmacist looks at the availability of certain drugs in the computer,Relevant
+Anapharma has a large inventory sorted alphabetically with the majority of necessary medicines,Irrelevant
+The pharmacist prepares the customer s order,Relevant
+The pharmacist scans the medicines,Relevant
+A specific software automatically updates the stock as well as the purchase history of the customer,Relevant
+The pharmacist informs the customer on how to take the medication and sticks the labels on the boxes,Relevant
+The pharmacist supplies the client with his order,Relevant
+The customer takes his order,Relevant
+The customer pays cash or pays by card,Relevant
+The customer leaves the drugstore  the process is finished,Relevant
+Carrefour is a French retail group that provides customer with a complete service in any area,Irrelevant
+The process starts when the customer enters the supermarket,Relevant
+The customers takes a shopping trolley,Relevant
+The customer check the availability of the items he needs,Relevant
+The music in the supermarket allows him to spend a pleasant moment while shopping,Irrelevant
+The customer puts the items he wants to buy in the shopping trolley,Relevant
+The customer goes to the supermarket checkout,Relevant
+The customer places all the items on the conveyor,Relevant
+The supermarket cashier scans all the different products,Relevant
+The scanner beeps at each item scanned,Relevant
+The customer puts his items in a bag,Relevant
+The supermarket cashier requests him the final price,Relevant
+The customer pays cash or pays by card,Relevant
+The customer puts away his shopping trolley ,Relevant
+The customer leaves the supermarket  the process is finished,Relevant
+Business process description of a Belgian company which manufactures macarons,Irrelevant
+The process begins when the sales manager receives a call  an email or a demand directly from the website,Relevant
+He registers the order in a software used across the company,Relevant
+The production manager receives a notification that an order is arrived,Relevant
+He checks if there are the available components in the stock to produce the required macarons,Relevant
+There are different range of macarons  like sweet macarons  savoury macarons  gourmet macarons    ,Irrelevant
+f the components are available  the production can begin but if not the manager has to order the components to a supplier and the production will be able to begin once the order is received,Relevant
+After the production is done  the macarons are placed in a cold storage for at least one day and the production manager notify the software that the production is completed,Relevant
+24 hours later  the packaging manager receives the notification and allocates the work to the workers,Relevant
+Once the packaging is done  the sales manager is notified and he contacts the delivery company to come to take the merchandises and to deliver them to the customers,Relevant
+The delivery company tells the sales manager when the macarons are delivered,Relevant
+Either the completion time from the order received from the client to the delivery time respected  so the client must pay the total amount,Relevant
+Or the delay is not respected and the company makes a discount,Relevant
+ The process is completed when the company receives the money,Relevant
+Business process description of a dry cleaning and sewing shop,Irrelevant
+The process begins when a customer enters the shop  he can ask for two different services  the washing service of the sewing service,Relevant
+Then the employee places the item in the washing process if the client wants it to be washed of if the item needs some sewing  it is placed separately in a crate for the tailor,Relevant
+The first service process begins the following day  the item goes through the wash machine and the dryer,Relevant
+Then the third step ironing is done the following day,Relevant
+These three operations are done in two days,Irrelevant
+The employee calls the client that it s done just after the ironing step and he can come pick up his good,Relevant
+But if the client brings his item at the shop on Friday or on Saturday  the process is delayed by two days because the shop is closed on Sunday and on Monday,Relevant
+The second service process  sewing  is done by a tailor,Irrelevant
+The tailor comes each Thursday to pick up and return goods,Relevant
+The client is informed by a call when the shop received the item from the tailor,Relevant
+He comes bring it,Relevant
+These two services stop when the client comes and pays in the shop,Relevant
+Stephanie is an interior designer,Irrelevant
+As a freelancer  she advertises on social networks,Relevant
+Clients contact her either by phone  email or via social networks,Relevant
+In a first step she meets the customer to develop the 3D plan of their desire,Relevant
+For example  a virtual bathroom with the decoration elements they want,Irrelevant
+Once the plan is finalized and validated  Stephanie orders the furniture and paint from the suppliers,Relevant
+When she has received all the material  she goes to the customer s home to start her work,Relevant
+She applies the 1st layer of paint,Relevant
+After 48 hours of waiting  she put the second coat of paint,Relevant
+Once the second coat of paint is dry  48h   she starts to assemble the furniture and the layout of the room,Relevant
+Once the work is finished  she presents it to the client who validates or not the result,Relevant
+If the client validates  Stephanie sends the invoice,Relevant
+If not  she starts a new layout in collaboration with the client,Relevant
+Once this second attempt is validated  Stephanie send the invoice,Relevant
+There is a process to follow in order to become a federal officer in the Belgian Scout Federation,Irrelevant
+First of all  this function is accessible to people who are at least 21 years old,Irrelevant
+In order to be able to access this function  it is nevertheless necessary to follow trainings,Irrelevant
+The first training of 4 days can either be done at the age of 18 years when you are a pioneer in a scout unit  Pi Days   or at the age of 19 years when you are a section leader  T1 ,Irrelevant
+The process start when you do you first training,Relevant
+Once this first training is finished  Pi Days or T1   you start the 2nd training of 3 days  T2 ,Relevant
+After T2  a practical training of 150 hours is planned  which corresponds more or less to a 10 days camp,Relevant
+Once the internship is completed  we move on to the 3rd stage of training of 4 days  the T3,Relevant
+After the T3  a time of unity  TU  is foreseen  this one will last one WE  and will lead to the obtaining of the certificate of scout leader,Relevant
+Once the certificate is obtained  the trained person can become a  come and see  within a unit team for 3 months,Irrelevant
+After the 3 month period  an activity interview meeting is scheduled with the team s federal animator,Relevant
+At this meeting  you can either confirm that you want to become a federal manager or decline,Relevant
+If you refuse the position  you can either take another position within the federation or stop scouting,Relevant
+The process begins with measuring the gas level at a small gas station  ,Relevant
+Then send the results to a sales department after 24 hours  ,Relevant
+A sales member accepts the results of the inventory level that he specifies so that he can send the results to the purchase department  ,Relevant
+Once the order had been accepted by a member of the purchasing department  they proceed to the optimization of transportation  ,Relevant
+The operation also involves the transfer of fuel to the gas station  and the delivery is accepted for the gas station ,Relevant
+Colruyt is a chain of supermarkets that also offers a drive in service,Irrelevant
+The process start when a customer goes on https   colruyt collectandgo be ,Relevant
+The customer logs in to his account ,Relevant
+The customer makes its shopping online,Relevant
+The customer selects his colruyt relay point and his preferred time,Relevant
+The customer pays for his shopping,Relevant
+The Colruyt shop receive the order on the computer,Relevant
+The workers prepare the order for the client,Relevant
+At the fixed hour the client come to the drive in,Relevant
+The client receives his order and leave  the process his finished ,Relevant
+Booking is a website where customers can reserve an hotel easily,Irrelevant
+The customer goes on booking com,Relevant
+The customer selects where he wants to go and the date of his trip,Relevant
+The customer selects the hotel of his choice,Relevant
+The customer selects the type of room that he wants,Relevant
+The customer registers all his personal information,Relevant
+The customer pays for his reservation,Relevant
+Booking receives the reservation ,Relevant
+Booking confirms the reservation by e mail to the customer,Relevant
+The process is finished,Relevant
+ DELHAIZE is a Belgian supermarket chain that offers student jobs every year ,Irrelevant
+The process starts when the student applies on the company s website ,Relevant
+The recruitment manager receives the application and reviews it  The application is rejected if the candidate s profit does not match the one the company is looking for and the process ends ,Relevant
+In case the profit matches  the recruiter schedules an interview with the candidate by sending an invitation ,Relevant
+Once the interview is over  the recruiter judges and decides whether the application is accepted or rejected ,Relevant
+If the application is rejected  a message is sent to the unfortunate candidate and the process ends ,Relevant
+If the application is accepted  an offer is sent to the candidate ,Relevant
+After receiving the offer  the candidate examines it in turn ,Relevant
+If the offer is not satisfactory  he rejects it and the process ends ,Relevant
+In case of satisfaction  he is recruited and the process ends ,Relevant
+EUROFRUITS is a fruit and vegetable distributor serving mainly restaurants and fruit shops in the greater Namur region,Irrelevant
+ Being perishable supplies  it sometimes happens that the products shipped do not meet the customers  requirements,Irrelevant
+ The refund process is as follows ,Irrelevant
+The customer sends a request for a refund,Relevant
+The company receives the refund request,Relevant
+After the request is received by a customer service agent  a refund file is created if the customer does not have one,Relevant
+Refund requests of less than €100 are automatically credited to the customer s account,Relevant
+Requests for more than 100 euros must be approved by the supervisor,Relevant
+A refund is automatically credited to the client s account,Relevant
+If the process is not completed after 7 days  the agent must send an email to the client indicating that the request is being processed,Relevant
+After 30 days  the application is automatically approved,Relevant
+If there is a refusal  the client is informed by email,Relevant
+If the application is approved  the customer is informed by email and the process is completed ,Relevant
+Uber Eats is a mobile application which allows to order food from restaurant and fast food,Irrelevant
+The deliveries are made by independent drivers,Irrelevant
+The process starts when the customer chooses a restaurant and make an order,Relevant
+For example  the customer order sushi from Sushi Shop,Irrelevant
+The restaurant is notified that a customer made an order on the Uber tablet,Relevant
+The employee of the restaurant prepares the order,Relevant
+The Uber Eats application send a notification to the nearest available drivers,Relevant
+The driver receives the order and choose to accept it or to refuse it,Relevant
+If he refuses it  the order is sent to another driver,Relevant
+When the driver accepts the order  he goes to the restaurant to pick up the order,Relevant
+When he took the order  he clicks on  Start the delivery  and the customer is notified that his order is on the way,Relevant
+The customer can follow the driver on the Uber Eats application,Irrelevant
+The drivers can deliver by car  by scooters or by bike,Irrelevant
+When the driver has delivered the order  he can evaluate the customer and click on  Order delivered  and can accept now new orders,Relevant
+When the customer has received his order  he can evaluate the driver and if the driver has already confirmed the delivery  he has X minutes to confirm that he received his order and the drivers is paid for his delivery,Relevant
+If after X minutes he does not confirm the delivery  the order is automatically confirmed and the drivers is paid  the process is finished,Relevant
+Green Wash is an automatic carwash located in Herstal  Belgium,Irrelevant
+The process starts when a customer come with his car in the carwash,Relevant
+The employees are notified that a car is waiting,Relevant
+An employee asks to the customer what kind of wash program he would like,Relevant
+For example  a simple exterior wash,Irrelevant
+Then  the customer drives into the washing area,Relevant
+The carwash is equipped by carwash brushes and all equipment needed to wash a car,Irrelevant
+After the washing  the customer drives to the drying area,Relevant
+In the drying area  the customer has to wait outside of his car because of social distancing,Relevant
+The employees dry the outside of the car and the interior of the doors,Relevant
+Then the customer pays by cash or pays by card for the wash,Relevant
+If he has a fidelity card  he receives one more point,Relevant
+If he has not a fidelity card  the employee asks him if he wants one or not,Relevant
+If yes  the customer received a fidelity card,Relevant
+The customer takes his car and leave the carwash  the process is finished,Relevant
+PFS Web is an ecommerce,Irrelevant
+One of its storage is located in Visé,Irrelevant
+The process starts when the customer orders on the Clarins website,Relevant
+The order is received by Clarins,Relevant
+Clarins informed PFS of the order,Relevant
+PFS prints the ticket and the adhesive and puts it in a box,Relevant
+A picker gathers the order and puts it in the box with the ticket,Relevant
+Sometimes  some samples are added if it s a big order,Relevant
+Then  another person packs the order in a cardboard,Relevant
+There are four different types of cardboard depending on the size of the order,Irrelevant
+This person sticks the adhesive label on the cardboard,Relevant
+Then  the cardboard is put on the conveyor belt,Relevant
+At the other end of the treadmill  another person scans the order,Relevant
+The cardboard is put on a pallet  ready to be posted,Relevant
+The process starts when a person decides to apply for an internship in a company,Relevant
+The person creates an account on the company s website,Relevant
+To create an account  personal information is asked and information concerning the education,Irrelevant
+Once the account is created  the person apply for the internship,Relevant
+The company receives the application and examine it,Relevant
+If the profile is interesting  the company contacts the person,Relevant
+The company can contact the person by email or phone,Irrelevant
+They choose a date together for an interview,Relevant
+The candidate prepares for the interview by reviewing some theoretical courses,Relevant
+With the current situation due to Covid  most of the interview are made online,Irrelevant
+Then  during the interview  the representative of the company asks theoretical and personal questions,Relevant
+At the end of the interview  the representative decides if the candidate is right for the internship,Relevant
+If the candidate is right  the representative offers him the internship,Relevant
+Later  the candidate signs the contract,Relevant
+The client orders clothes online and request the shipping in the store ,Relevant
+The client can pay directly online  or by transfer one the order is arrived ,Irrelevant
+The order arrives at the store ,Relevant
+The client is notified by e mail ,Relevant
+He comes to the store the pick it ,Relevant
+The employee go to the back of the store to take the order  it is stored there ,Relevant
+The employee gives the package to the client ,Relevant
+The client pays,Relevant
+The client leaves,Relevant
+Once the payment is received  the process is finished,Relevant
+The client order his food online or call the restaurant to make his order ,Relevant
+The waiter prints the order and bring it to the cookers,Relevant
+The cookers start preparing the order ,Relevant
+When the food is ready  the waiters put the food into bags with sauces and put the order on the counter ,Relevant
+The delivery guys comes and take the orders ,Relevant
+He delivers it to the client,Relevant
+The client pays the food to the delivery guy  if he did not already do it online ,Relevant
+The delivery guy leaves the order to the client and the process is completed,Relevant
+ Les Co Pains  is a small bakery in the center of the village of Ocquier  aiming to be natural and organic in all their ingredients  ,Irrelevant
+The process begins when a customer places an order either by phone or by visiting the bakery  ,Relevant
+The cashier then asks for the necessary information and takes note of the order ,Relevant
+That evening  the bakers take note of the orders  ,Relevant
+The customer then comes to pay and collect his order on the agreed day  ,Relevant
+If the order is not feasible  the bakers informs the cashier  ,Relevant
+The next morning  the cashier contacts the customer by phone ,Relevant
+There are then two options ,Irrelevant
+If the customer wants to change the order  the process starts again  ,Relevant
+Or the customer may wish to cancel the order  in which case the process stops  ,Relevant
+The process begins when someone goes to the  Loliphant  store site ,Relevant
+The customer searches the site  ,Relevant
+For example  if the customer is looking for a stuffed animal  he will go to the  babies  tab  ,Irrelevant
+Once the customer adds an item to his cart  a pop up will offer him to go to his cart or to continue shopping  ,Relevant
+If the customer chooses to go to his cart  the page will redirect him to his cart  ,Relevant
+If the customer chooses to continue shopping  he will be redirected to the home page and so on until he has finished shopping  ,Relevant
+The created cart is valid for 2 days  ,Irrelevant
+If after 2 days the cart is not viewed and paid  it will be deleted  ,Relevant
+On the shopping cart page  the customer chooses a payment method and a pick up date in store as well as give additional information if they wish   ,Relevant
+Once the payment is received  the store prepares the customer s order according to their instructions  if any  ,Relevant
+If the order cannot be ready by the date set  the store contacts the customer and sets a new pickup date  ,Relevant
+Once the order is ready  the customer picks it up at the store on the scheduled date  ,Relevant
+ Daily is a fastfood restaurant that offers good quality hamburgers and fries,Irrelevant
+ The employees prepare the salad  the meats  the bread  they pre cook the fries  ,Relevant
+ Customers can come to the restaurant from 6pm to 10pm,Irrelevant
+ The customer calls the employees of the restaurant to place an order,Relevant
+ The employees asks the customer what he would like to eat,Relevant
+ The employees prepares the food to go,Relevant
+ The customer pays for the order,Relevant
+ When the order is ready  the employees give the customer the bag with the food,Relevant
+ At 10 pm the employees wash the kitchen and put everything in order for the next day,Relevant
+ Ceral is a company that sells premium quality dog food,Irrelevant
+ Ceral sends their recipe to a Belgian factory that makes dog food,Relevant
+There are 6 different kinds  adult chicken  adult salmon  adult lamb  puppy chicken  puppy salmon  puppy lamb,Irrelevant
+ Once the food is made and bagged  the Belgian factory sends the order to Ceral,Relevant
+ Ceral unloads the goods,Relevant
+ The client can come to the Ceral shop between 8am and 6pm,Irrelevant
+ Ceral receives a visit from a customer who would like to buy kibble for his dog,Relevant
+ The employees ask the customer what kind of food he would like for his dog  6 kinds ,Relevant
+ When he has made his choice  the employee takes the bag of kibble to the customer s car,Relevant
+ The customer pays  cash or card ,Relevant
+ The employees tidy up the warehouse and check their stock to be able to welcome customers the next day,Relevant
+Closhop is a shop for clothes  which sells pants   skirts   coat   ,Irrelevant
+ The process starts when the founder decides to creat a new product,Relevant
+ The founder chooses the fabrics  the colors and the prints of the clothes ,Relevant
+ The founder transfers the ideas of the collection to a stylist ,Relevant
+ The stylist creates some drafts of the clothes ,Relevant
+ The stylist sends the drafts to the factory ,Relevant
+ The factory chooses the fabrics with the founder of the brand ,Relevant
+ The clothes are made during a certain time ,Relevant
+ The clothes are finished and approved by the factory  check that the clothes have no defaults  ,Relevant
+ The clothes are packed to be shipped ,Relevant
+ The clothes are sent to the founder office ,Relevant
+ The founder receives the clothes and can sell them,Relevant
+ The process is finished,Relevant
+ The process starts when the customer decides to buy a swimming pool ,Relevant
+ The customer goes to the Swimming pool builder ,Relevant
+ The customer goes back home ,Relevant
+ The customer asks for a quotation ,Relevant
+ The builder makes the quotation ,Relevant
+ The customer chooses the different materials and colors of them ,Relevant
+ The builder will choose and buy the materials to the factory ,Relevant
+ The builder waits to receive the materials ,Relevant
+ The builder begins the building site and dig a hole ,Relevant
+ The builder calculate the dimension of the swimming pool ,Relevant
+ The builder makes the wall of the swimming pool ,Relevant
+ The builder makes the inside of the swimming pool ,Relevant
+ The builder finishes the swimming pool ,Relevant
+ The Customer puts water into the swimming pool ,Relevant
+ The swimming pool is ready,Irrelevant
+ The process is finished,Relevant
+STRA is an NGO which rent tents to the scout,Irrelevant
+ The process start when the client sends an email with the amount of tents he wants to rent the STRA  scout tent renting association  receive the mail of the client with the amount of tent the client wants,Relevant
+ The STRA check if there are enough tents in the stock,Relevant
+ The STRA send a mail to communicate the date of material disposure if there is enough stock or the STRA send a mail of refusal to the client if there is not enough stock and then process end,Relevant
+ The client receives the mail with the date of materials disposure,Relevant
+ The client waits the date asked by the STRA,Relevant
+ The client go to the stock location,Relevant
+ The client show the order document to the office,Relevant
+ The STRA pick the right amount of reserved tent in its stock,Relevant
+ The STRA produce an invoice for the client,Relevant
+ The client pay the invoice,Relevant
+ The client pick up the tents,Relevant
+ The client come back home and end the process,Relevant
+The process start when a client order a type of beers by email,Relevant
+ The order of activation process is received by mail by the brewery,Relevant
+ The brewery send to the client a mail to know if he wants a blond or a brown beer and a 25 cl bottle or 33cl bottle,Relevant
+ The 33cl bottle is the most expensive type of bottle,Irrelevant
+ The client receive the mail from the brewery,Relevant
+ Meanwhile the brewery orders the activation of its production facilities  stand by ,Relevant
+The brewery preheat the production tank,Relevant
+ The client send his answer to the question Blond brown and 25cl 33cl by mail,Relevant
+ The brewery receive the final answer by mail,Relevant
+ The client selects the grain quality,Relevant
+ The brewery add the grain selected in the production tank,Relevant
+ The brewery select the 33cl bottle format or the brewery select the 25cl bottle format,Relevant
+ The brewery launch the bottle filling process,Relevant
+ The brewery stock the finished product,Relevant
+ The brewery send a mail to the client to say the beer is ready,Relevant
+ The client receive the confirmation mail from the brewery,Relevant
+ The client pay online,Relevant
+ The brewery check the account statement to verify if the client has paid,Relevant
+ The brewery deliver the beer to the client and end the process,Relevant
+ The process starts when the sending school makes a presentation about the Eramsus ,Relevant
+ If interested the student sends application to the sending school ,Relevant
+ The student chooses the destinations where he wants to go from a list ,Relevant
+ The list contains 50 receiving schools ,Irrelevant
+ The sending school receives the destinations and make decision for everyone ,Relevant
+For example  3 students are going to Paris  2 others are going to Poland  etc  ,Irrelevant
+ Student are notified of their final destination ,Relevant
+ Student contacts receiving school to get information about the programme ,Relevant
+ Student receives acceptance letter and information about the semester ,Relevant
+ Student send information for scholarship to the sending school ,Relevant
+ Sending school accept or reject scholarship ,Relevant
+ The scholarship amount depends on chosen the destination ,Irrelevant
+ If accepted  the student receives 30% of the scholarship before leaving ,Relevant
+ Student leaves for one semester to the destination ,Relevant
+ Student comes back ,Relevant
+ Student sends information to sending school to prove the Erasmus is well completed ,Relevant
+ If conditions are met  student receives 70% of the scholarship and the process is finished ,Relevant
+ Student send application  CV and cover letter   to a company ,Relevant
+ The company is Deloitte ,Irrelevant
+ If the company is interested  it notifies the student that he should accomplish some tests  Otherwise  notifies student that the company is not interested ,Relevant
+ Student do the tests ,Relevant
+ There are three different tests to make ,Irrelevant
+ The company analyses the results from the student ,Relevant
+ If good results  the company asks the student for an interview  Otherwise the company notify the student that the process is finished  ,Relevant
+ The student accepts or rejects the interview invitation ,Relevant
+ After the interview  the company analyses the results ,Relevant
+ If the results are good or bad  the company notify the student of their decision  ,Relevant
+ The student receives the notification ,Relevant
+ If the results are good  the process is finished  If they are not good  the student starts again with a new company  ,Relevant
+ The student starts working in the company,Relevant
+ Process starts when a potential student registers,Relevant
+ Potential student signs up for online registration on the site of university,Relevant
+ He uploads digital document copy,Relevant
+The unviersity verify uploaded copy of documents,Relevant
+candidat receives a registration notification,Relevant
+ University starts a candidate application validation,Relevant
+ If an application form fillled correctly  end of process,Relevant
+ If an application form incorrectly filled  University informs a candidate,Relevant
+ Candidat signs up,Relevant
+ He updates an application form and replaces the documents   after which the procedure of candidate application  validation renews for him,Relevant
+ The data is analyzed for compliance with the processing admission criteria,Relevant
+ University distributes the candidates,Relevant
+ Then university approves evaluation results,Relevant
+ university sends a notification about results   2 ,Relevant
+ or university publishes admission results,Relevant
+ In both cases evaluation process ends,Relevant
+After notifying the candidate  the stage of confirmation  begins with the 3 parallel stages ,Relevant
+If candidat cancel an application  university requests an application  then updates candidate status ,Relevant
+If confirmation time is expired  university updates candidate status ,Relevant
+Candidate delivers an original document and  signs scholarsheep agreement  ,Relevant
+After signing of scholarsheep agreement  University updates a candidate status ,Relevant
+After update of candidate status in all cases   university publishes final results ,Relevant
+After publication of final results process ends ,Relevant
+ The process starts when the client calls the driving license agency ,Relevant
+ The driving agency check its agenda ,Relevant
+ The driving agency proposes some dates of appointment to pass the test ,Relevant
+ The client accepts or refuse ,Relevant
+ If he accepts  a guide is selected ,Relevant
+ The client comes the day of this exam ,Relevant
+ The guide observes the client while he is doing his test ,Relevant
+ the guide notifies the results to the agency ,Relevant
+ The agency delivers the license ,Relevant
+ If the client refuses   he have to chose to rather not pass his exam anymore or take another appointmen!,Relevant
+Zalando is an online clothing and shoe store founded in 2008 by Robert Gentz and David Schneider,Irrelevant
+ The process starts when a customer enters Zalando s website,Relevant
+ Zalando is automatically notified about the customer s presence,Relevant
+ The client fills up its virtual shopping cart,Relevant
+ Zalando automatically checks its stock and informs the client if any selected item is not available,Relevant
+ Then the client checks if all the information in its shopping cart is correct and modifies it if necessary,Relevant
+ The customer has at that moment the possibility to add a discount code if he has one,Irrelevant
+ Then the customer writes his shipping and billing address,Relevant
+ The client chooses its means of payment between invoice  bancontact  credit card or Paypal,Relevant
+ The customer then validates its order,Relevant
+ Zalando sends a mail to inform the customer that confirms his order,Relevant
+ The customer has 14 days to pay his debts,Irrelevant
+ Zalando sends a tracking link to the customer to locate its package when it s getting shipped,Relevant
+ Finally  the package arrives at the customer s home and the process is finished,Relevant
+The process starts when a client enters the club s website,Relevant
+ The customer chooses the match he wants to see,Relevant
+ Then the client selects the number of tickets he needs,Relevant
+ Then the client choose between VIP or non VIP seats,Relevant
+ If the client chooses VIP seats the client directly pays  the football club receives the payment and sends the tickets by post to the customer,Relevant
+ If the client chooses Non VIP seats  then the client needs to choose in which stand he wants his seat s ,Relevant
+ The customer buy some drinks and food tickets at this moment,Relevant
+ For example  two beers and one burger,Irrelevant
+ The client insert his fan club card number in order to have a small discount,Relevant
+ Then the website redirects the client to the payment zone where the client pays online,Relevant
+ Finally  the client receives its ticket s  at home by post and the process is over,Relevant
+The process starts when a customer asks an estimate to the company by phone or by mail,Relevant
+The boss has two choices   accepts or rejects the request,Irrelevant
+If the boss agreed  the customer explains the project to the boss,Relevant
+If he rejects the request  the process is over,Relevant
+The boss takes in charge the ask and accomplishes the estimate,Relevant
+Once the estimate finished  the boss sends his work  the price and the deadlines to the customer,Relevant
+The customer accepts  modifies or give up the project,Relevant
+If the customer wants to modify the project  he notifies the company and the process restarts at step 3,Relevant
+Once the customer accepts  the company receives the notification,Relevant
+Then  the boss plans the course of the site and entrusts it to a site manager to manage the workers and the material process,Relevant
+Around the middle of the work  the company asks a payment for the work already done to the customer,Relevant
+At the end  the boss finalizes the accounts and send them to the customer,Relevant
+Once the customer paid  the process is finished,Relevant
+The company sometimes uses subcontractors,Irrelevant
+The process starts when a customer wants to build something and asks the help from the company by phone or by mail,Relevant
+Three persons run the company,Irrelevant
+The boss has two choices   accepts or rejects the request,Relevant
+If he rejects the request  the process is over,Relevant
+If the boss agreed  the customer explains his project to the boss,Relevant
+The boss takes in charge the ask and accomplishes an estimate to evaluate the time and the cost of the training,Relevant
+Once the estimate finished  the boss sends his work  the price and the deadlines to the customer,Relevant
+The customer accepts or give up the project,Relevant
+If the customer accepts  the company receives the notification,Relevant

@@ -1,0 +1,1001 @@
+sentence,class
+ The customer receives his order  ,Relevant
+ the customer pays his bill  ,Relevant
+ the accounting department receives the payment and archives it  ,Relevant
+End of the process ,Relevant
+The following description is about public procurement  for high budgets  in the Belgian public sector,Irrelevant
+ The process starts when a department of a public entity sends a request for supplies  a service or construction work,Relevant
+ The public entity analyses the request and determines the department s needs,Relevant
+ Then  the public entity creates a description of the need,Relevant
+ After that  a budget is estimated  here  we only consider the case where the budget estimated is high ,Relevant
+ Then  the appropriate legal procedure of public procurement is chosen,Relevant
+ After that  the public entity establishes the Contractual Requirements  chooses an official date for the opening of the public procurement and publishes a public procurement notice,Relevant
+ When it is the official date  the public entity starts the public procurement procedure,Relevant
+ The public entity analyses the offers from different suppliers,Relevant
+ Then  the public entity chooses only one supplier,Relevant
+ After that  the public entity writes a procurement contract notice  notifies the supplier chosen and writes a public procurement contract,Relevant
+ The supplier delivers the supplies or service or carries out the construction work,Relevant
+ Once this is done  the public entity verifies that everything is in order,Relevant
+ If everything is in order  the supplier sends a bill to the public entity,Relevant
+ If something is not in order  the supplier is notified,Relevant
+ Then  the supplier fixes the problem,Relevant
+ When the problem is fixed  the supplier sends a bill to the public entity,Relevant
+ The public entity verifies if the bill is correct,Relevant
+ If the bill is correct  the public entity makes the payment to the supplier and the public procurement contract ends,Relevant
+ If the bill is incorrect  the public entity notifies the supplier,Relevant
+ The supplier corrects the mistakes and sends a new bill,Relevant
+ Then  the public entity makes a payment to the supplier and the public procurement contract ends,Relevant
+The following description s about how the Belgian Justice system makes the decision to investigate or not on a death,Irrelevant
+ The process starts when a cadaver is found somewhere,Relevant
+ A forensic doctor determines if the death is suspect or not,Relevant
+ If the death is not suspect  a certificate of death is emitted  and funerals can be organised normally,Relevant
+ If the death is suspect  a complementary analysis is done to determine if someone is involved in the death or not,Relevant
+ If no one is involved in the death  then the death is due to natural causes or suicide,Relevant
+ If the death is due to natural causes  a certificate of death is emitted  and funerals can be organised normally,Relevant
+ If the death is due to a suicide  a small investigation takes place to confirm the suicide,Relevant
+ If the suicide is confirmed  then a certificate of death is emitted  and funerals can be organised normally,Relevant
+ If funerals can be organised normally  then the process ends,Relevant
+ If the suicide is not confirmed  then someone is involved in the death,Relevant
+ If someone is involved in the death  then a full police investigation is started,Relevant
+ If the author is known  a magistrate decides if the Local Police or the Federal Judicial Police conducts the investigation,Relevant
+ Then  the investigators determine the causes and circumstances of death,Relevant
+ If the author is unknown  the Federal Judicial Police conducts the investigation,Relevant
+ If the author can be identified  then the investigators determine the causes and circumstances of death,Relevant
+ If the author cannot be identified  then the investigators make complementary research,Relevant
+ The research could be international or not,Irrelevant
+ After the complementary research  if the author is identified  then the investigators determine the causes and circumstances of death,Relevant
+ If the author is not identified  then the murder becomes a  cold case ,Relevant
+ After determining the causes and circumstances of death  the investigation ends,Relevant
+ Once the investigation is over  Judicial decisions concerning the author of the murder have to be made,Relevant
+All begins when the customer calls Ethias Assistance  the leading insurer in belgium  at 04 220 30 40,Relevant
+ There  the insurance company identifies that the customer is not insured because they checked in their database that the customer was not registered,Relevant
+ So the insurance proposes to the customer two solutions,Relevant
+ Either the customer decides to do nothing so by this decision the process stops or the customer accept the sending of an SMS offering a paying service so by this decision the process continues,Relevant
+ Just after that  the customer receives the sms and the customer clicks on the link in the sms and is sent to a platform   To access your troubleshooting solution  click here www assistanondemand com ,Relevant
+ On this platform  the customer enters his email address and creates his account,Relevant
+ While he creates his account  the customer encodes the data allowing the troubleshooting with the place and time of intervention desired,Relevant
+ For example   Rue de Londres  7  4000 Liège at 17h32 ,Irrelevant
+  Then  he encodes his personal information and there will be a summary of the order  including the price proposal ,Relevant
+  At the end  it will be a secure online payment and there will be a confirmation of the order,Relevant
+ The customer will receive the receipt of the details of the breakdown mechanic  his time of arrival and the delivery location of the vehicle to be repaired,Relevant
+The process finishes when breakdown service arrives,Relevant
+In the subscription process  there are several steps,Irrelevant
+ The customer will first see the website Flora and two options is offered to him,Relevant
+ Either  the customer is already insured with ethias so he can click on  calculate my price in 10sec  or he isn t insured with Ethias so he can click on  already insured elsewhere? ,Relevant
+ If he is insured elsewhere  Flora will give him also the option of  calculate my price in 10 sec ,Relevant
+ In other words  they will be both directed to the same buttom  calculate my price in 10sec ,Relevant
+ After that  Flora is going to ask the customer for which type of housing they want to be insured  on which floor there are situated  ground floor or 1st floor or more   what is his adresse and how much is his actual rent,Relevant
+ It s only after this step that the customer can decide whether he takes the insurance or not,Relevant
+ If he decides not to take it  then he doesn t have to subscribe and the process stops,Relevant
+ If the customer decides to take the insurance  the process continues,Relevant
+ If he continues  the customer will obtain a communication of the price  the summary of the coverage and the recommended option,Relevant
+ Just after that  he will have a confirmation of wishes,Relevant
+ He will then have to enter his contact details  surname  first name  date of birth  telephone  email  password  and there he will be able to connect to the App,Relevant
+ Flora wil ask him other questions such as  are you already in your house?    are you already insurd for this adress?  If yes  the customer will be asked if he wants to change insurer  prodcedure to change ,Relevant
+ If no  he continues the process as normal,Relevant
+ At the end  the customer will have to choose his payment method,Relevant
+ It is a secure payment,Irrelevant
+ He will receive a payment confirmation and the summary of the price and guarantees,Relevant
+ Everything is done digitally  signature  payment  sending of the general conditions,Irrelevant
+Customer looks in its fridge for what s missing  usually food ,Relevant
+Customer thinks about what he wants to eat,Relevant
+Customer thinks about what his family wants to eat,Relevant
+Customer makes a list of what he has to buy,Relevant
+Customer leaves his house and takes his car to go to the shop,Relevant
+Customer can go to the shop of his choice  Spar or Delhaize,Irrelevant
+Customer parks his car in the car park,Relevant
+Customer put a mask and gets out of his car,Relevant
+Customer takes a caddy,Relevant
+Customer disinfects his hands and his caddy,Relevant
+Customer can use his own disinfectant or shop s disinfectant,Irrelevant
+Customer puts the ingredients on the caddy,Relevant
+Customer goes to the cash register when he has finished his shopping,Relevant
+Customer can go to the self scan or near the cashier,Irrelevant
+Customer scans his shopping or cashier scans the shopping,Relevant
+Customer pays,Relevant
+Customer can pay by cash or card,Irrelevant
+ Preferable by card because of Covid 19 ,Irrelevant
+Customer receives the ticket,Relevant
+Customer puts his groceries in his car,Relevant
+Customer disinfects his hands and removes his mask,Relevant
+Customer goes to his house,Relevant
+Customer puts away his groceries,Relevant
+Customer can store the groceries in the fridge or cupboards,Irrelevant
+Customer disinfects his hands again and the process is finished,Relevant
+Student thinks about a thesis subject,Relevant
+Student chooses a subject,Relevant
+Student sends an email to the teacher he chooses to follow him,Relevant
+Student can use his own email address or school s email address,Irrelevant
+Teacher answers   Positively or not,Relevant
+If it s not positive  student sends emails to other teachers until receiving a positive answer,Relevant
+When he has a positive response  he chooses the correct thesis with this promotor,Relevant
+Student submits his thesis on MyThin,Relevant
+Student begins to redact his thesis with the literary review,Relevant
+Student can use scientific or managerial articles,Irrelevant
+Student writes the questionnaires,Relevant
+Student can use quantitative or qualitative way for the research,Irrelevant
+Student questions his sample ,Relevant
+Student writes his practical side,Relevant
+Student concludes his work,Relevant
+Student has his work reread,Relevant
+Student corrects his thesis,Relevant
+Student deposits his thesis on MathéO and the process is finished,Relevant
+The process starts when a customer arrive in front of the desk of the desk info at MEDIACITE,Relevant
+The employee is notified that there is a client  thanks to a weak audible signal which is not too loud,Relevant
+The customer asks a question about the location of something or someone,Relevant
+The employee checks his database,Relevant
+The employee give an answer and propose the customer a map of the shop,Relevant
+The maps are a useful tool to have every information the customers need,Irrelevant
+The client accepts the map or not,Relevant
+The employee informs the customer that he she can also contact them by e mail or telephone,Relevant
+The employee then invites the customer to leave through the door on the left,Relevant
+The process is finished,Relevant
+The process starts by blocking a date for an evening,Relevant
+ The communication team takes care of posting everything on social networks in order to bring in people,Relevant
+ The ICO SPORT is the best ICO at HEC,Irrelevant
+ The people in charge of this event find the suppliers and place orders in advance,Relevant
+ The other members go shopping for what might be missing,Relevant
+ Some members have a car which is more convenient for shopping,Irrelevant
+ On the day of the party  the leaders have to set up everything,Relevant
+ A few hours before the party starts  the members check that all the equipment is working,Relevant
+ The students arrive at the event and are welcomed by the members,Relevant
+ Members make sure everything runs smoothly and serve the students,Relevant
+ At the agreed time  the members announce the end of the evening and dismiss the students,Relevant
+ Some students always want to stay longer,Irrelevant
+ ICO members tidy up the room and make sure everything is clean,Relevant
+ Process over,Relevant
+ Deliveroo is an online food delivery company  ,Irrelevant
+ The process starts when the customer opens the app website  ,Relevant
+ The customer chooses a restaurant and his food order  ,Relevant
+ For example  cashew chicken in a Chinese restaurant  ,Irrelevant
+ The customer makes an order and pays the restaurant from the app  ,Relevant
+ The order is saved when the payment is received  ,Relevant
+ Meanwhile  the restaurant is notified that an order was made  ,Relevant
+ The restaurant is preparing the order  ,Relevant
+ Meanwhile  delivery man is notified about the delivery order ,Relevant
+  He supports the command when the food is finish  ,Relevant
+ Delivery man have means of transporting the food ,Irrelevant
+then the client is waiting for the delivery   ,Relevant
+ the delivery man supplies with his order,Relevant
+ the customer takes the order and the delivery man go away  ,Relevant
+The process is finished ,Relevant
+ Netflix is an American over the top content platform ,Irrelevant
+  The process starts when the customer opens the app website  ,Relevant
+  The customer creates a Netflix account  ,Relevant
+ The customer chooses his offer  ,Relevant
+ For example  a subscription for 12 months  ,Irrelevant
+ The customer pays  ,Relevant
+ Meanwhile Netflix is notified that a new customer creates an account  ,Relevant
+ Netflix send an email with information about the offer and the invoice  ,Relevant
+ The client opens the email and go to watch a movie  ,Relevant
+ The platform contains a lot of content to satisfy the client   ,Irrelevant
+ The process is finished when the customer closes the app ,Relevant
+The customer calls the bar to make an order,Relevant
+The worker estimates the time needed to prepare the order and communicate it to the client,Relevant
+The worker notes the order on a sheet of paper,Relevant
+The chef takes the appropriate number of pans   1 per order,Relevant
+The chef put the appropriate ingredients in the pans,Relevant
+To make it easier  most recipes differ only by one or two ingredients,Irrelevant
+The chef put the pre prepared pasta in the pans with the ingredients,Relevant
+He can use either pennes  linguinis or raviolis,Irrelevant
+The chef puts the preparation in aluminium boxes,Relevant
+the client comes in to take the order,Relevant
+The client pays,Relevant
+The worker waits for an incoming call,Relevant
+ If the call is in French  the exchange begins,Relevant
+If the call is in Dutch  the worker directly transfers the client,Relevant
+Sometimes  the calls are Dutch ones because someone has wrongly identified the client as French speaking in the database,Irrelevant
+The worker greets the client and asks for the motive of the call,Relevant
+The client tells what the problem is,Relevant
+The worker asks for the client number,Relevant
+If the client does not know where to find the number  the worker asks the client to spell its last name,Relevant
+The worker writes either the number or the name in the program to find the client profile,Relevant
+The worker tries to find the problem on the profile  invoice not received  invoice not paid  too high monthly payment   ,Relevant
+The worker provides the possible solutions to the client,Relevant
+Either the client agrees  and the worker corrects the problem  or the client disagree  and the worker transfers the client to the superior,Relevant
+ A publishing process is recurrent in companies that publish books  newspapers  magazines and digital content,Irrelevant
+ The process starts when the content writer takes up   finishes the first draft of an article,Relevant
+ This draft includes descriptions of any custom images that are to be used in the article,Irrelevant
+ Next  the content writer informs the marketer  editor and designer about the draft,Relevant
+ The marketer gathers influencer contact information  which will be used for advertising once the article is finished,Relevant
+ The draft will be sent to the editor  who proof reads the article and makes points on grammar  style  spelling  etc,Relevant
+ Proof reading includes for example the checking of tenses in use,Irrelevant
+ After the proof reading  the designer starts creating the custom images as asked  in Step 1  and sends them over again to the content writer,Relevant
+ Next  the content writer takes the comments of the editor into consideration  fixes any mistakes and adds the images of the designer to the article,Relevant
+ After this  the content writer sends the article to the SEO expert  who makes sure that the article meets the right optimization best practices and then publishes the article,Relevant
+ The process ends after the marketer used a combination of advertising and email outreach to make sure that the article is read,Relevant
+When an intervention request is made by a customer  the service manager designates a technician to carry out the intervention,Relevant
+ The technician  who performs the intervention  encodes his services on his service sheet  based on the intervention sheet ,Relevant
+ The intervention sheet allows the technician to enter the number of hours he works,Relevant
+ The technician must send the service sheet to the service manager,Relevant
+ The technician starts the intervention on the customer s machine,Relevant
+ If  during the intervention  additional pieces of equipment are required  the technician sends the list of required equipment to the service manager,Relevant
+ Otherwise  the technician continues the intervention and completes it,Relevant
+ The service manager receives the technician s request,Relevant
+ The service manager enters the required additional parts into a software program,Relevant
+ The service manager picks up the necessary additional parts from the warehouse,Relevant
+ The service manager sends the necessary additional parts to the technician,Relevant
+ The technician receives the necessary additional parts,Relevant
+ The technician continues the intervention with the additional parts sent by the service manager,Relevant
+ The technician completes the intervention,Relevant
+Following a sales order  the service manager records a service order number,Relevant
+ The service manager writes the order confirmation,Relevant
+ The service manager completes the order lines with the material required for the service,Relevant
+ The sales prices calculated for machine   installation   packaging   shipping needs to be clearly detailed,Relevant
+ For example  if discount  deduct it from the price of the line s  concerned in the order ,Irrelevant
+ If the service manager has completed and confirmed the order  he enters the intervention in the Intervention Schedule,Relevant
+ The service manager has 5 days to encode the intervention otherwise the customer service sends him a reminder,Relevant
+ Then the service manager makes the necessary reservations for the intervention,Relevant
+ He books the hotel,Relevant
+ He reserves the rental car,Relevant
+ He reserves the flights,Relevant
+ When the reservations are made  the service manager makes sure that the necessary equipment is prepared,Relevant
+ The service manager encodes in the lines of the order the prices related to the above mentioned reservations to be re invoiced,Relevant
+ When the technicians are back  the service manager writes the final invoice according to the order  the intervention sheet  the service sheet,Relevant
+ The service manager sends the invoice to the customer service department,Relevant
+ The customer service receives the final invoice and sends it to the customer,Relevant
+ The order is completed  the process is finished,Relevant
+The process starts when the Nike store register the customer order,Relevant
+Then  the site confirms the product availability ,Relevant
+Then  the site orders products from warehouse,Relevant
+The site fulfills the order,Relevant
+Nike store notifies customer,Relevant
+The customer receives an email ,Relevant
+The Nike store records the transaction ,Relevant
+The site proceeds to the payment ,Relevant
+The customer receives an email,Relevant
+The Nike store redirects the customer to the home page of the site  ,Relevant
+The process starts when the customer calls the pizzeria  ,Relevant
+The cook is notified ,Relevant
+The cook starts searching for the ingredients  ,Relevant
+The customer waits 20 min before receiving the pizza,Relevant
+When the cook is baking the pizza  he is calling Uber Eats at the same time ,Relevant
+Uber eats is notified by the pizzeria to pick up the pizza,Relevant
+Uber Eats delivers the pizza to the customer ,Relevant
+An invoice is generated and given to the customer ,Relevant
+After 20 min the customer comes picks up his pizza ,Relevant
+Finally  the customer eats the pizza  the process is finished ,Relevant
+ The process starts when there is a claim intake received by the insurance s company,Relevant
+ Then the company checks the claim s documents,Relevant
+For example  in case of car accident  people must provide driving license  certificate of insurance  certificate of technical inspection,Irrelevant
+ If all the documents are valid  the claim is registered  otherwise documents are returned to client specifying what he has to provide,Relevant
+ Then the claim is analyzed by the insurers who decide if the claim is accepted or rejected,Relevant
+ If the claim is accepted  the insurers have to investigate its value  if it is rejected  a rejection message is sent to client,Relevant
+For a high value claim  client can expect to receive more money and his claim should be treated as a priority in comparison with low value claim,Irrelevant
+ When the value is determined  the company can calculate the payment amount regarding a scale and notifies the client,Relevant
+ After this  the client has to approve the damage payment or reject it and has to send his decision to the insurance company,Relevant
+ If the damage s estimation is rejected  the insurance company calculates a new amount within 7 days and sends the proposition to the client,Relevant
+ Once the payment s amount is accepted  the company schedules the payment and sends all the information to the client,Relevant
+ At last  the company makes the payment to the client and closes the claim  the process is finished,Relevant
+ The process starts when the accounting manager creates a new job requisition and posts it on the company s site,Relevant
+ Then the candidates apply to this job offer,Relevant
+In the application form  the candidate mentions some personnal information,Relevant
+  for example his name  adress  formation and former job,Irrelevant
+ The HR department receives all the applications of the candidates and registers them,Relevant
+ Then the HR department provides a first list of candidates who could suit to the position to the accounting manager,Relevant
+ The accounting manager selects potential candidates and requests interviews,Relevant
+The criterias of the accounting manager are as follows   he is looking for experienced people  with good knowledge in accounting software and who can speak at least 2 languages,Irrelevant
+The HR department invites candidates for a first interview,Relevant
+ If the candidate responds  the HR department schedules the interview with the accounting manager,Relevant
+ The accounting manager makes the interviews of the candidates,Relevant
+ If a candidate is rejected  the HR department sends him a rejection letter,Relevant
+ If the candidate is accepted  he receives an offer and has one week to respond,Relevant
+ If after one week no response  the company rejects the application and notifies the candidate,Relevant
+ If the candidate responds favorably to the offer  the company sends him a summary and the employment form,Relevant
+ The candidate sends back the employment form completed to the company,Relevant
+ The company hires the candidate,Relevant
+There are many ways to order food  but ordering online is one of the most convenient ways today,Irrelevant
+ When a customer wants to order food  they first need to choose their item,Relevant
+ They  search for their item on the Uber Eats app by typing in the search bar or browsing the displayed restaurants and categories,Relevant
+ The app also displays restaurants with sales and discounts to choose from,Relevant
+ Once the customer has chosen their order  they must add it to the cart,Relevant
+ They may choose to add any special requests for the restaurant along with the order,Relevant
+ Next  they have to confirm the delivery address,Relevant
+ Then the customer moves on to payment,Relevant
+ The app has several alternatives for payment,Irrelevant
+ The customer can pay using credit card  debit card  net banking  payment wallets or cash on delivery,Irrelevant
+ Once they confirm the payment method  the app opens the relevant payment gateway for the required details to be entered,Relevant
+ Once the payment has been confirmed  the customer will be able to track the progress of their delivery on the app,Relevant
+ They will also be able to contact the delivery personnel in case of any queries,Relevant
+ Once the food is delivered  the process ends,Relevant
+Interviews are part of many events and processes,Irrelevant
+ They are used to assess a candidate s skills and abilities for a certain role,Irrelevant
+The process start when a recruiter organizes an interview,Relevant
+Several candidates apply for the job,Relevant
+ The candidate must fill in several information,Relevant
+ The day of the interview  the venue has to be cleaned and organised with enough seating for all members,Relevant
+Due to covid19  proper ventilation have to be set up,Relevant
+ Accessories such as folders  notepads and pens must be provided for the panel and the candidate,Relevant
+ Evaluation forms and questionnaires must be printed for each panel member for the interview process,Relevant
+ Refreshments such as water and light snacks must be set out for everyone in the room,Relevant
+ Once the candidate has arrived at the venue  they come into the room for the interview to begin,Relevant
+The process starts when the truck arrives to the deposit with all the daily packages to be distributed,Relevant
+All the packages are inside containers,Irrelevant
+The truck driver unloads all the containers at the deposit entrance,Relevant
+Then  an employee continually brings all the containers  two by two  to the place where each package will be distributed to the right service,Relevant
+Two employees receipt the containers  open it and display all the different packages on a conveyor belt,Relevant
+Two others employees scan every single package  for tracking purpose ,Relevant
+At the same time  they print and paste a small label with a delivery service number on the package they just scan,Relevant
+A delivery service number regroups all the packages to be distribute in a given area,Relevant
+Then  other employees can sort out each package according to their new delivery service number,Relevant
+There is one or two containers corresponding to each service number,Irrelevant
+Afterwards  once all packages have been laid out  every worker get acknowledge with their personal delivery service number,Relevant
+Every employee loads their respective packages to their delivery van,Relevant
+The process starts when the truck arrives to the deposit with all the daily letters to be distributed,Relevant
+The truck driver unloads all the containers at the deposit entrance,Relevant
+Then  a manager brings all the containers to the corresponding place inside the deposit,Relevant
+The manager then opens it and displays all the blue boxes that were inside the container to the corresponding postman service,Relevant
+The postman then gets all his blue boxes filled with letters and goes to his personal desk,Relevant
+He sorts out all the letters according to his trajectory service,Relevant
+Then  the postman takes the daily ad papers from the manager,Relevant
+He prepares his delivery service by adding the ad papers to the letters,Relevant
+Proceeding this way  the postman will save a lot of time on his delivery service,Irrelevant
+Every employee loads their respective letters and ad papers to their delivery van,Relevant
+Then  every employee leaves the deposit to deliver their letters  to the final customer,Relevant
+Once all the letters have been given  the postman goes back to the deposit and the process is finished,Relevant
+Strategimmo is a real estate company offering a new type of products  tiny houses,Irrelevant
+The process starts when a client asks for information,Relevant
+The sales person fixes a meeting with the client,Relevant
+If the client knows what he wants  he asks for it,Relevant
+The sales person take notes of everything and advises the best choices,Relevant
+A second meeting is then fixed with the client,Relevant
+The sales person asks the architect to develop a plan,Relevant
+An employee provides the 3D plan before the date of the second meeting,Relevant
+Once finished  if the client comes then the client decides whether he approves the plan or not,Relevant
+At the same time  the client pays a deposit,Relevant
+ If the client approves the plan  the good place to build the project is negotiated with the client,Relevant
+ The construction manager handles the supply of the raw materials  he orders them,Relevant
+ In general the workers will not work when it is cold outside,Irrelevant
+ Once the materials are received  the construction starts and the workers build the project,Relevant
+ One of the rules is that the construction site must stay clean all the time,Relevant
+ Once the project finished  the payment is completed by the customer,Irrelevant
+ If the client approves the plan  the good place to build the project is negotiated with the client,Relevant
+ The project has been built by a dozen of workers,Irrelevant
+ If the customer does not know what he wants  a sales person takes in charge the customer and provides the different possibilities available  a swimming pool  a gym or a home,Relevant
+ The customer makes his choice if he likes one project,Relevant
+ Once the choice is made  the client goes to the number 4,Relevant
+ If not the process is over,Relevant
+Kinepolis is a company that owns several cinemas in Belgium which present all the new famous movies,Irrelevant
+The process starts when a customer enters the cinema and decides to watch a movie,Relevant
+He orders a ticket to an employee at the checkout directly,Relevant
+When he goes to the employee  the employee asks how many tickets are needed,Relevant
+Then the employee proposes different 3 types of tickets  normal  students or senior tickets,Relevant
+The different types of tickets allow people to pay a reduced amount in function of their status,Irrelevant
+The employee will ask for an identity card if there is a senior ticket asked,Relevant
+The employee will ask for a student card if there is a student ticket asked,Relevant
+If the documents provided are appropriate then the employee prints the tickets,Relevant
+ If the documents provided are not appropriate then the tickets are changed to normal tickets and are printed,Relevant
+ Once the tickets printed  the employee asks for a payment by card or in cash,Relevant
+ The color of the tickets are white and blue,Irrelevant
+ If the payment is in cash  the employee has to count for the right amount once the cash is collected,Relevant
+He will give back the change if necessary,Relevant
+If the payment is by card  the employee writes the amount on the machine and presents it to the client,Relevant
+In Belgium  it is mandatory to propose the payment by card in any shop,Irrelevant
+Once the payment is accepted  the employee gives the tickets and shows where the customer should go,Relevant
+This ends the process,Relevant
+The process starts when the librarian receives the request for a book from the student,Relevant
+The librarian sends back an acknowledgement of receipt,Relevant
+The librarian checks the status of the book,Relevant
+The book is available  the librarian sends an email to the student and gives him her 2 days to pick up the book and asks for a confirmation in return of this email indicating the day and time of his her visit,Relevant
+The librarian receives the confirmation email from the student and makes a textbook loan agreement in which the date of return of the book is mentioned,Relevant
+The student picks up the book and signs and dates it  the process stops,Relevant
+If the student has not sent a confirmation email and has not picked up the book  the librarian sends a reminder email and gives him her another 3 days  if within 3 days the student confirms and picks up the book  the process ends  if the student does not send the email and does not pick up the book  the process also ends,Relevant
+The book is not available and the university will be in possession of it at any moment  the librarian mails to say that the book is not available and asks him to wait for 3 weeks,Relevant
+The student maintains the request by sending a confirmation email  and the process resumes at step 2 after 3 weeks,Relevant
+If the book is in decline the librarian emails the student to notify him her that the book is in decline and the process ends,Relevant
+The Grignoux is a non profit organisation in Liège that promotes and exhibits cinematographic films  ,Irrelevant
+The process starts when the cinema team puts the catalogue of shows online ,Relevant
+The customer requests tickets for a film show ,Relevant
+The cinema team checks the system for availability ,Relevant
+The ticket is not available  the team informs the customer that the tickets are not available and the process ends ,Relevant
+The ticket is there and the available seats are displayed on the screen for customer selection ,Relevant
+The customer selects the seat ,Relevant
+The team confirms the seat and informs the amount due ,Relevant
+The customer makes the payment ,Relevant
+The team prints the ticket and gives it to the customer ,Relevant
+The customer receives the ticket from the cinema and the process is finished ,Relevant
+The process starts when a customer enters in the restaurant,Relevant
+The student has to welcome him and asks for how many people they are,Relevant
+Then  he accompanies the customer to a table,Relevant
+The student gives the restaurant menu and ask if they will eat or just drink,Relevant
+In the menu  there are pasta  burgers and salad,Irrelevant
+When he sees they have chosen  he comes back to the table and takes the order,Relevant
+After  the student gives the order to the barman and to the cook,Relevant
+When the drinks are ready   he brings it to the table,Relevant
+When the meals are ready  he brings it to the table,Relevant
+When they have finished to eat  the student brings back the dishes,Relevant
+Finally  he asks if they want the bill  ,Relevant
+If no  he waits a little bit until they ask the bill  If yes  he brings the bill to the table ,Relevant
+The process is finished when the customer pays and leaves the restaurant  ,Relevant
+ The process starts when I go to the app to order a meal ,Relevant
+I choose what I want to eat and I pay online with my card,Relevant
+For example  I often choose a pizza or a burger at  The Huggy s bar ,Irrelevant
+When it is paid  Takeway and the restaurant receive a notification of the order,Relevant
+The restaurant prepares the meal during the delivery man rides his bike to the restaurant ,Relevant
+During this time  I watch Netflix ,Relevant
+If it is ready  the delivery man enters in the restaurant and picks up the meal ,Relevant
+If it is not ready  he has to wait a little bit,Relevant
+After  he rides his bike to the address indicated on his smartphone,Relevant
+When he arrives in front of my house  he rings the doorbell,Relevant
+I come to open the door and he gives me the meal  ,Relevant
+The process is finished ,Relevant
+Zalando is an online clothing store that includes several brands,Irrelevant
+This website was created in 2008,Irrelevant
+ The process starts when a customer order clothes or accessories online on the website,Relevant
+ The customer puts clothes accessories in his cart,Relevant
+ For example  a little black dress and a pair of shoes,Irrelevant
+The customer confirms his cart and is redirected to the connexion page,Relevant
+The customer has to create an account on the website in order to enter his personal information or to connect himself to an account already created,Relevant
+Zalando sends an email to the customer to confirm his account,Relevant
+The customer chooses to receive his order at home or in a relay point,Relevant
+The customer has to confirm his delivery and billing address,Relevant
+Then the customer is redirected to a payment page where he can choose what kind of payment he prefers  Bancontact  Invoice  Credit Card  PayPal,Relevant
+After the payment  the order is confirmed and sent as soon as possible,Relevant
+In the Zalando sheds  employees prepare the order and pack it,Relevant
+They then pass the package on to their carrier,Relevant
+The best carriers are DPD and BPost,Irrelevant
+The carrier delivers the package to the client,Relevant
+The customer takes his order and then the process is finished,Relevant
+Page 111 is a stationary store and bookstore located in the shopping center Crescend eau in Verviers  next to the Decathlon store,Irrelevant
+The process starts when a customer enters the shop,Relevant
+The customer chooses the items he needs,Relevant
+For example  a pad of paper and a book about the economy,Irrelevant
+A saleswoman from the store goes to meet him to ask him if he needs help,Relevant
+The customer asks for information,Relevant
+The saleswoman answers him and helps him to choose the best articles,Relevant
+The saleswomen are very versatile and know the store inside and out,Irrelevant
+The customer then goes to the cashier,Relevant
+The saleswoman scans the items and tells him the total amount to pay,Relevant
+Then  the customer pays  and he can choose to pay in several ways  Bancontact  Credit Card  Cash,Relevant
+Page 111 receives the payment,Relevant
+The saleswoman packs the items and gives the bag to the customer,Relevant
+The customer takes his bag and leaves the store,Relevant
+The process is finished,Relevant
+HEC Consulting is a junior enterprise specialized in marketing and market research ,Irrelevant
+The process starts when HEC Consulting publishes its announcement for recruitment ,Relevant
+This announcement contains for instance the deadlines and steps coming in the next weeks ,Irrelevant
+Interested students first have to send to a representative their CV and cover letter by mail ,Relevant
+Then  students receive a mail with several possibilities of dates to pass their first round ,Relevant
+Students respond to the mail with their selected date of choice ,Relevant
+On the selected due date  students go to HEC to be evaluated by some of HEC Consulting representatives ,Relevant
+A few days after the interview  HEC Consulting representatives call the students back to inform them if they are selected or not for round 2 ,Relevant
+After the call  selected students have to choose another date for the second round ,Relevant
+On the selected due date  students go to HEC to be evaluated by cracking case studies ,Relevant
+A few days after this round  HEC Consulting representatives call students to give them feedback about them being recruited or not  the process is then finished ,Relevant
+The process starts by buying the ingredients at the store ,Relevant
+For this recipe  some details can vary a little bit depending on the people taste ,Irrelevant
+When the ingredients are bought  you wash the vegetables before cooking them ,Relevant
+You cut the onions and tomatoes into small pieces ,Relevant
+You put olive oil in the pan and fry the onions ,Relevant
+Meanwhile  you start boiling water for pasta in a casserole  ,Relevant
+When the onions are fried  put the tomatoes and ricotta into the pan ,Relevant
+Then  you put spices into the mixture ,Relevant
+For example  you can use salt  pepper  basil and chili as sorts of spices ,Irrelevant
+When the water boils  you put the pasta in it ,Relevant
+When the pasta is cooked  you drain the water from it ,Relevant
+Finally  pour the pasta into the sauce in the pan  the process is finished ,Relevant
+The process starts when a customer sends an e mail with some documents in order to have the free item ,Relevant
+The customer service department check the validity of the different documents ,Relevant
+If the documents are valid  the stock of the free product must be checked ,Relevant
+If the product is still available  an email must be sent to the customer to indicate that he can take advantage of the offer and ask for his contact information ,Relevant
+Once the customer s contact information is received  the request should be sent to the human resources department ,Relevant
+It is then necessary to collect the product from the storage warehouse ,Relevant
+Once the product has been found  it has to be packed and the customer s contact information has to be entered ,Relevant
+The customer service department must then send an email to the customer to say that the product will be shipped ,Relevant
+The product is shipped ,Relevant
+The customer service sends an email to the customer to get a return on the product and gather the results  The process is finished ,Relevant
+The process starts when a customer makes an order on the website ,Relevant
+The employees in the warehouse receive the order form ,Relevant
+The employee  who receives the order looks at the location of the different items ,Relevant
+The employee will look for the different items in the warehouse ,Relevant
+The employee scans the items ,Relevant
+The employee verifies the order  packs the items  places the invoice  and sticks a label with the customer s address ,Relevant
+The packaged order is then put into a printer with the other orders ,Relevant
+All orders are then sent to a delivery person ,Relevant
+The delivery man brings the order to the customer ,Relevant
+The customer must sign the order form and the process is finished ,Relevant
+ The process starts when a customer goes on the merchant s website,Relevant
+ The customer navigate trough the website and chooses the products he will buy,Relevant
+ For example  a pair of shoes or a t shirt,Irrelevant
+ The platform automatically put these products into the buyer s basket,Relevant
+ The buyer validates his order,Relevant
+ The platform notifies the order to the store and give the customer an order number,Relevant
+ The notification is sent instantly via a computer system that the merchant uses,Relevant
+ A salesperson prepare the order in store,Relevant
+ The customer goes to the physical store,Relevant
+ The buyer communicates his order number to the salesperson,Relevant
+ The customer pays his order by card or by cash,Relevant
+ The process ends when the customer has paid and collected his order,Relevant
+ Boeuf Bourguignon is a great classic of french cuisine,Irrelevant
+ The process starts with the cutting of the meat into large cubes,Relevant
+ Then  cut the vegetables into small pieces,Relevant
+ The basic vegetables of Boeuf Bourguignon are onions  carrots and celery,Irrelevant
+ Sear the meat in a casserole dish,Relevant
+ Add the vegetables,Relevant
+ Stir and let cook for 5 minutes,Relevant
+ Then  add some flour,Relevant
+ The flour is a good ingredient ,Irrelevant
+ Add one bottle of red wine and some beef stock,Relevant
+ Put the casserole in the oven for two hours at 160 degree celsius,Relevant
+ Meanwhile  cook some mushrooms and some bacon in a pan,Relevant
+ After two hours  add the mushrooms and the bacon to the preparation,Relevant
+ Then  reduce the sauce over low heat for 20 minutes,Relevant
+ The process ends when the meat is tender and the sauce is thickened,Relevant
+ Boeuf Bourguignon is usually eaten with potatoes and caramelized onions,Irrelevant
+Vinted is an online platform with more than 30 million users where people can buy and sell used clothing,Irrelevant
+ The process starts when the seller s wardrobe is overflowing,Relevant
+ The seller then puts the items he wants for sale on the platform,Relevant
+ The offer issued contains all kinds of information such as size  condition  brand  color  etc,Irrelevant
+ Then  when a buyer wants to buy the item put online  there are two possibilities  either  he makes an offer to the seller for a lower price or  he buys the item at the price displayed in the ad,Relevant
+ In the first case  the seller has the choice to accept or refuse the offer,Relevant
+ If he refuses it  either the buyer or the seller can repeat another offer  or nothing happens and the process ends,Relevant
+ If the seller accepts the offer or if the buyer buys the suit directly without making an offer  the money is transferred to the seller s online wallet and is blocked there,Relevant
+ Then the seller receives a prepaid packing slip from Vinted,Relevant
+ On this prepaid packing slip are mentioned the address of the buyer and the seller  the maximum weight of the package  etc,Irrelevant
+ The seller has to pack the garment and stick this packing slip on it,Relevant
+ The seller must then bring the package to a relay point within 5 days  otherwise the order is cancelled and the buyer is refunded,Relevant
+ At this point  the buyer receives a notification and a letter informing him that the package is on its way,Relevant
+ It takes between 3 and 5 days for the package to arrive at its final destination  another relay point ,Relevant
+ Once the package has arrived  both the buyer and the seller receive a notification that the package has arrived,Relevant
+ The buyer must then pick it up within 7 to 14 days and confirm that everything is in order with the purchase within 4 days,Relevant
+ If the buyer does not pick up the package within this period  the package is returned by the relay point to the addressee  after that  the order is cancelled and the buyer is refunded,Relevant
+ If the buyer does not respect the deadline to confirm that everything is ok  the seller automatically receives the money without the seller being able to contest  and the order is then closed,Relevant
+ When the confirmation from the buyer is positive  the seller receives the money in his online wallet and the order is closed,Relevant
+ When this confirmation is negative  a dispute is opened by the buyer and the users then try to negotiate amicably,Relevant
+ If they do not manage to find an agreement  they ask for Vinted s help which will decide and close the order,Irrelevant
+VD Horeca is a food wholesaler that supplies both private individuals and professionals,Irrelevant
+ Both can order on the Webshop but only professionals can have the goods delivered,Irrelevant
+ The process starts when someone  professional or private  finishes his order on the Webshop and validates it,Relevant
+ At that moment  a secretary from the administrative department receives a notification on the screen that an order has just been added to the Webshop,Relevant
+ This secretary must then notify a storekeeper by phone so that he can prepare this order,Relevant
+ If it is an order for a professional  the order is prepared on a pallet,Relevant
+ If it is for a private individual  the order is prepared on a cart,Relevant
+ The order can contain all kinds of products  drinks  fruit and vegetables  frozen products  preserves  etc,Irrelevant
+ Once this order is completed and closed by the warehouse clerk  the order form is printed directly via the printer in the administrative department,Relevant
+ If it is for a professional customer  the goods will be delivered the next day and the pallet is then stored in the warehouse,Relevant
+ Deliveries start from 3am,Irrelevant
+ If it s for a private individual  his cart is put at the entrance of the store in the fridge with his name on it,Relevant
+ When the customer comes to pick up his order  the customer takes his cart and goes to the checkout to pay for his order  which completes the process,Relevant
+ If the customer has not picked up his order within 3 days  the goods are put back on the shelf by a storekeeper and the order is cancelled,Relevant
+ For deliveries  the driver leaves with the merchandise in the morning and drops it off at the customer s place with a delivery slip,Relevant
+ When he comes back to the warehouse and confirms that everything has been deposited  the administrative department issues the invoice and sends it by mail courier to the customer,Relevant
+ The customer pays into the account or in cash to the driver at the next delivery and the order is then closed,Relevant
+Zara is a well known brand of the fashion industry and has a website for online shopping,Irrelevant
+ The process starts when the customer enters the Zara website,Relevant
+ He can choose which type of item he is interested in,Relevant
+ For example accessories  skirts  trousers  etc,Irrelevant
+ He is in front of all the articles of this category and he clicks on the ones he is interested in to have a better view of them,Relevant
+ If he likes the item  he clicks on  add to cart ,Relevant
+ Once he has clicked  he will have to select the size in which he wants the item,Relevant
+ At that time  the item will be added to the shopping cart,Relevant
+ He can repeat the process with each item he is interested in,Relevant
+ One his selection is over  he clicks on  view cart  and he will have an overview of all selected items,Relevant
+ Then you click on  continue ,Relevant
+ The site asks him to identify himself  either he already has an account and he puts his login and password  or he has to register on the site,Relevant
+ For example  to register  it is necessary to give information such as name  first name  address and email,Irrelevant
+ Once the information has been registered  the site asks him to choose a delivery method,Relevant
+ He choose between home delivery  free of charge for orders over 50€  or free in store delivery to the shop of his choice,Relevant
+ Then he has to select a payment method from several options,Relevant
+ Depending on the payment method chosen  he must provide the required payment information,Relevant
+ Once payment is received  he will first receive a confirmation on the site with a summary of his order and an estimate of the expected delivery date,Relevant
+ Finally  he will receive the confirmation by email and the process is complete,Relevant
+Huggy s bar is a well known burger restaurant,Irrelevant
+ The process starts when he enters the restaurant website,Relevant
+ He is on the home page and clicks on the  reservation  button,Relevant
+ The first step is to choose in which restaurant he wants to eat,Relevant
+ Then he must select whether he wants to come for lunch or dinner  the number of people and the type of table he wants,Relevant
+ For example  normal table  terrace  bar  etc,Irrelevant
+ All the dates meeting the criteria will be proposed and the client will have to choose the day he wishes to come,Relevant
+ Once the date has been selected  all the available times that meet the criteria will be proposed and the client will have to choose the time he wishes to come,Relevant
+ Then he will have to give personal information to complete the booking such as his name  surname  address  email and telephone number,Relevant
+ To continue the process  the client must accept the site s privacy policy,Relevant
+ Afterwards  a recap of the booking is indicated and the customer must indicate whether they wish to order  challenge burgers  or gluten free burgers,Relevant
+ There is also a  remarks  section,Irrelevant
+ Then the customer  clicks on  confirm appointment ,Relevant
+ A confirmation of the booking will be sent by email and the process is completed,Relevant
+RedPharma is a company that installs marketing for laboratories inside pharmacies,Irrelevant
+The process starts when RedPharma receives a demand from a laboratory,Relevant
+RedPharma checks if they are already working with a competitor,Relevant
+If so  RedPharma informs the client and continues the process,Relevant
+ If not  RedPharma continues the process,Relevant
+RedPharma analyses the laboratory s situation ,Relevant
+RedPharma sends the best marketing strategy for the laboratory s situation,Relevant
+For example  the services data  consultancy  or digital solutions,Irrelevant
+If the laboratory refuses the offer  RedPharma analyses the laboratory s situation again and sends another marketing strategy,Relevant
+ If the laboratory keeps refusing it  the process ends,Relevant
+ If the laboratory accepts the offer  RedPharma sends its sales force to the pharmacy ,Relevant
+The sales force discusses the deal with the pharmacy ,Relevant
+The pharmacy gives a date for installing the marketing facilities inside their building,Relevant
+RedPharma signs a contract with the laboratory ,Relevant
+RedPharma installs the marketing facilities on the due date and the process finishes,Relevant
+The Management Information Systems is a class at HEC  which is about Business Process  and ERP,Irrelevant
+The process starts when the student is given the homework,Relevant
+The student opens a new word document ,Relevant
+If the student hesitates  they look at the PowerPoint until they understand what to do,Relevant
+ If they know what to do  they begin to write down the business process ,Relevant
+The student saves the word document ,Relevant
+The student uploads the document on the Lol@ platform,Relevant
+If there is no document submitted  the teacher gives the grade of 0,Relevant
+ If there is a document  the teacher opens the document,Relevant
+The teacher corrects the document,Relevant
+The teacher grades the homework,Relevant
+For example  a note from 0 to 1 out of 1,Irrelevant
+The process finishes when the student receives the grading,Relevant
+Esprit is a clothing brand and has many shops across Europe,Irrelevant
+When a customer wants a cannot find their size in the store the employee checks the availability on the Omnichannel app,Relevant
+If the size is in stock and the employee brings is to the customer  if not  the employee checks the availability of the item online,Relevant
+If the size is not available anymore  the employee tells the client  if it is available  the employee offers to order it for the client,Relevant
+If it is not available anymore  the employee tries to find a replacement in the shop,Relevant
+To order  the employee asks if the client has the  Esprit Friends  card to have all the information needed,Relevant
+If the client has it  they give it the employee  or they look for it in the file   if not  the employee asks a serie of questions  address  name  email  etc  ,Relevant
+The esprit Friend card has three categories   classic  gold and platinum  the more the clients buy  the more advantages and voucher they can get,Irrelevant
+Once the client has given the information or their card  the employee order the item on the app,Relevant
+The order will be process in the 3 to 5 days in the facility,Relevant
+The order is delivered in the shop,Relevant
+The client comes to pick up their order,Relevant
+Zalando Lounge is an outlet platform organizing sales on a few periods for specific brand items,Irrelevant
+You have to be registered with an account to access those sales,Irrelevant
+When a sale occurs  Zalando lounge displays the list of items for a limited time  3 to 5 days  with the prices  the reduction and the sizes colors available ,Relevant
+The customer makes a basket with the items they want,Relevant
+Customer can make one order from multiple sales  different brand for exemple   they will pay the transport fees only once,Irrelevant
+The basket is available 20 minutes  the clothes are booked during this time  each time something is added to the basket  the countdown is back at 20 minutes,Relevant
+Once the client has chosen all the items  they need to process to the payment,Relevant
+They choose a payment method and they get a confirmation once it s done,Relevant
+An email of confirmation is sent to the client,Relevant
+Once the sale is over  Zalando need to order the items to the brand  they orders may be dispatched with a delay to the customer,Relevant
+The returns are free if the customer wants to send back items,Irrelevant
+Once Zalando has received the merchandise from the supplier  they pack the order and send them to the clients,Relevant
+The client receives an email to warn them when their order has been sent,Relevant
+The client confirms the reception of the order,Relevant
+ The process start with the periodic verification of stock levels by the stock controller  ,Relevant
+ After stock levels has being verified by to stock controller  there are 2 possibilities  ,Irrelevant
+ Either there is still enough stock to hold for the specific period of 1 month or it is realized that they are already beneath the safety stock levels  ,Irrelevant
+ When the stock is under the stock level a memo is send simultaneously to the purchasing and sale department to inform respectively of the need of passing a new command and for the showroom to precise the requirement to take in terms of customers  demands  ,Relevant
+ The purchasing department dress a list of materials to be command and send it to the finance department for treasury verification  ,Relevant
+ After verifying the available cash in treasury  the financial department has 2 possibilities  ,Irrelevant
+ If there is enough liquidity to support the operation  the finance department sends a note to the purchasing department validating the process or  ,Relevant
+ If there is not enough liquidity to support the operation  the finance department sends a memo to the audit department for further analysis and validation of the treasury replenishing  ,Relevant
+ After the operation of analysis has being done  the audit department sends a note to the finance department to replenish the treasury and the finance department send a note to the purchasing department after validating the process  ,Relevant
+ Then an order is past to various suppliers in the data base for proforma  ,Relevant
+ When all suppliers have send their proforma  the purchasing department receives it and choices the least economic cost  ,Relevant
+ The purchasing department sends a copy of the least cost proforma to the finance department for the advanced settlement ,Relevant
+ After choosing the least cost within suppliers  the purchasing department validates the order to the lucky supplier and waits 2 week for the delivery to be received ,Relevant
+ A receipt note is send to the supplier by the purchasing department and  ,Relevant
+ The finance department finalizes the settlement of the remaining debt after confirmation of the receipt by the stock department ,Relevant
+ The process start with the Control department checking employees presence  ,Relevant
+ After employees presence  task done is verified by the Control department  ,Relevant
+ The Control department dress a document then shift it to the human resource department for provision of personnel expenses  ,Relevant
+ After the human resource department has prepared the available requirements for employees document they sends provisions to the finance department for treasury verification ,Relevant
+ After verification from the finance department there are 2 possibilities  either there is enough funds for the operation or not  ,Irrelevant
+ If there is enough liquidity to support the operation  the finance department sends a note to the human resource department validating the process or  ,Relevant
+ If there not enough liquidity to support the operation  the finance department sends a memo to the audit department for further analysis and validation of the treasury replenishing  ,Relevant
+ After the operation of analysis has being done by the audit department  they sends a note to the finance department to replenish the treasury and the finance department send a note to the human resource department while preparing the required payment elements  ,Relevant
+ The human resource then prepare public tax declarations and employees net salaries  ,Relevant
+ After details has being made the human resource department finally transmits detailed documents to the Finance department  ,Relevant
+ The finance department after receiving the documents starts by paying public taxes and messages are sent to employees 2 days after informing the beginning of the regularization of their situation,Relevant
+ Tunisie Silicone is implemented in Monastir  Tunisia   mainly specialised in producing silicone baby bottles  ,Irrelevant
+ It is the first Tunisian company to offer a 100% made in Tunisia silicone baby bottle  ,Irrelevant
+ The process begins when a pharmacy orders a defined quantity of baby bottles from the commercial team of Tunisie Silicone  ,Relevant
+ Commercial team calls the client to get more information  ,Relevant
+ For instance  they need to get the address  the city  the phone number and email address  the quantity and the type of the baby bottles  payment method  ,Irrelevant
+ Client pays a certain amount of money in advance  proportional to its order s quantity  ,Relevant
+ Then  the commercial team notifies the warehouse about the needed quantity of baby bottles for the client  ,Relevant
+ The warehouse notifies the factory of Tunisie Silicone about the quantity that will be delivered  ,Relevant
+ The warehouse prepares the order  ,Relevant
+ When the order is ready  the warehouse notifies the commercial team and proceeds with delivery  ,Relevant
+ The commercial team contacts the client and gives him details about delivery time and date  ,Relevant
+ Meanwhile  the manufactory starts to produce baby bottles to cover the inventory s variation  ,Relevant
+ When the production is ready  the manufactory notifies and delivers the produced bottles to the warehouse  ,Relevant
+ Client receives his order and pays the rest of the amount du  the process is achieved,Relevant
+The process starts when farmers Plucking and opening the Pods ,Relevant
+cocoa beans are being  fermented for two weeks,Relevant
+The seeds are  spread out for  drying  ,Relevant
+then  loaded and arranged in bags or containers ready for   transportation ,Relevant
+Once  dried and roasted  Cocoa beans are ready to be refined into chocolate,Relevant
+manufacturing processes differ slightly due to the different species     of cocoa trees ,Irrelevant
+Roasting and Winnowing the Cocoa,Relevant
+Grinding the Cocoa Nibs,Relevant
+Blending Cocoa liquor and molding Chocolate,Relevant
+basic blends in order of highest quantity  milk chocolate   white      chocolate and dark chocolate ,Irrelevant
+Cocoa beans as chocolate now is ready for consumption   the process is finished ,Relevant
+The process begins when a person call the doctor becase he has all the Covid symptoms ,Relevant
+The doctor informs the patient about all hygine rules  ,Relevant
+Note that hygine rules includes practicing social distancing by staying in a room  Wash your hands often  Cough into a tissue that you throw away   Clean frequently touched surfaces several times every  day  ,Irrelevant
+The doctor recomands   don t share personal items  and  limit contact with pets while sick   ,Relevant
+The patient takes a fever reducer  usually recommended  are Acetaminophen and  ibuprofen ,Relevant
+The doctor advise the patient to dring salt water as it  helps for the  sore throat  ,Relevant
+The patient asks a relative to go to the pharmacy buying some drugs,Relevant
+If the symptoms become severe  the patient calls your doctor  or go to the hospital ,Relevant
+If the symptoms are acceptable  the patient stay in deb and have a nap,Relevant
+The well known clothing store ZARA only offered an online shopping service during the COVID 19 pandemic,Irrelevant
+ The process starts when a customer places an order on the website of ZARA and ZARA receives this order,Relevant
+ Then  ZARA checks the stock,Relevant
+ If items are no longer available  an email will be sent to the customer that these items will not be included in the order,Relevant
+ In case all items are not available  the order will be cancelled,Relevant
+ When the order is cancelled  the customer is notified,Relevant
+ The other items that are available will be packed and shipped by ZARA,Relevant
+ The customer will be notified that the order is on its way  with a track   trace code,Relevant
+ The track   trace could be 151343154RTY,Irrelevant
+ In addition  an invoice is sent to be paid within 14 days once the order is received by the customer,Relevant
+ The customer receives the order,Relevant
+ On the day that the order is received the customer tries on the clothes,Relevant
+If  The customer is not satisfied with the whole order  he registers a return,Relevant
+ ZARA receives the request to return the whole order and approves it,Relevant
+ Then  ZARA sends a return label,Relevant
+ The customer receives the approval of the return request and the return label,Relevant
+ Then  the customer prepares the package to be send back,Relevant
+ The customer sends the order back,Relevant
+ Then  ZARA receives the returned order,Relevant
+ ZARA checks if the returned order is complete,Relevant
+ The returned order is complete  thus  ZARA sends a confirmation email that the returned order is received,Relevant
+ In addition  ZARA sends an email correcting the balance due to zero for the customer  the process is finished,Relevant
+The process starts when a client is referred to an eye doctor by the general practitioner,Relevant
+ The assistants of the general practitioner prepare the paperwork,Relevant
+ To prepare the paperwork  the assistant uses a software called SAP,Irrelevant
+ Once the paperwork is ready  it is sent to the eye department in the hospital,Relevant
+ The eye department reviews the paperwork to schedule an appointment,Relevant
+ The appointment is scheduled based on the availability of the doctor,Relevant
+ The availability of the doctor is checked by the eye department,Relevant
+ The eye department plans an appointment,Relevant
+ The appointment is sent to the client s home address through the mail,Relevant
+ The client receives the invite for the appointment,Relevant
+ The client approves the appointment by calling the eye department,Relevant
+ The eye department receives the phone call with the approval of the appointment  the process is finished,Relevant
+Takeway is a delivery company,Irrelevant
+ The process starts when the deliverer receive a notification of an order however depending on the distance of the restaurant due to competition with others deliverer  he she will know if he she will be able to confirm the order,Relevant
+Each deliverer chooses a spot in front of a specific restaurant to minimize the travelling time distance,Relevant
+ In case the deliverer is able to take the order  he she must scan with his her mobile the delivery code given otherwise in case of a mistake by the hangling in the restaurant  the deliver will be responsable,Relevant
+ To access the customer s destination  deliverer can use all transport method such bike  car  motorcycle  scooter as long it is efficient to minimize the time as much as possible,Irrelevant
+ While reaching its destination  the deliverer must respect traffic regulations for his her and the public s safety,Irrelevant
+ Arriving at destination  the deliverer follows the instruction given  if there is any  ,Relevant
+ For example  if customer want to be contacted by a call   the deliverer must call,Irrelevant
+ If customer want its order to be put in a specific place  the deliverer must act so,Relevant
+ In the case the delivery adress is incorrect   the deliverer must call the customer however if the phone number is also inaccurate  then the deliverer must contact its operator in order to reach the client with furher infomation in their system,Relevant
+ The employer of the deliverer is not the retaurant but the takeway operator,Irrelevant
+When the customer takes his her order  the process is finished and can be redone with another orders,Relevant
+The WCO is a system of import controls  Import Control System  ICS   which aims to secure the flow of goods at the time of their entry into the customs territory of the EU,Irrelevant
+ This control system is part of the Community Programme eCustoms  which requires operators to pass an Entry Summary Declaration  ENS  to the customs of the country of entry  prior to the introduction of goods into the customs territory of the European Union,Irrelevant
+Therefore   the process starts when the operator sends an ENS to the customs which must be send before the arrival of the goods in European customs union,Relevant
+ In order to get exhaustive regulations and custom tariffs rates regarding their products  operator refer to the TARIC code and its database  which includes all applicable customs duties and all customs trade policy measures for all goods,Relevant
+ When the goods arrive by any kind of freight such as train  sea  air  the customs must check physically the goods before it realease,Relevant
+ To do so  operator are informed by email which sample of goods customs must verify based on the ENS and the hour gap when customs will come ,Relevant
+ Consequently  operator prepares the batch otherwise a penalty will be given therefore the warehouse staff is ordered to pull every goods needed and attach all the suitable documents ,Relevant
+Then  certain goods are pulled over ,Relevant
+ The control can lead to 2 results,Irrelevant
+ Customs can either seal an apporval or reject the declaration and keep the good,Relevant
+ In this latter  the operator need to modify the declaration and pay more customs fees or send back the goods,Relevant
+Serviplast is a construction company offering various services including the installation of paving stones  sidewalks  terraces      the waterproofing of houses ,Irrelevant
+the process begins when a potential customer calls to make an appointment,Relevant
+a secretary processes the request ,Relevant
+the client explains the reason for the work he wishes to carry out,Relevant
+for example for the realization of a terrace or the waterproofing of the house ,Irrelevant
+the secretary sets an appointment with the competent salesperson,Relevant
+on the day of the appointment  the client explains his needs and what he would like,Relevant
+For example  the customer will be able to say  I want a paved terrace with stairs to go to the garden,Irrelevant
+the representative takes action and offers solutions to the client,Relevant
+If the customer is interested  the representative will send a quote within 10 working days,Relevant
+Once the quote has been received  the customer has 3 months to accept  modify or refuse the offer,Relevant
+Once the file is complete  the client and the representative set a date for the site ,Relevant
+before starting the work  the customer must pay a deposit no more than 15 days before the start of the work,Relevant
+on the first day of work  all machines are brought to the site,Relevant
+seriplast has all the machines necessary for the realization of the works,Irrelevant
+At the end of the work  a manager comes to check the work,Relevant
+the customer can make his remarks if he has any and modifications can be made if necessary,Relevant
+The customer pays the balance once the latter is satisfied with the site,Relevant
+Giorgi is a pizzeria that also offers take out,Irrelevant
+the process begins when a customer calls to place an order,Relevant
+An employee picks up the phone and asks for the order,Relevant
+the customer places an order by phone,Relevant
+for example 2 margherita pizzas and pasta Bolognese,Irrelevant
+the employee informs the customer of the time at which they can pick up their order,Relevant
+the cooks prepare the order in the kitchen  cooking pasta  topping pizzas ,Relevant
+Giorgi s kitchen contain all the necessary equipment for the preparation ,Irrelevant
+When the time comes  the customer goes to the counter and notifies his presence,Relevant
+An employee then prepares his bill,Relevant
+the customer pays either by cash or by card,Relevant
+once the payment is made  the customer takes receipt of his order,Relevant
+the customer then leaves the establishment and goes home with his order,Relevant
+The Forestia animal park is located in the municipality of Theux in Belgium ,Irrelevant
+The process starts when a customer arrives at the car park and gets into the queue  ,Relevant
+As soon as one of the three reception counters is free  the customer goes to one of them  ,Relevant
+The receptionist asks the customer whether he wants a ticket only for the animal park or for both the animal park and the adventure park  ,Relevant
+The customer must also specify how many tickets he would like  ,Relevant
+The receptionist enters the customer s data into the computer ,Relevant
+The customer pays for the tickets in cash or by card ,Relevant
+ The receptionist prints out the tickets  distributes a map of the park and answers the customer s questions ,Relevant
+The client then visits the animal park ,Relevant
+He can for example see bears  wolves and deer  ,Irrelevant
+If he has chosen the additional option of the adventure park  he go to the entrance and shows his ticket to the students  ,Relevant
+If the ticket shows that the customer has paid for the adventure park  the student opens the access ,Relevant
+The client receives a quick safety training and all the necessary equipment and can then access the different courses according to their size and age  ,Relevant
+Several students are present on the site  ,Irrelevant
+When the visit is over and no later than 6pm  the process stops and the client leaves the park  ,Relevant
+Forestia s kitchen is located between the car park and the restaurant  ,Irrelevant
+The process begins when an order is received in the kitchen ,Relevant
+For example  two hamburgers with French fries and salad   ,Irrelevant
+The chef receives the order and divides the tasks among the students present  ,Relevant
+The students get the necessary ingredients in the cold room  ,Relevant
+The ingredients are always available in sufficient quantity in the cold room  ,Irrelevant
+While the chef takes care of the meat cooking  the students cook the French fries and take a bowl of salad out of the fridge ,Relevant
+When everything is ready  the plate is prepared and sent to the dining room  ,Relevant
+When the customer finished eating  the waiter takes the plate back to the kitchen ,Relevant
+A student does the dishes  ,Relevant
+Meanwhile  another student cleans the kitchen ,Relevant
+When these two tasks are completed  the process is over and the students can go home  ,Relevant
+This process takes place every Wednesday in the manager shift starting at 7 00 am,Irrelevant
+ First of all you open reception and look for an inventory paper format,Relevant
+ Then you go to the restaurant and you start to count all the beers in all the fridges including the ones as backup,Relevant
+ Then you start counting the bottles on display  bottles on use and the bottles settled as mise en place by the bartender,Relevant
+ Then you count the cigarettes,Relevant
+ Then you go to the pool bar and you count the beers and then the alcohol,Relevant
+ You go to the alcohol warehouse and count the beers and alcohol and cigarettes,Relevant
+ Then you go to the office and you introduce the data collected into the inventory system,Relevant
+ You create a file with the result of missing products and you print it,Relevant
+ With the paper you discuss to the owners the result of the inventory and you suggest plans to focalize about the improvement of this data,Relevant
+ You communicate the plan with the staff and you talk about the work of the past week and futures events to do in the hostel,Relevant
+ ‘Tennis Club Garisart  is a Belgium tennis club in South of Belgium near Arlon,Irrelevant
+ The process starts in August when a customer creates an account on the app ‘TC Garisart  and fills in some informations  e mail address telephone number    ,Relevant
+ For instance the application allows customers to book a court to contact the staff to pay its bills   ,Irrelevant
+ Then the customer selects on the app the tab ‘lessons registration  ,Relevant
+ Once it done the customer selects the type of lessons and the schedule that is appropriate for him,Relevant
+ Tennis Club Garisart provides individual and group lessons for people between 4 and 99 years so the choice is huge,Irrelevant
+ When the customer made its choice for the tennis lessons the secretariat receives automatically an notification by e mail,Relevant
+ The secretariat sends a quote containing the price of the different s  lesson s  to the customer by e mail,Relevant
+ If the customer does not agree its proposal is cancelled,Relevant
+However if he accepts the quote he has to pay the price on the bank account of the tennis club before the 14 September,Relevant
+ Once the secretariat receives the money the customer is allowed to follow the tennis lesson and the process is finished,Relevant
+ ‘BlablaCar  is a well known carpool application,Irrelevant
+ The process starts when a person looks for a ride on the application ‘Blablacar  ,Relevant
+ Blablacar is notified that someone is currently looking for a ride on their application,Relevant
+ The application proposes different offers that match with the request of the customer,Relevant
+ If the customer is not satisfied with the offers the process stops here,Relevant
+Otherwise the customer selects an offer that interests him,Relevant
+ The different offer vary with the prices the type of car and the profile of the drivers,Irrelevant
+ Once the customer has selected a ride he has to pay for it to the application,Relevant
+ Then once it is paid the customer and the driver receive access to the phone number of each other which allow them to keep in touch for the organization of the ride,Relevant
+ They both have the opportunity to cancel the ride  the driver and the customer  ,Irrelevant
+Last week  I could not find an interesting tv show on Netflix,Irrelevant
+So I decided to order books on Amazon,Relevant
+After finding a book I was interested in  I had to go on Amazon s website,Relevant
+In the search menu  I looked for the book and chose the one I wanted,Relevant
+Then  I had to choose whether I wanted the kindle format  the audio format or the printed format,Relevant
+Then I choose a last accessory,Relevant
+You can either add it to your cart if you want to continue shopping or directly click on the buy this product if it is the only item you are interested in,Relevant
+You are then redirected to the shipment window where you have to choose the address of delivery  your payment method  insert your promo code if you have one,Relevant
+Once this is done  you are redirected to a new window with your order recap where you can choose the normal and free delivery or the fast paying one,Relevant
+The final step is to click on  buy product  and your order is complete,Relevant
+This process is about a lean in a bank,Relevant
+The process starts when you contact your advisor,Relevant
+He will ask you to provide documents in order for the loan committee to review your case,Relevant
+If all documents required are sent  your bid goes through the loan committee  otherwise your advisor informs you of the missing documents,Relevant
+Once the missing documents are received  your bid can go through the loan committee,Relevant
+There is then three options,Irrelevant
+First case scenario  the committee agrees to loan you what you asked for and the process is finished,Relevant
+Second option  they refuse because you don t meet their requirements  the process is finished and you need to start a new process for a new loan,Relevant
+Third option  they give you some time to prove you will be able to pay the loan back  so you are back to the step just before the loan committee,Relevant
+Whatever the decision is  your advisor notifies you of the decision,Relevant
+The process is finished once you advisor notifies you the committee s final verdict is either the first or second option,Relevant
+The process starts when the person receives an invitation letter from his friend ,Relevant
+The person contacts the embassy by mail for the document needed for an application for a tourist visa ,Relevant
+The embassy replied the person by sending all documents needed for the tourist visa ,Relevant
+Then  the person gathers all documents needed for the visa application ,Relevant
+The person books an appointment online with embassy to deposition a physical document ,Relevant
+The day of the appointment the person will pay visa fees and go for an interview after that will take a picture and giving his fingers prints at the embassy ,Relevant
+At the end the person decide to go and eat a McDo menu,Relevant
+After some few days the embassy will contact the person back by mail or phone to come and collect documents ,Relevant
+The person goes to the embassy with the receipt to redraw his documents ,Relevant
+The person received his visa and goes the process is finished,Relevant
+The process starts when the customer touches the screen of the self payment machine ,Relevant
+The machine requests the customer to choose it language ,Relevant
+The customer choses the language that his best understands ,Relevant
+The machine asks the point of departure and arrival ,Relevant
+The customers start hitting the machine to continue working ,Relevant
+The machine shows various types of ticket and their prices ,Relevant
+Then  the customer chose it tickets among the propose types of ticket ,Relevant
+The customer can pay by cash or by card ,Irrelevant
+After the payment is valid the machine then prints the ticket ,Relevant
+The customer takes his ticket and leaves the process ends,Relevant
+The process starts when a consumer visits the website,Relevant
+ The online shop only sells products that are made with respect for human rights and our planet Earth,Irrelevant
+ The website contains different tabs for men  women and children,Irrelevant
+ Each tab contains the clothes and accessories available for sale,Irrelevant
+ Once the product s  have been selected  the customer proceeds to the shopping cart,Relevant
+ The customer immediately pays the basket in order to place the order,Relevant
+ The shop manager receives a notification that an order has been placed,Relevant
+ Then  she packs the product s  in some tissue,Relevant
+ she puts the package in a box,Relevant
+ She always writes a card on which she thanks the customer for his her order,Relevant
+ She also adds a small cloud sewn by women from developing countries,Relevant
+ This is as a gift but it will stop once she does not have anymore,Irrelevant
+ Then she heads to the post office with the prepared package,Relevant
+ The package arrives 3 days later at the customer s home,Relevant
+ At the end of the month  she receives the invoice from B Post for sending these parcels,Relevant
+The HEC Business Game is a game organized by HEC students for students,Irrelevant
+ In order to make the event known  several Facebook publications as well as announcements during the different ex catedra courses of the students were made,Relevant
+ The publications and announcements linked to the Business Game website,Irrelevant
+ Potential participants had to fill in a personal information form about their studies and their profile,Relevant
+ They then received an email confirmation of their registration,Relevant
+ This email asked them to pay a deposit of €20 which would be refunded in case of real participation and to send their CV,Relevant
+ Participation was confirmed once the participants had made the payment and sent their CV,Relevant
+ Later in the year  participants received an email announcing the distribution of gift boxes,Relevant
+ The gift box contained 2 beers  a glass  two packets of chips and several gadgets,Irrelevant
+ Participants had to sign up for a time slot to pick it up,Relevant
+DHL is a logistic company that is working in the parcel transport,Irrelevant
+The process starts when the company gets an order,Relevant
+A message is sent to the driver to load the truck,Relevant
+The driver then loads the truck with the client s order,Relevant
+Once the truck is loaded  the driver drives to the destination,Relevant
+A message is sent to the client with the arrival time,Relevant
+Once there  the driver brings the goods to the customer s door,Relevant
+The driver rings the doorbell,Relevant
+If there is no one  the driver takes the goods back,Relevant
+  Company sends a message to the client for the absence,Relevant
+  The message contains information s about the time  the location  the good and the future delivery time,Irrelevant
+  If the customer is there  he takes the goods and signs for them,Relevant
+  Finally  the driver drives back to the company  and the process is finished ,Relevant
+KTC Eupen is a tennis club that offers Sunday s training for kids,Irrelevant
+The process starts when all the kids are comes the court,Relevant
+A coach does a little warm up with the children,Relevant
+In the meantime  the other coach prepares the court,Relevant
+For example  the balls  the rackets and the cones,Irrelevant
+Once the warmup is over  the tennis lesson starts,Relevant
+The coach proposes a forehand exercise,Relevant
+The coach checks whether the kids are using the right grip,Relevant
+If they use the wrong one  he corrects the grip,Relevant
+Then the coach proposes some backhand exercises,Relevant
+If they use the wrong one  he corrects the grip,Relevant
+A backhand grip needs to be more closed in order to be able to put a lot of topspin in the ball,Irrelevant
+Finally  the coach proposes some volley and smash exercises,Relevant
+If they use the wrong one  he corrects the grip,Relevant
+When the training is over after 1 hour  the coach picks up the balls with the children,Relevant
+The kids leave the tennis court  and the process is finished,Relevant
+ The process starts when a lemon is taken out of the fridge  ,Relevant
+ Then the lemon is cut in two half  ,Relevant
+ Someone picks up the lemon seeds  ,Relevant
+ The person then keeps the best seeds  ,Relevant
+ For example  small seeds have to be removed  ,Irrelevant
+ Then the seeds are washed in clear water  ,Relevant
+ After that the seeds are kept for 12 hours in a glass of water  ,Relevant
+ The water must not be too cold  ,Irrelevant
+ Then someone fills a pot with fresh soil  ,Relevant
+ The same person plants the seeds in the soil  ,Relevant
+ The person wait for about a month until the seeds germinate  ,Relevant
+ That person waters the pot every two days until germination,Relevant
+ Chocolate is something that everybody loves  ,Irrelevant
+ In France  an average of 7 kg of chocolate per person per year is consumed  ,Irrelevant
+ The process starts by collecting cacao beans  ,Relevant
+ Then an employee opens the cacao beans  ,Relevant
+ Then the cacao beans are stored in order to be dried  ,Relevant
+ After  an employee grinds the beans  ,Relevant
+ Meanwhile an employee adds sugar to make chocolate less bitter  ,Relevant
+ The employee maintains the temperature of the chocolate at 32 degrees  ,Relevant
+ The employee pours the chocolate in a mould  ,Relevant
+ The employee waits for chocolate to cool  ,Relevant
+ Then the employee removes the chocolate from the moulds  ,Relevant
+ Then the employee places the chocolate in a fridge and the process is finished ,Relevant
+Takeaway is a platform where customers seek for restaurants with the aim to order and to be delivered,Irrelevant
+The process starts when the Customer Log into the Takeaway website,Relevant
+The customer shares his location in order to be offered several restaurants around his position,Relevant
+For example  Liège centre,Irrelevant
+Then  the customer chooses a restaurant,Relevant
+For example  Huggy s bar,Irrelevant
+The customer selects his favourite menu and put it in the cart,Relevant
+The customer chooses a suitable time to be delivered,Relevant
+For example  8 00 PM ,Irrelevant
+The customer pays the required amount,Relevant
+The customer waits for the order confirmation notification while the restaurants accept and approve the order,Relevant
+Order confirmation notification is received,Relevant
+The customer waits for his order while the restaurant prepares the meal,Relevant
+the customer is notified when the delivery man is on the road,Relevant
+The delivery man notifies the customer that he will be there within the 10 next minutes,Relevant
+The meal is delivered,Relevant
+Often  travellers prefer to travel by plane because it s the fastest way to go from point A to point B,Irrelevant
+The process starts when the traveller search for a flight into the Ryanair Website,Relevant
+The traveller chooses an airport to depart from and another one to arrive,Relevant
+ Then  the traveller has to choose the time of flight among those proposed,Relevant
+For example  Paris to Madrid  depart at 7 00 AM,Irrelevant
+The traveller enters his personal information  such as name  surname  id number etc  ,Relevant
+The Traveller has to select what type of luggage he wants to take along with him,Relevant
+It is possible to take no luggage at all,Irrelevant
+The customer chooses between booking a seat or not,Relevant
+If the traveller wants to book a seat in the plane  the operator system checks if it s still possible,Relevant

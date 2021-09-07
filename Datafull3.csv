@@ -1,0 +1,1001 @@
+sentence,class
+The customer enters his address in the  Deliver to  section,Relevant
+The customer moves to the delivery method,Relevant
+If the customer chooses  Normal   the customer is charged €4 95,Relevant
+If the customer chooses  Express   the customer is charged €9 95,Relevant
+If the customer chooses  International Click and Collect   the customer is charged €6,Relevant
+After choosing the delivery method  the customer moves to the  Payment  section,Relevant
+The customers enters the billing address,Relevant
+The customers clicks on  Pay now ,Relevant
+If the customer chooses Paypal as payment method  he enters his Paypal password,Relevant
+If the customer chooses Bank Card as payment method  he enters his card number and then his pin code,Relevant
+A tax consultancy company wishes to recruit young graduates,Irrelevant
+After an application has been received  an HR employee verifies that the required competence criteria are met,Relevant
+If the criteria are not met  the process ends by sending an automated customized rejection to the applicant,Relevant
+If they are met  the candidate takes knowledge tests,Relevant
+If the test is not passed  the process ends by sending an automated customized rejection to the applicant,Relevant
+If it is passed  the HR employee coordinates an interview between the applicant and his potential future colleagues,Relevant
+The questions asked will be designed to discover the candidate s personality and work methods,Relevant
+As soon as the interview has been conducted  the interviewers debrief it,Relevant
+If they decide that the candidate s profile is not suitable for the vacant position  the process ends by sending an automated customized rejection to the applicant,Relevant
+If they decide that the profile is suitable  the HR employee creates an employment contract and sends it to the applicant,Relevant
+A payment service company must establish a process to fulfill its legal obligations,Irrelevant
+When a customer requests to open an account  a request for information is sent to the customer to verify his or her identity,Relevant
+Among the elements requested  a copy of the identity card is demanded,Relevant
+If the customer refuses  the account is not opened,Relevant
+If the customer complies with the request for information  the account is opened,Relevant
+When the account is opened  the degree of risk and the nature of the business relationship is assessed,Relevant
+If the assessed risk is low  the profile will be assessed again after 6 months,Relevant
+If the assessed risk is high  continuous vigilance must be carried out on the client s various transactions,Relevant
+Within the framework of this continuous vigilance  if atypical operations with regard to the client s profile are detected  a request for justification is notified to the client,Relevant
+If the client responds appropriately  the transaction is carried out,Relevant
+If this is not the case  the transaction is not carried out and a suspicion report is notified to the authorities,Relevant
+The purpose is to enable state authorities to investigate the client s activities if the elements provided are conclusive,Irrelevant
+Casa is a Dutch company who sell decorations for house,Irrelevant
+The process start when a customer go on the website and put articles in his shopping basket,Relevant
+For example  he can take a desk,Irrelevant
+After that  he must include its personal information and payment procedures,Relevant
+He receive a email who comfirm his command,Relevant
+Casa receive the command and watch the stock  if the article are in stock  an employee take the article and send to the customer that he can come to the store,Relevant
+ If articles are missing  an email is send to the client to say that the delay will be greater than normally ,Relevant
+At the same time  an employee must command the articles missing,Relevant
+When the article arrive in stock  an email is send to the customer to advert him that is command is ready,Relevant
+The client come to the store and pick his command,Relevant
+The process is finish ,Relevant
+The process start when a people want to make a party,Relevant
+For example  a party in the sand ,Irrelevant
+ He ask to his friend an invitation,Relevant
+ He put the peoples who accept in a messenger group,Relevant
+ He make a sondage to know when his friend s are free and what they want to drink,Relevant
+ He receive the result of the survey,Relevant
+He go to the supermarket to buy all drinks and food,Relevant
+He split the amount from food and drink and send a request payment to his friend,Relevant
+ The friends come to the party ,Relevant
+ When the party is finish  he  tidies up everything,Relevant
+ He sends a message to thanks his friend s for the party  the process is finish,Relevant
+Artisans Vitriers Liégeois is a company active in the Liège region that supplies and installs windows  frames and mirrors  ,Irrelevant
+The process begins when the customer s insurance company calls the glass company to inform them of a glass breakage ,Relevant
+If the glaziery accepts the work  the insurance company will send the customer s details to the glaziery  otherwise the process ends ,Relevant
+Once the customer s contact details have been received  the glaziery contacts the customer by telephone to make an appointment ,Relevant
+At the time agreed for the appointment  a glass company worker will go to the customer s place to measure the glass to be replaced ,Relevant
+If the glass pane faces outwards  the worker will block the hole ,Relevant
+For example  with another piece of glass or a wooden board  ,Irrelevant
+Once all measurements have been made  the glass company will communicate the measurements and the replacement price to the insurance company for agreement ,Relevant
+If the insurance company accepts  the glaziery will order the glass from its supplier  otherwise the process ends ,Relevant
+Once the glass has been received  a worker will install the glass at the customer s place ,Relevant
+After placing the glass  the company sends the invoice to the insurance company ,Relevant
+Once payment has been received  the process is then complete ,Relevant
+Twitter is a social network that allows a user to send free micro messages  called tweets  ,Irrelevant
+The process begins when a user clicks on the  register  button on the website ,Relevant
+The user enters his first and last name ,Relevant
+Then the user has to choose between entering an email address or a phone number ,Relevant
+Next  the user enters his date of birth ,Relevant
+After this  the user is asked whether he agrees that his telephone number or email can be used to allow others to find him ,Relevant
+At the same time  it is also asked whether or not the user agrees to be exposed to personalised advertising ,Relevant
+Once this has been done  the user is asked to click on  register   which also implies acceptance of the general terms and conditions ,Relevant
+The general terms and conditions contain  notably  information on the confidentiality of data and the use of the service  ,Irrelevant
+  As soon as the user has clicked  his registration is checked either by sending an email with a link or by sending a text message with a code ,Relevant
+  The user enters the code or clicks on the link ,Relevant
+  Once the registration has been verified  the user chooses a password ,Relevant
+  Once the password has been chosen  the process is complete ,Relevant
+The research department analyses the opportunities on the market and the possibilities of realisation at a technical level ,Relevant
+For example if there is a lot of competitors or if the market decrease,Irrelevant
+The research department produces a report sent to the marketing department mentioning the opportunities and threats,Relevant
+The marketing department validates the project  for the factory if the recommendations are good or the process stops if the innovation is too risky ,Relevant
+The factory will develop the product on small series ,Irrelevant
+We can estimate it at one hundred for the first step ,Irrelevant
+The factory send it back to the research department for testing,Relevant
+The research department will test the product in real conditions with a panel of consumers on taste  packaging and price,Relevant
+The research department produces a report mentioning the points to be improved on the products,Relevant
+The report is sent to the factory and to marketing for review,Relevant
+The factory change the packaging for green to pink and add nuts in the product,Relevant
+After revision  if everything is validated  the design department validates the project,Relevant
+The product is sent to the trade marketing department,Relevant
+The trade marketing department develop a sale plan and placing it on the shelves of supermarkets,Relevant
+The trade marketing send the plan to the supermarket for validation,Relevant
+If it is validated the product is marketed and sold in France,Relevant
+The marketing department sends its innovation idea to the research department by mail in a document,Relevant
+The CV mentions the candidate s experiences  passions and hobbies,Irrelevant
+The HR recruitment officer gives an answer,Relevant
+If it s negative the process is stoped,Relevant
+if it is positive  an invitation is sent to exchange with her for 30 minutes,Relevant
+The 30 minute interview takes place,Relevant
+We talk about our attraction to the company  our motivations and what we want to do there,Relevant
+The recruitment officer sends an email debriefing the interview,Relevant
+If it s negative the process is stoped,Relevant
+If it is positive  it invites to meet the managers of the service during 1 Hour,Relevant
+The 1 hour interview takes place,Relevant
+Managers make a phone call to debrief the candidate,Relevant
+If it s negative the process is stoped,Relevant
+If positive  you are invited to a 20 minute meeting with the manager on duty,Relevant
+After this interview the recruitment officer calls the candidate to inform him her whether he she is hired or not,Relevant
+If it is a refusal the process is stopped,Relevant
+If positive  the candidate sends his her ID  driving licence  health insurance card  rib and diplomas to the human resources department ,Relevant
+The human resources department then sends the employment contract,Relevant
+The remuneration is written on it and all the benefits,Irrelevant
+The candidate returns it signed,Relevant
+The hiring process is validated,Relevant
+The process starts when the wooden furniture manufacturer receives an order which indicates the size and measurement required for a particular design of a certain type of furniture,Relevant
+ The manufacturer must choose the right piece of wood in terms of shape  size  and species according to the order,Relevant
+ Then  it is the step concerning the wood cutting and the equipment used depends on the size and shape required by the order,Irrelevant
+ A panel saw will be used if it needs light  small  and straight cuts,Irrelevant
+ A CNC machine will be used if it needs to cut from a huge and heavier piece of wood or if it needs to cut curves and bends,Relevant
+ The next step is the drilling in order to be able to assemble the pieces together by using a CNC machine again,Relevant
+ When it is done  wood putty will be spread on the holes or uneven surfaces of the wood pieces,Relevant
+ It is because wood is natural and so can have some imperfections,Irrelevant
+ Then  sandpaper will be used to smooth the wood pieces,Relevant
+ It can be conducted manually or by machines depending on the aera requiring to be smooth out and the shape of it,Irrelevant
+ Then  As the sides of wood is raw and plain  a desired pattern will be printed by a compressing machine on it to beautify the wood pieces,Relevant
+ The next step is the lamination process where the veneer will be glued onto the core panels of the furniture,Relevant
+ A veneer is a slice of real wood and is distinctive depending on the grain  cut  and species of the tree,Irrelevant
+ After that  there is another sanding process followed by a colouring process in order to assure the quality of the pieces,Relevant
+ The more there are coats of paint  the better the quality will be,Irrelevant
+ The wet pain will be dry by a boiler,Relevant
+ The next step is the packaging where all the wood pieces will be putted together in the right package accordingly to the order and it will be sent to the customer  finishing the process,Relevant
+A car rental business is one of the most affordable ways to rent a car on a weekly or daily basis,Irrelevant
+ The process starts when the car renter searches a car on the car rental web portal which are proposed by car owners,Relevant
+ It is imperative that the customer has an account on the web page and if it is not the case  he has to create one if he wants to rent a car,Relevant
+ After having made his choice  he selects his choice on the web page which will send a booking request to the car owner,Relevant
+ To confirm his request  he has to pay a deposit and send a clue that he has a driver s licence,Relevant
+ Once it is done  the car owner receives the booking request and can propose an appointment with the renter,Relevant
+ If the car owner refuses to propose an appointment  he has to pay back the renter,Relevant
+ To conclude the process  the car owner gives the keys of the car to the renter who will pay the rest of the required amount of the transaction,Relevant
+  Moreover  they must discuss about the duration of the rental contract,Relevant
+ Once everything is done  the renter car can take possession of the car for the duration of the rental contract,Relevant
+ When the contract is over  he must return the car to its owner,Relevant
+ After that  the process is over,Relevant
+ Backmarket is a website on which sellers can sell reconditioned electronic devices,Irrelevant
+ The range of products is quite wide,Irrelevant
+ The process starts when the client validates its command by validating the shopping basket,Relevant
+ Once it is done  the website sends a message asking whether we have a device to resell or not,Relevant
+ In case we have a device to resell  we must fill in a kind of questionnaire to estimate the value of the product we want to sell,Relevant
+ Then  we are offered a discount depending on the value of the product,Relevant
+ Later on  we are directed to the page summarizing the order s  we made 8,Relevant
+ In the case where we don t have any device to sell  we are directly directed to the page summarizing the order s  we made,Relevant
+ Arrived on this summarizing page  the client  confirms its order,Relevant
+The client then chooses the type of payment and pay,Relevant
+Once the payment is done  Backmarket sends an email to the customer to confirm that the order is been made and contacts the seller,Relevant
+The seller drops off the package at the post office,Relevant
+When it is done  he notifies Backmarket,Relevant
+Backmarket sends the client an email to let him know that the package has been dispatched,Relevant
+After a few days  the client is sent a email telling him that the package will arrive,Relevant
+The delivery service in charge of delivering the products give the package to the customer,Relevant
+Ultimately  Backmarket sends an email to ask the client its opinion about the service quality,Relevant
+The process is finished,Relevant
+  UCB is a global biopharmaceutical company focused on creating value for people living with severe diseases in immunology and neurology now and into the future ,Irrelevant
+ The company hires 2 students to do a stocktake of the medicines,Relevant
+ Boxes are displayed on shelves and each box contains one kind of medicines,Irrelevant
+ The medicines are stocked in 8 different rooms of different temperatures  each room having two aisles,Irrelevant
+ The process starts with each student counting the medicine from one alley,Relevant
+ After counting the number of medicines from one box  each student has to write down on a paper the number they have counted,Relevant
+ Once the aisle is done  a double check is done  the students switch places and count the medicines from the other aisle,Relevant
+ Each student takes the paper from the other one and write down what he has written,Relevant
+ If the two students count the same quantities  they can go to following rooms,Relevant
+If the students don t have the same quantities  both have to count again until they count the same number of medicines,Relevant
+In each room  some medicines  with an inscription on it  can be discarded,Irrelevant
+ The student must then throw them away in a bin,Relevant
+When each room is in order  the students have to highlight the products on the paper  highlight in green if the number of medicines calculated by the students is the same as what was previously encoded in the software or highlight in rose if it is not the same,Relevant
+Once they finish  the students have to give their paper to the employee who is responsible for them,Relevant
+The employee encodes the new results on a software,Relevant
+The process starts when the client is introduced to the front desk of the hotel to make the reservation,Relevant
+ The employee treats the request based on the customer s preferences and checks if there are any empty rooms in the hotel,Relevant
+ If there are empty rooms in the hotel  the hotel employee notify the client about the available rooms,Relevant
+ The client confirms his  her room choice  informs the hotel about the staying period  and does the check in,Relevant
+ After the end of the client s journey at the hotel  the client makes the payment and does the check out,Relevant
+ If the Hotel is in its full capacity  then the desk person informs the client,Relevant
+ The process starts when the customer is hungry and goes to the restaurant,Relevant
+ The customer orders a pizza,Relevant
+ For example  a pizza Margarita 4,Irrelevant
+ Then  the waiter takes the order,Relevant
+ The chef received the order and prepares the pizza 6,Relevant
+ 20 minutes after the order is taken  the chef brings the pizza to the waiter,Relevant
+ If the customer didn t receive the pizza after 20minutes  he asked for the waiter,Relevant
+ The waiter asks the chef to know where the pizza is,Relevant
+ When the pizza is ready  the waiter brings the pizza to the customer,Relevant
+ The customer eats the pizza and is full,Relevant
+ The customer pays for the pizza,Relevant
+ Finally  the customer leaves the restaurant and goes home,Relevant
+ The process starts when you decide to make some crêpes,Relevant
+ You need to prepare the ingredients  floor  eggs  milk  salt  sugar and melted butter ,Relevant
+ Put the flour  the salt and the sugar in a bowl,Relevant
+ Then  put the eggs into the mixture,Relevant
+ Start to mix everything and when the mixture becomes think  add the milk by little,Relevant
+ After that  add the melted butter and mix well,Relevant
+ Put some butter into the pan and heat it,Relevant
+ Pour a small ladle of dough into the pan in order to distribute the dough over the entire surface,Relevant
+ When the pancake turns a light red color  you can turn it over,Relevant
+ Cook for about a minute on this side,Relevant
+ Finally  the pancake is ready and you can eat it,Relevant
+ The process start when the customer choose a bank,Relevant
+ Then he visit the bank branch or website,Relevant
+  He Send a request to the bank and ask for the opening of a bank account ,Relevant
+ He wait for the bank respond,Relevant
+ The bank asks for further information and document in order to open a bank account,Relevant
+ The customer provides his information and financial history,Relevant
+The customer receive the consent terms ,Relevant
+The customers print  Sign  and Mail it ,Relevant
+ He receives the ok of the bank ,Relevant
+ Start Using the Account,Relevant
+The request is fulfilled ,Relevant
+The process starts when an employee submits a vacation request form to his manager ,Relevant
+The manager sends an email to the employee acknowledging the receipt and also ,Relevant
+The employee s manager reviews the request and either approves or rejects it,Relevant
+If rejected the form is sent back to the employee for additional information or modification,Relevant
+The review loop repeats indefinitely until it s approved,Relevant
+When the vacation request has been approved it s sent to the Human Resources department for processing,Relevant
+The responsible person in HR registers the vacation days and enters the number of remaining days into the form,Relevant
+The human resources R notifies the employees that the request has been approved ,Relevant
+The employees talk with his colleagues about it s request ,Relevant
+The employees also talk to his parent about its request,Relevant
+The employees addresses a good receipt mail or message to the human resources and that s the end of the process,Relevant
+This process begins once after receipt of the item by the customer,Relevant
+The customer must first connect to his SHEIN account ,Relevant
+Then go to  my orders  in order to select the order he wishes to return ,Relevant
+Then click on the return of the item ,Relevant
+Then select the means of return ,Relevant
+At this level the customer has to decide to send it by itself or to send it to the drop off point  Relay Mondial    ,Relevant
+If he decides to send it personally then he will send the article directly to the address communicated to him,Relevant
+Once the shipment is made  SHEIN receives  checks the quality and issues a refund   ,Relevant
+But insofar as the customer decides to make a deposit at the Relay Mondial point  the customer will print the return label that he will stick on the package ,Relevant
+Then drop the package at a point  Relay Mondial  closest to his home   ,Relevant
+Once the deposit is made SHEIN receives  checks the quality and issues the refund ,Relevant
+This process begins when a department runs out of material ,Relevant
+The head of the department fills out a voucher for expressing the need that he gives to the storekeeper  ,Relevant
+The shopkeeper receives the voucher  checks whether the product requested is in stock ,Relevant
+If so  he enters the voucher  has the voucher signed by the applicant and performs a delivery,Relevant
+Since the item is not in stock  it retains the voucher and initiates an order with the supplier   ,Relevant
+Once the item has been received from the supplier  the storekeeper enters the voucher  has it signed by the applicant and makes the delivery ,Relevant
+ BaByliss is the company where I worked as a student  I worked on the suppliers  invoices,Irrelevant
+ The process starts when an employee receives an invoice from a customer,Relevant
+ For example an invoice from Carrefour,Irrelevant
+ The employee prints the invoice twice,Relevant
+ Both copies must be brought to the accounting department,Relevant
+ The first copy must be filed in the first classification which is done in alphabetical order,Relevant
+ The second copy must be posted by an employee of the accounting department,Relevant
+ To post an invoice consists for example in assigning to the invoice the number of the supplier  the number of the general leger account  the number of the department which made the expense,Irrelevant
+ Then the CEO has to check if the invoice is posted in a correct way,Relevant
+ Afterwards  there are two options  either the CFO validates the invoice  or the CEO doesn t validate the invoice  then the employee has to remake it until the CFO valid it,Relevant
+ When the CFO has validated the allocation  an employee of the accounting department can book the invoice on SAP,Relevant
+ At the end of the booking  the employee must write on the invoice the number generated by SAP,Relevant
+ The employee fills the second copy in the second classification which is done by booking number  number generated by SAP   the process is finished,Relevant
+ As scout leaders  we must organize a day trip every year,Irrelevant
+ The process starts with the first meeting between leaders  the staff  to organize the day trip during which the leaders share their ideas together,Relevant
+ Then the staff musts select one destination,Relevant
+ The destination can be for example Oostende  Brucellas  Maastricht ,Irrelevant
+ The staff makes the invitation,Relevant
+ When the invitation is made  the staff sends it via emails to the parents and via Instagram to the scouts,Relevant
+ Then the scouts of their parents must confirm their participation or not to the staff,Relevant
+ If the Scout does not participate in the day trip  the process ends here,Relevant
+ If the Scout participates at the day trip  she must pay by transfer to the scouts  bank account,Relevant
+ When the staff has received all the payments  they can request for the reduction of scouts on the SNCB website,Relevant
+ The staff receives the confirmation of its request from the SNCB,Relevant
+ After receiving the confirmation of their request the staff can pick up the tickets at the train station and the process is over because everything is ready for the D day,Relevant
+A small company produces and sells artisanal ice cream,Irrelevant
+In summer  customers can order ice cream to take away directly from the counter  or enjoy an ice cream on the terrace,Irrelevant
+The person at the counter takes the orders  collects the money and makes the ice cream to go,Relevant
+For example  an ice cream cone with 2 scoops of lemon melon with whipped cream,Irrelevant
+The waitress takes orders from the terrace  cashes in and makes the ice cream cups,Relevant
+For example  a mikado pancake and a fanta,Irrelevant
+When there is a shortage of a particular flavour  the manageress must be contacted  who is responsible for restocking the fridges,Relevant
+The manageress also takes care of everything that revolves around the creation of ice cream  namely  fetching the necessary ingredients  e g   milk from the neighbouring farm  fruit from the local yard   preparing the ice cream,Relevant
+A customer may also come to the counter to order litres of ice cream or ice cream cakes,Relevant
+In this case  the manageress is called in and takes care of recording the orders,Relevant
+The person at the counter collects the orders,Relevant
+People who come to the counter can also pick up their order  in which case the manager is called and takes care of packing the order and passing it on to the customer,Relevant
+At the end of the day  the counter person and the waitress count all the orders made  clean the space and put the tips in the common pot,Relevant
+ Takeway is an online food ordering company,Irrelevant
+ The process starts when a customer validates and pays his order with a restaurant proposed by the platform,Relevant
+ In the platform  customers can choose between different plates and different restaurants,Irrelevant
+ Then takeaway customer service receives a message notifying the order,Relevant
+ And Takeaway sends a confirmation request to the restaurant,Relevant
+ After thatThe restaurant confirms or denies the order,Relevant
+ Takeaway receive a notification,Relevant
+ Meanwhile  the restaurant prepares the order,Relevant
+ If the order is rejected  Takeaway apologizes by email and refunds the customer and the process is finished,Relevant
+ If the order is accepted  Takeaway confirms the order by email,Relevant
+ At the same time  Takeaway sends a delivery man to pick up the order,Relevant
+ At the same time  the restaurant prepares the order,Relevant
+ Then  the customer receives the delivery delays,Relevant
+ The restaurant sends a notification to Takeaway when the order is ready to be delivered,Relevant
+ The restaurant tries to respect delays to get real customer satisfaction,Irrelevant
+ Takeaway signals to the customer that the delivery man is on his way,Relevant
+ The customer receives his order  the process is finished,Relevant
+ Uber eats is an american online food ordering and delivery platform,Irrelevant
+ The process starts when a restaurant tells Uber eats that they need a driver,Relevant
+ Uber eats sends the notification to the driver closest to the restaurant,Relevant
+ The driver receives the notification with the name and address of the restaurant,Relevant
+ The driver accepts or refuses the ride,Relevant
+  if refusal  Uber eats sends the request to another driver ,Relevant
+ Uber eats sends the restaurant GPS data to the driver,Relevant
+ The GPS data are connected with uber eats system and also show the delivery process to the customer,Irrelevant
+ The driver goes to the restaurant,Relevant
+ The driver picks up the order,Relevant
+ The driver notifies it to Uber eat,Relevant
+ Uber eats sends to the driver the address of the delivery location and the GPS data,Relevant
+ The driver goes to the customer s house to deliver,Relevant
+ Uber eats sends the amount of the race to the driver at the end of the delivery  the process is finished,Relevant
+Big airline is a company  which daily manage complaints and feedbacks of hundreds of people  ,Irrelevant
+Process starts when SMM manager receives a comment under a post  ,Relevant
+A comment can be either positive or negative  ,Irrelevant
+In cause of a positive comment  manager writes an answer and sends it under the post  ,Relevant
+If a comment is negative and includes disrespectful words  manager deletes this comment and blocks the sender  ,Relevant
+Otherwise  manager takes the claim in work  ,Relevant
+First  manager asks the customer to specify all the details of the situation and the booking code in a private message  ,Relevant
+Once customer contacts manager in private message  manager has one hour to take the first contact and answers  ,Relevant
+While considering a claim  manager uses empathy and a personal approach  ,Relevant
+Manager solves the problem of the client  involving the relevant departments to support ,Relevant
+Once the claim is resolved and the client is informed about the results  manager creates a report with all the necessary information  ,Relevant
+Finally  manager sends a final report of the day to the top manager  ,Relevant
+Process starts with the identification of a potential client  ,Relevant
+The sales manager fills in a form with the necessary information such as country  budget  timeline  product offered  ,Relevant
+Then the sales manager organizes a review with the chief marketing officer to validate the interest for this prospect  ,Relevant
+If the interest is not confirmed the sales manager politely declines the client  ,Relevant
+Otherwise  the sale manager passes the case to the proposal team  ,Relevant
+The proposal team is responsible to prepare commercial and technical offer for the client  ,Relevant
+Once the offer is prepared and validated  the sales manager transmits the offer to the client and organizes a virtual meeting to present the offer and answers any question  ,Relevant
+If the offer is accepted by the client  the proposal team with support of the legal team drafts a contract  ,Relevant
+The proposal and sales managers review the contract with the client before signature  ,Relevant
+The CEO travels to sign the contract with the client  ,Relevant
+The flight is in the business class  ,Irrelevant
+In July  there is a scout camp,Irrelevant
+ The preparation starts early,Irrelevant
+ First of all scoutmasters have to choose a place for this camp,Relevant
+ They must reserve it,Relevant
+ If there is no other reservation for this place  they have to put down a deposit to the owner,Relevant
+ If there is already a reservation  they have to search for another location,Relevant
+ Once they found the camp site  they have to think about games and material,Relevant
+ If the material is damaged  they have to buy new one,Relevant
+ Meanwhile they have to tell the parents of the scouts about the camp,Relevant
+ The scoutmasters send a document to collect information,Relevant
+ These information can be the name  first name  address for instance,Irrelevant
+ If the parents agree to let their child go the camp  they have to send back a message and the inscription to the camp is done,Relevant
+ If the parents don t agree  they still have to send a message and there is no inscription,Relevant
+ If there is a valid inscription  the parents receive the information concerning the location and the date,Relevant
+The first step to ship a present abroad is to go to the delivery agency,Relevant
+ You will have to tell the place where the package must be sent,Relevant
+ They need information such as the country  the town  the street   Then the present is weighed,Irrelevant
+ Different packaging will be used depending on the weight of the package,Irrelevant
+ If the weight is under 1kg  an envelope will be used,Relevant
+ But if it s above 1kg  they will use a cardboard box,Relevant
+ Once the packaging is defined  the poste agency will apply a stamp on the package,Relevant
+ You will have to pay for this service,Relevant
+ They keep the package in the agency to ship it,Relevant
+ Every Wednesday packages are collected for delivery,Relevant
+ The day of delivery  you will receive a message with the information of the shipment,Relevant
+ After this message you will have to wait up to 5 days  depending on where you want to send the package,Relevant
+ Once the package is received  you will receive a message confirming the receipt,Relevant
+ If you don t receive a message after 5 days  you have to contact the agency,Relevant
+ Either there was an error and they restart the delivery process,Relevant
+ In this case you earn a small compensation,Irrelevant
+ Or the package is lost and they compensate the entire product  because this is their fault,Relevant
+Amazon is an American online retailer offering a wider range of books,Irrelevant
+The process starts when a person wants a book quickly,Relevant
+The person makes the order on the Amazon platformer ,Relevant
+He choose for example  the ‘Crime and Punishment  roman,Irrelevant
+The person pays the book online,Relevant
+Then  the company is notified that a customer made an order,Relevant
+The person received a message from Amazon that notifies the delivery date ,Relevant
+Amazon has a large storage capacity in these warehouses,Irrelevant
+An employee finds the item and dispatches the product via a delivery method ,Relevant
+The delivery is in progress,Irrelevant
+The delivery company notifies the consumer of the arrival of the package,Relevant
+The persona finally receives his book  the process is finished ,Relevant
+A couple of people want to launch itself in a construction project ,Irrelevant
+The process starts when a couple hires an architect to explain what they want ,Relevant
+The couple chooses the best architect of the city,Relevant
+The architect draws the model and shows them ,Relevant
+He has designed a house as large as that of the Kardashian ,Irrelevant
+The couple accepts the model ,Relevant
+People use a construction company and show them the model designed,Relevant
+The company buys raw material to build the house ,Relevant
+Then  the company notifies its workers and give the instructions ,Relevant
+The workers work on the project and after several months  finalize it ,Relevant
+The couple pays the construction company  the process is finished ,Relevant
+ When a person posts an envelope in the mailbox of his village  it is taken care of daily by the village letter carrier,Relevant
+ The letter carrier then picks up the envelope and brings it back to the depot at the end of the day,Relevant
+ At the depot  the letter is taken to the sorting center specialized for letters,Relevant
+ The next morning  the letter is sorted according to its destination,Relevant
+ Then a van takes charge of the letter and those that correspond to the same geographical area to bring them to the appropriate post center,Relevant
+ Once arrived at the good deposit they are again sorted by smaller geographical zone  ,Relevant
+The next day very early in the morning  around 4 00   at 7 30 the letters are distributed according to the rounds of the factors,Relevant
+ The postmen sort the letters in the order of their rounds and then go to the inhabitants to deposit them,Relevant
+Making the delivery of packages,Irrelevant
+ When a parcel arrives at the Bpost depot  the first thing to do is to sort it according to the letter carrier s round,Relevant
+ Then the mailman takes care of the parcel,Relevant
+ The postman puts the parcel in his van according to the order of his round,Relevant
+ Then he goes on his rounds to deliver it to the customer,Relevant
+ If the customer is not there  the parcel is either returned to the depot and the delivery is made again the next day  or the parcel is dropped off at a neighbor s house or in a safe place  or the parcel is dropped of at a relay point,Relevant
+ In the last 2 cases  it is up to the customer to pick up the parcel once it is marked as delivered,Relevant
+ Philippart is a traditional bakery where you can buy bread  pastries and chocolate,Irrelevant
+ The process starts when a customer enters in the bakery,Relevant
+ If the bakery employee is not in the shop  he or she is alerted that a customer has entered by the bell,Relevant
+ The employee asks for the order,Relevant
+ The customer communicates his order,Relevant
+ For example  a sliced white bread and a rice pie,Irrelevant
+ The employee prepares the customer s order in the shop   slices the bread  packs the pastries and so on,Relevant
+ The shop contains all the available items and there is also a storage room at the back for items in case of a large order,Irrelevant
+ The customer pays cash or pays by card,Relevant
+ The customer takes the order and the recipeit,Relevant
+ The customer leaves the bakery  the process is finished,Relevant
+ Fiedelers M M is a drink market which delivers drinks with and without alcohol,Irrelevant
+ The process starts when a customer telephones the office to place an order,Relevant
+ For example  10 kegs of beer  15 crates of coke and 8 crates of water ,Irrelevant
+ The employee notes the order and communicates the price to the customer,Relevant
+ The customers confirms or not his order,Relevant
+ The employee goes to the warehouse to prepare the customer s order,Relevant
+ The warehouse contains all the available items and if necessary  a new order is placed with the supplier,Irrelevant
+ Another employee ensures that the order is complete ,Relevant
+ The employees load the truck,Relevant
+ The employee drives the truck to the delivery site  unloads the goods and hands the invoice to the customer,Relevant
+ The customer checks whether the order is complete,Relevant
+ The employee comes back to the office,Relevant
+ Within one month the customer makes the bank transfer  the process is finished,Relevant
+First the person puts his articles on the conveyor belt,Relevant
+Then the conveyor belt brings the items close to the cashier ,Relevant
+The cashier says hello and starts scanning the items,Relevant
+Items can sometimes be heavy and require a physical effort from the storekeeper ,Irrelevant
+The store clerk asks the customer while scanning the items if he has the loyalty card,Relevant
+If the customer has the loyalty card  the store clerk asks him to put it in the reader and presses the  Club Malin  button on his cash register,Relevant
+If not  the storekeeper suggests that the customer goes to a terminal to make his loyalty card and quickly explains how it works,Relevant
+When an article does not have a price or a barcode  he calls on the microphone so that one of his colleagues can see it in the aisle and then notes the information by hand on his machine,Relevant
+Then when the scan of all the articles is finished he presses TOTAL on his cash register and announces the price displayed to the customer,Relevant
+Then the storekeeper looks to see if the person is paying by card or cash,Relevant
+If the person pays by card  he presses on the bank card displayed on his cash register and then on OK,Relevant
+The person just has to put his card in the reader and write his code,Relevant
+A ticket is issued and the clerk hands it to the customer and says goodbye,Relevant
+If the customer pays by cash  he notes the amount given by the customer and presses the cash button on the machine,Relevant
+The cash register opens and the ticket starts to come out,Relevant
+Then he gives the change and the receipt to the customer and says goodbye,Relevant
+The vaccination center is located at the Ciney Expo,Irrelevant
+First of all  the receptionist greets the patient,Relevant
+Then he asks him for his identity card and his invitation to the vaccination and checks that the two names match,Relevant
+If they match  the patient can continue the steps,Relevant
+If they do not match  the patient is refused,Relevant
+If the patient does not have his ID card the patient must come back later,Relevant
+If the patient does not have his convocation but has some proof of his appointment he can continue the path and if not he must go to the information office,Relevant
+If the person has to go to the information desk  the receptionist will show him the way to go there,Relevant
+The receptionist then checks the time of the appointment  if it is in more than 15 minutes he asks the patient to wait,Relevant
+If the appointment is within 15 minutes or less  the receptionist asks the patient to follow him her and to position him herself in front of the camera that takes the temperature,Relevant
+If the camera does not work directly  the receptionist takes the infrared thermometer and points it on the patient s forehead,Relevant
+If the patient s temperature is less than 38° then the patient can continue the steps and if not the patient must go home and contact his doctor,Relevant
+If the patient is accompanied then the caregiver must ask if the person is autonomous or not,Relevant
+If the person is not autonomous  the attendant is allowed to go with the patient,Relevant
+If not  the accompanying person is not allowed to go with the patient,Relevant
+Then the receptionist indicates the way to the check in,Relevant
+He also indicates that there are documents on shelves along the way and that the patient must fill them out,Relevant
+If the patient does not know how to fill in the document on the shelves by himself  the receptionist offers his help,Relevant
+ The process starts when a client comes in a garage and the car dealer received a new car request from him,Relevant
+ He assesses the needs and requirements of the client  budget  new or used vehicle  type of vehicle  number of seats on board  engine power  type of fuel  etc ,Relevant
+ Car dealer searches cars based on client s car preferences,Relevant
+ Seller can provide two possible responses,Irrelevant
+ If he doesn t have a vehicle that meets the customer s needs  he tells the client  and the request stops there,Irrelevant
+ If he has a vehicle that meets the customer s needs  he proposes 3 types of car,Relevant
+For example   a used car  a new car in his stock or a new car that still needs to be built,Irrelevant
+ Client can rejects all the proposed car or accepts one of the proposed cars  or changes car preferences,Relevant
+ In case of a vehicle is chosen  car dealer requests client s personal information and asks if there is a car to take back the old vehicle or not and makes an offer for the new and the old car,Relevant
+ After one weeks  if the answer is not received  a reminder is sent  and client has another one week to answer,Relevant
+ If no answer is received  the request is cancelled  and dealer notifies client,Relevant
+ If the customer is decided  the dealer asks to pay a deposit to reserve the vehicle while waiting for the administrative formalities to be in order  technical control  insurance  license plate  and possibly the car s manufacturing,Relevant
+ When everything is in order  a few weeks for a vehicle in stock or used or several months if it is a new car   the seller contacts the customer to make the delivery,Relevant
+ The delivery day  the customer pays the rest of the bill and the garage ends up delivering the car to the customer,Relevant
+ The process starts when the construction company received a new house request from a client,Relevant
+ Construction company searches and evaluates possibilities based on client s house preferences  budget  appartement or house  location  number of bedrooms  garden garage or not  etc,Relevant
+ Seller provides two possible responses  an apartment or a house that meets the client s criteria and waits for the answer,Relevant
+ After 1month  if the answer is not received  a reminder is sent and client has 2 weeks to answer,Relevant
+ If no answer is received  the request is cancelled and construction company notifies client,Relevant
+ Client can provide four possible responses,Relevant
+ If the customer is decided  the construction company asks to the architect to make plans which will be submitted to the client,Relevant
+ After 2 weeks  if the answer is not received  a reminder is sent and client has 2 weeks to answer,Relevant
+ If no answer is received  the request is cancelled and construction company notifies client,Relevant
+ After having built the house  the construction company has the house controlled by an approved organism such as Vincotte,Relevant
+ Finally  the customer pays the rest of the invoice,Relevant
+ The company proceeds to the transfer of ownership  via a notarial deed  and the handing over of the keys to the customer,Relevant
+Starbucks Corporation is an American multinational chain of coffeehouses,Irrelevant
+The process starts when a customer enters in Starbucks,Relevant
+The customer chooses between the different types of coffees and or a snack,Relevant
+For example  he can take a hot coffee like a Macchiato or a cold one as Frappuccino,Irrelevant
+The employee asks the name of the customer to write it on the coffee ,Relevant
+The customer pays by cash or by card ,Relevant
+Meanwhile  other employees are preparing the coffee and or the snack ordered,Relevant
+Starbucks has a very advanced coffee machine,Irrelevant
+The customer must go to another counter to pick up his order,Relevant
+An employee shouts the name on the coffee ,Relevant
+The employee supplies him with his order ,Relevant
+The customer takes the order and leaves this counter,Relevant
+The customer must go to another counter again to get the straw  napkins  spoon and other accessories,Relevant
+Starbucks has all the accessories you need to drink a coffee,Irrelevant
+The customer leaves the Starbucks,Relevant
+The process starts when the Merchandise arrives to the inventory  ,Relevant
+The inventory employee are notified that the merchandise is waiting in the first area of the inventory  ,Relevant
+Group of Employees pre sort the merchandise to keep only the conform one  ,Relevant
+Meanwhile define the return items and automatically registere them in the return form which will be sent back with the defective Merchandises to the logistic department ,Relevant
+Then the Merchandises are relocated to the next part to be treated according to the quality standards in 5 steps  washing  spinning  first pre drying  waxing  second pre drying  ,Relevant
+The employee sort the conforming goods again and record its final quantity and weight  as well as the defective quantity to be rejected ,Relevant
+Then notify the packaging department to send the packaging adequate via an automatically generated notification on the system with the required quantity ,Relevant
+Then once the packaging arrives the responsible of inventory check and Confirm the validation of quantity actually received on the system inventory sheet  ,Relevant
+Finally the employee establish an order form of the quantity of products to be exported by category  type  supplier  as well as the quantity produced rejected ,Relevant
+Marins Company is a company that offers its clients the possibility to navigate alone on the Vilette Canal without having a boat license,Irrelevant
+ The process starts when a customer reserves a boat on the website of Marins Company,Relevant
+ Marins Company is informed that a reservation has been made,Relevant
+ Marins Company confirms the reservation by e mail,Relevant
+ Then the customer goes to the place where Marins Company is physically located,Relevant
+ The customer pays the reservation in cash or by credit card,Relevant
+ While paying the reservation  an employee of Marins Company prepares the boat,Relevant
+ He cleans and brings the boat to the customer when it is ready,Relevant
+ The boat is red and white,Irrelevant
+ Once the boat is ready  the customer can freely dispose of the boat  the process is finished,Relevant
+Cartoon Company is a company that sells cartons in large quantities for professionals,Irrelevant
+ The process starts when a customer makes a purchase of cartons on their website,Relevant
+ Cartoon Company checks if it is a new customer,Relevant
+ If it is a new client  it creates a new client record and the process can continue,Relevant
+ If it is not  the process continues,Relevant
+ Cartoon Company validates the order placed by the customer,Relevant
+ A Cartoon Company employee delivers the customer to the address he she indicated when registering on the order,Relevant
+ This employee chooses a long yellow truck to make the delivery,Relevant
+ The delivery by a Cartoon Company employee is completed,Relevant
+ The customer greets the employee and receives the delivery,Relevant
+ The customer signs a receipt indicating that the delivery by Cartoon Company has been completed,Relevant
+ Cartoon Company sends the invoice to the email address indicated by the customer  the process is finished,Relevant
+ PFS web is an eCommerce company  which include the Pandora warehouse for Europe* ,Irrelevant
+ The process starts when a customer make an order on the web site of Pandora ,Relevant
+ A delivery sheet is created automatically by the computer system ,Relevant
+ A worker prints this sheet at the warehouse and puts it in the delivery preparation trolley,Relevant
+ Another worker takes the trolley and fetches the object from the stock,Relevant
+ If the product is not in the stock  the worker scan the function  emplacement vide  on the trolley,Relevant
+ Then the worker takes the trolley to his colleagues to pack the product ,Relevant
+ There is 3 different kind of packages  small one  medium one and big one *,Irrelevant
+ The product is packed,Relevant
+ The initial delivery sheet is glued on the package,Relevant
+ The truck from UPS or DPD comes to collect the parcels for shipment  the process is finished,Relevant
+ Joskin is a manufacturer of agricultural machinery  specializing in trailers* ,Irrelevant
+ The farmer orders a machine from the sellers ,Relevant
+ If the machine is in stock  the company will schedule delivery of the machine ,Relevant
+ If the machine is not in stock  the order will be sent to the industrial designers  office ,Relevant
+The industrial designers will draw up the plans for the trailer according to the customer s requirements ,Relevant
+ The drawn plans will then be sent either to the factory in Poland or to Soumagne ,Relevant
+ The different parts of the trailer will be created and assembled ,Relevant
+ The trailer will be tested by specialized mechanics ,Relevant
+ Joskin also delivers the trailers in Europe by itself * ,Irrelevant
+ The trailer will be send to the costumer ,Relevant
+ The customer can also collect it from the factory in Soumagne with his tractor  the process is finished,Relevant
+ Get the contact of a potential client ,Relevant
+ Propose our services ,Relevant
+ For example  The digital strategy service ,Irrelevant
+ Schedule an interview with the potential client ,Relevant
+ Prepare a list of questions ,Relevant
+ Be professional during the interview ,Irrelevant
+ Writing all the potential client answers ,Relevant
+ Elaborate an offer on the basis of those answers ,Relevant
+ Request a review of the offer by the other members of the team ,Relevant
+ Send the offer to the potential client,Relevant
+ Discuss the idea of organizing a brunch with your friends ,Relevant
+ Create a doodle to get everyone s availabilities ,Relevant
+ Choose a date,Relevant
+ For example  Sunday the 21st of March or Saturday the 3rd of April ,Irrelevant
+ Send the invitations ,Relevant
+ Allocate to each participant something to contribute to the brunch ,Relevant
+ Set the table ,Relevant
+ Welcome your friends ,Relevant
+ Prepare the pancakes ,Relevant
+ Enjoy your meal ,Relevant
+ Clean the house,Relevant
+A customer is hungry,Irrelevant
+ He chooses a pizza and orders it,Relevant
+ For example  he takes a Hawaiian pizza,Irrelevant
+ The receptionist receives the order and tells the chef to cook it,Relevant
+ The chef is of course Italian,Irrelevant
+ If the customer waits more than 60 minutes for his pizza  he calls the pizzeria and asks for his pizza,Relevant
+ In this case  the receptionist calms the customer down,Relevant
+ After the pizza is cooked  the chef gives it to the delivery person,Relevant
+ The delivery person then brings the pizza to the customer,Relevant
+ The customer then pays for the pizza and eats it,Relevant
+ After the pizzeria receives the payment  the order is finished,Relevant
+A customer sends a leasing request to the company,Relevant
+ The company is called Car Bank,Irrelevant
+ The bank will check the customer s credit score and tax status,Relevant
+ A credit score is a number between 300–850 that depicts a consumer s creditworthiness,Irrelevant
+ At the same time  the bank checks whether the customer wants a car leasing quotation or a house leasing quotation,Relevant
+ The car could be a Ferrari and the house a villa,Irrelevant
+ The company must then check whether the conditions of the credit score are met,Relevant
+ Then it must check whether the tax status is valid or not,Relevant
+ If these conditions are met  the customer receives the leasing and the process is completed,Relevant
+ If not  the process is completed,Relevant
+ Fnac is a big retailer that also have an online platform,Irrelevant
+ The buying process starts when a customer connects to the Fnac website,Relevant
+ The customer selects articles he wants then go to his her shopping cart,Relevant
+ The shopping cart is a preview of the order with the products  total cost  estimated shipping cost,Irrelevant
+ The customer clicks on « validate » to confirm the order,Relevant
+ If not done already  the customer has to log in or register,Relevant
+ Then  a page shows up to select delivery mode and validate the order,Relevant
+ Express delivery is an example of delivery mode,Irrelevant
+ Afterwards  the customer selects the transaction method,Relevant
+ The customer is redirected to a secure payment platform and follows instructions,Relevant
+ Fnac sends an automated email to confirm the order,Relevant
+ Fnac employees prepare the goods for dispatch,Relevant
+ A transportation firm delivers the goods to the customers,Relevant
+ Once the goods are delivered  the transportation firm notifys Fnac,Relevant
+ After a week  Fnac sends an automated email asking for the customer s feedback,Relevant
+ The customer sends a feedback or decides not to send anything  the process is finished,Relevant
+ Uber Eats is a food delivery service company  using an online patform,Irrelevant
+ The process starts when the customer log in to the app,Relevant
+ The hompepage is a list of restaurants based on the user s previous orders,Irrelevant
+ The customer chose a restaurant and adds the items he wants to a shopping cart,Relevant
+ It can be a pizza for exemple,Irrelevant
+ Then the customer confirms the shopping cart,Relevant
+ The customer has the choice of giving a tip to the delivery man or not,Irrelevant
+ Then  Uber notifys the restaurant via the app,Relevant
+ Uber displays the state of the order to the customer s app,Relevant
+ Meanwhile  the restaurant is preparing the order,Relevant
+ Then the delivery man picks up the order from the restaurant,Relevant
+ The delivery man delivers the order to the customer,Relevant
+ Then  the delivery man notifys Ubers via the app,Relevant
+ Ubers receives the notification and sends an automated email to the customer to confirm the delivery  the process is finished,Relevant
+The process begins when the animal is born,Relevant
+The animal goes through a fattening period,Relevant
+The animal is bought by an animal dealer,Relevant
+The animal is transported to the slaughterhouse,Relevant
+The animal is slaughtered according to health and animal welfare standards,Relevant
+The meat is received by the wholesaler,Relevant
+The meat is cut up,Relevant
+The meat is vacuum packed  if necessary ,Relevant
+The meat is put in bins to prepare the orders,Relevant
+The bins of meat are put on the trucks to be delivered to the customers,Relevant
+The meat is received by the customer  butcher s shop general store ,Relevant
+The butcher prepares the meat,Relevant
+The meat is put in the counter,Relevant
+The meat is purchased by the consumer,Relevant
+The consumer cooks the meat,Relevant
+The meat is eaten by the consumer  the process is finished,Relevant
+The process begins when a patient makes an appointment via the laboratory s website,Relevant
+ The stock of blood collection kits is then reduced by one unit,Relevant
+ If the total number of kits available is greater than or equal to twenty units  the process is complete,Relevant
+ However  if the total number of available kits falls below the threshold of 20 units  a notification is sent to the laboratory s sales department,Relevant
+ A sales employee is then responsible for ordering 100 new kits from the supplier,Relevant
+ When the order is received by the supplier  he sends the order directly,Relevant
+ The invoice is sent in parallel with the order by the supplier,Relevant
+ Payment terms are determined by the supplier,Relevant
+ As soon as the order is received  the employee stores the kits in the laboratory,Relevant
+ The sales employee then pays the invoice via bank transfer,Relevant
+ Finally  the stock is updated and the process is completed,Relevant
+The process begins when a request for a language stay is made by a client,Relevant
+ Generally  it is young people in search of adventure who contact the agency,Irrelevant
+ The client communicates the destination  the period of time and the language of interest,Relevant
+ The agency s employee receives this information,Relevant
+ The employee then analyzes the possibilities and makes a proposal to the client for homestay and school,Relevant
+ The client is notified of this proposal,Relevant
+ If the client refuses the proposal  the employee must make a new proposal,Relevant
+ If the client accepts the proposal  the employee sends a form with personal information to be filled in,Relevant
+ The client is notified of this request  fills out the form and returns it to the agency employee,Relevant
+ The employee receives the completed form,Relevant
+ The employee sends the payment information to the customer who is notified that they need to pay,Relevant
+ If the payment is received by the agency within 10 days  the reservation is confirmed and the process is completed,Relevant
+ If the payment is not received within 10 days  the reservation is cancelled and the client is notified,Relevant
+In my student job  I work at CooperVision  a company that sells and distributes lenses worldwide  ,Irrelevant
+First  an order is placed by the customer  optician or private individual ,Relevant
+ This order is received at CooperVision,Relevant
+ The order received is automatically generated in a program,Relevant
+ This program assigns a box with a unique barcode to this order,Relevant
+ Depending on the size of the order  a box can be divided into up to eight compartments  named A to H  each with a barcode,Irrelevant
+ The box is then sent on a conveyor that runs through the entire company,Relevant
+ Lasers  placed at the beginning of each zone  scan the barcode on the box to see if any of the products in the order belong in that zone,Relevant
+ If no product from the zone is in the order  the box continues and the process continues,Relevant
+ If one or more products from the order are in the zone  the box goes out on a ramp so that an employee can pick up the corresponding products,Relevant
+When the employee retrieves the box  he she must first scan it to identify the box and check if it is properly segmented,Relevant
+ If it is well segmented  he has to validate this segmentation on his computer  if it is not  he has to change the segmentation of the box and then validate on the computer,Relevant
+ After that  the computer sends the employee to the location of the product,Relevant
+ The employee must then scan the location of the product  which serves as a check,Relevant
+ The computer then tells the employee how many products to take  what they are and where to put them in the box,Relevant
+ The employee must validate the selection of the product s ,Relevant
+ The action can be repeated as many times as there are products in the area,Irrelevant
+ Once there are no more products belonging to the order in the area  the computer sends the message  Done ,Relevant
+ The box must then be placed back on the conveyor line,Relevant
+ Once all the items in the order have been picked  the order continues on the conveyor to the packing area,Relevant
+ Degrease your bodywork well with a degreaser,Relevant
+ Clean with a dry cloth ,Relevant
+ Remove the remains of old paint using 600 grit sandpaper,Relevant
+ Then sand with 1000 and 2000 grit sandpaper until you have a smooth surface ,Relevant
+ Apply the primer,Relevant
+ Sand the primer with 2000 grit sandpaper,Relevant
+ IMPORTANT  Shake the can well for 2 minutes,Relevant
+ Apply a first thin layer of base paint,Relevant
+ Allow to dry for at least 10 minutes,Relevant
+ Sand with sanding paper 20000,Relevant
+ Apply a second coat of base paint,Relevant
+ Allow to dry for at least 10 minutes,Relevant
+ Sand with sandpaper 20000,Relevant
+ Apply a first thin coat of coloured paint,Relevant
+ Allow to dry for at least 10 minutes,Relevant
+ Sand with sandpaper 20000,Relevant
+ Apply a 2nd thin coat of coloured paint,Relevant
+ Allow to dry for at least 10 minutes,Relevant
+The application of a varnish is not compulsory but strongly recommended  ,Irrelevant
+The process starts when a customer buys a flight ticket on the internet,Relevant
+On the scheduled day  the customer goes to the airport,Relevant
+The customers parks his car,Relevant
+Then the customer walks to the check in desk,Relevant
+The employee asks for the customer s ticket and passport,Relevant
+If the papers are in order  the employee checks the luggage in,Relevant
+ If not  the process is finished,Relevant
+For example  an outdated passport,Irrelevant
+The customers goes through the security check,Relevant
+An airport has all the equipment needed to ensure safety,Irrelevant
+ Then the customers walks to the right boarding gate,Relevant
+ An airport employee asks for the customer s papers again,Relevant
+Finally  the customer gets on the plane and the process is finished,Relevant
+A temporary employment agency finds workers for enterprises,Irrelevant
+The process starts when an enterprise asks a temporary employment agency to find a temporary worker for a job,Relevant
+The agency calls a temporary worker,Relevant
+The agency explains the job to the worker,Relevant
+For example  serving in a restaurant,Irrelevant
+The worker either agrees or disagrees with the job,Irrelevant
+If the worker agrees  the agency sends by e mail more detailed information concerning the job,Relevant
+ Otherwise  the process is finished,Relevant
+The morning of the job  the agency sends an electronic contract to the worker,Relevant
+The worker signs electronically the contract,Relevant
+The worker goes to the place of the job,Relevant
+The worker executes the job and comes back home,Relevant
+Following Thursday money is sent by the agency to the worker  the process is finished,Relevant
+ As an agent  take your computer and connect to the platforms for group purchase registrations ,Relevant
+ A customer wishing to register for a group purchase calls the number given on the Wikipower website or on any mailboxes sent,Relevant
+ A notification appears on the agent s computer when a customer calls to register  the agent just has to pick up the call,Relevant
+ The agent can open the appropriate registration platform when the customer gives his city,Relevant
+ The registration can start  the customer starts by giving his basic contact details like his address and email address,Relevant
+ Then the agent asks the customer to enter his consumption data in kwH for electricity and gas,Relevant
+ The agent asks for the customer s EAN for electricity and gas,Relevant
+ Once all the fields of the registration have been filled in  the agent can finalise the registration,Relevant
+ Once the agent has clicked on  validate   the platform shows a message confirming the registration and the total number of people registered for the group purchase,Relevant
+ The customer in turn receives a confirmation e mail and only has to wait for the next information about the group purchase by e mail,Relevant
+ Buy the food in the recipe of pasta carbonara in a supermarket ,Relevant
+ Prepare food in the kitchen and have appliances such as a ceramic hob available,Relevant
+ Boil water in a casserole dish ,Relevant
+ Add the pasta when the water is boiling ,Relevant
+ Take a pan and cook the lardons ,Relevant
+ Add cream to the pan ,Relevant
+ Add an egg yolk to the cream ,Relevant
+ Mix the sauce until it becomes thick,Relevant
+ Add parmesan cheese to the sauce and mix again ,Relevant
+Drain the pasta in a colander once it is cooked ,Relevant
+Mix the resulting sauce with the pasta ,Relevant
+Put it all on a plate and enjoy!,Relevant
+The process starts when a customer stops at the front of the carwash  ,Relevant
+The employees of the carwash notified that a client is waiting  ,Relevant
+An employee comes at the front of the car of the client  ,Relevant
+The employee asks which kind of wash the client desires ,Relevant
+The customer communicates his her order  ,Relevant
+Then  the employee tells the customer the price  ,Relevant
+The customer pays by cash  ,Relevant
+The employee asks the customer to go forward his her car inside of the car wash  ,Relevant
+The employee starts the pre cleaning step  ,Relevant
+When  the pre cleaning step is over  the employee asks the customer to move is car on the travelator ,Relevant
+When the car is on the travelator  the employee starts the engine of the machine  ,Relevant
+The travelator starts to move the car to the water spray area  ,Relevant
+The travelator moves the car to the soaping area  ,Relevant
+The travelator moves the car to the scrubing area  ,Relevant
+The travelator moves the car to the drying area  ,Relevant
+The travelator moves the car at the waiting area ,Relevant
+The customer waits that the traffic light becomes green ,Relevant
+When the traffic light is green  the customer starts the engine  ,Relevant
+My journey starts when my alarm rings,Relevant
+ If I have to go to school  I wake up at 6 00 am but if I don t need to go to school in the morning because I have home school  I usually wake up at 8 0,Relevant
+ When I am awake  I take a shower and every 4 days I wash my hair,Relevant
+ After I had my shower  I choose my clothes and put make up on,Relevant
+ Usually  when I am nearly ready my mother calls me to have breakfast with her but it depends on whether I am hungry or not,Relevant
+ If I am hungry I will have breakfast with her and if not  I will wait till 12 00 to eat something,Relevant
+ After having breakfast  I will wash my teeth,Relevant
+ If I need to go to school  I take my car and drive for about 30 minutes to reach HEC,Relevant
+ If I stay home  I only need to switch on my computer  take some sheets and my pencil box,Relevant
+ After school  I come back home  eat with my mum and relax in the sofa,Relevant
+ At 9 00  I go to bed and watch a movie until I finally fell asleep usually at 10 00 or 10 30 and the process starts again every day,Relevant
+The process starts when the client decides to buy something on the Amazon website,Relevant
+ The client goes to the website and starts to look at the thing he would like to buy,Relevant
+ He finds the object but there are several suppliers,Relevant
+ He needs to choose between 2 suppliers,Relevant
+ If he chooses the first supplier he will pay 19 95€ and will be delivered in 10 days,Relevant
+ On the other hand  the second supplier sells the product at 39 95€ but the customer will receive its order in 2 to 3 days,Relevant
+ The customer decides to select the second one because he needs its product really quick,Relevant
+ The customer orders the product and pay,Relevant
+ The supplier receives the order and confirm it,Relevant
+ Amazon send a notification to the customer saying the supplier has accepted the order,Relevant
+ The supplier prepares the order and the following day  he brings the order to the post office,Relevant
+ Then  Amazon send a notification to the customer saying that the order is in transit and will arrive in 1 to 2 days,Relevant
+ The following day the customer receives its order at home and has 2 choices  if the customer likes the product he can keep it and give a good feedback to the supplier or if he is not happy with the product he can send it back to Amazon and the process finishes,Relevant
+ In this case  the customer is happy with its order so he keeps it and the process stops,Relevant
+ Sara Defendi is a very gifted osteopath that is why she receives a lot of new patients from word of mouth,Irrelevant
+ The process starts when the patient arrives on the osteopath ‘s website,Relevant
+ The patient presses the button  make an appointment ,Relevant
+ To identify himself  the patient enters his email address,Relevant
+ The patient clicks on  Ok ,Relevant
+ To continue with the identification  the patient introduces his telephone number and his date of birth,Relevant
+ To validate his identification  the patient clicks on  Continue ,Relevant
+ Then  the patient selects as of when he wants to see the available dates and he also selects a day in the week that he prefers,Relevant
+ For example  the patient could want to only see the available dates in two weeks from now and on Mondays only,Irrelevant
+ The patient clicks on  Search ,Relevant
+ Then  the patient selects a date that is the most suitable for him,Relevant
+ The patient confirms his appointment by clicking on the button  Confirm ,Relevant
+ At this moment of the process  the appointment is not yet validated,Irrelevant
+ The patient can now see a summary of his appointment and click on  Finished  to validate the appointment,Relevant
+ In the meantime  the osteopath receives a notification to let her know of the appointment  the process is finished,Relevant
+NMC is one of the world s leading companies in protective packaging and technical insulation,Irrelevant
+ The process starts when the raw materials arrive at the production line,Relevant
+ Once the materials are unpacked and ready  a worker has to put them into the machine,Relevant
+ The moment the machine starts to produce the product  a worker pack the final products at the end of the production line and to pay attention in case something goes wrong,Relevant
+ Should it happen that a product is stuck somewhere or the machine needs new raw materials the worker must stop the machine and inform his superior in order to prevent any further problems,Relevant
+ Furthermore  because NMC works with highly flammable materials the worker should be careful that there are no static charges anywhere to prevent fire,Irrelevant
+ Once all products are packed they can be loaded into trucks to be finally delivered to the customers,Relevant
+ Because customer satisfaction is very important to NMC  delivery must happen as quickly and smoothly as possible,Irrelevant
+Jovanni is my favourite ice cream vendor here in the area,Irrelevant
+ He is already 67 years old  but he doesn t look any older than 50,Irrelevant
+ When you go buy ice cream at Jovanni  every customer is greeted warmly  because customer satisfaction is key,Relevant
+ As soon as it is your turn to order  you are asked how many scoops you would like and whether you would prefer a paper cup or a waffel,Relevant
+ After that  you choose the tastes you want to eat and  optionally  different glazes   which are always quite tasty,Relevant
+ Before choosing the taste you want  customers can always try it out first – which is very practical because you do not choose something you do not like,Irrelevant
+ After the ice cream has been handed over to the customer  payment must of course be made,Relevant
+ the price depends on the circumstances  If customers eat at Giovanni s place the VTA is higher  which means the ice is also more expensive,Irrelevant
+ In return  if the customers take the ice cream home or do not eat at Jovanni s place then the VTA is not as high and the ice is cheaper,Relevant
+ To conclude  Jovanni is a very kind and courteous person that always cares for its customers and for the children  that is also why every child gets a free ice cream scoop with every visit,Irrelevant
+ I am very happy to have Jovanny in my hometown,Irrelevant
+The following describes the order to cash process of the Belgian retailer ASB,Irrelevant
+ The order to cash process starts when the client makes an inquiry and asks for a price,Relevant
+ This can be done by email  by phone or even in presence,Irrelevant
+ Then  the salesperson makes an offer and sends it to the client,Relevant
+ The client can accept the offer  reject it  or ask for another price,Relevant
+ In the latter case  either a new offer will be made and sent to the client or the salesperson will stick to the offer,Relevant
+ If the offer is accepted  the client makes an order,Relevant
+ The salesperson then creates an order confirmation and sends it to the client,Relevant
+ The client checks it,Relevant
+ If there are mistakes  he will let the salesperson know who will then correct it and send a new one,Relevant
+ If the order confirmation is correct  the client validates it,Relevant
+ After  the salesperson checks if the goods are in stock or not,Relevant
+ If the goods are not in stock  they need to be ordered at the supplier,Relevant
+ If the goods are in stock  the salesperson creates a delivery note and sends it to the storekeeper,Relevant
+ The storekeeper will prepare the goods,Relevant
+ Either  the goods will be delivered or the client will pick them up,Relevant
+ If the goods will be delivered to the client  the delivery note goes to the transportation department,Relevant
+ They will deliver the goods,Relevant
+ If the delivery went well  the accounting department creates the invoice and sends it to the client,Relevant
+ The client will then pay his purchase,Relevant
+ If the delivery went wrong  the firm needs to check its stock again and make a new delivery,Relevant
+ If the goods are picked up by the client  an accountant will directly create the invoice and send it to the client,Relevant
+ The client will then pay his purchase,Relevant
+The following describes the procurement to pay process of the Belgian retailer ASB,Irrelevant
+ The process starts when we notixce that a good that is needed is not in stock,Relevant
+ The purchase department will then first  create a delivery note for the client that asked for the goods,Relevant
+ If the goods that need to be purchased are  regular  goods  the purchaser will make an order directly,Relevant
+ If the goods that need to purchased are  specific  goods  the purchaser will ask for a price at the supplier,Relevant
+ If the price is good  the purchaser will accept it,Relevant
+ If the price isn t good  the purchaser will negotiate until the price is acceptable,Relevant
+ After accepting the price  the purchaser orders the goods,Relevant
+ They will use the number of the delivery note through the whole procurement process at the supplier,Irrelevant
+ After ordering  the purchaser will get an order confirmation from the supplier and check it,Relevant
+ If there are mistakes  he will let the supplier know and ask for a new  correct order confirmation,Relevant
+ If the order confirmation is correct  the purchaser will approve it,Relevant
+ Then  the goods will be delivered to the warehouse,Relevant
+ In the warehouse  the quantity and the quality of the goods will be checked,Relevant
+ If there is something incorrect  the purchaser will either ask for a new delivery or ask to get the missing goods at an additional delivery,Relevant
+ If the goods are ok  the firm will get an invoice from the supplier,Relevant
+ A clerk will check the invoice,Relevant
+ If the invoice is correct  it will be sent to an accountant who will pay the supplier,Relevant
+ If the invoice isn t correct  the clerk will block it in the system,Relevant
+ Then  he will require a credit note at the supplier,Relevant
+ After having received the credit note  the clerk will unblock the invoice in the system and an accountant will pay the difference between the amount on the invoice and on the credit note,Relevant
+The process start when the client signs in his personal account  ,Relevant
+then AIRBNB asks the journey information from the client ,Relevant
+Such as the place  the period to stay  maximum price to pay   ,Irrelevant
+Then AIRBNB analyze the client demand [places available in period demanded ] and give him the most interesting offers  ,Relevant
+Then the client have the option to choose one of the options  don t choose any of them or do more filter like [amenities in the place to stay  HOST language or to be a special HOST ]  ,Irrelevant
+if the client do more filter option the process is performed and analyzed again to give best offers and so on  ,Relevant
+if the client don t choose a place the process end  ,Relevant
+In case the client chooses a place  AIRBNB request from the client an identity document  recent personal picture  and enter a payment card  ,Relevant
+if the client don t provide information the process is canceled  ,Relevant
+if the client provide all information  AIRBNB take 24h to verify the identity and everything  ,Relevant
+then the AIRBNB give the decision  either to reject the booking so the process is canceled and the client is informed  or the booking is confirmed and the AIRBNB send to customer the booking information and finalize the process ,Relevant
+The process start when the client log in to the company website  ,Relevant
+then the client fills in the travel information [departure  arrival and dates ]  ,Relevant
+then the company analyze the information and consult the client past flights to see what he she prefer then give the client the most interesting flights [prices  class ] with recommended flight based on past flights if exist  ,Relevant
+then the client can refuse all flights offered and the process is finished  or change flights properties like changing the arrival airport or departure or also dates   in this case the company re analyze the demand and give offers according to it  or also the client could accept a flight ,Relevant
+then the company propose some extra services to the client that have superior costs that could accept or refuse  so after this the company ask the client to pay  there is three method of payment first ,Relevant
+if the client have a lot of bonus point in the account and could afford the flight cost with it  or to pay the hole by the credit card ,Relevant
+if he she is a new client or a client that has no bonus point  he choses the third option which is hybrid ,Relevant
+if the client has bonus point but not enough to cover all flight cost so he she will pay the rest with card  the client has a limited time [there is no exact time but an estimation of 30 min] to pay or the website will be actualized and he she will repeat from the start  ,Relevant
+if the client pay within the time  the flight is confirmed and company send flight information and E ticket to the client by mail ,Relevant
+ A company that needs to hire staff has an internal recruitment procedure,Irrelevant
+ The hiring process starts when the company identifies an internal hiring need,Relevant
+ Then  the hiring staff devises a recruitment plan,Relevant
+ The hiring staff generates a job description that includes a list of job requirements  desired characteristics and requisite experience,Relevant
+ The hiring staff advertises and recruits the position,Relevant
+ For example  the position is published by using a company s website  social media platforms such as LinkedIn and newspaper advertisements,Irrelevant
+ Then  the hiring staff reviews the applications and identifies those that require interview,Relevant
+ The interview are scheduled for the candidates with the people in the company involved,Relevant
+ Some companies check the background of the candidates to be sure that the potential employees could represent the company in a professional manner,Relevant
+ The reference of the candidates are checked also,Relevant
+ After the background checking and reference checking  the hiring staff takes decision,Relevant
+ Then  the hiring staff sends a job offer,Relevant
+ After all  the candidate who accepts the job offer is hired,Relevant
+ After the hiring process  the company has an onboarding process,Irrelevant
+ The hiring staff prepares colleagues to welcome the new employee,Relevant
+ Then  the staff prepares the new employee s office and the tools that employee needs,Relevant
+ For example  the new employee needs computer  access to programs  email and phone numbers,Irrelevant
+ The first day  the new employee is presented to the team,Relevant
+ Then  the RH staff schedules meetings for to present the projects to the new employee,Relevant
+ The RH staff assigns a mentor for the new employee,Relevant
+ Then  the mentor explains to the new employee the performance goals,Relevant
+ The first month  the RH staff registers the new employee in training,Relevant
+ The RH staff makes also an evaluation after 30  60 and 90 days,Relevant
+ The RH staff organizes an after work gathering to meet the new employee informally,Relevant
+ After 6 months  the HR staff evaluates the work of the new employee,Relevant
+ Hotel Le Plaza is a luxury hotel with reception area open 24h a day ,Irrelevant
+ The check in process starts when customers present themselves at the reception,Relevant
+ The receptionist requests their identification document and confirmation of reservation,Relevant
+ Customers are asked to fill in the individual police form,Relevant
+ The receptionist retrieves the completed police form and verifies the information to make sure all are correctly recorded in the management software or else he she has to encode the missing information,Relevant
+ The receptionist requests a deposit used to cover customers  expenses that might occur during the stay ,Relevant
+ The deposit can be given by credit card or in cash ,Irrelevant
+ If the reservation is prepaid  a deposit of 50€ per night is required ,Relevant
+ If the reservation is not prepaid  the receptionist requests a deposit amounting to the total of the price of the stay plus 50€ per night ,Relevant
+ Then  the receptionist checks the status of the attributed room in the management software ,Relevant
+ The hotel offers several types of room such as classic  deluxe and suite ,Irrelevant
+ If the assigned room is ready  the receptionist gives the room key to customer and explains them about the hotel s facilities  the process is finished,Relevant
+ If the assigned room is not ready after the check in time  the receptionist allocates another room  gives the key to customers and explains them about the hotel s facilities  the process is finished,Relevant
+ If the assigned room is not ready before the check in time  the receptionist informs the customer and ask the housekeeping department to put the customer s room in priority to get it ready as soon as possible,Relevant
+ The housekeeping department notifies the reception when the room asked previously is ready ,Relevant
+ The receptionist gives the room key to customer and explains them about the hotel s facilities  the process is finished,Relevant
+ The process starts when the customer validates the form on the dedicated area of the main page of SNCB to plan his her travel,Relevant
+ The form requires information such as departure destination point  departure time and date 3,Irrelevant
+ After receiving the completed form  SNCB proposes different alternatives based on his her criteria introduced previously,Relevant
+ The customer chooses the option according to his her need,Relevant
+ SNCB displays all details related to the chosen itinerary,Relevant
+ If the customer is satisfied  he she proceeds to payment,Relevant
+ SNCB displays all the rates available for the travel in question,Relevant
+ The prices vary depending on the situation of each traveler,Irrelevant
+ The customer validates his her choice and fills in the required information to finalize the purchase,Relevant
+ This time  SNCB needs information such as traveler s full name  choice of payment methods and ticket delivery,Irrelevant
+ SNCB directs the customer to the payment page,Relevant
+ The customer follows the payment instruction and validates the payment,Relevant
+ After being notified that the payment is accepted  SNCB sends the e ticket to the customer,Relevant
+ The e ticket can be downloaded directly from SNCB website where the customer is redirected from the payment page 15,Irrelevant
+ The customer receives the e ticket according to the choice of ticket delivery  the process is finished,Relevant
+Epicerie Wangen is a grocery store located in Cherain that sells almost everything,Irrelevant
+For example  you may want to buy bread and raviolis,Irrelevant
+The process starts when a client enters the store,Relevant
+The vendor is alerted that someone enters the shop thanks to a bell,Relevant
+The client either goes to counter to ask for bread and meat or goes to the shelves to pick whatever he wants ,Relevant
+If we went to the shelves he can still ask for stuffs at the counter,Irrelevant
+The vendor start scanning the articles and asks if anything else is needed ,Relevant
+In the case that the client needs bread it can be either cut by the vendor or not ,Relevant
+For example  the client might say I would like a white bread cut please,Irrelevant
+  When every items are scanned the vendors asks if the client is going to pay in cash or by credit card ,Relevant
+  The payment is processed and the client either gets the ticket or not,Relevant
+  The client leaves the grocery store and the process is over ,Relevant
+Zalando is a world wide company that sells clothing ,Irrelevant
+The process starts when a client confirms is payment on the website or on the app ,Relevant
+The app can be downloaded on smartphones and tablets ,Irrelevant
+The online payment is made by the customer ,Relevant
+Zalando is alerted that an order has been made ,Relevant
+They check at their warehouse If they have all the clothes for the customer ,Relevant
+If they do not they have to order it from a supplier ,Relevant
+The supplier sends the clothes to the warehouse ,Relevant
+Zalando pays the supplier ,Relevant
+All the clothes are packaged together ,Relevant
+You can have jerseys and jeans in the same package,Irrelevant
+The package is sent to the the customer s house ,Relevant
+The customer either keeps the clothes or return them for free ,Relevant
+Zalando receives the clothes returned within 14 days ,Relevant
+They reimburse the customer for the clothes returned ,Relevant
+The process ends when the customer gets his money back ,Relevant
+ The Butera company is a Belgian company which sells Italian specialties  in particular by having Parma cheese delivered  ,Irrelevant
+ The company informs customers who want to buy in bulk that a large order is about to be placed  ,Relevant
+ The company receives calls from customers about orders made  ,Relevant
+ At the start of the process  the company sends an email to a company in Parma to buy them these cheeses  ,Relevant
+ The company expects a response within 7 days ,Irrelevant
+ The company negotiates the terms of the delivery contract ,Relevant
+ The company pays a deposit ,Relevant
+ The company accepts the delivery ,Relevant
+ The company pays the entire purchase ,Relevant
+ The company calls its customers to tell them that the order has arrived ,Relevant
+ For example  if the client order  Reggiano   the company called the client when the  Reggiano  type cheese arrives ,Irrelevant
+ The company  when the customers arrive in the store located Rue Puit Marie 93  4100 Seraing checks the customer s order ,Relevant
+ The company sells the products and requests a down payment ,Relevant
+ 10 days later  the company requests the full payment ,Relevant
+ The Pomodorino is a company  which makes homemade tomato sauce by using tomatoes from Italy and a machine that presses the tomato ,Irrelevant
+ The workers start by cutting the tomatoes in half to make cooking easier the next day ,Relevant
+ The company leaves the chopped tomatoes in the saucepans overnight  ,Relevant
