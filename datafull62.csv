@@ -1,0 +1,503 @@
+sentence,class
+The process starts when the need is notified by the receipt of a purchase order form by the service manager,Relevant
+Then  the purchase department has to analyse the demand  if it is not ok  the demand is obviously rejected and the process ends,Relevant
+Otherwise  they have to request a quote,Relevant
+If the quote is asked to a new supplier  the purchasing department has to add it into the evaluation suppliers form  data base ,Relevant
+Then  the financial management has to validate the quote  if it is not ok  the demand has to be analysed again but if it is financially ok  the service can be ordered so the service department asks for an intervention,Relevant
+The supplier performs the requested service and sends the purchase documents  purchase order and invoice  afterwards,Relevant
+Next  the purchasing department compares the purchase order with the invoice received and has to validate  if something is wrong  the invoice is not validated and the department contacts the supplier for another validation,Relevant
+Otherwise  the financial department has to validate it a second time,Relevant
+Again  if it is not ok  the purchase department has to compare it again but if it is ok  the financial department puts the invoice in payment and the process ends when the service provider is paid,Relevant
+The process starts with the presentation of the candidate at the office,Relevant
+He enrolls for the examination,Relevant
+The centre manager checks the planning in the license database if the candidate is already planned,Relevant
+If it is not the case  the centre has to create a new file for this candidate in the license database,Relevant
+Then  he registers the candidate to the examination,Relevant
+The applicant has to pay for his registration,Relevant
+If the payment is not received  the candidate is rejected and the process ends,Relevant
+Otherwise  the process continues and the centre manager checks the validity of the candidate and guide s ID cards,Relevant
+If those are invalid  the candidate is rejected and the process ends,Relevant
+If  on the contrary  the ID cards are acceptable  the centre manager checks the age conditions,Relevant
+If those are not fulfilled  the candidate is rejected and the process ends,Relevant
+Otherwise  the process continues and the centre checks that the ID card corresponds to the candidate,Relevant
+If he notices a mismatch  the Chief examiner seizes his ID card and warns the authorities,Relevant
+The candidate is rejected and the process ends,Relevant
+If it corresponds  the centre checks the temporary driving license and the certificate from the municipality,Relevant
+If those are invalid  the candidate is rejected and the process ends,Relevant
+If those are valid  there are 2 possibilities,Relevant
+Either the applicant has learned by a driving school or by another guide,Relevant
+This second case requires an additional step  the centre checks the guide driving license,Relevant
+If his driving license is invalid  the process ends and the candidate is rejected,Relevant
+If it is valid  the process keeps going,Relevant
+This step is not necessary if the candidate has learnt by a driving school,Relevant
+Next  the centre checks the vehicle documents,Relevant
+If those are not valid  the candidate is rejected and the process ends,Relevant
+Otherwise  the process continues with the examiner who checks the vehicle state,Relevant
+If he evaluates the car as defective  the candidate is rejected and the process ends,Relevant
+On the contrary  if the vehicle is in good conditions  the centre manager makes a random selection of the examination track thanks to the IT system of the company and the candidate is allowed to take the examination,Relevant
+The candidate is accepted and the process ends,Relevant
+The process starts when the candidate arrives at the centre,Relevant
+An employee of the centre completes the identity verification form at least every 25 candidates and checks the validity of the client s ID card  according to the regulation ,Relevant
+If the ID card is not valid  the process ends and the client is refused,Relevant
+If it is valid  the client s age is checked  once again according to the legislation,Relevant
+If the candidate doesn t fulfil the age requirement  the process ends and he is refused,Relevant
+In the case where the client fulfils the age requirement  the centre employee checks that the card corresponds to the candidate,Relevant
+If the card is not corresponding to the candidate  the employee takes the ID card  warns the authorities and the process ends,Relevant
+The client is thus refused because of failure and fraud,Relevant
+If the card corresponds to the candidate  the centre employee checks the number of failures and the driving school certificate if necessary,Relevant
+The employee then registers the candidate,Relevant
+If a session is not available  the client asks the availability and or takes an appointment  then comes back to the beginning  arrival ,Relevant
+If a session is available  he checks that the client is already in the database,Relevant
+If the client isn t  the centre employee creates a new file in the Database Permis  ‘DB Permis  ,Relevant
+If the client was already registered or has just been registered  the employee registers the candidates and checks his data,Relevant
+After that the client has paid  the employee generates a session for the candidate  according to his category  from the ‘DB Permis  which generates a random series of questions,Relevant
+The client takes the exam,Relevant
+If a fraud is detected during the exam  the centre interrupts the exam and warns the authorities  the client is then refused  failure and fraud  and the process ends,Relevant
+In each case  the results are printed by the centre,Relevant
+If the exam is passed  the client takes the reading test  and the process ends with the delivery of the provisional driving licence  PCP   the results and some information,Relevant
+If the exam is failed  the client is given the results of the exam,Relevant
+The process starts when the candidate arrives at the examination centre,Relevant
+There is a previous control of the vehicle by the examinator before he makes a random selection for the track with the IT system,Relevant
+Then he takes note of the track and manoeuvres,Relevant
+The customer makes the track and manoeuvres directed by the examinator  according to the traffic regulations ,Relevant
+The examinator assesses the abilities of the candidate,Relevant
+If he makes a dangerous manoeuvre  the exam is interrupted,Relevant
+Otherwise the examinator makes a global assessment of the exam and he registers the assessments with the IT system,Relevant
+He encodes the results and sends them to the server of the company  with the IT system and the protocol of the exam ,Relevant
+Then he archives the protocol and at the same time  he gives the result to the candidate,Relevant
+If the result is a success  the exam is passed but if it is a failure  the exam is failed,Relevant
+The first step in the registration process is the quote calculation,Irrelevant
+It begins when someone needs to obtain a tenant insurance,Relevant
+The user will then take an interest in Flora and go to the website,Relevant
+The customer will go on  découvrir mon prix  and so the quote calculation process begins,Relevant
+The user is now on the page where he selects the type of housing,Relevant
+It can be a house  2 or 3 faces   a villa  4 faces  or a flat,Irrelevant
+Selecting an accommodation type enables the user to move forward to the next screen,Relevant
+The user just has to click on the right button to go further  there is no  continue  button ,Relevant
+Then the user has to enter his address to go further in the process,Relevant
+When the user starts typing his address  a drop down list appears with all the street names corresponding to the entered characters,Relevant
+In order to move forward  the user has to select one address in the Google results and the system moves on directly to the next page,Relevant
+If the user enters an address abroad  the pop up window appears informing the user that Flora is only available in Belgium,Relevant
+If the user lives in a zone subject to flooding  a pop up window also appears to say that the house is located in a zone subject to flooding and that the user cannot be insured for the moment  the user can be redirected to the Ethias website,Relevant
+If the address is unknow   the message   Je ne trouve pas mon adresse   appears,Relevant
+The user is redirected to the page where he has to enter manually his address  he has to complete manually all the fields,Relevant
+If the address is known  located in Belgium and complete  the user clicks on  Confirmer  and is then redirected to the monthly rental amount page,Relevant
+The monthly rental amount is a mandatory field,Irrelevant
+If it is left empty  a warning red notice must ask the user to correctly fill it out  Max of characters  7 ,Relevant
+If the user enters a higher rent  the pop up window appears informing the user that Flora doesn t insure properties with a rent higher than 1500€,Relevant
+The user can decide to move on to the Ethias website or exit the Flora s quote calculation process by clicking on the X in the upper right hand corner   the button  Je comprends ,Relevant
+The user then goes to the  Prix  page  which mentions the price of the rental insurance for his property at his address,Relevant
+The price covers the civil liability and the content of the housing,Irrelevant
+The user can choose to add or not add the vandalism cover,Relevant
+To finish this process  the user has to tick the Checkbox of the terms conditions before being able to continue,Relevant
+Once the quote calculation process is complete  a customer profile must be created,Irrelevant
+This process starts with the screen  mon compte    the user must fill in different information  First name  name  date of birth  phone number  email address and password are mandatory fields,Relevant
+Before going to the next step  the system makes a verification about the age of the user,Relevant
+In fact  the user must be between eighteen and hundred years old because they consider that outside this age slice  you are less likely to take out insurance,Irrelevant
+So  if the customer is under eighteen or over hundred  the process stops  and the customer gets stuck,Relevant
+The next step consists in checking if the email address still exists in the system because it is possible to have a user who has given the account creation just after entering the personal information  or who has left the process for a moment perhaps to pick up where he left off later on,Relevant
+So  if the email address did not still exist  Flora will then send an email to the user in order to allow him to validate his email address,Relevant
+In the email  the user can push on a button  Valider mon compte  or on another  Je n ai pas demandé de compte Flora ,Relevant
+If the email address still existed  we can go on the next step,Relevant
+After that  Flora has to check if the email address is still validated,Relevant
+If it is the case  the account is created and it s the final event,Relevant
+If the user did not confirm his email address and pushed on button  Je n ai pas demandé de compte Flora   the process stops  and no account will be created for the user,Relevant
+Just in order to precise a little  at the end of this business process  the user is still not a customer  he is a prospect,Irrelevant
+He will become a customer once he will be logged into the application as such,Irrelevant
+This step of the process is important because it will be impossible for the user to use the app as long as he is not a real client,Irrelevant
+Indeed  he will be considered as a prospective customer until the moment he makes the payment,Irrelevant
+Without this payment  even if the user created an account  he is not allowed to gain access to the application,Irrelevant
+The first stage consists in asking the client information about his moving in the housing,Relevant
+On the one hand  if he already moved in  Flora will invite the client to state if he is insured for this housing or not,Relevant
+In case of a client who is already insured  Flora will ask the user to enter the contact details of his previous insurer and we will deal with the termination of his contract,Relevant
+On the other hand  if the user has not moved in yet  the app will request him to enter the date of moving in and his future address,Relevant
+After that  he will be invited to choose a payment method,Relevant
+The client will soon be allowed to choose among three different means of payment   with a credit card  via PayPal or via Apple Pay,Relevant
+For the moment  there are only two payment methods available   the credit card and PayPal,Irrelevant
+By selecting the credit card as mean of payment  the user will be redirected to the next screen,Relevant
+At that point  he will have to encode his card number  the name of the card  the validity date and the CVV number,Relevant
+Obviously  there will be no direct debit before the start of the contract,Irrelevant
+In the case where the user would want to pay with PayPal  he would be redirected to the PayPal interface in order to check that the available balance on PayPal is sufficient to pay,Relevant
+Then  the user can click on the button  Suivant  which will redirect him to another screen with a summary of his contract   type of housing  monthly rental amount  full address  contract duration  price  credit card registered and so on,Relevant
+After having checked the elements of his contract  he must accept the general terms conditions before subscribing to the product and paying,Relevant
+Then  he can click on  Confirmer  and in that case  it means that the user wants to confirm and pay,Relevant
+Once the contract is confirmed  the client will be invited to download the application in order to handle his insurance directly from the application,Relevant
+From the moment he confirmed  the contract is forward to him by email,Relevant
+Finally  at this step of the process  the client receives a confirmation email with the documents related to the contract attached,Relevant
+If he receives this email  it means that the payment is accepted and therefore  the contract is confirmed,Relevant
+From a legal point of view  it is mandatory to send a confirmation email to the policyholder,Irrelevant
+From that moment  the client can log in into his account  access his profile and his documents  ask questions  manage decisions and request a refund in the event of a damage,Irrelevant
+First of all  when the client wants to create a new claim  he needs to open the chat bot in the app,Relevant
+The date of the damage will be requested from the customer to verify if he was covered by insurance at the time of the damage,Relevant
+If this is not the case  the client will not be compensated,Relevant
+Then  the client will receive a reduced list of the frequent damage and will be asked to select the damage concerned,Relevant
+If the damage is not in this list  then it may be part of the list of damages not covered and  in this case  the customer will not be compensated,Relevant
+Or the client may request to be put in contact with the CCM  customer communication management ,Relevant
+However  if the damage has been found on the list  the process continues normally,Relevant
+The client will then be asked whether or not it was a personal property,Relevant
+If it is  then the client will give more information about the asset,Relevant
+And if it is not  the process continues to the next step,Relevant
+In that step  the client will have the opportunity to report another claim  if this is the case  the client will be sent back to the beginning of the process in order to give all the necessary information again,Relevant
+If there is no further damage to report  then the customer will be asked for the owner s contact information,Relevant
+Afterwards  the application will ask the customer if there is at least one property that belongs to the owner,Relevant
+In both cases a summary adapted to the situation will be sent to the customer,Relevant
+Finally  if the customer wishes to conclude and send the notification of the damages  he will have to click on  Envoyer   the damage will be transferred and the case will be finished,Relevant
+Once the damage has been notified and that the claim has been transferred to  Ma demande   it will be transferred to the customer manager,Relevant
+He will then process the claim  starting by judging whether or not it is important,Relevant
+If the claim is significant  he will call in an expert to determine the amount of compensation,Relevant
+Otherwise  he will define the amount himself on the basis of the information provided by the customer in the Flora application,Relevant
+It is possible that the customer manager may not have the necessary information to calculate the refund,Relevant
+In this case  he will send an e mail to the customer to request the missing information,Relevant
+Once the amount of compensation has been determined  the customer manager will enter it into the application,Relevant
+Then  if this amount is higher than 1000 euro  the Flora application must approve the compensation request before sending it to the customer,Relevant
+If Flora detects a flaw  it will inform the customer manager who will re analyse the situation,Relevant
+Otherwise  if Flora approves the request for compensation or in the event that the amount is less than 100 euro  the compensation proposal will be sent to the customer,Relevant
+The next step depends on the client s approval of the compensation proposal,Irrelevant
+If the customer approves  Flora will ask for the customer s bank account number and an electronic signature via ITSME,Relevant
+Once the compensation proposal has been signed  the client will be reimbursed and will receive a notification that the file has been closed,Relevant
+The client receives the compensation amount on his bank account and the process is thus completed,Relevant
+If  on the other hand  the customer does not approve the compensation proposal  Flora will forward this refusal to the customer manager,Relevant
+The acquisition of lands and buildings process by Spi follows a certain chain of events  decisions and actions,Irrelevant
+First of all  they start by asking the government procurement if there is any land or buildings available,Relevant
+In order to do this  they send a letter expressing their wish,Relevant
+If there are no lands or buildings available  they express to the government procurement that they are aiming to buy  so they fill in a form to be added to the waiting list and they will be notified when an opportunity comes along,Relevant
+If something is available  the procedure usually begins with an estimation of the property solicited by the government procurement,Relevant
+Then  this estimation is reported to Spi,Relevant
+Since Spi is aiming to rent or sell these acquisitions  before they buy lands and buildings  they need to be sure that they will bring interests to their clients,Relevant
+So  they decide to carry out a market research and see if the assets are interesting enough,Relevant
+If it is not interesting  they decide to drop off,Relevant
+If it is interesting  then Spi asks their experts to carry out their own estimation of the asset,Relevant
+If the estimation matches  they carry out the next step otherwise the company and the government procurement try to reach an agreement,Relevant
+Without any agreement found  the company can decide to end the acquisition process,Relevant
+After they agree on a price  Spi asks the bank if they are allowed to have a loan,Relevant
+To do so  the financial department provides the bank with the expertise and the result of the market research,Relevant
+Then  they have to wait 10 days to have a decision from the banker,Relevant
+If after 10 days they don t have an answer  they can reschedule an appointment to have the final decision  usually if they don t have an answer after 10 days  it s because the loan has been rejected so during this second meeting  they will try to find a new arrangement ,Relevant
+If no arrangement has been found  the process ends here,Relevant
+The commercialization of plots of lands and building starts when Spi receives by email the interest of a client to buy a building or a plot of land,Relevant
+Then  it has to acknowledge confirm the receipt in order to follow the sale,Relevant
+Once  the receipt acknowledges  Spi has a free two month reservation to send a form to the candidate buyer,Relevant
+This one fills out the request and sends it back to the company which has the duty to complete  sign and date the form,Relevant
+Once  this first step done  Spi  executive board has one month to take a decision about the sale of its plots of land or building,Relevant
+The agreement between these two parts remain valid for a period of six months,Relevant
+Then  the company gives an agreement in principle to formalize the contract and the sales otherwise  if the candidate buyer doesn t respect this six month validity  Spi cancels the contract and the client is obliged to give 10% of the sum of the land or the building to the company  e g  when the client doesn t want to buy the land anymore before the 6 months ,Relevant
+When the six months are respected  Spi will receive the 10% of the value of the land by the candidate buyer and it has to sign the deed,Relevant
+Later  Spi checks if the payment is correct and if the reservation fee has been paid in one month,Relevant
+Then  if all is done in the rules  Spi orders the measuring plan and the placement of markers on the sold property,Relevant
+The reception of the proof credit from a bank by Spi leads to the selling of the land,Relevant
+Otherwise  if the reservation fee is not received in one month  the order is rejected,Relevant
+The Head of the rental department receives a request concerning the rental of a building,Relevant
+He sends the request to the legal department  they check whether the request is complete and legal,Relevant
+If the document is not complete  the client gets a message saying that he has to complete his documents,Relevant
+If the document is complete  the head of the rental department schedules a meeting with the client,Relevant
+During this meeting the client proposes a price,Relevant
+If the price is too low the head of the department does a counterproposal  which is then accepted or not by the client,Relevant
+When the client refuses  the negotiations are over and we consider the process done,Relevant
+When a correct deal has been reached by the 2 parties  we draft a contract,Relevant
+When the contract is signed the process has reached its end,Relevant
+The appeal for intervention process in which the trigger event is the need for services such as reparations  gardening   Once the problem is identified  the maintenance department looks for companies with qualified people who could fill this need and then get in touch with that company,Relevant
+They explain the need or issue,Relevant
+If this person is indeed qualified for this request  a quote is asked,Relevant
+When the quote from the company is received  the maintenance department examines it,Relevant
+If it seems correct  they send it to the financial department which determines if it fits the company s budget in order to submit their agreement or not,Relevant
+If they do agree  the maintenance department contacts the company again to complete the final terms and sign a contract,Relevant
+Otherwise  they explain to the company that they do not want to go any further and restart the search for qualified people,Relevant
+Once both parties have signed the contract  the financial department proceeds with the payment,Relevant
+Finally  the maintenance department checks the service delivery to be sure that it is well done and that it meets their expectations,Relevant
+The data analysis process is done in several steps  First  data analysts collect data from different sources for every sector,Relevant
+Then  they merge the data from different sources and make a relation between them  unnecessary data is cleaned in order to concentrate on the economic analysis,Relevant
+Data analysts analyze the evolution of the annual revenue of the companies for each sector and they combine the data of SPI with the one coming from the outside sources,Relevant
+Finally  the results are interpreted  and the analysts make the best economic analysis possible and come to a conclusion,Relevant
+The report of the analysis is then published in the database of the company  so that it is accessible to everyone,Relevant
+Everything starts when a student is positive for the COVID 19,Relevant
+The school will receive the information via email  phone or even via SMS,Relevant
+Whether it s via phone  the school management will ask some specific questions such as   what was the last day in class  when did the student do the test  when did the student receive the results and so on,Relevant
+Then they will fulfil the file with their own information such as the place where the student is sitting in class  the schedule from each class    To do so  they must dispose of the class plans,Relevant
+Moreover  it should be done regarding one clear and precise model,Irrelevant
+Once the file is completed  they can start analysing the information,Relevant
+The first and the most important one is to know who the students with high risks are,Relevant
+For that  they will consult the class plans and will make groups of students   those who are behind the positive student are not impacted  nevertheless those who are on both sides from this student are risky only if they have had close contact with the positive student without masks,Relevant
+Unfortunately  this operation is hard  because of option courses,Irrelevant
+Indeed  there are a lot of different class plans for these courses meaning that students are not always sitting next to the same students depending on the courses,Irrelevant
+Once every single information has been collected  they will send the complete file to the Safety Advisor via email,Relevant
+When she receives the email  she will make a first analysis then she will either transfer the file to the PSE  the School Medicine  or just will share the information that there is one more positive student in the school in order to receive a solution to implement,Relevant
+However  if it is an urgent situation the school management will take the decision to close a class without consulting the PSE,Relevant
+In the normal process  the PSE will analyse the sent file and will send instructions to the Safety Advisor who will send them to the school management,Relevant
+On the one hand  students with high risks will receive a mail with the procedure to apply and a coming back date,Relevant
+On the other hand  students with no risks will receive a small mail to be aware of the positive student,Relevant
+If it is possible  one or two members of the school management will go to the concerned class to give some extra information about the s positive student and answer some questions,Relevant
+If the class is closed  the school management will send another email to specify it,Relevant
+Then they will phone each parent,Relevant
+After that  each excluded student will receive work on the LMS platform and thereby a coming back date,Relevant
+The process begins when a teacher is absent,Relevant
+If the teacher is absent for more than 3 months  at least 15 weeks   then they have to hire a  priority temporary   that is a teacher who has already given lessons either in the school or in a group of schools attached to the school for at least 360 days  accumulated  not necessarily in the same school ,Relevant
+In this case  the management looks in its database for a priority temporary,Relevant
+If there is a priority temporary in the database  they contact him her by phone,Relevant
+Finally  a management member sends the schedule of the teacher to be replaced to the substitute teacher and the teacher is replaced,Relevant
+If the teacher is absent for less than a day  then he is not replaced,Relevant
+However  if he she is absent for more than a day  then a substitute teacher must be found,Relevant
+To find a substitute teacher  there are two possible ways  either the candidate has sent his her CV  printed and classified in a folder in order of importance of the title   or via the website  Primoweb   on which we will be able to go do a search according to the teacher you want to hire,Relevant
+Management will be able to enter a series of criteria  such as the duration of the exercise  the branch of expertise and so on,Relevant
+Then  after pushing on the search button  they can see the number of titles required  of sufficient titles and of shortage titles,Relevant
+In the case of application by CV  the candidate selection sub process begins when the file containing the applications is opened  If there are required titles available  then these are directly selected,Relevant
+Otherwise  we go to sufficient titles,Relevant
+If there is no sufficient title  we move on to shortage titles,Relevant
+If there is no shortage title  we move on to unlisted shortage titles,Relevant
+In the case of a candidate who has none of these titles  it would be considered an error in the system  and the process would end,Relevant
+Then  the CV is downloaded by all members of the management,Relevant
+In the case of  Primoweb   we will first choose the required titles  then the sufficient titles  and then the shortage titles  the unlisted shortage titles are not listed on  Primoweb  ,Relevant
+Then we send an email to the candidate,Relevant
+If he she accepts  his CV is downloaded by all members of the management,Relevant
+If he she refuses  then the management goes back to  Primoweb   and looks for another replacement  again in order of degree of importance,Relevant
+If he she does not respond within 3 days  the management returns to  Primoweb   and searches for another replacement  always in order of degree of importance,Relevant
+This process can sometimes take a very long time,Irrelevant
+After downloading the candidate s CV  the members of the management will judge whether it is interesting or not,Relevant
+If it s not interesting  that ends the process and the candidate is rejected,Relevant
+If the CV is interesting  we are faced with 2 situations,Relevant
+If the situation is urgent  for example when a teacher falls ill  then the substitute teacher is directly contacted by telephone to replace the absent teacher,Relevant
+If the situation is not urgent  or at least foreseeable  for example in the case of a work stoppage related to pregnancy  then they will send an email to the candidate to prepare an interview,Relevant
+The management team will then do the interview,Relevant
+If the interview is successful  a member of the management phones the candidate to confirm the replacement of the teacher,Relevant
+If the interview is not good  the candidate is rejected,Relevant
+After calling the candidate  they usually send the schedule of the teacher to be replaced,Relevant
+The process starts when the teacher wants to do an excursion with his students,Relevant
+Once the teacher has found an excursion  he she has to download an excursion document located on the digital workspace of the school in order to complete the first point of the document,Relevant
+Then he she has to send that document to the school management where they will check for the validity of the document,Relevant
+If the document is not valid the process comes to an end and the excursion will not take place,Relevant
+If the document is valid the school management has to decide if they want to let the teacher carry out the excursion or not,Relevant
+If they decide to not give the permission to execute the excursion the process comes to an end,Relevant
+If they decide to let the teacher do the excursion  they have to sign the document and send it to the accountant,Relevant
+The accountant will then evaluate the price of the excursion and he she will inform the teacher,Relevant
+The teacher will then inform the parents of the excursion and give them all the necessary information such as the location  the price  the date  and some general information about it,Relevant
+After that  the teacher has to wait for the parents  decision to either let go or not their child on the excursion,Relevant
+Once the teacher has received the parents  decision he she will book the excursion and carry it out,Relevant
+Once the excursion is done the teacher has to complete the rest of the excursion document and to send it to the accountant,Relevant
+The accountant will then complete the document with other necessary documents such as the invoice and he she will also mention the fees of the excursion in the periodic settlement of the students so that the fees will be added to what the parents have to pay at the end of the period,Relevant
+After that the document is archived and the process is completed,Relevant
+Because of the covid crisis  Sainte Véronique had to modify their organisation of parents  meeting process,Irrelevant
+Indeed  parents cannot enter the school anymore,Irrelevant
+The school tried the new process out in June last year and they improved it for this year,Irrelevant
+The process starts when report cards are encoded in the specific software used by the school,Relevant
+The student s report is then received by his or her parents,Relevant
+In the report card  there is a comment section in which parents can find the teachers the school wants them to meet,Irrelevant
+An online form is created on the LMS and sent to the parents for each year,Relevant
+The questions are the following   first name and last name of the student  class  name of the person filling the form  phone number of this person  a multiple choice question with three time intervals and who are the three teachers the parents want to meet,Irrelevant
+Once the due date to fill in the form is reached  the form is closed by the IT manager,Relevant
+The form is exported in an Excel format and the table is shared with the teachers on the LMS,Relevant
+The table is posted on the right year group,Relevant
+Teachers can download the document and check whether the parents who were asked to meet them are on the list,Relevant
+If they are not on the list the teacher has to add them,Relevant
+Once it is done  the teacher can schedule the phone calls,Relevant
+If needed  the school can provide some phones and a room for teachers to call the parents,Relevant
+If during the parents  meeting the teachers notices an exceptional situation  he or she has to notify the school management,Relevant
+The school management will then handle the case depending on the situation,Relevant
+Every new year  Collège Sainte Véronique opens its enrolment process  which consists of registering first year students for the following academic year,Relevant
+Before entering the heart of the process  the school has to achieve some optional or mandatory activities in order to prepare the enrolment period,Relevant
+The mandatory one is to communicate the school capacity for first year students as well as the number of classes in the different sections  general path  immersion path ,Relevant
+For the optional ones  on the one hand  they have the possibility to enter into partnerships with other institutions to facilitate the movement of students from one school to another,Relevant
+On the other hand  a first contact may be organized,Relevant
+Then  from February 10 th   the first enrollment phase starts and pupils can hand over their application form to the school,Relevant
+Of course  the school must check if the application form is correct and well filled,Relevant
+If it is not the case the application is refused and cancelled,Relevant
+Next  we need to distinguish the first and the second enrolment phase because applications will not be handled in the same way,Relevant
+Registration requests must therefore be allocated to the period corresponding to them,Relevant
+The first phase begins on February 10 and ends on March 7  while the second phase is opened from April 27 to August 24,Relevant
+First registration phase Each application for registration must first be registered and then updated in the register  which in most cases takes the form of a database,Relevant
+In each application form there are two sections that have to be completed by parents,Irrelevant
+The general part has to be hand written  but for the confidential part  parents have the choice to fill it online or in paper format,Relevant
+If the parents choose the paper format  the school is responsible for mailing the confidential section to CIRI,Relevant
+Otherwise  with the online form  the form is directly transmitted to CIRI,Relevant
+Finally  the school sends a confirmation mail to say that the application has been handled correctly,Relevant
+Once March 7 is reached  the school closes the first registration phase,Relevant
+If there are more registrations than available places  pupils will be ranked according to different criteria by CIRI,Relevant
+The ranking is used to attribute places to top ranked pupils,Relevant
+The ranking and the result of the selection has to be sent to the pupil and parents,Relevant
+If the pupil has been selected a registration certificate is created,Relevant
+Else  the pupil is put on the waiting list,Relevant
+If there were not more registrations than available places  a registration certificate is immediately created,Relevant
+Second registration phase As for the first phase  the school has to register each application and update the register book,Relevant
+However  it is not necessary to send the confidential section to CIRI because this part is used to make the ranking,Relevant
+After that  either the school is already complete and the pupil has to be put on the waiting list  or there are still places left and a registration certificate can be immediately created for the pupil,Relevant
+A student in phase 2 will not be given priority over a student in phase 1 in the waiting list,Relevant
+From now the two phases can be gathered in one common path,Relevant
+On the side of students who received a certificate of registration  the school has to request that the pupil provides his CEB,Relevant
+If the CEB is received before September 1  the process carries on,Relevant
+Else  the application will be rejected and a certified refusal letter with return receipt requested will be sent,Relevant
+Then  at the start of the school year  attendance will be taken and if the pupil is not present  he will have to justify his non attendance within 8 days  otherwise he will be expelled,Relevant
+On the side of students who are on the waiting list  they have to wait until a place becomes available,Relevant
+If it is the case  the school will inform the pupil of the situation and will ask him whether he wants to take the place or not,Relevant
+If so  then a registration certificate will be written  and the process will follow the normal path described earlier,Relevant
+If the student refuses the place  then his application will be cancelled,Relevant
+A student on the waiting list can also cancel his or her application by sending a message to the school,Relevant
+And lastly the waiting list is closed on August 24  which means that all students still on it will receive a certificate of refusal,Relevant
+The recruitment is dealt with by the administrator  Pierre Girretz  himself,Irrelevant
+Indeed  as mentioned before  the company does not have an HR department nor a  true  recruitment system established since the administrator can easily do this type of work himself,Irrelevant
+This process is triggered only when a new post is available  and it is done in a more or less informal but also classical way  he receives applications and reads the CVs  then Mr,Relevant
+Girretz first checks if the applicant has the competencies required for the job  degree  experience    ,Relevant
+If the resume does not correspond to what is expected  then the application is rejected by email with a thank you for sending the CV,Relevant
+If the candidate seems to have the right competencies on paper  then he receives a notification to fix a date for an interview,Relevant
+Right after the interview  the administrator evaluates the candidate on his personality,Relevant
+Indeed  Mr  Girretz puts a lot of importance on his  gut feeling ,Irrelevant
+So if the personality matches  then the candidate is given a trial period to see the quality of his work  see if he can work with the team  and to check if the person understands what the company needs and if he will be involved in the future,Relevant
+If the candidate does not fulfill these characteristics  then his application is rejected after the trial period,Relevant
+Otherwise  if the administrator is happy with his work  he scans the person s ID and bank cards and they both sign the hiring document given by Securex and finally  the applicant is officially hired after declaring the recruitment to the Dimona,Relevant
+This process consists of the reception of the different supplies needed to build the pellet stoves,Irrelevant
+First  the supplier receives a notification with the item Sûti needs  then they prepare the order and notifies the company when it is ready to be sent,Relevant
+When the items are received  the head of the production checks their quality by following the production quality sheet s instructions and ticks the boxes corresponding,Relevant
+If their quality is ok  then the item s QR codes are scanned to be registered on the system and then each item is placed at the post where it will be needed to build the stoves,Relevant
+In other words  the head of the production paves the way for the  order preparation process ,Irrelevant
+However  if the items are defective  then a letter is written to explain the problem to the supplier  and the supplies are sent back to receive better ones,Relevant
+When a client wants to buy a stove  he needs to request a quote on Sûti s website and to choose from a list of characteristics his dream pellet stove,Relevant
+Then  when the company receives it  assuming every item is in stock  the order preparation process can begin,Relevant
+Employees working in the production line start by identifying the type of stove the client wishes to order  they write down the model  the power of the stove  optional features     and they also transfer the quote to the reseller  since he will be the one in charge of providing the final product to the customer,Relevant
+After that  the production line checks if the items needed for assembly are in stock,Relevant
+If not  an order request is sent to the supplier to receive the missing supplies,Relevant
+When every item is in stock  employees search for pieces  emplacement in the system thanks to the QR code they scanned when they first received the items,Relevant
+Then  the actual assembly can start  the goods go from post to post  the stove is built little by little at every step,Relevant
+Once it reaches post number N  the number of posts depending on each case  the final product is fully built and is ready to go through a quality check,Relevant
+Once this quality check process is done  the pellet stove is packaged in a plastic cover and a wood box,Relevant
+Finally  it can be shipped to the reseller store  which will be in charge of selling the stove to the customer,Relevant
+This process is basically about testing the stove from A to Z  looking for leaks  checking for malfunctions  and so on,Irrelevant
+The quality check is once again done in the production line,Irrelevant
+The process starts when a stove is done being assembled and ends when it is operational and can be sent to the reseller,Relevant
+In the first step  the employees fill in the production quality sheet by first writing down the stove s info like the guaranteed number  the model  its options  the customer s details  and so on,Relevant
+Next  the stove s components are checked and tested by following the sheet s instructions,Relevant
+They then turn the engine on to check it works perfectly and that there is no leak or any other problem as said previously,Relevant
+If there is an issue  then workers use the QR code system we talked about earlier to find which pieces are missing or misplaced in the stove and fix them,Relevant
+When they are sure the stove is working well  they can start to suck potential dirt and clean the whole stove,Relevant
+Once both are done  they stick an A   label and a CE  European Conformity  label on the door of the engine,Relevant
+After that  the rest of the quality sheet has to be filled up,Relevant
+Then an instruction sheet  a plan of the stove  and a list of the items are added to the packaging of the pellet stove,Relevant
+In the end  the product is fully operational and is ready to leave the company,Relevant
+The after sales process begins when a client needs professional intervention,Relevant
+When the client wishes to do its stove s annual maintenance  a qualified operator is sent to its home,Relevant
+In that case  it is not Sûti who is responsible for that operation  but the stoves reseller store  depending on the localization  stores in Belgium  France  Switzerland   ,Relevant
+So Sûti s employees will not take care of the maintenance  but rather an external professional who has conducted one of Sûti s training or a mechanic who has Sûti s approval to operate on its stoves will do it,Relevant
+If the client needs an intervention because its stove has a technical problem  then it contacts Sûti,Relevant
+The administrator  the chief technician  and the head of the production can all take care of the process indifferently,Irrelevant
+When the company is notified  it then fills in the after sales form by  between others  selecting the stove type and its features  the MAC   IP addresses of the stove  the type of service it needs  and by writing the customer s and the reseller s contact information,Relevant
+If the stove needs a physical intervention because it cannot be dealt with remotely  then the problem is handed over to MILLE Services  a subsidiary company,Relevant
+After receiving information on the problem  this company will then send one of its technicians to repair the stove  then the after sales form will be signed by both the customer and MILLE Services,Relevant
+Otherwise  if physical intervention is not necessary  which is mostly the case  then Sûti will solve the problem remotely through the internet thanks to the app it recently developed,Relevant
+So first  they will use this app to detect the problem on the stove  then they will change the engine s parameters through the remote control system and will fill in the sheet with every problem encountered while doing so,Relevant
+When they are done  they check if the stove is operational,Relevant
+If so  the after sales document is signed and the process is over,Relevant
+If not  then the stove will need a supplementary intervention physically  thus Sûti contacts MILLE Services and the service is handed to them as stated previously,Relevant
+This process begins with the registration of the quotation,Relevant
+When the welder load is planned  he will assign a design engineer to the project,Relevant
+First of all  the planner will plan the welder load,Relevant
+After that  several things will be made simultaneously,Relevant
+  On the one hand  the quality manager will design the quality plan,Relevant
+  On the other hand  the design engineer will first analyze the file in order to be able to draw the nomenclature of the project,Relevant
+After that  the welding engineer will give the soudage instructions,Relevant
+Then the process will continue with the calculation engineer who will make the calculation,Relevant
+When these two simultaneous parts of the process will be covered  the pawn can move on to the resolution of questions task  executed by the design engineer,Relevant
+When all the questions will be covered  it is the task of the project manager to validate the project,Relevant
+Now  it will be up to the client to look at the drawing to approbate it in order to launch the creation of the project,Relevant
+If the customer has other questions  he will send an email to the company to disapprove the drawing,Relevant
+The design engineer will be obliged to do the task of questions resolution again,Relevant
+If the customer approves the drawing  the company will receive an email from him,Relevant
+After having received the customer approbation  the company will purchase its raw materials,Relevant
+The project will then be sent to the workshop,Relevant
+Two sub processes will then be required simultaneously,Relevant
+The production traceability and the inspection,Relevant
+After that  the calculation note will be drafted by the calculation engineer and the welding book by the welding engineer,Relevant
+The plan  as built  will then be drawn,Relevant
+The process ends with the expedition,Relevant
+It is important to know that Into this process  each thing that will be associated with creation or assignment will be included in the ERP in the file created in the quotation registration,Irrelevant
+The process begins when the purchasing department receives a purchase need,Relevant
+They will first analyze the request,Relevant
+Then  they will check if an authorized provider exists,Relevant
+In fact  they must have to work with suppliers accepted by Ortmans in order to be certain of the quality of the service,Irrelevant
+If a valid supplier exists for the requirement then we send him a request for quotation If this is not the case  the quality assurance manager will seek out a new supplier and evaluate it,Relevant
+Once this is done  we can send the request for a quote,Relevant
+When the purchasing department receives the quote  it is analyzed and then an order is sent to the supplier,Relevant
+Once the order is received by the storekeeper  he will check the quantity received via the shipping document,Relevant
+If a control card exists  then a quality controller must inspect the delivery qualitatively,Relevant
+Then the conformity is checked via the ERP by the storekeeper,Relevant
+If the order is compliant then it synchronizes the receipt of the order in the ERP and the purchase is complete,Relevant
+If the order is non compliant  then the quality assurance manager will initiate a process to manage non compliance,Relevant
+Once this is completed  the storekeeper can synchronize the receipt of the order in the ERP and the purchase will be completed,Relevant
+At another time  the billing department will receive the invoice of the order  which will start their process,Relevant
+This will be checked in the ERP,Relevant
+Once the service is notified that the receipt of the order has been synchronized in the ERP  it can proceed to the payment and the payment will be completed,Relevant
+The improvement action process starts with an improvement demand based on different sources  internal or external audit report  management review  customer complaint  non compliance  suggestion etc,Relevant
+The request is then registered in the Excel table by the Quality Assurance Manager  Q A M  ,Relevant
+This excel file will be used all along the process,Irrelevant
+It is important to detect the issue  which means that an analysis of the problem in order to know the ins and outs of each approach will be conducted by the Q A M,Relevant
+Then the Q A M  will conduct a criticality analysis in order to put the necessary resources on the actions that require it,Relevant
+A corresponding amelioration file will be created in the excel table,Relevant
+It will help in the choice of whether or not to initiate an improvement action,Irrelevant
+When the amelioration file is finished  the Q A M will be able to analyse the issue properly,Relevant
+If there is no improvement needed  the Q A M will answer to the improvement demand applicant with  if possible  an explanation for the refusal,Relevant
+However  if an improvement is needed  the Q A M will determine the action with a reasonable timeframe and a person responsible for the action,Relevant
+Those elements will also be added to the excel file,Relevant
+When the action and those who are in charge of it are defined  the Q A M will inform the direction,Relevant
+When the direction is informed of the issue  she provides the necessary means  and then launches the action,Relevant
+The Implementation of the improvement action is then carried out by the action responsible,Relevant
+In parallel  the Q A M follows up this implementation of the improvement action,Relevant
+When the improvement action is finished  the Q A M  checks the effectiveness of the action implemented  i e  checking that the action focuses on the causes and not only on the consequences,Relevant
+If the result is satisfying  the improvement action process ends there,Relevant
+Otherwise  the criticality analysis must be reseen and the process starts again from this point,Relevant
+The process starts when an unconformity is detected,Relevant
+A non conformity must be declared when one or more of the following conditions are met ,Irrelevant
+  Immediate repair at no significant cost is not possible,Irrelevant
+  Immediate repair at low cost is possible but the problem is recurrent,Irrelevant
+  Immediate low cost repair is possible but can lead to an opportunity for improvement,Irrelevant
+   Supplier  defect  which includes not only raw material suppliers but also service providers and subcontractors ,Irrelevant
+  Customer complaint is the subject of a complaint and therefore a  complaint  sheet is completed and if necessary  a  non conformity  sheet is completed,Irrelevant
+The initials of the initiator with the date are added on the sticker who must be created to mark the non conformity,Relevant
+Next  they have to fill in the non conformity sheets so that they do not have to search for information that is known to the initiator,Relevant
+The NCS is transmitted to the QAM who is responsible for its follow up,Relevant
+Record in Excel file for follow up,Relevant
+The QAM communicates the NCS to the PM  Project manager ,Relevant
+The person who is responsible for the non compliance is the quality manager,Irrelevant
+This is the quality manager who makes a proposal for action at the project manager,Relevant
+It is the PM who makes the decision whether or not to accept this proposal for action,Relevant
+If the answer is no  the quality manager must make another proposal for action,Relevant
+If it is approved  the project manager notifies the client and waits to receive the formal acceptance of the client,Relevant
+If the client doesn t accept  it is up to the quality manager to remake another proposal action,Relevant
+Both QAM and the quality manager must decide for verifications to do if the client accepts the proposal action,Relevant
+Now it is up to the quality manager to make improvement actions and verify these actions back,Relevant
+He will close the NCS  remove the marking  non conformity  and notify the QAM who shall verify the process  make analysis,Relevant
+After the analysis  if he decides that other improvement actions must be taken  they will make a new one,Relevant
+If not  they will archive the non conformity,Relevant
+The process starts when a client needs new equipment and asks the company for a quotation,Relevant
+The project manager receives the request and analyzes it in terms of solvency of the client and in terms of capacity of the company to produce the client s equipment,Relevant
+An acknowledgment of receipt is sent to the client,Relevant
+The project manager asks the management for an approval and  depending what the management will decide  the client s request will be approved or not,Relevant
+If the request is rejected  the project manager will send a rejection to the client  otherwise  the process continues  and the project s file is created with an ERP s number,Relevant
+Then  the design office makes an analysis of the different technical aspects and a quotation request is sent to the supplier,Relevant
+Finally  with all the information received  the project manager makes the quote  and then  asks the management for some advice about the quote,Relevant
+Afterward  the project manager establishes the offer  which is registered in the ERP   and sends it to the client,Relevant
+If the client accepts the offer  the project manager receives the order form,Relevant
+The order form is registered in the ERP system and a confirmation is sent to the client,Relevant
+The contract is reviewed by the project manager  the file is prepared  and information is sent for the registration to delivery process and the quotation registration process is ended,Relevant
+This process happens repeatedly throughout the day to journalists,Relevant
+Indeed  they have to write several articles for the next day s daily journal,Irrelevant
+The main subject of an article usually comes from an informant with a scoop   last minute information or from requests for coverage or news they received  for example through the  alert us  button of their website ,Irrelevant
+Daily news and important events have priority over more common subjects,Irrelevant
+Therefore  if crucial information is given by someone with a high position or an informant to a journalist  he must not hesitate to dive in and collect more information about it,Irrelevant
+Once the subject is received or chosen  the first step is confirming the information with a reliable person,Relevant
+We will consider Liège s Christmas market cancellation as an example,Irrelevant
+The journalist obtaining this information then has to ask Liège s mayor to confirm it,Relevant
+However  if the information comes from the  alert us  button  the journalist will set up a meeting with the person in order to further analyze it,Relevant
+A subject with incoherent or false information will be rejected  whereas the process will continue for a reliable and true subject,Relevant
+If a journalist were to obtain crucial information  it must be published  even partially  as soon as possible so that it is not stolen from the competition,Relevant
+Thus  it is directly posted on Sudpresse s paying website,Relevant
+On the contrary  if the information can wait  the journalist should collect more details about it,Relevant
+Once it is done  the journalist makes a synthesis of the information he has received to this point  to know what he should search next,Relevant
+In both cases  phone calls  emails and internet researches will follow in order to complete and detail the current subject,Relevant
+The information research process ends as soon as the journalist has gathered enough detailed information to write the article,Relevant
+The journalist is responsible for this process from its start to its end,Irrelevant
+Sometimes  as demonstrated in the previous process  information must be revealed without delay to readers with a subscription,Irrelevant
+That is why the information  written as quickly as possible  will be briefly explained on Sudpresse s paying website,Irrelevant
+Following this event  a strategic marketing employee in the  newsroom  creates a teasing placed on the free website,Relevant
+This teasing includes a link to the company s paying website,Irrelevant
+Afterwards  the journalist will progressively continue filling out the online article on the paying website  adding information and upgrading the layout  until it is complete and perfect,Relevant
+The journalist contacts his sources to find new he can add to his article,Relevant
+If he gets new information from a tier  he contacts this tier  that becomes thus one of a source  or any other source who can verify clarify this new information,Relevant
+The last version of the online article will be published the next morning in the traditional newspaper,Relevant
+Compared to a few years ago  journalists do not write complete articles that only come out the following day as they first have to post them online,Irrelevant
+This applies to any level of importance of the information,Irrelevant
+Then  once the article has been completed and is published on the different websites  and when  due to the tight timing  the article must be finished to be in the next day s newspaper  the journalist asks for a page of the next day s daily journal and starts copying the article s content,Relevant
