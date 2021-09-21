@@ -1,0 +1,573 @@
+Sentence,Class
+The party sends a warrant possession request asking a warrant to be released,Relevant
+The Client Service Back Office as part of the Small Claims Registry Operations receives the request and retrieves the SCT file,Relevant
+Then  the SCT Warrant Possession is forwarded to Queensland Police,Relevant
+The SCT physical file is stored by the Back Office awaiting a report to be sent by the Police,Relevant
+When the report is received  the respective SCT file is retrieved,Relevant
+Then  Back Office attaches the new SCT document  and stores the expanded SCT physical file,Relevant
+After that  some other MC internal staff receives the physical SCT file  out of scope ,Relevant
+As a basic principle  ACME AG receives invoices on paper or fax,Irrelevant
+These are received by the Secretariat in the central inbox and forwarded after a short visual inspection to an accounting employee,Relevant
+In ACME Financial Accounting  a software specially developed for the ACME AG  she identifies the charging suppliers and creates a new instance  invoice ,Relevant
+She then checks the invoice items and notes the corresponding cost center at the ACME AG and the related cost center managers for each position on a separate form  docket ,Relevant
+The docket and the copy of the invoice go to the internal mail together and are sent to the first cost center manager to the list,Relevant
+He reviews the content for accuracy after receiving the copy of the invoice,Relevant
+Should everything be in order  he notes his code one on the docket  accurate position - AP  and returns the copy of the invoice to the internal mail,Relevant
+From it  the copy of the invoice is passed on to the next cost center manager  based on the docket  or if all items are marked correct  sent back to accounting,Relevant
+Therefore  the copy of invoice and the docket gradually move through the hands of all cost center managers until all positions are marked as completely accurate,Relevant
+However  if inconsistencies exist  e.g. because the ordered product is not of the expected quantity or quality  the cost center manager rejects the AP with a note and explanatory statement on the docket  and the copy of the invoice is sent back to accounting directly,Relevant
+Based on the statements of the cost center managers  she will proceed with the clarification with the vendor  but  if necessary  she consults the cost center managers by telephone or e-mail again,Relevant
+When all inconsistencies are resolved  the copy of the invoice is sent to the cost center managers again  and the process continues,Relevant
+After all invoice items are AP  the accounting employee forwards the copy of the invoice to the commercial manager,Relevant
+He makes the commercial audit and issues the approval for payment,Relevant
+If the bill amount exceeds EUR 20 000  the Board wants to check it again  4-eyes-principle ,Relevant
+The copy of the invoice including the docket moves back to the accounting employee in the appropriate signature file,Relevant
+Should there be a complaint during the commercial audit  it will be resolved by the accounting employee with the supplier,Relevant
+After the commercial audit is successfully completed  the accounting employee gives payment instructions and closes the instance in ACME financial accounting,Relevant
+The loan approval process starts by receiving a customer request for a loan amount,Relevant
+The risk assessment Web service is invoked to assess the request,Relevant
+If the loan is small and the customer is low risk  the loan is approved,Relevant
+If the customer is high risk  the loan is denied,Relevant
+If the customer needs further review or the loan amount is for $10 000 or more  the request is sent to the approver Web service,Relevant
+The customer receives feedback from the assessor or approver,Relevant
+The process of Vacations Request starts when any employee of the organization submits a vacation request,Relevant
+Once the requirement is registered  the request is received by the immediate supervisor of the employee requesting the vacation,Relevant
+The supervisor must approve or reject the request,Relevant
+If the request is rejected  the application is returned to the applicant/employee who can review the rejection reasons,Relevant
+If the request is approved a notification is generated to the Human Resources Representative  who must complete the respective management procedures,Relevant
+The process of Vacations Request starts when any employee of the organization submits a vacation request,Relevant
+Once the requirement is registered  the request is received by the immediate supervisor of the employee requesting the vacation,Relevant
+The supervisor must approve or reject the request,Relevant
+If the request is rejected the process will end,Relevant
+If the request is asked to make a change then it is returned to the petitioner/employee who can review the comments for the change request,Relevant
+If the request is approved it will go to the purchase department that will be in charge of making quotations  using a subprocess  and select a vendor,Relevant
+If the vendor is not valid in the system the purchase department will have to choose a different vendor,Relevant
+After a vendor is selected and confirmed  the system will generate and send a purchase order and wait for the product to be delivered and the invoice received,Relevant
+In any case the system will send a notification to let the user know what the result was,Relevant
+In any of the cases  approval  rejection or change required the system will send the user a notification,Relevant
+First  the Manager checks the open leads,Relevant
+Afterwards  he selects the top five ones,Relevant
+He then tells his Sales Assistant to call the contact person of the leads,Relevant
+The Sales Assistant calls each customer,Relevant
+If someone is interested  he sends a note to the Manager,Relevant
+The Manager then processes the lead,Relevant
+Otherwise  he calls the next customer,Relevant
+The customer enters the withdrawal amount,Relevant
+The ATM returns cash to the customer and changes his account balance,Relevant
+If the balance on customer’s account is less than the withdrawal amount  the ATM returns an error,Relevant
+In a bowl  mix the lemon juice  olive oil  Dijon mustard  garlic  red bell pepper  salt  and pepper,Relevant
+Set aside 1/4 cup of the mixture to use for basting,Relevant
+Place chicken in the bowl  and marinate at least 20 minutes in the refrigerator,Relevant
+Preheat grill for high heat,Relevant
+Lightly oil grill grate,Relevant
+Drain and discard marinade from the bowl  and place chicken on the grill,Relevant
+Cook 6 to 8 minutes on each side  until juices run clear  basting occasionally with the reserved marinade,Relevant
+An employee purchases a product or service he requires,Relevant
+For instance  a sales person on a trip rents a car,Irrelevant
+The employee submits an expense report with a list of items  along with the receipts for each item,Relevant
+A supervisor reviews the expense report and approves or rejects the report,Relevant
+Since the company has expense rules  there are circumstances where the supervisor can accept or reject the report upon first inspection,Irrelevant
+These rules could be automated  to reduce the workload on the supervisor,Irrelevant
+If the supervisor rejects the report  the employee  who submitted it  is given a chance to edit it ,Relevant
+for example to correct errors or better describe an expense,Irrelevant
+If the supervisor approves the report  it goes to the treasurer,Relevant
+The treasurer checks that all the receipts have been submitted and match the items on the list,Relevant
+If all is in order  the treasurer accepts the expenses for processing,Relevant
+ including  e.g. payment or refund  and accounting ,Irrelevant
+If receipts are missing or do not match the report  he sends it back to the employee,Relevant
+If a report returns to the employee for corrections  it must again go to a supervisor  even if the supervisor previously approved the report,Relevant
+If the treasurer accepts the expenses for processing  the report moves to an automatic activity that links to a payment system,Relevant
+The process waits for the payment confirmation,Relevant
+After the payment is confirmed  the process ends,Relevant
+Every time we get a new order from the sales department  first  one of my masters determines the necessary parts and quantities as well as the delivery date,Relevant
+Once that information is present  it has to be entered into our production planning system  PPS ,Relevant
+It optimizes our production processes and creates possibly uniform work packages so that the setup times are minimized,Relevant
+Besides  it creates a list of parts to be procured,Relevant
+Unfortunately it is not coupled correctly to our Enterprise Resource Planning system  ERP   so the data must be transferred manually,Irrelevant
+By the way  that is the second step,Irrelevant
+Once all the data is present  we need to decide whether any parts are missing and must be procured or if this is not necessary,Relevant
+Once production is scheduled to start  we receive a notice from the system and an employee takes care of the implementation,Relevant
+Finally  the order will be checked again for its quality,Relevant
+The intake workflow starts with a notice by telephone at the secretarial office of the mental health care institute,Relevant
+This notice is done by the family doctor of somebody who is in need of mental treatment,Irrelevant
+The secretarial worker inquires after the name and residence of the patient,Relevant
+On the basis of this information  the doctor is put through to the nursing officer responsible for the part of the region that the patient lives in,Relevant
+The nursing officer makes a full inquiry into the mental  health  and social state of the patient in question,Relevant
+This information is recorded on a registration form,Relevant
+At the end of the conversation  this form is handed in at the secretarial office of the institute,Relevant
+Here  the information on the form is stored in the information system and subsequently printed,Relevant
+For new patients  a patient file is created,Relevant
+The registration form as well as the print from the information system are stored in the patient file,Irrelevant
+At the secretarial office  two registration cards are produced for respectively the future first and second intaker of the patient,Relevant
+The new patient is added on the list of new notices,Relevant
+Halfway the week  at Wednesday  a staff meeting of the entire medical team takes place,Relevant
+At this meeting  the team-leader assigns all new patients on the list of new notices to members of the team,Relevant
+Each patient will be assigned to a social-medical worker  who will act as the first intaker of the patient,Irrelevant
+One of the physicians will act as the second intaker,Irrelevant
+The assignments are recorded on an assignment list which is handed to the secretarial office,Relevant
+For each new assignment  it is also determined whether the medical file of the patient is required,Relevant
+This information is added to the assignment list,Relevant
+The secretarial office stores the assignment of each patient of the assignment list in the information system,Relevant
+It passes the produced registration cards to the first and second intaker of each newly assigned patient,Relevant
+For each patient for which the medical file is required  the secretarial office prepares and sends a letter to the family doctor of the patient  requesting for a copy of the medical file,Relevant
+As soon as this copy is received  the secretarial office will inform the second intaker and add the copy to the patient file,Relevant
+The first intaker plans a meeting with the patient as soon as this is possible,Relevant
+During the first meeting  the patient is examined using a standard checklist which is filled out,Relevant
+Additional observations are registered in a personal notebook,Relevant
+After a visit  the first intaker puts a copy of these notes in the file of a patient,Relevant
+The standard checklist is also added to the patients file,Relevant
+The second intaker plans the first meeting only after the medical information of the physician   if required   has been received,Relevant
+Physicians use dictaphones to record their observations made during meetings with patients,Relevant
+The secretarial office types out these tapes  after which the information is added to the patient file,Relevant
+As soon as the meetings of the first and second intaker with the patient have taken place  the secretarial office puts the patient on the list of patients that reach this status,Relevant
+For the staff meeting on Wednesday  they provide the team-leader with a list of these patients,Relevant
+For each of these patients  the first and second intaker together with the team-leader and the attending psychiatrist formulate a treatment plan,Relevant
+This treatment plan formally ends the intake procedure,Relevant
+At the beginning the customer perceives that her subscribed service has degraded,Relevant
+A list with all the problem parameters is then sent to the Customer Service department of TELECO,Relevant
+At the customer service an employee enters,Relevant
+ based on the received data ,Irrelevant
+a problem report into system T,Relevant
+Then the problem report is compared to the customer SLA to identify what the extent and the details of the service degradation are,Relevant
+Based on this  the necessary counter measures are determined including their respective priorities,Relevant
+An electronic service then determines the significance of the customer based on information that has been collected during the history of the contractual relationship,Relevant
+In case the customer is premium  the process will link to an extra problem fix process,Relevant
+ this process will not be detailed here ,Irrelevant
+In case the customer is of certain significance which would affect the counter measures previously decided upon  the process goes back to re-prioritize these measures   otherwise the process continues,Relevant
+Taking together the information,Relevant
+ i.e. contract commitment data + prioritized actions ,Irrelevant
+a detailed problem report is created,Relevant
+The detailed problem report is then sent to Service Management,Relevant
+Service Management deals on a first level with violations of quality in services that are provided to customers,Relevant
+After receiving the detailed problem report  Service management investigates whether the problem is analyzable at the level of their department or whether the problem may be located at Resource Provisioning,Relevant
+In case Service Management assesses the problem to be not analyzable by themselves  the detailed problem report is sent out to Resource Provisioning,Relevant
+If Service Management is sure they can analyze it  they perform the analysis and based on the outcome they create a trouble report that indicates the type of problem,Relevant
+After Resource Provisioning receives the detailed problem report  it is checked whether there are any possible problems,Relevant
+If no problems are detected  a notification about the normal service execution is created,Relevant
+If a problem is detected this will be analyzed by Resource Provisioning and a trouble report is created,Relevant
+Either trouble report or the ‘normal execution’ notification will be included in a status report and sent back to Service Management,Relevant
+Service Management then prepares the final status report based on the received information,Relevant
+Subsequently it has to be determined what counter measures should be taken depending on the information in the final status report,Relevant
+Three alternative process paths may be taken,Irrelevant
+For the case that no problem was detected at all  the actual service performance is sent back to the Customer Service,Relevant
+For the case that minor corrective actions are required  Service Management will undertake corrective actions by themselves,Relevant
+Subsequently  the problem resolution report is created and then sent out to Customer Service,Relevant
+After sending  this process path of Service Management ends,Relevant
+For the case that automatic resource restoration from Resource Provisioning is required  Service Management must create a request for automatic resource restoration,Relevant
+This message is then sent to Resource Provisioning,Relevant
+Resource Provisioning has been on-hold and waiting for a restoration request   but this must happen within 2 days after the status report was sent out  otherwise Resource Provisioning terminates the process,Relevant
+After the restoration request is received  all possible errors are tracked,Relevant
+Based on the tracked errors  all necessary corrective actions are undertaken by Resource Provisioning,Relevant
+Then a trouble-shooting report is created,Relevant
+This report is sent out to Service Management  then the process ends,Relevant
+The trouble-shooting report is received by Service Management and this information goes then into the creation of the problem resolution report just as described for ii ,Relevant
+Customer Service either receives the actual service performance  if there was no problem  or the problem resolution report,Relevant
+Then  two concurrent activities are triggered  i.e.,Relevant
+i  a report is created for the customer which details the current service performance and the resolution of the problem ,Relevant
+and ii  an SLA violation rebate is reported to Billing & Collections who will adjust the billing,Relevant
+The report for the customer is sent out to her,Relevant
+After all three activities are completed the process ends within Customer Service,Relevant
+After the customer then receives the report about service performance and problem resolution from Customer Service  the process flow at the customer also ends,Relevant
+The process is initiated by a switch-over request,Relevant
+In doing so  the customer transmits his data to the customer service department of the company,Relevant
+Customer service is a shared service center between the departments Sales and Distribution,Irrelevant
+The customer data is received by customer service and based on this data a customer data object is entered into the CRM system,Relevant
+After customer data has been entered it should then be compared with the internal customer data base and checked for completeness and plausibility,Relevant
+In case of any errors these should be corrected on the basis of a simple error list,Relevant
+The comparison of data is done to prevent individual customer data being stored multiple times,Irrelevant
+In case the customer does not exist in the customer data base  a new customer object is being created which will remain the data object of interest during the rest of the process flow,Relevant
+This object consists of data elements such as the customer’s name and address and the assigned power gauge  including data such as bank connection  information on the selected rate  requested date of switch-over ,Irrelevant
+The generated customer object is then used  in combination with other customer data to prepare the contract documents for the power supplier switch,Relevant
+ including data such as bank connection  information on the selected rate  requested date of switch-over ,Irrelevant
+In the following an automated check of the contract documents is carried out within the CIS  customer information system  in order to confirm their successful generation,Relevant
+In case of a negative response ,Relevant
+i.e. the contract documents are not  or incorrectly  generated,Irrelevant
+  the causing issues are being analyzed and resolved,Relevant
+Subsequently the contract documents are generated once again,Relevant
+In case of a positive response a confirmation document is sent out to the customer stating that the switch-over to the new supplier can be executed,Relevant
+A request to the grid operator is automatically sent out by the CIS,Relevant
+It puts the question whether the customer may be supplied by the selected supplier in the future,Relevant
+The switch-over request is checked by the grid operator for supplier concurrence  and the grid operator transmits a response comment,Relevant
+In the case of supplier concurrence  the grid operator would inform all involved suppliers and demand the resolution of the conflict,Relevant
+The grid operator communicates with the old supplier and carries out the termination of the sales agreement between the customer and the old supplier,Relevant
+ i.e. the customer service  of the new  supplier  does not have to interact with the old supplier regarding termination ,Irrelevant
+If there are not any objections by the grid operator,Relevant
+ i.e. no supplier concurrence ,Irrelevant
+customer service creates a CIS contract,Relevant
+The customer then has the chance to check the contract details and based on this check may decide to either withdraw from the switch contract or confirm it,Relevant
+Depending on the customer’s acceptance/rejection the process flow at customer service either ends  in case of withdrawal  or continues  in case of a confirmation ,Relevant
+An additional constraint is that the customer can only withdraw from the offered contract within 7 days   after the 7th day the contract will be regarded as accepted and the process continues,Relevant
+The confirmation message by the customer is therefore not absolutely necessary  as it will count as accepted after 7 days in any way  but it can speed up the switch process,Irrelevant
+On the switch-date  but no later than 10 days after power supply has begun  the grid operator transmits the power meter data to the customer service and the old supplier via messages containing a services consumption report,Relevant
+At the same time  the grid operator computes the final billing based on the meter data and sends it to the old supplier,Relevant
+Likewise the old supplier creates and sends the final billing to the customer,Relevant
+For the customer as well as the grid operator the process ends then,Relevant
+After receiving the meter data customer service imports the meter data to systems that require the information,Relevant
+The process of winning  a new customer ends here,Relevant
+The first step is to determine contact details of potential customers,Relevant
+This can be achieved in several ways,Irrelevant
+Sometimes  we buy details for cold calls  sometimes  our marketing staff participates in exhibitions and sometimes  you just happen to know somebody  who is interested in the product,Relevant
+Then we start calling the customer,Relevant
+That is done by the call center staff,Relevant
+They are determining the contact person and the budget which would be available for the project,Relevant
+Of course  asking the customer whether he is generally interested is also important,Relevant
+If this is not the case  we leave him alone  except if the potential project budget is huge,Relevant
+Then the head of development personally tries to acquire the customer,Relevant
+If the customer is interested in the end  the next step is a detailed online presentation,Relevant
+It is given either by a sales representative or by a pre-sales employee in case of a more technical presentation,Irrelevant
+Afterwards we are waiting for the customer to come back to us,Relevant
+If we are not contacted within 2 weeks  a sales representative is calling the customer,Relevant
+The last phase is the creation of a quotation,Relevant
+The credit company receives the credit information from the customer  If the requested amount is greater than 1M$ an approval must be requested,Relevant
+If the requested amount is lower or equal to 1M$ the company assess the risk of the credit,Relevant
+After the assessment  if the risk is high  an approval must be requested  but if the risk is low the credit is accepted,Relevant
+After the approval request  the credit could be accepted or rejected  in both cases  an email is sent to the customer,Relevant
+The credit company collects the credit information from the customer  If the requested amount is greater than 1M$ an approval must be requested,Relevant
+If the requested amount is lower or equal to 1M$ the company assess the risk of the credit,Relevant
+After the assessment  if the risk is high  an approval must be requested  but if the risk is low the credit is accepted,Relevant
+After the approval request  the credit could be accepted or rejected  in both cases  an email is sent to the customer,Relevant
+The credit company collects the credit information from the customer  If the requested amount is lower or equal to 1M$ the company assess the risk of the credit,Relevant
+After the assessment  if the risk is low the credit is accepted,Relevant
+If the requested amount is greater than 1M$ or the risk of the credit is high  an approval must be requested,Relevant
+After the approval request  the credit could be accepted or rejected  in both cases  an email is sent to the customer,Relevant
+If a not collected bag is identified  CVS must check the number of resolution retries conducted,Relevant
+If the number of retries is greater than an specified number  the bag must be returned to the production area for disassemble  in all other cases  CVS must try to contact the customer by phone and remind to pick up the bag,Relevant
+If the contact is successful and the customer withdrawn the order  the bag must be returned to the production area for disassemble  but if it is successful and the customer promises to pick up the bag  CVS must increase the retry count on the bag label,Relevant
+Also  this number must be increased if the contact is unsuccessful,Relevant
+As soon as an employee files an expense report the process is started,Relevant
+The process starts by reviewing the order,Relevant
+The staff should check if all the requested items are available,Relevant
+If something is missing  the staff has to inform customer about a potential delay and order the missing products,Relevant
+In the exceptional case of a discontinued item  the customer should be informed about the not longer available items,Relevant
+After waiting an average of x days for the delivery  the staff should check again if all products are on store,Relevant
+If everything is OK  then the staff recollects all products and prepare a package,Relevant
+The courier is then informed about the pre-processed package,Relevant
+The courier company informs the client about a potential delay until there are enough human resources to process the delivery,Relevant
+Then  the package is picked up by the designed driver,Relevant
+A centralized service decides the best route to deliver all drivers packages,Relevant
+Once the driver delivers the package  she should update the system so all stakeholders are notified,Relevant
+The process starts with an informational meeting among the web design team,Relevant
+If this meeting is not successful  the process ends here,Relevant
+Otherwise  the team starts by creating a storyboard,Relevant
+After an agreement on the storyboard  part of the team starts working on the design and development of the website,Relevant
+Simultaneously  the team will start to prepare an initial draft of the content,Relevant
+In case a review of the draft is needed  the marketing team will conduct this  before the web design team creates the final version of the content,Relevant
+When the development and content have been completed  the website will be built and reviewed,Relevant
+If the site is approved  the process is completed  otherwise the team goes back to the building step,Relevant
+After management indicates that new clients are needed  the marketing team will perform a market analysis and prepare a portfolio presentation,Relevant
+When they have sent out offers to potential clients the marketing team informs management about the responses,Relevant
+Management then starts negotiations by sending out a detailed offer to the client,Relevant
+If the client accepts the offer  management will prepare a contract that will be signed,Relevant
+Otherwise  management analyzes the reason why their offer failed in order to improve in the future,Relevant
+An order to cash process starts when a customer order is received,Relevant
+After the order has been processed  it is send to the warehouse,Relevant
+The warehouse employees determine the parts required to produce the requested items,Relevant
+If any parts are not available in the warehouse  these are ordered,Relevant
+Once all necessary parts are available  production will start,Relevant
+After production  quality checks will be performed,Relevant
+If the production process has finished  products will be packaged and labeled  before returning to the warehouse,Relevant
+Finally  sales will be informed about the completed production and the product can be sold to the customer,Relevant
+A client who wants to create a Paypal account first needs to determine the desired account type,Relevant
+He should either select a personal account or a premium account,Relevant
+Afterwards  the client should enter login details,Relevant
+such as e-mail address and desired password  personal details  such as name and date of birth  as well as his telephone number and address,Irrelevant
+Finally  the client needs to declare if he has been affiliated with any politically exposed person,Relevant
+When the client clicks the create account button  the details will be sent to the Paypal system,Relevant
+When a request is received  the system will validate the input fields,Relevant
+If there are any invalid fields  the client will be notified and needs to correct them,Relevant
+Otherwise a welcome email will be generated and sent to indicate that an account has been created,Relevant
+The process starts when the IS is notified about a data validation error,Relevant
+The drop-off tech checks for typos,Relevant
+If this is not the case  the technician checks if the customer can correct the mistake,Relevant
+Otherwise  public sources are scoured for solutions,Relevant
+As soon as any check was passed  the issue is considered resolved,Relevant
+Once the Mail Centre office of SSP receives an invoice from the client  it categorizes the invoice by staff member,Relevant
+Then  the invoice is forwarded to the Administration Department  this Department processes the Invoice  a complex process  and then puts all the invoices into a collection box,Relevant
+At 10 am every workday  the Data Entry office takes the invoices and enters all data in the SAP system  another complex process,Relevant
+Every hour the Mail Centre office reviews the system and forwards all new invoices for validation  the Validation office executes the big process of validating invoices,Relevant
+At the beginning of every week  the Payment office executes the payment of every validate invoice  this is another big process,Relevant
+After the payment  all invoices are archived by the Registry office,Relevant
+The process starts when the SO: Angebot/Auftrag receives a subsidiary order,Relevant
+The SO: Angebot/Auftrag prepares goods for shipment and then ships the goods  concurrently with preparing the goods and shipping them  the SO: Angebot/Auftrag prepares invoicing,Relevant
+In case the customer is subsidiary and the subsidiary relationship is not yet modeled  SO: Address- management adds parent company as invoicing address  then the SO: Angebot/Auftrag create the invoice,Relevant
+Otherwise if the customer is independent or the subsidiary relationship is already modeled in ERP  the SO: Angebot/Auftrag directly creates the invoice,Relevant
+Finally  the SO: Angebot/Auftrag sends the invoice,Relevant
+In a certain company an Invoice process is started,Irrelevant
+First the Vendor is tried to be located into the SAP system of the company,Relevant
+If it is not possible to find it a sub-process to record this new Vendor is started,Relevant
+The request for this new Vendor Record starts with the filling of the new Vendor Master Record form,Relevant
+After this  the request is attached to the invoice and then putted in an internal outbox for new vendors,Relevant
+Before the request is finished it is classified in urgent and non-urgent invoices,Relevant
+Whenever the Invoice is urgent this Request has a maximum 24 hr window to be finished  while if it is non-urgent it has a 1-5 working days time to be done,Relevant
+If the Vendor is already in the system or the request for new Vendor Record has finished  its SAP number is then added to the invoice and the process continues,Relevant
+The invoices can be sorted in two ways: by amount and by vendor,Irrelevant
+The invoices are then entered in the SAP system and the process is finished,Relevant
+The process starts when the admin office in SSP receives the invoice  the admin office then sorts the invoice per client  sorts the invoice per vendor  attaches invoice entry form to invoice  enters required info on the invoice entry form  and checks the completeness of the invoice after the client has completed the invoice,Relevant
+If the invoice is not completed a message is sent and the process finishes,Relevant
+Otherwise  if the invoice is complete  the admin office enters the info for the SLA and checks the priority,Relevant
+If the invoice has high priority  the admin office applies the red stamp on entry invoice,Relevant
+Afterwards  the admin office checks the invoice compliance,Relevant
+If the invoice is complete the admin office allocates invoice to DEO,Relevant
+Otherwise  if the invoice is not complete  the admin office can either send it to experience staff who should process the non-compliance invoice  call the client and request for information  or send a postal mail requesting the information complete  in this case a reminder is sent to the client after 10 hours,Relevant
+Finally  when the missing information are obtained the admin office can allocate invoice to DEO,Relevant
+The process starts with the business analyst collecting data and conducting business analysis regarding customer feedback  then the web designer integrates the design and decides where the customer feedback module should be placed,Relevant
+The business analyst waits until the design is complete  then she checks the design and provides feedback,Relevant
+If the design needs adjustment the web designer has to change the design and integrates the design and decides where the customer feedback module should be placed  again,Relevant
+If the design is OK,Relevant
+The PHP/HTML/CSS specialist integrates with the overall implementation  and then the tester tests the final website to make sure everything is going well,Relevant
+If the test is OK  the process ends  otherwise if the test is not ok the tester provides test results to the PHP/HTML/CSS specialist who adjusts according to the test results  and integrates the overall implementation  again,Relevant
+In the process of adding a credit card for an internet purchase after choosing to pay with credit card the user has to put his credit card details  after that the billing address is checked,Relevant
+If it is incorrect the process goes back to the user so that it can be modified  if it is correct the process continues,Relevant
+Afterwards the user needs to click in the continue button to move forward,Relevant
+The Credit Card is then verified by the Credit Card Authority,Relevant
+The result is then checked and if it is validated the credit card is added  if not the addition is cancelled,Relevant
+The process starts with a visitor filling out a registration-form,Relevant
+The availability of products and the credit rating is checked first,Relevant
+If the credit rating is higher than 9000  according to Schufa  the registration is called unsuccessful,Relevant
+If not the interim customer dataset record is created,Relevant
+After this two sub-processes starts in parallel: Device provision and Register customer account at ISP nodes,Relevant
+Once these sub-processes are finished a welcome package is created and sent to the customer to alert them that the registration process was completed successfully,Relevant
+A PayPal client wants to pay with bank account and has selected this as payment option,Relevant
+For bank account addition  first  the PayPal client needs to enter all relevant bank details ,Relevant
+i.e. first name  bank name  account type  BSB and account number ,Irrelevant
+and click continue,Relevant
+This submits the bank details to the PayPal system,Relevant
+After the bank details are submitted to the PayPal system  it makes two random deposits in the bank account,Relevant
+The PayPal system sends a message with this information to the client bank account,Relevant
+By this  the two deposits to the bank account are made,Relevant
+Then  after 3-5 working days it notifies the PayPal client to check his bank account for received deposits,Relevant
+The client may now log into his PayPal account  enter the amounts from the two deposits and click verify,Relevant
+The PayPal system then checks its values against the values entered by the client,Relevant
+If the values match  the bank account is linked to the clients PayPal account and is considered as confirmed,Relevant
+If the values do not match  the bank account is removed from the PayPal system  i.e. it could not be confirmed,Relevant
+In the process of reward and training  first  the management checks the employee performance,Relevant
+If the performance is less than 20   the management suggests the employee’s dismissal to the human resources department  HR ,Relevant
+Then  the HR dismisses the employee,Relevant
+If the employee performance is greater than 20  but less than 50   the management will suggest training  which in turn is provided by HR,Relevant
+If the performance exceeds 75   the management suggests the employee for reward,Relevant
+There may be either a financial reward or an other benefit,Relevant
+Regarding the latter  the management chooses an appropriate benefit,Relevant
+The financial reward is calculated and payed by the finance departement,Relevant
+Finally  the management announces the rewarded employee as employee of the month,Relevant
+This process describes how purchases work at the ACME Inc company,Irrelevant
+A purchase is initiated by a demand identified within a department,Relevant
+If there are enough goods in stock to satisfy this demand  then they are consumed locally and no further action is required,Relevant
+Otherwise  the department defines which type of goods are needed and the necessary amounts and a purchase requisition is created in the ERP system,Relevant
+This purchase requisition is processed by the Central procurement department,Relevant
+First  the purchase requisition is checked on the ERP system to see whether the supplier information is available,Relevant
+If this is a new supplier  first it has to be created within the ERP system,Relevant
+Once it is created  or it if was already a known supplier   the purchase requisition is used to create an order template in the ERP system,Relevant
+The final step in the process is the approval of this order  which is granted by another role  called approver,Irrelevant
+After receiving the new order template from the ERP system  he approves and triggers the purchase order,Relevant
+In ACME Inc  the process of purchase order-to-delivery is started by the financial department,Relevant
+They check the purchase invoice and then sends it to the department,Relevant
+The department checks the invoice for factual correctness and registers this in the SAPERION workflow system,Relevant
+After this  a check is performed to see if the amount purchased is over $500 or under $500,Relevant
+If it is over $500 the invoice is sent to the department head who then uses the SAPERION workflow to approve the invoice,Relevant
+Once this has been done  or if the amount of the order is under $500 the ERP system is triggered for payment and the process ends,Relevant
+The account creation process at this bank proceeds as follows,Irrelevant
+The first steps in the process are performed by the bank customer,Irrelevant
+After visiting the bank website  she fills in her personal data and generates a PDF document with all the information relevant to this account request,Relevant
+After printing this PDF  the customer needs to visit a post office to send these documents,Relevant
+The post officer will check the identity of the customer and mail the account to the bank,Relevant
+At the bank  the person in charge of making a decision on account requests is the bank officer,Relevant
+Once he receives a new request  hell check the customer data,Relevant
+Depending on the available information and his own criteria  he may either accept or reject the request,Relevant
+In the former case  he will mail the account documents to the customer,Relevant
+In the latter  he will mail a letter of refusal,Relevant
+A small company manufactures customized bicycles,Irrelevant
+Whenever the sales department receives an order  a new process instance is created,Relevant
+A member of the sales department can then reject or accept the order for a customized bike,Relevant
+In the former case  the process instance is finished,Relevant
+In the latter case  the storehouse and the engineering department are informed,Relevant
+The storehouse immediately processes the part list of the order and checks the required quantity of each part,Relevant
+If the part is available in-house  it is reserved,Relevant
+If it is not available  it is back-ordered,Relevant
+This procedure is repeated for each item on the part list,Relevant
+In the meantime  the engineering department prepares everything for the assembling of the ordered bicycle,Relevant
+If the storehouse has successfully reserved or back-ordered every item of the part list and the preparation activity has finished  the engineering department assembles the bicycle,Relevant
+Afterwards  the sales department ships the bicycle to the customer and finishes the process instance,Relevant
+The Police Report related to the car accident is searched within the Police Report database and put in a file together with the Claim Documentation,Relevant
+This file serves as input to a claims handler who calculates an initial claim estimate,Relevant
+Then  the claims handler creates an Action Plan based on an Action Plan Checklist available in the Document Management system,Relevant
+Based on the Action Plan  a claims manager tries to negotiate a settlement on the claim estimate,Relevant
+The claimant is informed of the outcome  which ends the process,Relevant
+If goods shall be shipped  the secretary clarifies who will do the shipping,Relevant
+If you have large amounts  special shipping will be necessary,Relevant
+In these cases the secretary invites three logistic companies to make offers and she selects one of them,Relevant
+In case of small amounts  normal post shipment is used,Relevant
+Therefore a package label is written by the secretary and a parcel insurance taken by the logistics department head if necessary,Relevant
+In the meantime the goods can be already packaged by the warehousemen,Relevant
+If everything is ready  the packaged goods are prepared for being picked up by the logistic company,Relevant
+The examination process can be summarised as follows,Irrelevant
+The process starts when the female patient is examined by an outpatient physician  who decides whether she is healthy or needs to undertake an additional examination,Relevant
+In the former case  the physician fills out the examination form and the patient can leave,Relevant
+In the latter case  an examination and follow-up treatment order is placed by the physician who additionally fills out a request form,Relevant
+Beyond information about the patient  the request form includes details about the examination requested and refers to a suitable lab,Irrelevant
+Furthermore  the outpatient physician informs the patient about potential risks,Relevant
+If the patient signs an informed consent and agrees to continue with the procedure  a delegate of the physician arranges an appointment of the patient with one of the wards,Relevant
+The latter is then responsible for taking a sample to be analysed in the lab later,Relevant
+Before the appointment  the required examination and sampling is prepared by a nurse of the ward based on the information provided by the outpatient section,Relevant
+Then  a ward physician takes the sample requested,Relevant
+He further sends it to the lab indicated in the request form and conducts the follow-up treatment of the patient,Relevant
+After receiving the sample  a physician of the lab validates its state and decides whether the sample can be used for analysis or whether it is contaminated and a new sample is required,Relevant
+After the analysis is performed by a medical technical assistant of the lab  a lab physician validates the results,Relevant
+Finally  a physician from the outpatient department makes the diagnosis and prescribes the therapy for the patient,Relevant
+The Evanstonian is an upscale independent hotel,Irrelevant
+When a guest calls room service at The Evanstonian  the room-service manager takes down the order,Relevant
+She then submits an order ticket to the kitchen to begin preparing the food,Relevant
+She also gives an order to the sommelier,Relevant
+ i.e.   the wine waiter ,Irrelevant
+to fetch wine from the cellar and to prepare any other alcoholic beverages,Relevant
+Eighty percent of room-service orders include wine or some other alcoholic beverage,Irrelevant
+Finally  she assigns the order to the waiter,Relevant
+While the kitchen and the sommelier are doing their tasks  the waiter readies a cart,Relevant
+ i.e.  puts a tablecloth on the cart and gathers silverware ,Relevant
+The waiter is also responsible for nonalcoholic drinks,Relevant
+Once the food  wine  and cart are ready  the waiter delivers it to the guest’s room,Relevant
+After returning to the room-service station  the waiter debits the guest’s account,Relevant
+The waiter may wait to do the billing if he has another order to prepare or deliver,Relevant
+A customer brings in a defective computer and the CRS checks the defect and hands out a repair cost calculation back,Relevant
+If the customer decides that the costs are acceptable  the process continues  otherwise she takes her computer home unrepaired,Relevant
+The ongoing repair consists of two activities  which are executed  in an arbitrary order,Irrelevant
+The first activity is to check and repair the hardware  whereas the second activity checks and configures the software,Relevant
+After each of these activities  the proper system functionality is tested,Relevant
+If an error is detected another arbitrary repair activity is executed  otherwise the repair is finished,Relevant
+The party sends a warrant possession request asking a warrant to be released,Relevant
+The Client Service Back Office as part of the Small Claims Registry Operations receives the request and retrieves the SCTT file,Relevant
+Then  the SCT Warrant Possession is forwarded to Queensland Police,Relevant
+The SCTT physical file is stored by the Back Office awaiting a report to be sent by the Police,Relevant
+When the report is received  the respective SCT file is retrieved,Relevant
+Then  Back Office attaches the new SCT document  and stores the expanded SCT physical file,Relevant
+After that  some other MC internal staff receives the physical SCT file  out of scope ,Relevant
+Each morning  the files which have yet to be processed need to be checked  to make sure they are in order for the court hearing that day,Relevant
+If some files are missing  a search is initiated  otherwise the files can be physically tracked to the intended location,Relevant
+Once all the files are ready  these are handed to the Associate  and meantime the Judges Lawlist is distributed to the relevant people,Relevant
+Afterwards  the directions hearings are conducted,Relevant
+After a claim is registered  it is examined by a claims officer,Relevant
+The claims officer then writes a settlement recommendation,Relevant
+This recommendation is then checked by a senior claims officer who may mark the claim as OK or Not OK,Relevant
+If the claim is marked as Not OK  it is sent back to the claims officer and the recommendation is repeated,Relevant
+If the claim is OK  the claim handling process proceeds,Relevant
+In the context of a claim handling process  it is sometimes necessary to send a questionnaire to the claimant to gather additional information,Irrelevant
+The claimant is expected to return the questionnaire within five days,Relevant
+If no response is received after five days  a reminder is sent to the claimant,Relevant
+If after another five days there is still no response  another reminder is sent and so on until the completed questionnaire is received,Relevant
+Mail from the party is collected on a daily basis by the Mail Processing Unit,Irrelevant
+Within this unit  the Mail Clerk sorts the unopened mail into the various business areas,Relevant
+The mail is then distributed,Relevant
+When the mail is received by the Registry  it is opened and sorted into groups for distribution  and thus registered in a manual incoming Mail Register,Relevant
+Afterwards  the Assistant Registry Manager within the Registry performs a quality check,Relevant
+If the mail is not compliant  a list of requisition explaining the reason for rejection is compiled and sent back to the party,Relevant
+Otherwise  the matter details  types of action  are captured and provided to the Cashier  who takes the applicable fees attached to the mail,Relevant
+At this point  the Assistant Registry Manager puts the receipt and copied documents into an envelope and posts it to the party,Relevant
+Meantime  the Cashier captures the Party Details and prints the Physical Court File,Relevant
+The process starts when a client cannot find a product at a local shop of HomeDeco,Relevant
+Client requests to a clerk if the product is available at the local warehouse,Relevant
+The clerk checks the availability of the product with the ERP system of HomeDeco,Relevant
+If the product is available at the local warehouse  the clerk makes a request to a warehouse manager to deliver the product to client at clerk’s desk directly,Relevant
+If the product is not available  the clerk asks client if he would like to order that product or not,Relevant
+The product is normally delivered within 5 days at the local shop,Relevant
+If client refuses the request  the process ends,Relevant
+Otherwise  the clerk makes an order for him,Relevant
+To make an order  a client must exist in the ERP system of HomeDeco,Irrelevant
+When the clerk finishes the order  he prints the order and invoice for client so that he can use for picking up the product when it is delivered and paying at checkout respectively,Relevant
+In addition  HomeDeco allows payment online also,Irrelevant
+If the payment is not received within two days  the order is cancelled and a notification message is sent to client,Relevant
+When the payment is received  the order is sent to the central warehouse and a message is sent to inform client that the product will be delivered within 5 days,Relevant
+When the product is delivered at the local shop  an sms is sent to inform client the availability of the product at the local shop and he can pick up the product at any time  and the process is terminated,Relevant
+If the product is not delivered within 5 days  a notification is sent to client by asking him if he either maintains or cancels the order,Relevant
+If client wishes to cancel the order  HomeDeco reimburses client directly to his bank account and the process ends,Relevant
+Otherwise  a coupon of 20  of reduction for next purchase is offered to client and it is sent by email,Relevant
+If the product is not delivered within 10 days  the order is definitely cancelled  HomeDeco reimburses directly to client’s bank account and notifies client about the cancelation,Relevant
+The process starts when a Travel Agency received a flight reservation request from a client by email or phone,Relevant
+Travel Agency searches and evaluates flights based on client’s travel preferences,Relevant
+ travel dates  airport ,Irrelevant
+Then  Travel Agency sends the most interesting flights to client,Relevant
+ including itinerary  price ,Irrelevant
+and waits for the answer,Relevant
+After 24 hours  if the answer is not received  a reminder is sent and client has another 24 hours to answer,Relevant
+If no answer is received  the request is cancelled and Travel Agency notifies client,Relevant
+Client can provide three possible responses,Irrelevant
+Client rejects all the proposed flights or accepts one of the proposed flights  or changes travel preferences,Relevant
+For the latter  the process restarts  it is considered as a new request,Relevant
+In case of a flight is chosen  Travel Agency requests client’s personal information such as first name  last name  date of birth  number of passport ,Relevant
+so that Travel Agency can make a booking with airline company and it is valid for 7 days,Relevant
+If there is no answer from client regarding the personal information within 48 hours  the request is cancelled and Travel Agency notifies client,Relevant
+After the booking is done  Travel Agency sends flight information and a link to proceed the payment online to client,Relevant
+One day before the expiration date  Travel Agency sends a reminder to client if payment is not received,Relevant
+When the payment is received  Travail Agency completes the booking with airline company and notifies client by sending an e-Ticket,Relevant
+If no payment is received within 7 days  the booking is cancelled with notification to client,Relevant
+When a claim is received  it is first checked whether the claimant is insured by the organization,Relevant
+If not  the claimant is informed that the claim must be rejected,Relevant
+Otherwise  the severity of the claim is evaluated,Relevant
+Based on the outcome  simple or complex claims   relevant forms are sent to the claimant,Relevant
+Once the forms are returned  they are checked for completeness,Relevant
+If the forms provide all relevant details  the claim is registered in the Claims Management system  which ends the Claims Notification process,Relevant
+Otherwise  the claimant is informed to update the forms,Relevant
+Upon reception of the updated forms  they are checked again,Relevant
+The loan approval process starts by receiving a customer request for a loan amount,Relevant
+The risk assessment Web service is invoked to assess the request,Relevant
+If the loan is small and the customer is low risk  the loan is approved,Relevant
+If the customer is high risk  the loan is denied,Relevant
+If the customer needs further review or the loan amount is for $10 000 or more  the request is sent to the approver Web service,Relevant
+The customer receives feedback from the assessor or approver,Relevant
+The process of Vacations Request starts when any employee of the organization submits a vacation request,Relevant
+Once the requirement is registered  the request is received by the immediate supervisor of the employee requesting the vacation,Relevant
+The supervisor must approve or reject the request,Relevant
+If the request is rejected  the application is returned to the applicant/employee who can review the rejection reasons,Relevant
+If the request is approved a notification is generated to the Human Resources Representative  who must complete the respective management procedures,Relevant
+The process of an Office Supply Request starts when any employee of the organization submits an office supply request,Relevant
+Once the requirement is registered  the request is received by the immediate supervisor of the employee requesting the office supplies,Relevant
+The supervisor must approve or ask for a change  or reject the request,Relevant
+If the request is rejected the process will end,Relevant
+If the request is asked to make a change then it is returned to the petitioner/employee who can review the comments for the change request,Relevant
+If the request is approved it will go to the purchase department that will be in charge of making quotations  using a subprocess  and select a vendor,Relevant
+If the vendor is not valid in the system the purchase department will have to choose a different vendor,Relevant
+After a vendor is selected and confirmed  the system will generate and send a purchase order and wait for the product to be delivered and the invoice received,Relevant
+In any case the system will send a notification to let the user know what the result was,Relevant
+In any of the cases  approval  rejection or change required the system will send the user a notification,Relevant
+If an insurant could be possibly subrogated against  I get information about that,Relevant
+I check that case and if the possibility is really there  I send a request for payment to the insurant and make me a reminder,Relevant
+If recourse is not possible  I close the case,Relevant
+When we receive the money  I make a booking and close the case,Relevant
+If the insurant disagrees with the recourse  I’ll have to check the reasoning of that,Relevant
+If he is right  I simply close the case,Relevant
+If he is wrong  I forward the case to a collection agency,Relevant
+If the deadline for disagreement is reached and we haven’t received any money  I forward the case to the collection agency as well,Relevant
+A guest enters the restaurant when feeling hungry,Relevant
+He chooses a dish from the changing meal range and waits until it is his turn,Relevant
+Following this he places his order with the employee,Relevant
+The employee enters the order into the POS system and collects the money from the guest,Relevant
+After the payment  the employee sets up a buzzer and passes it on to the guest with the following information: When the buzzer rings  your dinner is ready,Relevant
+Afterwards the employee informs the chef of the new meal order,Relevant
+The chef prepares the meal and places it in the service hatch,Relevant
+He then informs the employee that he has placed the finished meal in the service hatch,Relevant
+As soon as the employee is aware that the meal is ready he sets off the guest’s buzzer,Relevant
+This is how the guest finds out that his meal is ready for collection,Relevant
+He can pick up his meal and eat it,Relevant
+As soon as the guest appears at the service hatch  the employee hands over his meal,Relevant
+Should a guest not react to the buzzer  the employee calls for him after 5 minutes  if necessary several times in a row,Relevant
+henever a company makes the decision to go public  its first task is to select the underwriters,Relevant
+Underwriters act as financial midwives to a new issue,Irrelevant
+Usually they play a triple role: First they provide the company with procedural and financial advice  then they buy the issue  and finally they resell it to the public,Irrelevant
+Established underwriters are careful of their reputation and will not handle a new issue unless they believe the facts have been presented fairly,Irrelevant
+Thus  in addition to handling the sale of a company’s issue  the underwriters in effect give their seal of approval to it,Relevant
+They prepare a registration statement for the approval of the Securities and Exchange Commission  SEC ,Relevant
+In addition to registering the issue with the SEC  they need to check that the issue complies with the so-called blue-sky laws of each state that regulate sales of securities within the state,Relevant
+While the registration statement is awaiting approval  underwriters begin to firm up the issue price,Relevant
+They arrange a road show to talk to potential investors,Relevant
+Immediately after they receive clearance from the SEC  underwriters fix the issue price,Relevant
+After that they enter into a firm commitment to buy the stock and then offer it to the public  when they haven’t still found any reason not to do it,Relevant
+When a visitor wants to become a member of Barcelonas ZooClub  the following steps must be taken,Irrelevant
+First of all  the customer must decide whether he wants an individual or family membership,Relevant
+If he wants an individual membership  he must prepare his personal information,Relevant
+If he wants a family membership instead  he should prepare the information for its spouse and spawn as well,Relevant
+The customer must then give this information to the ZooClub department,Relevant
+The ZooClub department introduces the visitors personal data into the system and takes the payment request to the Billing department,Relevant
+The ZooClub department also forwards the visitors information to the marketing department,Relevant
+The billing department sends the payment request to the bank,Relevant
+The bank processes the payment information and  if everything is correct  charges the payment into users account,Relevant
+Once the payment is confirmed  the ZooClub department can print the card and deliver it to the visitor,Relevant
+In the meantime  the Marketing department makes a request to mail the Zoo Clubs magazine to the visitors home,Relevant
+Once the visitor receives the card  he can go home,Relevant
